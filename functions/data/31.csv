@@ -1,16 +1,16 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 310000,00-99,SHOWA SHELL,JP,jcb,credit
-310001,00-99,,JP,jcb,debit
-310002,00-99,,JP,jcb,debit
-310003,00-99,,JP,jcb,debit
-310004,00-99,,JP,jcb,debit
-310005,00-99,,JP,jcb,debit
-310006,00-99,,JP,jcb,debit
-310007,00-99,,JP,jcb,debit
-310008,00-99,,JP,jcb,debit
-310009,00-99,,JP,jcb,debit
+310001,00-99,Jcb Co Ltd,JP,jcb,credit
+310002,00-99,Jcb Co Ltd,JP,jcb,credit
+310003,00-99,Jcb Co Ltd,JP,jcb,credit
+310004,00-99,Jcb Co Ltd,JP,jcb,credit
+310005,00-99,Jcb Co Ltd,JP,jcb,credit
+310006,00-99,Jcb Co Ltd,JP,jcb,credit
+310007,00-99,Jcb Co Ltd,JP,jcb,credit
+310008,00-99,Jcb Co Ltd,JP,jcb,credit
+310009,00-99,Jcb Co Ltd,JP,jcb,credit
 310010,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,jcb,debit
-310011,00-99,,JP,jcb,debit
+310011,00-99,Jcb Co Ltd,JP,jcb,credit
 310012,00-99,,JP,jcb,debit
 310013,00-99,,JP,jcb,debit
 310014,00-99,,JP,jcb,debit
