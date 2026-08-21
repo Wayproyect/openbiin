@@ -90,7 +90,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520089,00-99,RIYAD BANK,SA,mastercard,credit
 520090,00-99,RIYAD,SA,mastercard,credit
 520091,00-99,BARCLAYS BANK DELAWARE,US,mastercard,credit
-520092,00-99,,RU,mastercard,credit
+520092,00-99,Sberbank,RU,mastercard,credit
 520093,00-99,BANK DOM.RF,RU,mastercard,credit
 520094,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520095,00-99,ALLIANCE,MY,mastercard,debit
@@ -100,14 +100,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520099,00-99,CHINA CITIC BANK CORPORATION LTD.,CN,mastercard,credit
 520100,00-99,BANCO OLE BONSUCESSO CONSIGNADO SA,BR,mastercard,credit
 520101,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
-520102,00-99,,US,mastercard,credit
+520102,00-99,Citibank,US,mastercard,credit
 520103,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520104,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520105,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520106,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520107,00-99,CSCBANK SAL,LB,mastercard,credit
 520108,00-99,CHINA CITIC BANK CORPORATION LTD.,CN,mastercard,credit
-520109,00-99,,ES,mastercard,credit
+520109,00-99,Banco Santander,ES,mastercard,credit
 520110,00-99,ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA,SV,mastercard,credit
 520111,00-99,PT. BANK NEGARA INDONESIA (PERSERO) TBK.,ID,mastercard,debit
 520112,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
@@ -164,8 +164,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520164,00-99,BANCO BRADESCARD S.A.,BR,mastercard,credit
 520165,00-99,BANKISLAMI PAKISTAN LTD.,PK,mastercard,debit
 520166,00-99,EMBERS CREDIT UNION,US,mastercard,debit
-520167,00-99,,US,mastercard,credit
-520168,00-99,,US,mastercard,credit
+520167,00-99,Citibank,US,mastercard,credit
+520168,00-99,Citibank,US,mastercard,credit
 520169,00-99,BANK OF COMMUNICATIONS CO. LTD,CN,mastercard,credit
 520170,00-99,BANK ISLAM MALAYSIA BERHAD,MY,mastercard,credit
 520171,00-99,LENDINGCLUB BANK NATIONAL ASSOCIATION,US,mastercard,credit
@@ -204,7 +204,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520204,00-99,COLLABRIA FINANCIAL SERVICES,CA,mastercard,credit
 520205,00-99,ASTERA CREDIT UNION,US,mastercard,credit
 520206,00-99,NATIONAL CREDIT AND COMMERCE BANK LTD.,BD,mastercard,credit
-520207,00-99,,PE,mastercard,credit
+520207,00-99,Banco De Credito Del Peru,PE,mastercard,credit
 520208,00-99,CHINA CITIC BANK,CN,mastercard,credit
 520209,00-99,SHAZAM INC.,US,mastercard,debit
 520210,00-99,UNION BANK OF INDIA,IN,mastercard,credit
@@ -304,7 +304,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520304,00-99,PIRAEUS BANK S.A.,GR,mastercard,credit
 520305,00-99,NETWORK INTERNATIONAL LLC,EG,mastercard,credit
 520306,00-99,JOINT STOCK COMPANY COMMERCIAL BANK CITIBANK,RU,mastercard,credit
-520307,00-99,,IT,mastercard,credit
+520307,00-99,UniCredit Bank,IT,mastercard,credit
 520308,00-99,EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD,RS,mastercard,credit
 520309,00-99,DEUTSCHER SPARKASSEN- UND GIROVERBAND,DE,mastercard,credit
 520310,00-99,EXPRESSBANK AD,BG,mastercard,credit
@@ -328,7 +328,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520328,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,debit
 520329,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L.(COOPENAE RL),CR,mastercard,credit
 520330,00-99,FINDOMESTIC BANCA SPA,IT,mastercard,credit
-520331,00-99,,AU,mastercard,credit
+520331,00-99,Commonwealth Bank Of Australia,AU,mastercard,credit
 520333,00-99,GOVERNOR AND COMPANY OF THE BANK OF IRELAND,IE,mastercard,credit
 520334,00-99,BANK OF SCOTLAND PLC,GB,mastercard,credit
 520335,00-99,UBS SWITZERLAND AG,CH,mastercard,credit
@@ -353,7 +353,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520354,00-99,BANCO DE BOGOTA S.A.,CO,mastercard,credit
 520355,00-99,MYANMA APEX BANK LTD.,MM,mastercard,credit
 520356,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
-520357,00-99,,RS,mastercard,credit
+520357,00-99,Banca Intesa,RS,mastercard,credit
 520358,00-99,PT. BANK CENTRAL ASIA TBK.,ID,mastercard,credit
 520359,00-99,BANCO DIGIO S.A,BR,mastercard,credit
 520360,00-99,BANCO DIGIO S.A,BR,mastercard,credit
@@ -366,7 +366,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520367,00-99,PEOPLE'S CREDIT UNION,US,mastercard,credit
 520368,00-99,BOKIS,DK,mastercard,credit
 520369,00-99,SANTANDER BANK NA,US,mastercard,credit
-520370,00-99,,ID,mastercard,credit
+520370,00-99,Bank Negara Indonesia,ID,mastercard,credit
 520371,00-99,PT. BANK PERMATA,ID,mastercard,credit
 520372,00-99,JACK HENRY & ASSOCIATES,US,mastercard,credit
 520373,00-99,PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK,RU,mastercard,credit
