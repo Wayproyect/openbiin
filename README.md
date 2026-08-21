@@ -74,6 +74,7 @@ If you query an 8-digit BIN, the API precisely filters the sub-ranges and return
 ```json
 {
   "bin": "45710042",
+  "requested_bin": "45710042",
   "results": [
     {
       "bin": "457100",
@@ -81,6 +82,7 @@ If you query an 8-digit BIN, the API precisely filters the sub-ranges and return
       "issuer": "Nordea",
       "country": "DK",
       "brand": "visa",
+      "requested_bin": "45710042",
       "type": "debit"
     }
   ]
