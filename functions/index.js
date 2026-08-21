@@ -9,7 +9,7 @@ const memoryCache = {};
 
 function matchesRange(rangeStr, numStr) {
   if (!rangeStr) return true;
-  
+
   const num = parseInt(numStr, 10);
   if (isNaN(num)) return false;
 
@@ -29,7 +29,7 @@ function matchesRange(rangeStr, numStr) {
 }
 
 exports.api_handler = onRequest(async (req, res) => {
-  res.set("Cache-Control", "public, max-age=2592000, s-maxage=2592000");
+  res.set("Cache-Control", "public, max-age=86400, s-maxage=2592000");
 
   if (req.method !== "GET") {
     res.status(405).json({ error: "Method Not Allowed" });
@@ -50,7 +50,7 @@ exports.api_handler = onRequest(async (req, res) => {
   try {
     if (!memoryCache[prefix]) {
       const filePath = path.join(__dirname, "data", `${prefix}.csv`);
-      
+
       if (!fs.existsSync(filePath)) {
         res.status(404).json({ error: "BIN not found", bin: requestedBin });
         return;
@@ -58,13 +58,13 @@ exports.api_handler = onRequest(async (req, res) => {
 
       const content = fs.readFileSync(filePath, "utf8");
       const lines = content.trim().split("\n");
-      
+
       const prefixData = {};
-      
+
       for (let i = 1; i < lines.length; i++) {
         const line = lines[i];
         if (!line) continue;
-        
+
         let cols = [];
         let inQuotes = false;
         let curr = "";
@@ -79,13 +79,13 @@ exports.api_handler = onRequest(async (req, res) => {
           }
         }
         cols.push(curr);
-        
+
         const [c_bin6, ranges, issuer, country, brand, type] = cols;
-        
+
         if (!prefixData[c_bin6]) {
           prefixData[c_bin6] = [];
         }
-        
+
         prefixData[c_bin6].push({
           bin: c_bin6,
           ranges: ranges || "",
@@ -95,7 +95,7 @@ exports.api_handler = onRequest(async (req, res) => {
           type: type || ""
         });
       }
-      
+
       memoryCache[prefix] = prefixData;
     }
 
@@ -110,7 +110,7 @@ exports.api_handler = onRequest(async (req, res) => {
     if (requestedBin.length >= 8) {
       const rangeDigits = requestedBin.substring(6, 8);
       const exactMatches = dataArray.filter(d => d.ranges && matchesRange(d.ranges, rangeDigits));
-      
+
       if (exactMatches.length > 0) {
         results = exactMatches;
       } else {

@@ -6,7 +6,29 @@ on:
   workflow_dispatch:
 
 jobs:
+  check-date:
+    name: Check if First Tuesday
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.date.outputs.should_run }}
+    steps:
+      - id: date
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            day=$(date +%d)
+            # Since cron runs every Tuesday, checking if day is <= 7 guarantees it's the FIRST Tuesday
+            if [ $day -le 7 ]; then
+              echo "should_run=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "should_run=false" >> "$GITHUB_OUTPUT"
+            fi
+          fi
+
   build_and_deploy:
+    needs: check-date
+    if: needs.check-date.outputs.should_run == 'true'
     name: Build & Deploy
     runs-on: ubuntu-latest
 

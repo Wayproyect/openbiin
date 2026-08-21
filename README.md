@@ -103,3 +103,8 @@ We welcome contributions to keep the database up to date! To maintain consistenc
    - If they use multiple ranges, separate them with a pipe `|` (e.g., `00-19|50-99`).
 4. **No commas in data:** Never use commas inside any of the columns. If an `Issuer` name contains a comma, either remove it or encapsulate the entire string in quotes.
 5. **Language:** All pull requests and documentation must be in English.
+
+### Continuous Deployment (CI/CD)
+
+- **Auto-Merge:** Valid Pull Requests are automatically merged when checks pass, using GitHub's native auto-merge feature.
+- **Monthly Releases:** Every **first Tuesday of the month** at 15:00 UTC, a GitHub Action automatically compiles the API and Frontend, and deploys the latest version (including all newly merged BINs) to the production Firebase environment.
