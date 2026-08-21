@@ -46,3 +46,9 @@ jobs:
           branch: "gemini-auto-audit"
           labels: "automerge"
           delete-branch: true
+
+      - name: Auto-Merge Pull Request
+        if: steps.cpr.outputs.pull-request-number
+        run: gh pr merge --merge --admin "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
