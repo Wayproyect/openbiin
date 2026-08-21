@@ -1,0 +1,46 @@
+name: Gemini Autonomous Audit
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  audit-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Gemini Audit Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/gemini_audit.js
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore(data): automated bin data audit by Gemini"
+          title: "🤖 Auto-Audit: Gemini Data Corrections"
+          body: |
+            This PR contains automated data corrections made by Gemini 3.1 Flash-Lite.
+            
+            The agent found missing, outdated, or incorrect BIN information and updated the CSV data according to the strict repository schema.
+            
+            _Note: If this PR passes all checks, it will be automatically merged by the Auto-Merge workflow._
+          branch: "gemini-auto-audit"
+          labels: "automerge"
+          delete-branch: true
