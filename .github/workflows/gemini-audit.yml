@@ -29,10 +29,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/gemini_audit.js
 
-      - name: Create Pull Request
+      - name: Create Pull Request for audited data
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: functions/data/*.csv
           commit-message: "chore(data): automated bin data audit by Gemini"
           title: "🤖 Auto-Audit: Gemini Data Corrections"
           body: |
