@@ -1,8 +1,8 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-900000,00-99,,CN,local,debit
+900000,00-99,Unionpay,CN,unionpay,debit
 900001,00-99,BC CARD,KR,private label,debit
 900002,00-99,AKTIF YATIRIM BANKASI,TR,troy,credit
-900003,00-99,,CN,local,debit
+900003,00-99,Unionpay,CN,unionpay,debit
 900004,00-99,BANCO COOPERATIVO ESPANOL S.A.,ES,private label,debit
 900005,00-99,BANCO DE CREDITO COOPERATIVO (GRUPO CAJAMAR),ES,private label,debit
 900006,00-99,BANCO COOPERATIVO ESPANOL S.A. (BANTIERRA),ES,private label,debit
@@ -13,7 +13,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 900011,00-99,BANCO COOPERATIVO ESPANOL S.A.,ES,private label,debit
 900012,00-99,BANCO COOPERATIVO ESPANOL S.A.,ES,private label,debit
 900013,00-99,BBVA,ES,private label,debit
-900014,00-99,,US,private label,debit
+900014,00-99,Unknown,US,private label,debit
 900015,00-99,BANCO COOPERATIVO ESPANOL S.A.,ES,private label,debit
 900016,00-99,BANCO COOPERATIVO ESPANOL S.A.,ES,private label,debit
 900017,00-99,TEKSTILBANK A.S.,TR,troy,credit
@@ -81,14 +81,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 900500,00-99,CITI ETC CARD,JP,local brand,debit
 900502,00-99,GE CAPITAL BANK,CZ,private label,debit
 900504,00-99,GE CAPITAL BANK,CZ,private label,debit
-900512,00-99,,OM,private label,debit
+900512,00-99,Bank Muscat,OM,visa,debit
 900600,00-99,GE CAPITAL BANK,CZ,private label,debit
-900601,00-99,,US,private label,debit
-900602,00-99,,US,private label,debit
-900603,00-99,,US,private label,debit
-900604,00-99,,US,private label,debit
-900605,00-99,,US,private label,debit
-900606,00-99,,US,private label,debit
+900601,00-99,Unknown,US,private label,debit
+900602,00-99,Unknown,US,private label,debit
+900603,00-99,Unknown,US,private label,debit
+900604,00-99,Unknown,US,private label,debit
+900605,00-99,Unknown,US,private label,debit
+900606,00-99,Unknown,US,private label,debit
 900607,00-99,,US,private label,debit
 900608,00-99,,US,private label,debit
 900609,00-99,,US,private label,debit
