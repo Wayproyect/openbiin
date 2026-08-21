@@ -1,14 +1,14 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-810000,00-99,,CN,local,debit
-810001,00-99,,CN,local,debit
-810002,00-99,,CN,local,debit
-810003,00-99,,CN,local,debit
-810004,00-99,,CN,local,debit
-810005,00-99,,CN,local,debit
-810006,00-99,,CN,local,debit
-810007,00-99,,CN,local,debit
-810008,00-99,,CN,local,debit
-810009,00-99,,CN,local,debit
+810000,00-99,China Unionpay,CN,unionpay,debit
+810001,00-99,China Unionpay,CN,unionpay,debit
+810002,00-99,China Unionpay,CN,unionpay,debit
+810003,00-99,China Unionpay,CN,unionpay,debit
+810004,00-99,China Unionpay,CN,unionpay,debit
+810005,00-99,China Unionpay,CN,unionpay,debit
+810006,00-99,China Unionpay,CN,unionpay,debit
+810007,00-99,China Unionpay,CN,unionpay,debit
+810008,00-99,China Unionpay,CN,unionpay,debit
+810009,00-99,China Unionpay,CN,unionpay,debit
 810010,00-99,,CN,local,debit
 810011,00-99,,CN,local,debit
 810012,00-99,,CN,local,debit
