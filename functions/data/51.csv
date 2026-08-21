@@ -2474,7 +2474,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 512514,00-99,TIB NATIONAL ASSOCIATION,US,mastercard,credit
 512515,00-99,TIB NATIONAL ASSOCIATION,US,mastercard,credit
 512516,00-99,TIB NATIONAL ASSOCIATION,US,mastercard,credit
-512517,00-99,,US,mastercard,credit
+512517,00-99,TIB National Association,US,mastercard,credit
 512518,00-99,EMIGRANT BANK,AU,mastercard,credit
 512519,00-99,,US,mastercard,credit
 512520,00-99,,US,mastercard,credit
@@ -3454,7 +3454,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 513519,00-99,CHEMUNG CANAL TRUST COMPANY,US,mastercard,debit
 513520,00-99,BPCE,FR,mastercard,credit
 513521,00-99,FIFTH THIRD BANK,US,mastercard,debit
-513522,00-99,,FR,mastercard,credit
+513522,00-99,BPCE,FR,mastercard,credit
 513523,00-99,BPCE,FR,mastercard,credit
 513524,00-99,BPCE,FR,mastercard,credit
 513525,00-99,BPCE,FR,mastercard,credit
