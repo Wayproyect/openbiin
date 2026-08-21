@@ -1,0 +1,311 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+660000,00-99,CRDB BANK PLC,TZ,maestro,debit
+660006,00-99,,RU,maestro,debit
+660011,00-99,,RU,maestro,debit
+660099,00-99,,PA,maestro,debit
+660100,00-99,POSTBANK,DE,maestro,debit
+660110,00-99,,US,ebt,debit
+660191,00-99,,PE,maestro,debit
+660215,00-99,,BR,maestro,debit
+660271,00-99,,US,private label,debit
+660294,00-99,,CA,maestro,debit
+660383,00-99,,VE,maestro,debit
+660408,00-99,,FR,maestro,debit
+660414,00-99,,GB,private label,debit
+660650,00-99,,FR,maestro,debit
+660651,00-99,,EG,maestro,debit
+660711,00-99,,CO,maestro,debit
+660713,00-99,,CO,maestro,debit
+660791,00-99,,ZA,maestro,debit
+660801,00-99,,DE,maestro,debit
+661005,00-99,,ZA,private label,debit
+661010,00-99,,AU,maestro,debit
+661100,00-99,,IT,maestro,debit
+661120,00-99,,AT,maestro,debit
+661129,00-99,,US,ebt,debit
+661138,00-99,,CN,maestro,debit
+661139,00-99,,CN,maestro,debit
+661140,00-99,,US,ebt,debit
+661158,00-99,,US,private label,debit
+661232,00-99,,GT,maestro,debit
+661249,00-99,,RU,maestro,debit
+661257,00-99,,ES,maestro,debit
+661258,00-99,,US,ebt,debit
+661418,00-99,,US,ebt,debit
+661431,00-99,,UA,maestro,debit
+661524,00-99,,US,private label,debit
+661600,00-99,,US,private label,debit
+661601,00-99,,US,ebt,debit
+661660,00-99,,CO,maestro,debit
+661699,00-99,,ID,maestro,debit
+661748,00-99,,US,ebt,debit
+661800,00-99,,NL,maestro,debit
+661810,00-99,STAR PROCESSING INC.,US,ebt,debit
+661884,00-99,,US,private label,debit
+661938,00-99,,DO,maestro,debit
+661940,00-99,,US,ebt,debit
+662000,00-99,,CO,maestro,debit
+662008,00-99,,US,ebt,debit
+662074,00-99,,US,private label,debit
+662090,00-99,,BR,private label,debit
+662202,00-99,,BR,maestro,debit
+662241,00-99,,GB,maestro,debit
+662242,00-99,,TH,maestro,debit
+662266,00-99,,US,ebt,debit
+662307,00-99,,US,ebt,debit
+662405,00-99,,CA,maestro,debit
+662407,00-99,,FR,maestro,debit
+662548,00-99,,US,ebt,debit
+662562,00-99,,CL,private label,debit
+662637,00-99,,BR,maestro,debit
+662662,00-99,WELLS FARGO,US,ebt,credit
+662741,00-99,,RU,maestro,debit
+662829,00-99,,GB,maestro,debit
+662972,00-99,,BR,maestro,debit
+663005,00-99,,VE,private label,debit
+663105,00-99,,RU,maestro,debit
+663153,00-99,,GB,maestro,debit
+663156,00-99,,GB,maestro,debit
+663205,00-99,,GB,maestro,debit
+663254,00-99,,DK,maestro,debit
+663270,00-99,,GB,maestro,debit
+663329,00-99,,TR,maestro,debit
+663402,00-99,,ES,private label,debit
+663574,00-99,,US,ebt,debit
+663639,00-99,,DE,maestro,debit
+663680,00-99,,DO,maestro,debit
+663715,00-99,,MX,maestro,debit
+663726,00-99,,IL,maestro,debit
+663748,00-99,,IN,private label,debit
+663834,00-99,,GB,maestro,debit
+663882,00-99,,GB,private label,debit
+663913,00-99,,US,ebt,debit
+663921,00-99,,NG,maestro,debit
+664051,00-99,,US,private label,debit
+664055,00-99,,US,ebt,debit
+664081,00-99,,US,ebt,debit
+664090,00-99,,ES,maestro,debit
+664096,00-99,,BR,maestro,debit
+664097,00-99,,US,ebt,debit
+664157,00-99,,FR,private label,debit
+664260,00-99,,GB,maestro,debit
+664376,00-99,,US,ebt,debit
+664386,00-99,,GB,maestro,debit
+664399,00-99,,CN,private label,debit
+664463,00-99,,DO,maestro,debit
+664471,00-99,,MA,maestro,debit
+664475,00-99,,UA,maestro,debit
+664581,00-99,,TH,maestro,debit
+664662,00-99,,EG,maestro,debit
+664765,00-99,,CO,maestro,debit
+664878,00-99,,US,private label,debit
+664910,00-99,BANK OF COMMUNICATIONS,CN,local,credit
+665001,00-99,,US,ebt,debit
+665012,00-99,,MA,maestro,debit
+665042,00-99,,IN,private label,debit
+665097,00-99,,MX,maestro,debit
+665378,00-99,BANK OF COMMUNICATIONS,CN,local,credit
+665422,00-99,,BR,maestro,debit
+665467,00-99,,GB,maestro,debit
+665487,00-99,,US,ebt,debit
+665531,00-99,,RU,maestro,debit
+665555,00-99,,TR,maestro,debit
+665648,00-99,,AT,maestro,debit
+665676,00-99,,RU,maestro,debit
+665722,00-99,,GB,maestro,debit
+665762,00-99,,US,ebt,debit
+665788,00-99,,CO,private label,debit
+665942,00-99,,GB,maestro,debit
+665979,00-99,,GB,maestro,debit
+665980,00-99,,BR,maestro,debit
+666000,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666001,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666002,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666003,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666004,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666005,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666006,00-99,CITIBANK,HK,maestro,debit
+666007,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666008,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666009,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666010,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666011,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666012,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666013,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666014,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666015,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666016,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666017,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666018,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666019,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666020,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666021,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666022,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666023,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666024,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666025,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666026,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666027,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666028,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666029,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666030,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666031,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666032,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666033,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666034,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666035,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666036,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666037,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666038,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666039,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666040,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666041,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666042,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666043,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666044,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666045,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666046,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666047,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666048,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666049,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666050,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666051,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666052,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666053,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666054,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666055,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666056,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666057,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666058,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666059,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666060,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666061,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666062,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666063,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666064,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666065,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666066,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666067,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666068,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666069,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666070,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666071,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666072,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666073,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666074,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666075,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666076,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666077,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666078,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666079,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666080,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666081,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666082,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666083,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666084,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666085,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666086,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666087,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666088,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666089,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666090,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666091,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666092,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666093,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666094,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666095,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666096,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666097,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666098,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666099,00-99,CITIBANK (HONG KONG) LTD.,HK,maestro,debit
+666111,00-99,,UY,private label,debit
+666282,00-99,,BR,maestro,debit
+666400,00-99,,LU,maestro,debit
+666413,00-99,,IT,private label,debit
+666414,00-99,,IT,maestro,debit
+666442,00-99,,BR,maestro,debit
+666479,00-99,,US,ebt,debit
+666496,00-99,,MX,maestro,debit
+666554,00-99,,MX,maestro,debit
+666600,00-99,,TR,private label,debit
+666612,00-99,,US,private label,debit
+666655,00-99,,RO,maestro,debit
+666658,00-99,,BR,private label,debit
+666665,00-99,,RU,maestro,debit
+666666,00-99,,US,private label,debit
+666680,00-99,,EC,maestro,debit
+666688,00-99,,IN,maestro,debit
+666699,00-99,,JP,maestro,debit
+666739,00-99,,BR,maestro,debit
+666776,00-99,,US,private label,debit
+666785,00-99,,RU,private label,debit
+666887,00-99,,BR,maestro,debit
+666963,00-99,,HK,maestro,debit
+667001,00-99,,UA,maestro,debit
+667051,00-99,,MY,maestro,debit
+667067,00-99,,US,ebt,debit
+667100,00-99,,UA,maestro,debit
+667191,00-99,,US,private label,debit
+667207,00-99,,KZ,maestro,debit
+667209,00-99,,RU,private label,debit
+667226,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+667230,00-99,,UA,maestro,debit
+667254,00-99,,US,private label,debit
+667295,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,maestro,debit
+667305,00-99,,RO,maestro,debit
+667354,00-99,,RO,private label,debit
+667361,00-99,,US,ebt,debit
+667460,00-99,,BG,maestro,debit
+667504,00-99,,US,ebt,debit
+667512,00-99,,GB,maestro,debit
+667531,00-99,,MA,maestro,debit
+667628,00-99,,ZA,private label,debit
+667636,00-99,,RU,maestro,debit
+667644,00-99,,US,ebt,debit
+667645,00-99,,UA,maestro,debit
+667700,00-99,,UA,maestro,debit
+667739,00-99,,IT,maestro,debit
+667780,00-99,,BR,maestro,debit
+667845,00-99,,FR,maestro,debit
+667896,00-99,,GB,maestro,debit
+667925,00-99,,DO,maestro,debit
+667950,00-99,,CO,maestro,debit
+667997,00-99,,BR,maestro,debit
+668020,00-99,,BR,maestro,debit
+668323,00-99,,US,ebt,debit
+668327,00-99,,MA,maestro,debit
+668345,00-99,,OM,maestro,debit
+668378,00-99,,BR,private label,debit
+668399,00-99,,BR,maestro,debit
+668411,00-99,,US,private label,debit
+668412,00-99,,US,ebt,debit
+668465,00-99,,CA,maestro,debit
+668503,00-99,,BR,maestro,debit
+668602,00-99,,DE,private label,debit
+668668,00-99,,BR,maestro,debit
+668687,00-99,,GB,private label,debit
+668700,00-99,,RU,maestro,debit
+668761,00-99,,DE,maestro,debit
+668771,00-99,,US,private label,debit
+668800,00-99,,CN,atm card,debit
+668830,00-99,,TW,maestro,debit
+668900,00-99,,BR,maestro,debit
+668951,00-99,,CO,maestro,debit
+668954,00-99,,BR,maestro,debit
+668978,00-99,,CO,maestro,debit
+669000,00-99,,BR,maestro,debit
+669001,00-99,NATIONAL COMMERCIAL BANK JAMAICA,JM,maestro,debit
+669035,00-99,,MX,maestro,debit
+669038,00-99,,FR,maestro,debit
+669170,00-99,,US,ebt,debit
+669235,00-99,,ID,maestro,debit
+669384,00-99,,NG,private label,debit
+669494,00-99,,DZ,maestro,debit
+669572,00-99,,GB,maestro,debit
+669582,00-99,,RU,maestro,debit
+669623,00-99,,GM,private label,debit
+669672,00-99,,BO,maestro,debit
+669805,00-99,,US,ebt,debit
+669869,00-99,,LB,maestro,debit
+669887,00-99,,CO,maestro,debit
+669958,00-99,,RU,maestro,debit

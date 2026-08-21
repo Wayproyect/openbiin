@@ -1,0 +1,260 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+980049,00-99,BANCO SANTANDER S.A.,ES,private label,debit
+980440,00-99,OSCHADBANK,UA,prostir,debit
+980442,00-99,UKRGASBANK,UA,prostir,debit
+980451,00-99,MIKHAYLOVSKIY BANK,UA,prostir,debit
+980456,00-99,RAIFFEISEN BANK AVAL,UA,prostir,debit
+980462,00-99,REGION-BANK,UA,prostir,debit
+980470,00-99,OSCHADBANK,UA,prostir,debit
+980614,00-99,,US,private label,debit
+981601,00-99,,US,private label,debit
+981870,00-99,,EG,local brand,debit
+981957,00-99,COMMERCIAL JOINTSTOCK FOR PRIVATE ENTERPRISES BANK,VN,private label,debit
+982004,00-99,COMDIRECT BANK,DE,vpay,debit
+982613,00-99,ROYAL BANK OF SCOTLAND PLC,GB,local brand,debit
+982615,00-99,WATERSTONES,GB,private label,debit
+982616,00-99,,GB,private label,debit
+982620,00-99,ROYAL BANK OF SCOTLAND PLC,GB,local brand,debit
+982630,00-99,,GB,private label,debit
+983508,00-99,,US,private label,debit
+984000,00-99,,US,private label,debit
+984300,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,debit
+984301,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,debit
+984302,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,credit
+984303,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,debit
+985262,00-99,FOSHAN SHUNDE RURAL COMMERCIAL BANK,CN,local,debit
+986001,00-99,IPOTEKA BANK,UZ,humocard,debit
+986002,00-99,O'ZSANOATQURILISH BANK,UZ,humocard,debit
+986003,00-99,AGROBANK,UZ,humocard,debit
+986004,00-99,ASAKA BANK,UZ,humocard,debit
+986006,00-99,QISHLOQ QURILISH BANK,UZ,humocard,debit
+986008,00-99,XALQ BANK,UZ,humocard,debit
+986009,00-99,ASIA ALLIANCE BANK,UZ,humocard,debit
+986010,00-99,KAPITAL BANK,UZ,humocard,debit
+986012,00-99,NBU,UZ,humocard,debit
+986013,00-99,MIKROKREDITBANK,UZ,humocard,debit
+986014,00-99,SAVDOGAR BANK,UZ,humocard,debit
+986015,00-99,TURON BANK,UZ,humocard,debit
+986016,00-99,HAMKOR BANK,UZ,humocard,debit
+986017,00-99,IPAK YO'LI BANK,UZ,humocard,debit
+986018,00-99,TRASTBANK,UZ,humocard,debit
+986019,00-99,ALOQABANK,UZ,humocard,debit
+986020,00-99,UZKDB BANK,UZ,humocard,debit
+986021,00-99,TURKISTONBANK,UZ,humocard,debit
+986023,00-99,UNIVERSALBANK,UZ,humocard,debit
+986024,00-99,RAVNAQ BANK,UZ,humocard,debit
+986025,00-99,DAVR BANK,UZ,humocard,debit
+986026,00-99,INFIN BANK,UZ,humocard,debit
+986027,00-99,ORIENT-FINANS BANK,UZ,humocard,debit
+986028,00-99,HI-TECH BANK,UZ,humocard,debit
+986029,00-99,ZIRAAT BANK,UZ,humocard,debit
+986030,00-99,SADERAT BANK,UZ,humocard,debit
+986031,00-99,OZAGROEKSPORTBANK,UZ,humocard,debit
+986032,00-99,MADAD INVEST BANK,UZ,humocard,debit
+986033,00-99,,UZ,humocard,debit
+986034,00-99,,UZ,humocard,debit
+986035,00-99,,UZ,uzcard,debit
+987654,00-99,,US,private label,debit
+988388,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,HK,local brand,credit
+988704,00-99,COMMERZBANK,DE,vpay,debit
+989009,00-99,PUBLIC JSC RAIFFEISEN BANK AVAL,UA,private label,debit
+989100,00-99,,RS,dinacard,debit
+989101,00-99,BANKA POSTANSKA STEDIONICA,RS,dinacard,debit
+989102,00-99,,RS,dinacard,debit
+989103,00-99,,RS,dinacard,debit
+989104,00-99,,RS,dinacard,debit
+989105,00-99,,RS,dinacard,debit
+989106,00-99,SRPSKA BANKA A.D. BEOGRAD,RS,dinacard,debit
+989107,00-99,BACKA POSTANSKA STEDIONICA A.D. BEOGRAD,RS,dinacard,debit
+989108,00-99,,RS,dinacard,debit
+989109,00-99,,RS,dinacard,debit
+989110,00-99,,RS,dinacard,debit
+989111,00-99,BACKA POSTANSKA STEDIONICA A.D. BEOGRAD,RS,dinacard,debit
+989112,00-99,,RS,dinacard,debit
+989113,00-99,,RS,dinacard,debit
+989114,00-99,,RS,dinacard,debit
+989115,00-99,,RS,dinacard,debit
+989116,00-99,,RS,dinacard,debit
+989117,00-99,,RS,dinacard,debit
+989118,00-99,,RS,dinacard,debit
+989119,00-99,,RS,dinacard,debit
+989120,00-99,,RS,dinacard,debit
+989121,00-99,,RS,dinacard,debit
+989122,00-99,,RS,dinacard,debit
+989123,00-99,PROCREDIT BANK,RS,dinacard,debit
+989124,00-99,AIK BANKA,RS,dinacard,debit
+989125,00-99,KBC BANKA,RS,dinacard,debit
+989126,00-99,,RS,dinacard,debit
+989127,00-99,PIERUS BANK,RS,dinacard,debit
+989128,00-99,UNIVERZAL BANKA,RS,dinacard,debit
+989129,00-99,,RS,dinacard,debit
+989130,00-99,,RS,dinacard,debit
+989131,00-99,ALPHA BANK,RS,dinacard,credit
+989132,00-99,,RS,dinacard,debit
+989133,00-99,,RS,dinacard,debit
+989134,00-99,,RS,dinacard,debit
+989135,00-99,,RS,dinacard,debit
+989136,00-99,,RS,dinacard,debit
+989137,00-99,,RS,dinacard,debit
+989138,00-99,,RS,dinacard,debit
+989139,00-99,,RS,dinacard,debit
+989140,00-99,,RS,dinacard,debit
+989141,00-99,,RS,dinacard,debit
+989142,00-99,,RS,dinacard,debit
+989143,00-99,,RS,dinacard,debit
+989144,00-99,,RS,dinacard,debit
+989145,00-99,,RS,dinacard,debit
+989146,00-99,,RS,dinacard,debit
+989147,00-99,,RS,dinacard,debit
+989148,00-99,,RS,dinacard,debit
+989149,00-99,,RS,dinacard,debit
+989150,00-99,,RS,dinacard,debit
+989151,00-99,,RS,dinacard,debit
+989152,00-99,,RS,dinacard,debit
+989153,00-99,,RS,dinacard,debit
+989154,00-99,,RS,dinacard,debit
+989155,00-99,,RS,dinacard,debit
+989156,00-99,,RS,dinacard,debit
+989157,00-99,,RS,dinacard,debit
+989158,00-99,,RS,dinacard,debit
+989159,00-99,,RS,dinacard,debit
+989160,00-99,,RS,dinacard,debit
+989161,00-99,,RS,dinacard,debit
+989162,00-99,,RS,dinacard,debit
+989163,00-99,,RS,dinacard,debit
+989164,00-99,,RS,dinacard,debit
+989165,00-99,,RS,dinacard,debit
+989166,00-99,,RS,dinacard,debit
+989167,00-99,PIRAEUS BANK S.A.,RS,dinacard,debit
+989168,00-99,,RS,dinacard,debit
+989169,00-99,,RS,dinacard,debit
+989170,00-99,,RS,dinacard,debit
+989171,00-99,,RS,dinacard,debit
+989172,00-99,,RS,dinacard,debit
+989173,00-99,,RS,dinacard,debit
+989174,00-99,,RS,dinacard,debit
+989175,00-99,VTB BANKA,RS,dinacard,debit
+989176,00-99,,RS,dinacard,debit
+989177,00-99,,RS,dinacard,debit
+989178,00-99,,RS,dinacard,debit
+989179,00-99,,RS,dinacard,debit
+989180,00-99,,RS,dinacard,debit
+989181,00-99,,RS,dinacard,debit
+989182,00-99,,RS,dinacard,debit
+989183,00-99,,RS,dinacard,debit
+989184,00-99,,RS,dinacard,debit
+989185,00-99,,RS,dinacard,debit
+989186,00-99,,RS,dinacard,debit
+989187,00-99,,RS,dinacard,debit
+989188,00-99,,RS,dinacard,debit
+989189,00-99,,RS,dinacard,debit
+989190,00-99,,RS,dinacard,debit
+989191,00-99,,RS,dinacard,debit
+989192,00-99,,RS,dinacard,debit
+989193,00-99,,RS,dinacard,debit
+989194,00-99,,RS,dinacard,debit
+989195,00-99,,RS,dinacard,debit
+989196,00-99,,RS,dinacard,debit
+989197,00-99,,RS,dinacard,debit
+989198,00-99,,RS,dinacard,debit
+989199,00-99,,RS,dinacard,debit
+989600,00-99,CHONGQING BANK,CN,private label,debit
+989601,00-99,CHONGQING BANK,CN,private label,debit
+989602,00-99,CHONGQING BANK,CN,private label,debit
+989603,00-99,CHONGQING BANK,CN,private label,debit
+989604,00-99,CHONGQING BANK,CN,private label,debit
+989605,00-99,CHONGQING BANK,CN,private label,debit
+989606,00-99,CHONGQING BANK,CN,private label,debit
+989607,00-99,CHONGQING BANK,CN,private label,debit
+989608,00-99,CHONGQING BANK,CN,private label,debit
+989609,00-99,CHONGQING BANK,CN,private label,debit
+989610,00-99,CHONGQING BANK,CN,private label,debit
+989611,00-99,CHONGQING BANK,CN,private label,debit
+989612,00-99,CHONGQING BANK,CN,private label,debit
+989613,00-99,CHONGQING BANK,CN,private label,debit
+989614,00-99,CHONGQING BANK,CN,private label,debit
+989615,00-99,CHONGQING BANK,CN,private label,debit
+989616,00-99,CHONGQING BANK,CN,private label,debit
+989617,00-99,CHONGQING BANK,CN,private label,debit
+989618,00-99,CHONGQING BANK,CN,private label,debit
+989619,00-99,CHONGQING BANK,CN,private label,debit
+989620,00-99,CHONGQING BANK,CN,private label,debit
+989621,00-99,CHONGQING BANK,CN,private label,debit
+989622,00-99,CHONGQING BANK,CN,private label,debit
+989623,00-99,CHONGQING BANK,CN,private label,debit
+989624,00-99,CHONGQING BANK,CN,private label,debit
+989625,00-99,CHONGQING BANK,CN,private label,debit
+989626,00-99,CHONGQING BANK,CN,private label,debit
+989627,00-99,CHONGQING BANK,CN,private label,debit
+989628,00-99,CHONGQING BANK,CN,private label,debit
+989629,00-99,CHONGQING BANK,CN,private label,debit
+989630,00-99,CHONGQING BANK,CN,private label,debit
+989631,00-99,CHONGQING BANK,CN,private label,debit
+989632,00-99,CHONGQING BANK,CN,private label,debit
+989633,00-99,CHONGQING BANK,CN,private label,debit
+989634,00-99,CHONGQING BANK,CN,private label,debit
+989635,00-99,CHONGQING BANK,CN,private label,debit
+989636,00-99,CHONGQING BANK,CN,private label,debit
+989637,00-99,CHONGQING BANK,CN,private label,debit
+989638,00-99,CHONGQING BANK,CN,private label,debit
+989639,00-99,CHONGQING BANK,CN,private label,debit
+989640,00-99,CHONGQING BANK,CN,private label,debit
+989641,00-99,CHONGQING BANK,CN,private label,debit
+989642,00-99,CHONGQING BANK,CN,private label,debit
+989643,00-99,CHONGQING BANK,CN,private label,debit
+989644,00-99,CHONGQING BANK,CN,private label,debit
+989645,00-99,CHONGQING BANK,CN,private label,debit
+989646,00-99,CHONGQING BANK,CN,private label,debit
+989647,00-99,CHONGQING BANK,CN,private label,debit
+989648,00-99,CHONGQING BANK,CN,private label,debit
+989649,00-99,CHONGQING BANK,CN,private label,debit
+989650,00-99,CHONGQING BANK,CN,private label,debit
+989651,00-99,CHONGQING BANK,CN,private label,debit
+989652,00-99,CHONGQING BANK,CN,private label,debit
+989653,00-99,CHONGQING BANK,CN,private label,debit
+989654,00-99,CHONGQING BANK,CN,private label,debit
+989655,00-99,CHONGQING BANK,CN,private label,debit
+989656,00-99,CHONGQING BANK,CN,private label,debit
+989657,00-99,CHONGQING BANK,CN,private label,debit
+989658,00-99,CHONGQING BANK,CN,private label,debit
+989659,00-99,CHONGQING BANK,CN,private label,debit
+989660,00-99,CHONGQING BANK,CN,private label,debit
+989661,00-99,CHONGQING BANK,CN,private label,debit
+989662,00-99,CHONGQING BANK,CN,private label,debit
+989663,00-99,CHONGQING BANK,CN,private label,debit
+989664,00-99,CHONGQING BANK,CN,private label,debit
+989665,00-99,CHONGQING BANK,CN,private label,debit
+989666,00-99,CHONGQING BANK,CN,private label,debit
+989667,00-99,CHONGQING BANK,CN,private label,debit
+989668,00-99,CHONGQING BANK,CN,private label,debit
+989669,00-99,CHONGQING BANK,CN,private label,debit
+989670,00-99,CHONGQING BANK,CN,private label,debit
+989671,00-99,CHONGQING BANK,CN,private label,debit
+989672,00-99,CHONGQING BANK,CN,private label,debit
+989673,00-99,CHONGQING BANK,CN,private label,debit
+989674,00-99,CHONGQING BANK,CN,private label,debit
+989675,00-99,CHONGQING BANK,CN,private label,debit
+989676,00-99,CHONGQING BANK,CN,private label,debit
+989677,00-99,CHONGQING BANK,CN,private label,debit
+989678,00-99,CHONGQING BANK,CN,private label,debit
+989679,00-99,CHONGQING BANK,CN,private label,debit
+989680,00-99,CHONGQING BANK,CN,private label,debit
+989681,00-99,CHONGQING BANK,CN,private label,debit
+989682,00-99,CHONGQING BANK,CN,private label,debit
+989683,00-99,CHONGQING BANK,CN,private label,debit
+989684,00-99,CHONGQING BANK,CN,private label,debit
+989685,00-99,CHONGQING BANK,CN,private label,debit
+989686,00-99,CHONGQING BANK,CN,private label,debit
+989687,00-99,CHONGQING BANK,CN,private label,debit
+989688,00-99,CHONGQING BANK,CN,private label,debit
+989689,00-99,CHONGQING BANK,CN,private label,debit
+989690,00-99,CHONGQING BANK,CN,private label,debit
+989691,00-99,CHONGQING BANK,CN,private label,debit
+989692,00-99,CHONGQING BANK,CN,private label,debit
+989693,00-99,CHONGQING BANK,CN,private label,debit
+989694,00-99,CHONGQING BANK,CN,private label,debit
+989695,00-99,CHONGQING BANK,CN,private label,debit
+989696,00-99,CHONGQING BANK,CN,private label,debit
+989697,00-99,CHONGQING BANK,CN,private label,debit
+989698,00-99,CHONGQING BANK,CN,private label,debit
+989699,00-99,CHONGQING BANK,CN,private label,debit

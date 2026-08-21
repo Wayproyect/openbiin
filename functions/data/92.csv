@@ -1,0 +1,97 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+920000,00-99,BANK OF CHINA BUSINESS PAYMENT CO. LTD.,CN,local,debit
+920001,00-99,SONALI BANK LTD.,BD,local brand,debit
+920002,00-99,BC CARD,KR,local brand,debit
+920003,00-99,IBK,KR,local brand,debit
+920004,00-99,SONALI BANK LTD.,BD,local brand,debit
+920005,00-99,SONALI BANK LTD.,BD,local brand,credit
+920006,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+920007,00-99,SUHYUP BANK,KR,local brand,debit
+920009,00-99,BC CARD,KR,local brand,debit
+920011,00-99,NH NONGHYUP,KR,local brand,debit
+920012,00-99,NH NONGHYUP,KR,local brand,debit
+920013,00-99,NH NONGHYUP,KR,local brand,debit
+920014,00-99,NH NONGHYUP,KR,local brand,debit
+920018,00-99,BC CARD,KR,local brand,debit
+920020,00-99,BC CARD,KR,local brand,debit
+920021,00-99,BC CARD,KR,local brand,debit
+920023,00-99,BC CARD,KR,local brand,debit
+920025,00-99,BC CARD,KR,local brand,debit
+920027,00-99,CITI CARDS,KR,local brand,debit
+920030,00-99,BC CARD,KR,local brand,debit
+920031,00-99,BC CARD,KR,local brand,debit
+920032,00-99,BC CARD,KR,local brand,debit
+920034,00-99,KWANGJU BANK,KR,local brand,debit
+920035,00-99,JEJU BANK,KR,local brand,debit
+920036,00-99,BC CARD,KR,local brand,debit
+920037,00-99,JEONBUK BANK,KR,local brand,debit
+920039,00-99,BC CARD,KR,local brand,debit
+920042,00-99,BC,KR,local brand,debit
+920043,00-99,BC CARD,KR,local brand,debit
+920044,00-99,BC CARD,KR,local brand,debit
+920045,00-99,BC CARD,KR,local brand,debit
+920048,00-99,BC CARD,KR,local brand,debit
+920049,00-99,BC CARD,KR,local brand,debit
+920050,00-99,BC CARD,KR,local brand,debit
+920051,00-99,BANK OF CHINA,KR,local brand,debit
+920055,00-99,BC CARD,KR,local brand,debit
+920058,00-99,BC CARD,KR,local brand,debit
+920059,00-99,KOREA INVESTMENT & SECURITIES CO. LTD.,KR,local brand,debit
+920061,00-99,BC CARD,KR,local brand,debit
+920062,00-99,BC CARD,KR,local brand,debit
+920063,00-99,BC,KR,local brand,debit
+920064,00-99,BC CARDS,KR,local brand,debit
+920071,00-99,BC CARD,KR,local brand,debit
+920077,00-99,BC CARD,KR,local brand,debit
+920079,00-99,BC CARD,KR,local brand,debit
+920080,00-99,BC CARD,KR,local brand,debit
+920082,00-99,BC FINT,KR,local brand,debit
+920085,00-99,BC CARD,KR,local brand,debit
+920086,00-99,BC CARD,KR,local brand,debit
+920087,00-99,BC CARD,KR,local brand,debit
+920089,00-99,BC CARD,KR,local brand,debit
+920091,00-99,NH INVESTMENT & SECURITIES,KR,local brand,debit
+920092,00-99,CACAO BANK,KR,local brand,debit
+920093,00-99,GMONEY,KR,local brand,debit
+920094,00-99,BC CARD CO. LTD. MOBILE,KR,local brand,debit
+920095,00-99,BC CARD,KR,local brand,debit
+920096,00-99,KBANK,KR,local brand,debit
+920120,00-99,BC CARD,KR,local brand,debit
+920215,00-99,NACF,KR,local brand,debit
+920232,00-99,BUSAN BANK,KR,local brand,debit
+920239,00-99,KYONGNAM BANK CO. LTD.,KR,local brand,debit
+920315,00-99,NACF,KR,local brand,debit
+920432,00-99,BUSAN BANK,KR,local brand,debit
+920439,00-99,KYONGNAM BANK CO. LTD.,KR,local brand,debit
+920501,00-99,SOUTH EAST BANK LTD.,BD,local brand,debit
+921000,00-99,BANK OF CHINA PAY,CN,local,debit
+921001,00-99,BANK OF CHINA BUSINESS PAYMENT CO. LTD.,CN,local,debit
+921002,00-99,BANK OF CHINA BUSINESS PAYMENT CO. LTD.,CN,local,debit
+922220,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,local,debit
+923001,00-99,ICB ISLAMIC BANK LTD.,BD,local brand,debit
+923301,00-99,EESTI SOTSIAALPANK,EE,private label,debit
+923362,00-99,SWEDBANK A.S.,EE,private label,debit
+923456,00-99,,UA,private label,debit
+923909,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+924001,00-99,TRUST BANK LTD.,BD,local brand,debit
+924518,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+924610,00-99,IKANO BANK FINLAND,FI,private label,debit
+925000,00-99,LA BANQUE POSTALE,FR,private label,debit
+925001,00-99,UTTARA BANK LTD.,BD,local brand,debit
+925002,00-99,UTTARA BANK LTD.,BD,local brand,debit
+925703,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+926089,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+926366,00-99,KAUBAMAJA/SELVER PARTNERKAART,EE,private label,debit
+927000,00-99,,US,private label,debit
+927001,00-99,VISA DPS,US,ebt,debit
+927002,00-99,,US,private label,debit
+927003,00-99,,US,private label,debit
+927004,00-99,,US,private label,debit
+927005,00-99,,US,private label,debit
+927006,00-99,,US,private label,debit
+927007,00-99,,US,private label,debit
+927008,00-99,,US,private label,debit
+927009,00-99,,US,private label,debit
+928000,00-99,BSW BONUS,DE,local brand,debit
+928625,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+929292,00-99,UNIBANK,AZ,private label,debit

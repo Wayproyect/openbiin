@@ -1,0 +1,11 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+800003,00-99,WYOMING EBT,US,ebt,debit
+800102,00-99,NISSAN CARD (HOUSE),JP,local brand,debit
+800375,00-99,UC ETC CARD,JP,local brand,debit
+801002,00-99,CHINA TELECOM,CN,private label,debit
+801200,00-99,GUANGDONG DEVELOPMENT BANK,CN,private label,debit
+801429,00-99,BANK OF CHINA,CN,private label,credit
+803032,00-99,BANK OF CHINA,CN,private label,debit
+803039,00-99,BANK OF CHINA,CN,private label,credit
+805512,00-99,,US,local brand,debit
+806069,00-99,UNOE BANK S.A.,ES,private label,debit

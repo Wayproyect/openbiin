@@ -1,0 +1,158 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+610001,00-99,,US,private label,debit
+610009,00-99,,CR,private label,debit
+610014,00-99,MEDCO HEALTH,US,private label,debit
+610053,00-99,,CO,private label,debit
+610084,00-99,FIRST HEALTH SERVICES CORPORATION,US,private label,debit
+610090,00-99,PITNEY BOWES,CA,private label,credit
+610091,00-99,,US,ebt,debit
+610092,00-99,,US,ebt,debit
+610093,00-99,ARKANSAS EBT,US,ebt,debit
+610094,00-99,,US,ebt,debit
+610095,00-99,,US,ebt,debit
+610096,00-99,,US,ebt,debit
+610097,00-99,,US,private label,debit
+610098,00-99,TEXAS EBT ISSUED BY AFFILIATED COMPUTER SERVICES,US,ebt,debit
+610099,00-99,,US,ebt,debit
+610131,00-99,MKB,HU,private label,debit
+610157,00-99,,BR,private label,debit
+610190,00-99,JTB CORP.,JP,local brand,credit
+610192,00-99,,US,ebt,debit
+610210,00-99,,US,private label,debit
+610220,00-99,,US,private label,debit
+610239,00-99,,US,private label,debit
+610287,00-99,OREGON WIC,US,ebt,debit
+610296,00-99,EWIC,US,ebt,debit
+610320,00-99,MASSACHUSETTS EBT,US,ebt,debit
+610411,00-99,,DK,maestro,debit
+610415,00-99,,US,private label,debit
+610420,00-99,,US,ebt,debit
+610422,00-99,AMAGERKORT AMAGER-KORT,DK,maestro,debit
+610423,00-99,MINNESOTA EBT,US,ebt,debit
+610424,00-99,FIRST NATIONAL BANK ALASKA,US,private label,credit
+610425,00-99,,US,ebt,debit
+610426,00-99,,US,ebt,debit
+610427,00-99,,US,ebt,debit
+610428,00-99,,US,ebt,debit
+610429,00-99,,US,ebt,debit
+610430,00-99,,US,ebt,debit
+610432,00-99,HABIB BANK LTD.,AE,local brand,debit
+610433,00-99,BANK MELLAT,IR,private label,debit
+610434,00-99,NEW JERSEY EBT,US,ebt,debit
+610435,00-99,,US,ebt,debit
+610436,00-99,,US,ebt,debit
+610437,00-99,,US,ebt,debit
+610438,00-99,,US,ebt,debit
+610439,00-99,,US,ebt,debit
+610460,00-99,FIRST NATIONAL BANK ALASKA,US,ebt,debit
+610464,00-99,,SG,private label,debit
+610470,00-99,COUTH CAROLINA EBT,US,ebt,debit
+610471,00-99,,US,ebt,debit
+610472,00-99,,US,ebt,debit
+610473,00-99,,US,ebt,debit
+610474,00-99,,US,ebt,debit
+610475,00-99,,US,ebt,debit
+610476,00-99,,US,ebt,debit
+610477,00-99,,US,ebt,debit
+610478,00-99,,US,ebt,debit
+610479,00-99,,US,ebt,debit
+610481,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,private label,debit
+610494,00-99,,US,private label,debit
+610500,00-99,,US,private label,debit
+610502,00-99,,US,private label,debit
+610520,00-99,,US,ebt,debit
+610521,00-99,,US,ebt,debit
+610522,00-99,,US,cirrus,debit
+610523,00-99,,US,ebt,debit
+610524,00-99,,US,ebt,debit
+610525,00-99,,US,ebt,debit
+610526,00-99,,US,ebt,debit
+610527,00-99,,US,ebt,debit
+610528,00-99,,US,ebt,debit
+610529,00-99,,US,ebt,debit
+610550,00-99,,US,ebt,debit
+610551,00-99,,US,ebt,debit
+610552,00-99,,US,ebt,debit
+610553,00-99,,US,ebt,debit
+610554,00-99,,US,ebt,debit
+610555,00-99,,US,ebt,debit
+610556,00-99,,US,ebt,debit
+610557,00-99,,US,ebt,debit
+610558,00-99,,US,ebt,debit
+610559,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+610593,00-99,,US,ebt,debit
+610599,00-99,,BR,private label,debit
+610602,00-99,,IN,private label,debit
+610698,00-99,,EG,private label,debit
+610951,00-99,,CH,private label,debit
+611000,00-99,,JM,private label,debit
+611182,00-99,,CN,private label,debit
+611500,00-99,,IT,private label,debit
+611655,00-99,,US,private label,debit
+611728,00-99,WALMART IN STORE CARD,US,private label,debit
+612001,00-99,AGRICULTURAL BANK OF CHINA LTD.,CN,atm card,debit
+612010,00-99,BANK OF COMMUNICATIONS,CN,atm card,debit
+612025,00-99,,US,private label,debit
+612167,00-99,,ZA,private label,debit
+612254,00-99,,ES,private label,debit
+612344,00-99,,BR,private label,debit
+612349,00-99,,MA,private label,debit
+612546,00-99,,CO,private label,debit
+612780,00-99,,IT,private label,debit
+612889,00-99,,US,local brand,debit
+613368,00-99,,BG,private label,debit
+613461,00-99,,CA,private label,debit
+613520,00-99,,DZ,private label,debit
+613822,00-99,,GB,private label,debit
+613836,00-99,,DE,private label,debit
+614146,00-99,,RO,private label,debit
+614184,00-99,,US,private label,debit
+614378,00-99,,AU,private label,debit
+614444,00-99,,BE,private label,debit
+614483,00-99,,US,ebt,debit
+614552,00-99,,US,ebt,debit
+614595,00-99,,US,ebt,debit
+614622,00-99,,IT,private label,debit
+614656,00-99,,DE,private label,debit
+614720,00-99,,ES,private label,debit
+614745,00-99,,MX,private label,debit
+614944,00-99,SHANDONG ZHANHUA QINGYUN RURAL BANK CO. LTD.,CN,local,debit
+615009,00-99,SPARDA-BANK HESSEN EG,DE,maestro,debit
+615280,00-99,,CL,private label,debit
+615428,00-99,,CO,private label,debit
+615520,00-99,,US,ebt,debit
+615521,00-99,,US,ebt,debit
+615522,00-99,,US,ebt,debit
+615523,00-99,,US,ebt,debit
+615524,00-99,,US,ebt,debit
+615525,00-99,,US,ebt,debit
+615526,00-99,,US,ebt,debit
+615527,00-99,,US,ebt,debit
+615528,00-99,,US,ebt,debit
+616045,00-99,,UG,private label,debit
+616161,00-99,,RO,private label,debit
+616274,00-99,,PE,private label,debit
+616297,00-99,,GB,private label,debit
+616331,00-99,,RU,private label,debit
+616562,00-99,KABULBANK,AF,private label,debit
+616788,00-99,,IT,maestro,debit
+616795,00-99,,RU,private label,debit
+617000,00-99,,GB,private label,debit
+617435,00-99,STADT- UND KREISSPARKASSE MOOSBURG A.D. ISAR,DE,maestro,debit
+617727,00-99,,NG,private label,debit
+617805,00-99,CAPITAL ONE BANK,US,ebt,credit
+618186,00-99,,US,private label,debit
+618198,00-99,,US,private label,debit
+618256,00-99,,US,private label,debit
+618430,00-99,HSBC BANK PLC,GB,maestro,debit
+618431,00-99,HSBC BANK PLC,GB,maestro,debit
+618432,00-99,HSBC BANK PLC,GB,maestro,debit
+618433,00-99,HSBC BANK PLC,GB,maestro,debit
+618434,00-99,HSBC BANK PLC,GB,maestro,debit
+618435,00-99,HSBC BANK PLC,GB,maestro,debit
+618436,00-99,HSBC BANK PLC,GB,maestro,debit
+618437,00-99,HSBC BANK PLC,GB,maestro,debit
+618438,00-99,HSBC BANK PLC,GB,maestro,debit
+618439,00-99,HSBC BANK PLC,GB,maestro,debit
+619422,00-99,,DE,private label,debit
+619476,00-99,,US,private label,debit

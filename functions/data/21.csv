@@ -1,0 +1,18 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+210191,00-99,D-ONE,JP,local brand,debit
+211011,00-99,CHINA CONSTRUCTION BANK,CN,private label,debit
+211383,00-99,,US,cirrus,debit
+211871,00-99,,US,cirrus,debit
+212112,00-99,,US,local brand,credit
+212819,00-99,C&A,AR,private label,debit
+213243,00-99,,RU,private label,debit
+213810,00-99,C&A,AR,private label,debit
+215020,00-99,,US,private label,debit
+216003,00-99,BNA,TN,local brand,debit
+216004,00-99,ABT,TN,local brand,debit
+216005,00-99,BT,TN,local brand,debit
+216008,00-99,BIAT,TN,local brand,debit
+216010,00-99,STB,TN,local brand,debit
+216025,00-99,ZITOUNA,TN,local brand,debit
+216868,00-99,BANK OF CHINA,CN,private label,debit
+218441,00-99,,US,maestro,debit

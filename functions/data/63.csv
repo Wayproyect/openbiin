@@ -1,0 +1,953 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+630000,00-99,EXPORT-IMPORT BANK LTD.,BD,maestro,debit
+630006,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+630028,00-99,,RU,maestro,debit
+630041,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+630042,00-99,TEACHERS CARD,CN,local,debit
+630100,00-99,,US,ebt,debit
+630110,00-99,,US,ebt,debit
+630114,00-99,WIRECARD CARD SOLUTIONS LTD.,DE,maestro,debit
+630121,00-99,PAYRNET LTD.,DE,maestro,debit
+630222,00-99,,GB,maestro,debit
+630400,00-99,,IN,maestro,debit
+630401,00-99,,ES,maestro,debit
+630408,00-99,,IE,maestro,debit
+630409,00-99,,IE,maestro,debit
+630412,00-99,,ES,maestro,debit
+630440,00-99,,GB,maestro,debit
+630441,00-99,,GB,maestro,debit
+630445,00-99,,ES,maestro,debit
+630456,00-99,,IE,maestro,debit
+630461,00-99,,IE,maestro,debit
+630477,00-99,,IE,maestro,debit
+630478,00-99,,IE,maestro,debit
+630479,00-99,,IE,maestro,debit
+630480,00-99,,IE,maestro,debit
+630481,00-99,,IE,maestro,debit
+630482,00-99,,IE,maestro,debit
+630483,00-99,,IE,maestro,debit
+630484,00-99,,IE,maestro,debit
+630485,00-99,,IE,maestro,debit
+630486,00-99,INBS,IE,maestro,debit
+630487,00-99,EBS,IE,maestro,debit
+630488,00-99,,IE,maestro,debit
+630489,00-99,IRISH PERMANENT,IE,maestro,debit
+630490,00-99,THE GOVERNOR AND COMPANY OF THE BANK OF IRELAND,IE,maestro,debit
+630491,00-99,,IE,maestro,debit
+630492,00-99,,IE,maestro,debit
+630493,00-99,ALLIED IRISH BANKS PLC,IE,maestro,debit
+630494,00-99,AIB BANK,IE,maestro,debit
+630495,00-99,NATIONAL IRISH BANK,IE,maestro,debit
+630496,00-99,,IE,maestro,debit
+630497,00-99,,IE,maestro,debit
+630498,00-99,ULSTER BANK LTD.,IE,maestro,debit
+630499,00-99,PERMANENT TSB PLC,IE,cirrus,debit
+630521,00-99,,BR,maestro,debit
+630722,00-99,,IE,maestro,debit
+630953,00-99,,MK,maestro,debit
+631000,00-99,,BR,maestro,debit
+631060,00-99,VOLKSBANK MONCHENGLADBACH EG,DE,vpay,debit
+631090,00-99,,BR,maestro,debit
+631092,00-99,,BG,maestro,debit
+631240,00-99,HSCB,GB,maestro,credit
+631307,00-99,,GB,maestro,debit
+631564,00-99,,US,ebt,debit
+631680,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+631681,00-99,,BR,maestro,debit
+631698,00-99,,IN,maestro,debit
+631728,00-99,,US,ebt,debit
+631900,00-99,CREATION,GB,duet,debit
+631901,00-99,CREATION,GB,duet,debit
+631902,00-99,CREATION,GB,duet,debit
+631903,00-99,CREATION,GB,duet,debit
+631904,00-99,CREATION,GB,duet,debit
+631905,00-99,CREATION,GB,duet,debit
+631906,00-99,CREATION,GB,duet,debit
+631907,00-99,CREATION,GB,duet,debit
+631908,00-99,CREATION,GB,duet,debit
+631909,00-99,CREATION,GB,duet,debit
+631910,00-99,GE CAPITAL,GB,newday,debit
+631911,00-99,GE CAPITAL,GB,ge capital,debit
+631912,00-99,GE CAPITAL,GB,ge capital,debit
+631913,00-99,GE CAPITAL,GB,ge capital,debit
+631914,00-99,GE CAPITAL,GB,ge capital,debit
+631915,00-99,GE CAPITAL,GB,newday,debit
+631916,00-99,GE CAPITAL,GB,ge capital,debit
+631917,00-99,GE CAPITAL,GB,ge capital,debit
+631918,00-99,GE CAPITAL,GB,ge capital,debit
+631919,00-99,GE CAPITAL,GB,ge capital,debit
+631922,00-99,,GB,private label,debit
+631930,00-99,GE CAPITAL,GB,newday,debit
+631931,00-99,GE CAPITAL,GB,newday,debit
+631932,00-99,GE CAPITAL,GB,newday,debit
+631933,00-99,GE CAPITAL,GB,newday,debit
+631934,00-99,GE CAPITAL,GB,newday,debit
+631938,00-99,,GB,newday,debit
+631940,00-99,NEXT GOLD CARD,GB,maestro,debit
+631941,00-99,NEXT GOLD CARD,GB,maestro,debit
+631942,00-99,NEXT GOLD CARD,GB,maestro,debit
+631943,00-99,NEXT GOLD CARD,GB,maestro,debit
+631944,00-99,NEXT GOLD CARD,GB,maestro,debit
+631945,00-99,NEXT GOLD CARD,GB,maestro,debit
+631946,00-99,NEXT GOLD CARD,GB,maestro,debit
+631947,00-99,NEXT GOLD CARD,GB,maestro,debit
+631948,00-99,NEXT GOLD CARD,GB,maestro,debit
+631949,00-99,NEXT GOLD CARD,GB,maestro,debit
+631982,00-99,,GB,maestro,debit
+632001,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+632062,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,local,debit
+632402,00-99,,US,ebt,debit
+632467,00-99,,RU,maestro,debit
+632577,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,credit
+632737,00-99,,US,ebt,debit
+632845,00-99,,US,ebt,debit
+632852,00-99,BANK WINDHOEK,NA,local brand,debit
+632853,00-99,BANK WINDHOEK,NA,local brand,debit
+632901,00-99,,US,ebt,debit
+633000,00-99,,AU,maestro,debit
+633110,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633111,00-99,,US,ebt,debit
+633112,00-99,,US,ebt,debit
+633113,00-99,,US,ebt,debit
+633114,00-99,,US,ebt,debit
+633115,00-99,,US,ebt,debit
+633116,00-99,,US,ebt,debit
+633117,00-99,,US,ebt,debit
+633118,00-99,,US,ebt,debit
+633119,00-99,,US,ebt,debit
+633128,00-99,GE CAPITAL,GB,newday,debit
+633133,00-99,,GB,maestro,debit
+633151,00-99,,ES,maestro,debit
+633158,00-99,,GB,maestro,debit
+633163,00-99,,GB,maestro,debit
+633164,00-99,,GB,maestro,debit
+633165,00-99,GE CAPITAL,GB,ge capital,debit
+633174,00-99,CO-OPERATIVE MEMBERSHIP,GB,maestro,debit
+633179,00-99,GE MONEY,US,ebt,debit
+633204,00-99,ICELAND BONUS CARD,GB,maestro,debit
+633219,00-99,NEXT STORE CARD,GB,maestro,debit
+633235,00-99,,CA,maestro,debit
+633240,00-99,,MA,maestro,debit
+633260,00-99,,GB,maestro,debit
+633295,00-99,,GB,maestro,debit
+633296,00-99,,GB,maestro,debit
+633300,00-99,HSBC BANK PLC,GB,maestro,debit
+633301,00-99,YORKSHIRE BANK PLC,GB,maestro,debit
+633302,00-99,HALIFAX BANK OF SCOTLAND,GB,maestro,debit
+633303,00-99,HALIFAX PLC,GB,maestro,debit
+633304,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633305,00-99,HALIFAX PLC,GB,maestro,debit
+633306,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633307,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633308,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633309,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633310,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633311,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633312,00-99,HALIFAX PLC,GB,maestro,debit
+633313,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633314,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633315,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633316,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633317,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633318,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633319,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633320,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633321,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633322,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633323,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633324,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633325,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633326,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633327,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633328,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633329,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633330,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633331,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633332,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633333,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633334,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633335,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633336,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633337,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633338,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633339,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633340,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633341,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633342,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633343,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633344,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633345,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633346,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633347,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633348,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633349,00-99,MAESTRO DOMESTIC,GB,maestro,debit
+633442,00-99,FIFTH THIRD PROCESSING SOLUTIONS INC.,US,ebt,debit
+633450,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633451,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633452,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633453,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633454,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633455,00-99,R RAPHAEL AND SONS PLC,GB,maestro,debit
+633456,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633457,00-99,NEWCASTLE BUILDING SOCIETY,GB,maestro,debit
+633458,00-99,,GB,maestro,debit
+633459,00-99,,GB,maestro,debit
+633460,00-99,,GB,maestro,debit
+633461,00-99,HSBC BANK PLC,GB,maestro,debit
+633462,00-99,,GB,maestro,debit
+633463,00-99,,GB,maestro,debit
+633464,00-99,,GB,maestro,debit
+633465,00-99,,GB,maestro,debit
+633466,00-99,,GB,maestro,debit
+633467,00-99,,GB,maestro,debit
+633468,00-99,,GB,maestro,debit
+633469,00-99,,GB,maestro,debit
+633470,00-99,,GB,maestro,debit
+633471,00-99,,GB,maestro,debit
+633472,00-99,,GB,maestro,debit
+633473,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+633474,00-99,,GB,maestro,debit
+633475,00-99,,GB,maestro,debit
+633476,00-99,YORKSHIRE BANK PLC,GB,maestro,debit
+633477,00-99,,GB,maestro,debit
+633478,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+633479,00-99,,GB,maestro,debit
+633480,00-99,,GB,maestro,debit
+633481,00-99,YORKSHIRE BANK PLC,GB,maestro,debit
+633482,00-99,,GB,maestro,debit
+633483,00-99,,GB,maestro,debit
+633484,00-99,,GB,maestro,debit
+633485,00-99,,GB,maestro,debit
+633486,00-99,,GB,maestro,debit
+633487,00-99,,GB,maestro,debit
+633488,00-99,,GB,maestro,debit
+633489,00-99,,GB,maestro,debit
+633490,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633491,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633492,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633493,00-99,BANK OF SCOTLAND PLC,GB,maestro,debit
+633494,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+633495,00-99,HALIFAX PLC,GB,maestro,debit
+633496,00-99,HALIFAX PLC,GB,maestro,debit
+633497,00-99,HALIFAX PLC,GB,maestro,debit
+633498,00-99,ROYAL BANK OF SCOTLAND PLC,GB,maestro,debit
+633499,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+633513,00-99,CENTRAL ENGLAND CO-OPERATIVE,GB,maestro,debit
+633534,00-99,,UA,maestro,debit
+633540,00-99,ARGOS,GB,maestro,debit
+633547,00-99,SSE PLC,GB,maestro,debit
+633551,00-99,SOMERFIELD SAVER,GB,maestro,debit
+633555,00-99,,GB,maestro,debit
+633577,00-99,CINEWORLD CINEMAS UNLIMITED CARD,GB,maestro,debit
+633586,00-99,,LK,maestro,debit
+633597,00-99,ITSO,GB,maestro,debit
+633625,00-99,NATIONAL SAVINGS AND INVESTMENTS,GB,maestro,debit
+633641,00-99,POST OFFICE LTD.,GB,maestro,debit
+633670,00-99,,US,ebt,debit
+633671,00-99,,US,ebt,debit
+633672,00-99,,US,ebt,debit
+633673,00-99,,US,ebt,debit
+633674,00-99,,US,ebt,debit
+633675,00-99,G-T-P GROUP LTD.,GB,maestro,debit
+633676,00-99,RBS,GB,local brand,debit
+633677,00-99,,US,ebt,debit
+633678,00-99,,US,ebt,debit
+633679,00-99,,US,ebt,debit
+633695,00-99,,GB,maestro,debit
+633698,00-99,G-T-P GROUP LTD.,GB,maestro,debit
+633748,00-99,,GB,maestro,debit
+633766,00-99,,US,ebt,debit
+633767,00-99,,RO,maestro,debit
+633774,00-99,,GB,maestro,debit
+633776,00-99,,GB,maestro,debit
+633780,00-99,COSTA COFFEE COFFEE CLUB LOYALTY CARD,GB,maestro,debit
+633791,00-99,COMMONWEALTH BANK OF AUSTRALIA,AU,maestro,debit
+633817,00-99,BZX INVESTMENTS LTD.,GB,maestro,debit
+633827,00-99,,GB,maestro,debit
+633834,00-99,GE CAPITAL,GB,newday,debit
+633845,00-99,SUBWAY SUBCARD,GB,maestro,debit
+633854,00-99,,US,ebt,debit
+633857,00-99,,GB,maestro,debit
+633863,00-99,,PL,private label,debit
+633871,00-99,,GB,maestro,debit
+633872,00-99,,ES,maestro,debit
+633876,00-99,,GB,maestro,debit
+633878,00-99,,GB,maestro,debit
+634001,00-99,TESCO PERSONAL FINANCE PLC,GB,maestro,debit
+634003,00-99,,US,ebt,debit
+634004,00-99,TESCO CLUBCARD,GB,maestro,debit
+634005,00-99,TESCO FUEL CARD,GB,maestro,debit
+634006,00-99,TESCO STUDENTS CLUBCARD,GB,maestro,debit
+634008,00-99,TESCO PERSONAL FINANCE PLC,GB,maestro,debit
+634009,00-99,TESCO TESCO CLUBCARD,PL,maestro,debit
+634051,00-99,,CO,maestro,debit
+634104,00-99,,MA,maestro,debit
+634163,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+634179,00-99,SAINSBURY SAVER CARD,GB,maestro,debit
+634207,00-99,,IT,maestro,debit
+634273,00-99,,US,ebt,debit
+634852,00-99,,UA,maestro,debit
+634910,00-99,ABC,CN,local,credit
+635002,00-99,,US,ebt,debit
+635037,00-99,,VE,maestro,debit
+635359,00-99,ABC,CN,local,credit
+635482,00-99,,NG,maestro,debit
+635552,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+635601,00-99,AA MEMBERSHIP CARD,GB,maestro,debit
+635608,00-99,ORIGIN COMPOWER LTD.,GB,maestro,debit
+635618,00-99,,GB,maestro,debit
+635628,00-99,,US,ebt,debit
+635629,00-99,ORIGIN COMPOWER LTD.,GB,maestro,debit
+635634,00-99,TIME CARD (VENTURA),GB,maestro,debit
+635639,00-99,,GB,maestro,debit
+635650,00-99,HARRODS BANK LTD.,GB,maestro,debit
+635840,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+635903,00-99,,GB,maestro,debit
+636000,00-99,,US,ebt,debit
+636010,00-99,,US,ebt,debit
+636012,00-99,,US,ebt,debit
+636014,00-99,,US,ebt,debit
+636078,00-99,BC CARD,KR,maestro,debit
+636083,00-99,,US,ebt,debit
+636088,00-99,INTERCONTINENTAL BANK,NG,maestro,debit
+636091,00-99,,US,maestro,debit
+636092,00-99,STERLING BANK,NG,local brand,debit
+636093,00-99,BC CARD CO. LTD.,KR,local,debit
+636094,00-99,BC CARD CO. LTD.,KR,local,debit
+636095,00-99,BC CARD CO. LTD.,KR,local,debit
+636096,00-99,SEB KORT BANK- DANMARK - FILIAL AF SEB KORT BANK AB - SWEDEN,DK,maestro,debit
+636097,00-99,SEB KORT DANMARK,DK,maestro,debit
+636100,00-99,,US,ebt,debit
+636101,00-99,,KH,maestro,debit
+636102,00-99,,US,ebt,debit
+636103,00-99,,US,ebt,debit
+636104,00-99,,US,ebt,debit
+636105,00-99,,US,ebt,debit
+636106,00-99,,US,ebt,debit
+636107,00-99,,US,ebt,debit
+636108,00-99,,US,ebt,debit
+636109,00-99,,US,ebt,debit
+636111,00-99,,US,maestro,debit
+636112,00-99,,US,maestro,debit
+636116,00-99,,BR,maestro,debit
+636117,00-99,BANESE CARD,BR,elo,credit
+636120,00-99,AL BILAD BANK,SA,local brand,debit
+636121,00-99,,US,ebt,debit
+636122,00-99,,US,ebt,debit
+636123,00-99,U.S. BANK N.A.,US,ebt,debit
+636124,00-99,,US,ebt,debit
+636125,00-99,,US,ebt,debit
+636126,00-99,,US,ebt,debit
+636127,00-99,,US,ebt,debit
+636128,00-99,,US,ebt,debit
+636129,00-99,,US,cirrus,debit
+636130,00-99,,US,ebt,debit
+636131,00-99,,US,ebt,debit
+636132,00-99,,US,ebt,debit
+636133,00-99,U.S. BANK N.A.,US,ebt,debit
+636134,00-99,,US,ebt,debit
+636135,00-99,,US,ebt,debit
+636136,00-99,,US,ebt,debit
+636137,00-99,,US,ebt,debit
+636138,00-99,,US,ebt,debit
+636139,00-99,,US,ebt,debit
+636141,00-99,,US,maestro,debit
+636146,00-99,,GB,maestro,debit
+636147,00-99,,US,ebt,debit
+636148,00-99,,US,ebt,debit
+636162,00-99,,SI,maestro,debit
+636164,00-99,,US,maestro,debit
+636168,00-99,EL NILEIN BANK,AE,local brand,debit
+636170,00-99,,US,ebt,debit
+636171,00-99,,US,ebt,debit
+636172,00-99,,US,ebt,debit
+636173,00-99,,US,maestro,debit
+636174,00-99,,US,ebt,debit
+636175,00-99,,US,ebt,debit
+636176,00-99,,US,ebt,debit
+636177,00-99,,US,ebt,debit
+636178,00-99,,US,cirrus,debit
+636179,00-99,,US,ebt,debit
+636181,00-99,,US,ebt,debit
+636187,00-99,,US,ebt,debit
+636189,00-99,BC CARD CO. LTD.,KR,local,debit
+636190,00-99,,US,ebt,debit
+636191,00-99,,US,ebt,debit
+636192,00-99,U.S. BANK N.A.,US,ebt,debit
+636193,00-99,,US,ebt,debit
+636194,00-99,,US,ebt,debit
+636195,00-99,,US,ebt,debit
+636196,00-99,,US,ebt,debit
+636197,00-99,,US,ebt,debit
+636198,00-99,,US,ebt,debit
+636199,00-99,,US,ebt,debit
+636201,00-99,,US,ebt,debit
+636210,00-99,,US,ebt,debit
+636211,00-99,,US,ebt,debit
+636212,00-99,,US,ebt,debit
+636213,00-99,,US,ebt,debit
+636214,00-99,,US,ebt,debit
+636215,00-99,,US,ebt,debit
+636216,00-99,,US,ebt,debit
+636217,00-99,,US,ebt,debit
+636218,00-99,,US,ebt,debit
+636219,00-99,,US,ebt,debit
+636240,00-99,,US,ebt,debit
+636241,00-99,,US,ebt,debit
+636242,00-99,,US,ebt,debit
+636243,00-99,,US,ebt,debit
+636244,00-99,,US,ebt,debit
+636245,00-99,,US,ebt,debit
+636246,00-99,,US,ebt,debit
+636247,00-99,,US,ebt,debit
+636248,00-99,,US,ebt,debit
+636249,00-99,,US,ebt,debit
+636260,00-99,,US,ebt,debit
+636261,00-99,,US,ebt,debit
+636262,00-99,,US,ebt,debit
+636263,00-99,,US,ebt,debit
+636264,00-99,,US,ebt,debit
+636265,00-99,,US,ebt,debit
+636266,00-99,,US,ebt,debit
+636267,00-99,,US,ebt,debit
+636268,00-99,,CH,maestro,debit
+636269,00-99,,US,ebt,debit
+636287,00-99,,RU,maestro,debit
+636297,00-99,COMPANHIA BRASILEIRA DE SOLUCOES E SERVICOS - CBSS,BR,elo,credit
+636315,00-99,WESTFIELD NEW ZEALAND,NZ,maestro,debit
+636318,00-99,EDENRED,MX,carnet,debit
+636325,00-99,SAHAND SAMANEH MAHPA CO LOYALTY CARD,IR,maestro,debit
+636329,00-99,,IN,maestro,debit
+636339,00-99,,NZ,maestro,debit
+636346,00-99,,US,ebt,debit
+636347,00-99,,DE,maestro,debit
+636360,00-99,,US,ebt,debit
+636361,00-99,,US,ebt,debit
+636362,00-99,,US,ebt,debit
+636363,00-99,,US,ebt,debit
+636364,00-99,,US,ebt,debit
+636365,00-99,,US,ebt,debit
+636366,00-99,,US,ebt,debit
+636367,00-99,,US,ebt,debit
+636368,00-99,BANCO BRADESCO SA,BR,elo,credit
+636369,00-99,,BR,elo,debit
+636375,00-99,,BR,maestro,debit
+636379,00-99,TODITO PAGOS,MX,carnet,debit
+636392,00-99,SC CITADELE BANKA,LT,maestro,debit
+636396,00-99,,RU,maestro,debit
+636406,00-99,,AE,maestro,debit
+636447,00-99,,NO,maestro,debit
+636448,00-99,,FR,maestro,debit
+636497,00-99,DROP TANK,US,fuel card,credit
+636500,00-99,,US,ebt,debit
+636501,00-99,,US,ebt,debit
+636502,00-99,,US,ebt,debit
+636503,00-99,,US,ebt,debit
+636504,00-99,,US,ebt,debit
+636505,00-99,,US,ebt,debit
+636506,00-99,,US,ebt,debit
+636507,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+636508,00-99,,US,ebt,debit
+636509,00-99,,US,ebt,debit
+636517,00-99,BANCO SABADELL S.A.,ES,maestro,debit
+636523,00-99,NEPAL INDUSTRIAL DEVELOPMENT CORPORATION LTD.,NP,maestro,debit
+636540,00-99,,US,ebt,debit
+636541,00-99,,US,ebt,debit
+636542,00-99,,US,ebt,debit
+636543,00-99,,US,ebt,debit
+636544,00-99,,US,ebt,debit
+636545,00-99,,US,ebt,debit
+636546,00-99,,US,ebt,debit
+636547,00-99,,US,ebt,debit
+636548,00-99,,US,maestro,debit
+636549,00-99,,US,ebt,debit
+636550,00-99,,US,ebt,debit
+636551,00-99,,US,ebt,debit
+636552,00-99,,US,ebt,debit
+636553,00-99,,US,ebt,debit
+636554,00-99,,US,ebt,debit
+636555,00-99,,US,ebt,debit
+636556,00-99,,US,ebt,debit
+636557,00-99,,US,ebt,debit
+636558,00-99,,US,ebt,debit
+636559,00-99,,US,ebt,debit
+636560,00-99,,US,ebt,debit
+636561,00-99,,US,ebt,debit
+636562,00-99,,US,ebt,debit
+636563,00-99,,US,ebt,debit
+636564,00-99,,US,ebt,debit
+636565,00-99,,US,ebt,debit
+636566,00-99,,US,ebt,debit
+636567,00-99,,US,ebt,debit
+636568,00-99,,US,ebt,debit
+636569,00-99,,US,ebt,debit
+636587,00-99,WORLDSTAR FREEDOM PLUS CARD,GB,maestro,debit
+636608,00-99,,NZ,maestro,debit
+636609,00-99,UNITY BANK,NG,local brand,debit
+636610,00-99,,US,ebt,debit
+636611,00-99,,US,ebt,debit
+636612,00-99,,CO,private label,debit
+636613,00-99,,US,ebt,debit
+636614,00-99,,US,ebt,debit
+636615,00-99,,US,ebt,debit
+636616,00-99,,US,ebt,debit
+636617,00-99,,US,ebt,debit
+636618,00-99,,US,ebt,debit
+636619,00-99,,US,ebt,debit
+636625,00-99,INDO AFRICA FINANCE,NG,verve,debit
+636628,00-99,,BE,maestro,debit
+636639,00-99,,AR,maestro,debit
+636684,00-99,,BR,maestro,debit
+636689,00-99,YAPI VE KREDI BANKASI A.S.,TR,maestro,debit
+636693,00-99,,RU,maestro,debit
+636704,00-99,,HU,maestro,debit
+636708,00-99,,US,maestro,debit
+636736,00-99,,BR,maestro,debit
+636760,00-99,,BR,private label,debit
+636761,00-99,,US,ebt,debit
+636762,00-99,,US,ebt,debit
+636763,00-99,,US,ebt,debit
+636764,00-99,,US,ebt,debit
+636765,00-99,,US,ebt,debit
+636766,00-99,,US,ebt,debit
+636767,00-99,,US,ebt,debit
+636768,00-99,,US,ebt,debit
+636769,00-99,,US,ebt,debit
+636778,00-99,,UY,maestro,debit
+636791,00-99,INFINITE PAYMENTS,US,ebt,debit
+636795,00-99,CENTRAL BANK OF THE ISLAMIC REPUBLIC OF IRAN,IR,local brand,debit
+636813,00-99,,US,ebt,debit
+636838,00-99,,US,cirrus,debit
+636842,00-99,,CA,maestro,debit
+636860,00-99,,GT,maestro,debit
+636868,00-99,,BR,maestro,debit
+636887,00-99,ALLIED MEMBERS CREDIT UNION LTD.,AU,eftpos,debit
+636888,00-99,,AU,eftpos,debit
+636889,00-99,CENTRAL WEST CREDIT UNION LTD,AU,eftpos,debit
+636890,00-99,EECU LTD.,AU,eftpos,debit
+636891,00-99,GOLDFIELDS CREDIT UNION LTD.,AU,eftpos,debit
+636892,00-99,HOLIDAY COAST CREDIT UNION LTD.,AU,eftpos,debit
+636893,00-99,THE ROCK BUILDING SOCIETY,AU,eftpos,debit
+636894,00-99,WOOLWORTHS EMPLOYEES CREDIT UNION LTD.,AU,eftpos,debit
+636895,00-99,,US,ebt,debit
+636896,00-99,,US,ebt,debit
+636897,00-99,,US,ebt,debit
+636898,00-99,,US,ebt,debit
+636899,00-99,,US,ebt,debit
+636908,00-99,,BR,private label,debit
+636920,00-99,OJSC JSB ROSSIYA,RU,private label,debit
+636937,00-99,,MX,maestro,debit
+636939,00-99,,NZ,maestro,debit
+636949,00-99,HEKMAT IRANIAN BANK,IR,local brand,debit
+636957,00-99,,ID,maestro,debit
+636964,00-99,,ZA,maestro,debit
+637000,00-99,NANCHONG COMMERCIAL BANK CO. LTD.,CN,local,debit
+637043,00-99,MTB MAGYAR TAKAREKSZOVETKEZETI BANK ZRT,HU,maestro,debit
+637058,00-99,SUMAC MICROFINANCE BANK,NG,verve,debit
+637060,00-99,ISTANBUL TRANSPORT CARD,TR,private label,debit
+637074,00-99,T. GARANTI BANKASI A.S.,TR,maestro,debit
+637090,00-99,,US,ebt,debit
+637091,00-99,,US,ebt,debit
+637092,00-99,,US,ebt,debit
+637093,00-99,,US,ebt,debit
+637094,00-99,,US,ebt,debit
+637095,00-99,ITAU UNIBANCO S.A.,BR,hipercard,debit
+637096,00-99,U.S. BANK N.A.,US,ebt,debit
+637097,00-99,,US,ebt,debit
+637098,00-99,,US,ebt,debit
+637099,00-99,,US,ebt,debit
+637102,00-99,SWEDBANK AB,SE,maestro,debit
+637118,00-99,,US,maestro,debit
+637161,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+637187,00-99,,US,maestro,debit
+637192,00-99,REDE DE CONVENIOS DO BRASIL LTDA,BR,maestro,debit
+637208,00-99,,US,cirrus,debit
+637217,00-99,STEPMONEY BRASIL S.A.,BR,maestro,debit
+637243,00-99,KENTKART EGE ELEKTRONIK A.S.,TR,maestro,debit
+637333,00-99,,PE,maestro,debit
+637364,00-99,,RU,maestro,debit
+637369,00-99,,RU,maestro,debit
+637470,00-99,BANESE CARD,BR,elo,credit
+637472,00-99,BANESE CARD,BR,elo,credit
+637473,00-99,BANESE CARD,BR,elo,credit
+637498,00-99,FLEXITI FINANCIAL,CA,private label,credit
+637529,00-99,,US,maestro,debit
+637553,00-99,,IT,private label,debit
+637556,00-99,STREAMPAY,LV,maestro,debit
+637568,00-99,,BR,maestro,debit
+637580,00-99,,US,ebt,debit
+637581,00-99,,US,ebt,debit
+637582,00-99,,US,ebt,debit
+637583,00-99,,US,ebt,debit
+637584,00-99,,US,ebt,debit
+637585,00-99,,US,ebt,debit
+637586,00-99,,US,ebt,debit
+637587,00-99,,US,ebt,debit
+637588,00-99,,US,ebt,debit
+637589,00-99,,US,ebt,debit
+637599,00-99,ITAU UNIBANCO S.A.,BR,hipercard,credit
+637600,00-99,,BR,maestro,debit
+637609,00-99,ITAU UNIBANCO S.A.,BR,hipercard,credit
+637612,00-99,ITAU UNIBANCO S.A.,BR,hipercard,credit
+637634,00-99,SIDIAN BANK,NG,verve,debit
+637707,00-99,MOBIPAY,NA,local brand,debit
+637780,00-99,,IT,maestro,debit
+638038,00-99,,US,ebt,debit
+638101,00-99,,BR,maestro,debit
+638209,00-99,NORDTHURIGER VOLKSBANK EG,DE,vpay,debit
+638216,00-99,,IT,maestro,debit
+638305,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+638400,00-99,U.S. BANK N.A.,US,ebt,debit
+638455,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+638564,00-99,,MA,maestro,debit
+638685,00-99,,GB,maestro,debit
+638888,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+639000,00-99,NATIONWIDE BUILDING SOCIETY,GB,maestro,debit
+639001,00-99,TURKIYE HALK BANKASI A.S.,TR,maestro,debit
+639002,00-99,SBERBANK OF RUSSIA,RU,maestro,debit
+639004,00-99,YAPI VE KREDI BANKASI A.S.,TR,maestro,debit
+639005,00-99,SBERBANK SLOVENSKO A.S.S,SK,maestro,debit
+639009,00-99,OTP BANKA SLOVENSKO A.S.,SK,maestro,debit
+639010,00-99,,CZ,maestro,debit
+639011,00-99,TATRA BANKA A.S.,SK,cirrus,debit
+639012,00-99,UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA A.S.,SK,maestro,debit
+639013,00-99,RIETUMU BANKA,LV,cirrus,debit
+639014,00-99,GROUPE BPCE,FR,cirrus,debit
+639015,00-99,BPCE,FR,maestro,debit
+639016,00-99,BPCE,FR,cirrus,debit
+639017,00-99,BPCE,FR,maestro,debit
+639018,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639019,00-99,BPCE,FR,maestro,debit
+639020,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639021,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639022,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,cirrus,debit
+639023,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,cirrus,debit
+639024,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639025,00-99,,RU,maestro,debit
+639026,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639027,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639028,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639029,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,cirrus,debit
+639030,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,cirrus,debit
+639031,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639032,00-99,CREDIT AGRICOLE S.A.,FR,cirrus,debit
+639033,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,cirrus,debit
+639034,00-99,BNP PARIBAS,FR,maestro,debit
+639035,00-99,GROUPE BPCE,FR,cirrus,debit
+639036,00-99,GROUPE BPCE,FR,cirrus,debit
+639037,00-99,BPCE,FR,maestro,debit
+639038,00-99,BPCE,FR,maestro,debit
+639039,00-99,GROUPE BPCE,FR,cirrus,debit
+639040,00-99,GROUPE BPCE,FR,cirrus,debit
+639041,00-99,GROUPE BPCE,FR,cirrus,debit
+639042,00-99,GROUPE BPCE,FR,cirrus,debit
+639043,00-99,BPCE,FR,maestro,debit
+639044,00-99,BPCE,FR,maestro,debit
+639045,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639046,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639047,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639048,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639049,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639050,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639051,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639052,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639053,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639054,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639055,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639056,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639057,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639058,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639059,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639060,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639061,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639062,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639063,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639064,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639065,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639066,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639067,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639068,00-99,LA BANQUE POSTALE,FR,maestro,debit
+639070,00-99,BPCE,FR,maestro,debit
+639071,00-99,BPCE,FR,maestro,debit
+639072,00-99,GROUPE BPCE,FR,maestro,debit
+639073,00-99,BPCE,FR,maestro,debit
+639074,00-99,BPCE,FR,maestro,debit
+639075,00-99,GROUPE BPCE,FR,cirrus,debit
+639076,00-99,BPCE,FR,maestro,debit
+639077,00-99,GROUPE BPCE,FR,cirrus,debit
+639078,00-99,BPCE,FR,maestro,debit
+639079,00-99,GROUPE BPCE,FR,cirrus,debit
+639080,00-99,GROUPE BPCE,FR,cirrus,debit
+639081,00-99,BPCE,FR,cirrus,debit
+639082,00-99,GROUPE BPCE,FR,cirrus,debit
+639083,00-99,BPCE,FR,maestro,debit
+639084,00-99,GROUPE BPCE,FR,cirrus,debit
+639085,00-99,BPCE,FR,maestro,debit
+639086,00-99,VAKIF KATILIM BANKASI,TR,maestro,debit
+639087,00-99,SWAN,NL,maestro,debit
+639088,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639089,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639090,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639091,00-99,CREDIT AGRICOLE S.A.,FR,cirrus,debit
+639092,00-99,SOCIETE GENERALE,FR,maestro,debit
+639095,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639096,00-99,BNP PARIBAS,FR,maestro,debit
+639097,00-99,,BE,maestro,debit
+639098,00-99,BANQUE FEDERATIVE DU CREDIT MUTUEL (BFCM),FR,maestro,debit
+639099,00-99,EUROBANK ERGASIAS S.A.,GR,maestro,debit
+639100,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639101,00-99,GROUPE BPCE,FR,maestro,debit
+639102,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639103,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639104,00-99,GROUPE BPCE,FR,maestro,debit
+639105,00-99,GROUPE BPCE,FR,maestro,debit
+639106,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639107,00-99,BPCE,FR,maestro,debit
+639108,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639109,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639110,00-99,GROUPE BPCE,FR,maestro,debit
+639111,00-99,GROUPE BPCE,FR,maestro,debit
+639112,00-99,GROUPE BPCE,FR,maestro,debit
+639113,00-99,GROUPE BPCE,FR,maestro,debit
+639114,00-99,GROUPE BPCE,FR,maestro,debit
+639115,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639116,00-99,GROUPE BPCE,FR,maestro,debit
+639117,00-99,GROUPE BPCE,FR,maestro,debit
+639118,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639119,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639120,00-99,GROUPE BPCE,FR,maestro,debit
+639121,00-99,GROUPE BPCE,FR,maestro,debit
+639122,00-99,GROUPE BPCE,FR,maestro,debit
+639123,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639124,00-99,GROUPE BPCE,FR,maestro,debit
+639125,00-99,GROUPE BPCE,FR,maestro,debit
+639126,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639127,00-99,GROUPE BPCE,FR,maestro,debit
+639128,00-99,GROUPE BPCE,FR,maestro,debit
+639129,00-99,MASTERCARD FRANCE S.A.S.,FR,maestro,debit
+639130,00-99,,AR,maestro,debit
+639133,00-99,,US,maestro,debit
+639135,00-99,,US,ebt,debit
+639138,00-99,FIDELITY BANK,NG,local brand,debit
+639139,00-99,,RU,maestro,debit
+639140,00-99,,US,ebt,debit
+639141,00-99,,US,ebt,debit
+639142,00-99,,US,ebt,debit
+639143,00-99,,US,ebt,debit
+639144,00-99,,US,ebt,debit
+639145,00-99,,US,ebt,debit
+639146,00-99,,US,ebt,debit
+639147,00-99,,US,ebt,debit
+639148,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+639149,00-99,,US,ebt,debit
+639150,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+639151,00-99,,MY,maestro,debit
+639152,00-99,,US,ebt,debit
+639153,00-99,,US,ebt,debit
+639154,00-99,,US,ebt,debit
+639155,00-99,,US,ebt,debit
+639156,00-99,,US,ebt,debit
+639157,00-99,,US,ebt,debit
+639158,00-99,,US,ebt,debit
+639159,00-99,,US,ebt,debit
+639161,00-99,CREDITO FONACOT,MX,maestro,credit
+639163,00-99,EMPORIKI BANK,BG,private label,debit
+639169,00-99,,ID,maestro,debit
+639170,00-99,RHB BANK BERHAD,MY,maestro,debit
+639171,00-99,,US,ebt,debit
+639172,00-99,,US,ebt,debit
+639173,00-99,,US,ebt,debit
+639174,00-99,,QA,maestro,debit
+639175,00-99,,US,ebt,debit
+639176,00-99,,US,ebt,debit
+639177,00-99,,US,ebt,debit
+639178,00-99,,US,ebt,debit
+639179,00-99,,US,ebt,debit
+639180,00-99,,US,ebt,debit
+639182,00-99,BANCOBIC,AO,local brand,debit
+639190,00-99,,US,ebt,debit
+639191,00-99,,US,cirrus,debit
+639192,00-99,,US,ebt,debit
+639193,00-99,,US,ebt,debit
+639194,00-99,,US,ebt,debit
+639195,00-99,,US,ebt,debit
+639196,00-99,,US,ebt,debit
+639197,00-99,,US,ebt,debit
+639198,00-99,,US,ebt,debit
+639199,00-99,,HU,maestro,debit
+639203,00-99,FCMB,NG,local brand,debit
+639207,00-99,,US,maestro,debit
+639212,00-99,,MX,maestro,debit
+639213,00-99,,AU,maestro,debit
+639215,00-99,,US,cirrus,debit
+639217,00-99,KESHAVARZI BANK,IR,local brand,debit
+639221,00-99,,US,maestro,debit
+639226,00-99,,US,maestro,debit
+639228,00-99,,US,ebt,debit
+639229,00-99,BANCO RIPLEY,US,maestro,debit
+639231,00-99,COMPROCARD,BR,maestro,debit
+639240,00-99,,BR,maestro,debit
+639241,00-99,,US,ebt,debit
+639242,00-99,,US,ebt,debit
+639243,00-99,,US,ebt,debit
+639245,00-99,JAMII BORA BANK,NG,verve,debit
+639248,00-99,,MX,maestro,debit
+639249,00-99,STERLING BANK,NG,local brand,debit
+639250,00-99,,US,ebt,debit
+639252,00-99,,US,ebt,debit
+639261,00-99,,US,maestro,debit
+639262,00-99,M AND M MEAT SHOPS LTD.,CA,private label,debit
+639266,00-99,,US,ebt,debit
+639286,00-99,,US,ebt,debit
+639293,00-99,,CO,private label,debit
+639294,00-99,,US,ebt,debit
+639300,00-99,MALINA LOYALTY CARD,RU,maestro,debit
+639304,00-99,,US,ebt,debit
+639305,00-99,CAPITAL ONE N.A.,US,private label,debit
+639310,00-99,U.S. BANK N.A.,US,ebt,debit
+639339,00-99,BC CARD CO. LTD.,KR,local,debit
+639341,00-99,MASTERCARD - MDS FOR EUROPE DE,US,ebt,debit
+639342,00-99,,US,ebt,debit
+639346,00-99,SINA BANK,IR,local brand,debit
+639347,00-99,PASARGAD BANK,IR,local brand,debit
+639350,00-99,,US,maestro,debit
+639352,00-99,,US,ebt,debit
+639358,00-99,,TH,maestro,debit
+639361,00-99,,US,cirrus,debit
+639362,00-99,,BR,maestro,debit
+639370,00-99,MEHR EQTESAD BANK,IR,local brand,debit
+639372,00-99,,HR,maestro,debit
+639381,00-99,,US,ebt,debit
+639383,00-99,GUARDIAN BANK KENYA,NG,verve,debit
+639388,00-99,INVEX,MX,carnet,debit
+639390,00-99,,RU,maestro,debit
+639391,00-99,,PK,maestro,debit
+639392,00-99,,PK,maestro,debit
+639393,00-99,,PK,maestro,debit
+639401,00-99,,BR,maestro,debit
+639406,00-99,KUWAIT FINANCE HOUSE (MALAYSIA) BERHAD,MY,maestro,debit
+639410,00-99,,US,ebt,debit
+639412,00-99,SGMA,NG,cmi,debit
+639419,00-99,,US,ebt,debit
+639424,00-99,,US,ebt,debit
+639425,00-99,,US,ebt,debit
+639426,00-99,,US,ebt,debit
+639427,00-99,,US,ebt,debit
+639428,00-99,,US,ebt,debit
+639429,00-99,,US,ebt,debit
+639430,00-99,,US,ebt,debit
+639440,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
+639443,00-99,ITAUCARD BANK,BR,private label,debit
+639444,00-99,,BG,maestro,debit
+639449,00-99,,US,ebt,debit
+639450,00-99,,BG,maestro,debit
+639451,00-99,,US,ebt,debit
+639452,00-99,,US,ebt,debit
+639453,00-99,,US,ebt,debit
+639454,00-99,,US,ebt,debit
+639455,00-99,,US,ebt,debit
+639456,00-99,,US,ebt,debit
+639457,00-99,,FI,maestro,debit
+639458,00-99,,US,ebt,debit
+639459,00-99,,US,ebt,debit
+639463,00-99,TD BANK N.A.,US,ebt,debit
+639466,00-99,,KE,maestro,debit
+639470,00-99,,US,ebt,debit
+639471,00-99,,US,ebt,debit
+639473,00-99,,US,ebt,debit
+639476,00-99,BRASIL CONVENIOS,BR,private label,debit
+639484,00-99,OPAM,MX,carnet,debit
+639485,00-99,,KE,maestro,debit
+639489,00-99,,US,maestro,debit
+639490,00-99,,US,ebt,debit
+639491,00-99,,US,ebt,debit
+639492,00-99,,US,ebt,debit
+639493,00-99,,US,ebt,debit
+639494,00-99,,US,ebt,debit
+639495,00-99,,US,ebt,debit
+639496,00-99,,US,ebt,debit
+639497,00-99,,US,ebt,debit
+639498,00-99,,US,ebt,debit
+639499,00-99,,US,ebt,debit
+639509,00-99,,MX,maestro,debit
+639531,00-99,,BR,maestro,debit
+639533,00-99,,BR,maestro,debit
+639539,00-99,,US,ebt,debit
+639540,00-99,,US,ebt,debit
+639541,00-99,VISA DPS,US,ebt,debit
+639542,00-99,,US,ebt,debit
+639543,00-99,,US,ebt,debit
+639544,00-99,,US,ebt,debit
+639545,00-99,,US,ebt,debit
+639546,00-99,,US,ebt,debit
+639547,00-99,,US,ebt,debit
+639548,00-99,,US,ebt,debit
+639549,00-99,,US,ebt,debit
+639555,00-99,,BR,maestro,debit
+639559,00-99,SI VALE,MX,carnet,debit
+639560,00-99,,US,ebt,debit
+639561,00-99,,TR,maestro,debit
+639562,00-99,,US,ebt,debit
+639563,00-99,,US,ebt,debit
+639564,00-99,,US,ebt,debit
+639565,00-99,,US,ebt,debit
+639566,00-99,U.S. BANK N.A.,US,ebt,debit
+639567,00-99,,US,ebt,debit
+639568,00-99,,US,ebt,debit
+639569,00-99,,US,ebt,debit
+639578,00-99,BC CARD CO. LTD.,KR,local,debit
+639583,00-99,,US,ebt,debit
+639589,00-99,,US,maestro,debit
+639590,00-99,,US,ebt,debit
+639591,00-99,,US,ebt,debit
+639592,00-99,,US,ebt,debit
+639593,00-99,,US,ebt,debit
+639594,00-99,,US,ebt,debit
+639595,00-99,,US,ebt,debit
+639596,00-99,,US,ebt,debit
+639597,00-99,,BR,maestro,debit
+639598,00-99,,US,ebt,debit
+639599,00-99,,US,ebt,debit
+639607,00-99,,IR,maestro,debit
+639610,00-99,,US,ebt,debit
+639611,00-99,,US,ebt,debit
+639612,00-99,,US,ebt,debit
+639613,00-99,,US,ebt,debit
+639614,00-99,,BR,maestro,debit
+639615,00-99,,US,ebt,debit
+639616,00-99,,US,ebt,debit
+639617,00-99,,US,ebt,debit
+639618,00-99,,KH,maestro,debit
+639619,00-99,,US,ebt,debit
+639623,00-99,BANK OF CHINA LTD.,CN,maestro,debit
+639626,00-99,,US,ebt,debit
+639628,00-99,,US,ebt,debit
+639640,00-99,,US,ebt,debit
+639641,00-99,,US,ebt,debit
+639642,00-99,,US,ebt,debit
+639643,00-99,,US,ebt,debit
+639644,00-99,,US,maestro,debit
+639645,00-99,,PA,maestro,debit
+639646,00-99,,US,ebt,debit
+639647,00-99,,US,ebt,debit
+639648,00-99,,US,ebt,debit
+639649,00-99,,MK,maestro,debit
+639650,00-99,SAMSUNG CARD CO. LTD.,KR,maestro,debit
+639659,00-99,,US,ebt,debit
+639664,00-99,BANRISUL,BR,maestro,debit
+639672,00-99,,US,ebt,debit
+639673,00-99,,KE,maestro,debit
+639760,00-99,,US,ebt,debit
+639761,00-99,,US,ebt,debit
+639762,00-99,,US,ebt,debit
+639763,00-99,,BR,maestro,debit
+639764,00-99,,BR,maestro,debit
+639765,00-99,VISA DPS,US,ebt,debit
+639766,00-99,VISA DPS,US,ebt,debit
+639767,00-99,VISA DPS,US,ebt,debit
+639768,00-99,,US,ebt,debit
+639769,00-99,,US,ebt,debit
+639777,00-99,,US,maestro,debit
+639778,00-99,,US,cirrus,debit
+639781,00-99,,US,maestro,debit
+639790,00-99,BANAMEX,MX,maestro,debit

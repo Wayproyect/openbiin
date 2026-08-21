@@ -1,0 +1,2526 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+310000,00-99,SHOWA SHELL,JP,jcb,credit
+310001,00-99,,JP,jcb,debit
+310002,00-99,,JP,jcb,debit
+310003,00-99,,JP,jcb,debit
+310004,00-99,,JP,jcb,debit
+310005,00-99,,JP,jcb,debit
+310006,00-99,,JP,jcb,debit
+310007,00-99,,JP,jcb,debit
+310008,00-99,,JP,jcb,debit
+310009,00-99,,JP,jcb,debit
+310010,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,jcb,debit
+310011,00-99,,JP,jcb,debit
+310012,00-99,,JP,jcb,debit
+310013,00-99,,JP,jcb,debit
+310014,00-99,,JP,jcb,debit
+310015,00-99,,JP,jcb,debit
+310016,00-99,,JP,jcb,debit
+310017,00-99,,JP,jcb,debit
+310018,00-99,,JP,jcb,debit
+310019,00-99,,JP,jcb,debit
+310020,00-99,,JP,jcb,debit
+310021,00-99,MIZUHO,JP,jcb,debit
+310022,00-99,,JP,jcb,debit
+310023,00-99,,JP,jcb,debit
+310024,00-99,,JP,jcb,debit
+310025,00-99,,JP,jcb,debit
+310026,00-99,,JP,jcb,debit
+310027,00-99,,JP,jcb,debit
+310028,00-99,,JP,jcb,debit
+310029,00-99,,JP,jcb,credit
+310030,00-99,,JP,jcb,debit
+310031,00-99,,JP,jcb,debit
+310032,00-99,,JP,jcb,debit
+310033,00-99,,JP,jcb,debit
+310034,00-99,,JP,jcb,debit
+310035,00-99,,JP,jcb,debit
+310036,00-99,,JP,jcb,debit
+310037,00-99,,JP,jcb,debit
+310038,00-99,,JP,jcb,debit
+310039,00-99,,JP,jcb,debit
+310040,00-99,,JP,jcb,debit
+310041,00-99,,JP,jcb,debit
+310042,00-99,,JP,jcb,debit
+310043,00-99,,JP,jcb,debit
+310044,00-99,,JP,jcb,debit
+310045,00-99,,JP,jcb,debit
+310046,00-99,,JP,jcb,debit
+310047,00-99,,JP,jcb,debit
+310048,00-99,,JP,jcb,debit
+310049,00-99,,JP,jcb,debit
+310050,00-99,,JP,jcb,debit
+310051,00-99,,JP,jcb,debit
+310052,00-99,,JP,jcb,debit
+310053,00-99,,JP,jcb,debit
+310054,00-99,,JP,jcb,debit
+310055,00-99,,JP,jcb,debit
+310056,00-99,,JP,jcb,debit
+310057,00-99,,JP,jcb,debit
+310058,00-99,,JP,jcb,debit
+310059,00-99,,JP,jcb,debit
+310060,00-99,,JP,jcb,debit
+310061,00-99,,JP,jcb,debit
+310062,00-99,,JP,jcb,debit
+310063,00-99,,JP,jcb,debit
+310064,00-99,,JP,jcb,debit
+310065,00-99,,JP,jcb,debit
+310066,00-99,,JP,jcb,debit
+310067,00-99,,JP,jcb,debit
+310068,00-99,,JP,jcb,debit
+310069,00-99,,JP,jcb,debit
+310070,00-99,,JP,jcb,debit
+310071,00-99,,JP,jcb,debit
+310072,00-99,,JP,jcb,debit
+310073,00-99,,JP,jcb,debit
+310074,00-99,,JP,jcb,debit
+310075,00-99,,JP,jcb,debit
+310076,00-99,,JP,jcb,debit
+310077,00-99,,JP,jcb,debit
+310078,00-99,,JP,jcb,debit
+310079,00-99,,JP,jcb,debit
+310080,00-99,,JP,jcb,debit
+310081,00-99,,JP,jcb,debit
+310082,00-99,,JP,jcb,debit
+310083,00-99,,JP,jcb,debit
+310084,00-99,,JP,jcb,debit
+310085,00-99,,JP,jcb,debit
+310086,00-99,,JP,jcb,debit
+310087,00-99,,JP,jcb,debit
+310088,00-99,,JP,jcb,debit
+310089,00-99,,JP,jcb,debit
+310090,00-99,,JP,jcb,debit
+310091,00-99,,JP,jcb,debit
+310092,00-99,,JP,jcb,debit
+310093,00-99,,JP,jcb,debit
+310094,00-99,,JP,jcb,debit
+310095,00-99,,JP,jcb,debit
+310096,00-99,,JP,jcb,debit
+310097,00-99,,JP,jcb,debit
+310098,00-99,,JP,jcb,debit
+310099,00-99,,JP,jcb,debit
+310100,00-99,,JP,jcb,debit
+310101,00-99,,JP,jcb,debit
+310102,00-99,,JP,jcb,debit
+310103,00-99,,JP,jcb,debit
+310104,00-99,,JP,jcb,debit
+310105,00-99,,JP,jcb,debit
+310106,00-99,,JP,jcb,debit
+310107,00-99,,JP,jcb,debit
+310108,00-99,,JP,jcb,debit
+310109,00-99,,JP,jcb,debit
+310110,00-99,,JP,jcb,debit
+310111,00-99,,JP,jcb,debit
+310112,00-99,,JP,jcb,debit
+310113,00-99,,JP,jcb,debit
+310114,00-99,,JP,jcb,debit
+310115,00-99,,JP,jcb,debit
+310116,00-99,,JP,jcb,debit
+310117,00-99,,JP,jcb,debit
+310118,00-99,,JP,jcb,debit
+310119,00-99,,JP,jcb,debit
+310120,00-99,,JP,jcb,debit
+310121,00-99,,JP,jcb,debit
+310122,00-99,,JP,jcb,debit
+310123,00-99,,JP,jcb,debit
+310124,00-99,,JP,jcb,debit
+310125,00-99,,JP,jcb,debit
+310126,00-99,,JP,jcb,debit
+310127,00-99,,JP,jcb,debit
+310128,00-99,,JP,jcb,debit
+310129,00-99,,JP,jcb,debit
+310130,00-99,,JP,jcb,debit
+310131,00-99,,JP,jcb,debit
+310132,00-99,,JP,jcb,debit
+310133,00-99,,JP,jcb,debit
+310134,00-99,,JP,jcb,debit
+310135,00-99,,JP,jcb,debit
+310136,00-99,,JP,jcb,credit
+310137,00-99,,JP,jcb,debit
+310138,00-99,,JP,jcb,debit
+310139,00-99,,JP,jcb,debit
+310140,00-99,,JP,jcb,debit
+310141,00-99,,JP,jcb,debit
+310142,00-99,,JP,jcb,debit
+310143,00-99,,JP,jcb,debit
+310144,00-99,,JP,jcb,debit
+310145,00-99,,JP,jcb,debit
+310146,00-99,,JP,jcb,debit
+310147,00-99,,JP,jcb,debit
+310148,00-99,,JP,jcb,debit
+310149,00-99,,JP,jcb,debit
+310150,00-99,,JP,jcb,debit
+310151,00-99,,JP,jcb,debit
+310152,00-99,,JP,jcb,debit
+310153,00-99,,JP,jcb,debit
+310154,00-99,,JP,jcb,debit
+310155,00-99,,JP,jcb,debit
+310156,00-99,,JP,jcb,credit
+310157,00-99,,JP,jcb,debit
+310158,00-99,,JP,jcb,debit
+310159,00-99,,JP,jcb,debit
+310160,00-99,,JP,jcb,debit
+310161,00-99,,JP,jcb,debit
+310162,00-99,,JP,jcb,debit
+310163,00-99,,JP,jcb,debit
+310164,00-99,,JP,jcb,debit
+310165,00-99,,JP,jcb,debit
+310166,00-99,,JP,jcb,debit
+310167,00-99,,JP,jcb,debit
+310168,00-99,,JP,jcb,debit
+310169,00-99,,JP,jcb,debit
+310170,00-99,,JP,jcb,debit
+310171,00-99,,JP,jcb,debit
+310172,00-99,,JP,jcb,debit
+310173,00-99,,JP,jcb,debit
+310174,00-99,,JP,jcb,debit
+310175,00-99,,JP,jcb,debit
+310176,00-99,,JP,jcb,debit
+310177,00-99,,JP,jcb,debit
+310178,00-99,,JP,jcb,debit
+310179,00-99,,JP,jcb,debit
+310180,00-99,,JP,jcb,debit
+310181,00-99,,JP,jcb,debit
+310182,00-99,,JP,jcb,debit
+310183,00-99,,JP,jcb,debit
+310184,00-99,,JP,jcb,debit
+310185,00-99,,JP,jcb,debit
+310186,00-99,,JP,jcb,debit
+310187,00-99,,JP,jcb,debit
+310188,00-99,,JP,jcb,debit
+310189,00-99,,JP,jcb,debit
+310190,00-99,,JP,jcb,debit
+310191,00-99,,JP,jcb,debit
+310192,00-99,,JP,jcb,debit
+310193,00-99,,JP,jcb,debit
+310194,00-99,,JP,jcb,debit
+310195,00-99,,JP,jcb,debit
+310196,00-99,,JP,jcb,debit
+310197,00-99,,JP,jcb,debit
+310198,00-99,,JP,jcb,debit
+310199,00-99,,JP,jcb,debit
+310200,00-99,,JP,jcb,debit
+310201,00-99,,JP,jcb,debit
+310202,00-99,,JP,jcb,debit
+310203,00-99,,JP,jcb,debit
+310204,00-99,,JP,jcb,debit
+310205,00-99,,JP,jcb,debit
+310206,00-99,,JP,jcb,debit
+310207,00-99,,JP,jcb,debit
+310208,00-99,,JP,jcb,debit
+310209,00-99,,JP,jcb,debit
+310210,00-99,,JP,jcb,debit
+310211,00-99,,JP,jcb,debit
+310212,00-99,,JP,jcb,debit
+310213,00-99,,JP,jcb,debit
+310214,00-99,,JP,jcb,debit
+310215,00-99,,JP,jcb,debit
+310216,00-99,,JP,jcb,debit
+310217,00-99,,JP,jcb,debit
+310218,00-99,,JP,jcb,debit
+310219,00-99,,JP,jcb,debit
+310220,00-99,,JP,jcb,debit
+310221,00-99,,JP,jcb,debit
+310222,00-99,,JP,jcb,debit
+310223,00-99,,JP,jcb,debit
+310224,00-99,,JP,jcb,debit
+310225,00-99,,JP,jcb,debit
+310226,00-99,,JP,jcb,debit
+310227,00-99,,JP,jcb,debit
+310228,00-99,,JP,jcb,debit
+310229,00-99,,JP,jcb,debit
+310230,00-99,,JP,jcb,debit
+310231,00-99,,JP,jcb,debit
+310232,00-99,,JP,jcb,debit
+310233,00-99,,JP,jcb,debit
+310234,00-99,,JP,jcb,debit
+310235,00-99,,JP,jcb,debit
+310236,00-99,,JP,jcb,debit
+310237,00-99,,JP,jcb,debit
+310238,00-99,,JP,jcb,debit
+310239,00-99,,JP,jcb,debit
+310240,00-99,,JP,jcb,debit
+310241,00-99,,JP,jcb,debit
+310242,00-99,,JP,jcb,debit
+310243,00-99,,JP,jcb,debit
+310244,00-99,,JP,jcb,debit
+310245,00-99,,JP,jcb,debit
+310246,00-99,,JP,jcb,debit
+310247,00-99,,JP,jcb,debit
+310248,00-99,,JP,jcb,debit
+310249,00-99,,JP,jcb,debit
+310250,00-99,,JP,jcb,debit
+310251,00-99,,JP,jcb,debit
+310252,00-99,,JP,jcb,debit
+310253,00-99,,JP,jcb,debit
+310254,00-99,,JP,jcb,debit
+310255,00-99,,JP,jcb,debit
+310256,00-99,,JP,jcb,debit
+310257,00-99,,JP,jcb,debit
+310258,00-99,,JP,jcb,debit
+310259,00-99,,JP,jcb,debit
+310260,00-99,,JP,jcb,debit
+310261,00-99,,JP,jcb,debit
+310262,00-99,,JP,jcb,debit
+310263,00-99,,JP,jcb,debit
+310264,00-99,,JP,jcb,debit
+310265,00-99,,JP,jcb,debit
+310266,00-99,,JP,jcb,debit
+310267,00-99,,JP,jcb,debit
+310268,00-99,,JP,jcb,debit
+310269,00-99,,JP,jcb,debit
+310270,00-99,,JP,jcb,debit
+310271,00-99,,JP,jcb,debit
+310272,00-99,,JP,jcb,debit
+310273,00-99,,JP,jcb,debit
+310274,00-99,,JP,jcb,debit
+310275,00-99,,JP,jcb,debit
+310276,00-99,,JP,jcb,debit
+310277,00-99,,JP,jcb,debit
+310278,00-99,,JP,jcb,debit
+310279,00-99,,JP,jcb,debit
+310280,00-99,,JP,jcb,debit
+310281,00-99,,JP,jcb,debit
+310282,00-99,,JP,jcb,debit
+310283,00-99,,JP,jcb,debit
+310284,00-99,,JP,jcb,debit
+310285,00-99,,JP,jcb,debit
+310286,00-99,,JP,jcb,debit
+310287,00-99,,JP,jcb,debit
+310288,00-99,,JP,jcb,debit
+310289,00-99,,JP,jcb,debit
+310290,00-99,,JP,jcb,debit
+310291,00-99,,JP,jcb,debit
+310292,00-99,,JP,jcb,debit
+310293,00-99,,JP,jcb,debit
+310294,00-99,,JP,jcb,debit
+310295,00-99,,JP,jcb,debit
+310296,00-99,,JP,jcb,debit
+310297,00-99,,JP,jcb,debit
+310298,00-99,,JP,jcb,debit
+310299,00-99,,JP,jcb,debit
+310417,00-99,,US,private label,debit
+310422,00-99,,TR,private label,debit
+310473,00-99,中华人民共和国交通运输部,,交通联合,debit
+310474,00-99,中华人民共和国交通运输部,,交通联合,debit
+310475,00-99,中华人民共和国交通运输部,,交通联合,debit
+310476,00-99,中华人民共和国交通运输部,,交通联合,debit
+310477,00-99,中华人民共和国交通运输部,CN,交通联合,debit
+310478,00-99,中华人民共和国交通运输部,,交通联合,debit
+310479,00-99,中华人民共和国交通运输部,,交通联合,debit
+310480,00-99,中华人民共和国交通运输部,,交通联合,debit
+310481,00-99,中华人民共和国交通运输部,,交通联合,debit
+310482,00-99,中华人民共和国交通运输部,,交通联合,debit
+310483,00-99,中华人民共和国交通运输部,,交通联合,debit
+310484,00-99,中华人民共和国交通运输部,,交通联合,debit
+310485,00-99,中华人民共和国交通运输部,,交通联合,debit
+310486,00-99,中华人民共和国交通运输部,,交通联合,debit
+310487,00-99,中华人民共和国交通运输部,,交通联合,debit
+310488,00-99,中华人民共和国交通运输部,,交通联合,debit
+310489,00-99,中华人民共和国交通运输部,,交通联合,debit
+310490,00-99,中华人民共和国交通运输部,,交通联合,debit
+310491,00-99,中华人民共和国交通运输部,,交通联合,debit
+310492,00-99,中华人民共和国交通运输部,,交通联合,debit
+310493,00-99,中华人民共和国交通运输部,,交通联合,debit
+310494,00-99,中华人民共和国交通运输部,,交通联合,debit
+310495,00-99,中华人民共和国交通运输部,,交通联合,debit
+310496,00-99,中华人民共和国交通运输部,,交通联合,debit
+310497,00-99,中华人民共和国交通运输部,,交通联合,debit
+310498,00-99,中华人民共和国交通运输部,,交通联合,debit
+310499,00-99,中华人民共和国交通运输部,,交通联合,debit
+310511,00-99,中华人民共和国交通运输部,,交通联合,debit
+310512,00-99,中华人民共和国交通运输部,,交通联合,debit
+310513,00-99,中华人民共和国交通运输部,,交通联合,debit
+310514,00-99,中华人民共和国交通运输部,,交通联合,debit
+310517,00-99,中华人民共和国交通运输部,,交通联合,debit
+311002,00-99,,US,private label,debit
+311003,00-99,,US,private label,debit
+311005,00-99,,US,private label,debit
+311006,00-99,,US,private label,debit
+311007,00-99,,US,private label,debit
+311008,00-99,,US,private label,debit
+311009,00-99,,US,private label,debit
+311017,00-99,,US,private label,debit
+311040,00-99,,US,private label,debit
+311041,00-99,,US,private label,debit
+311042,00-99,,US,private label,debit
+311043,00-99,,US,private label,debit
+311044,00-99,,US,private label,debit
+311045,00-99,,US,private label,debit
+311047,00-99,,US,private label,debit
+311048,00-99,,US,private label,debit
+311049,00-99,,US,private label,debit
+311070,00-99,,US,private label,debit
+311071,00-99,,US,private label,debit
+311072,00-99,,US,private label,debit
+311073,00-99,,US,private label,debit
+311074,00-99,,US,private label,debit
+311075,00-99,,US,private label,debit
+311077,00-99,,US,private label,debit
+311079,00-99,,US,private label,debit
+311090,00-99,,US,private label,debit
+311091,00-99,,US,private label,debit
+311092,00-99,,US,private label,debit
+311093,00-99,,US,private label,debit
+311094,00-99,,US,private label,debit
+311095,00-99,,US,private label,debit
+311097,00-99,,US,private label,debit
+311098,00-99,,US,private label,debit
+311099,00-99,,US,private label,debit
+311129,00-99,,US,private label,debit
+311130,00-99,,US,private label,debit
+311137,00-99,,US,private label,debit
+311138,00-99,,US,private label,debit
+311142,00-99,,US,private label,debit
+311143,00-99,,US,private label,debit
+311183,00-99,,NG,diners club international,credit
+311200,00-99,,JP,jcb,debit
+311201,00-99,,JP,jcb,debit
+311202,00-99,,JP,jcb,debit
+311203,00-99,,JP,jcb,debit
+311204,00-99,,JP,jcb,debit
+311205,00-99,,JP,jcb,debit
+311206,00-99,,JP,jcb,debit
+311207,00-99,,JP,jcb,debit
+311208,00-99,,JP,jcb,credit
+311209,00-99,,JP,jcb,debit
+311210,00-99,,JP,jcb,debit
+311211,00-99,,JP,jcb,debit
+311212,00-99,,JP,jcb,debit
+311213,00-99,,JP,jcb,debit
+311214,00-99,,JP,jcb,credit
+311215,00-99,,JP,jcb,debit
+311216,00-99,,JP,jcb,debit
+311217,00-99,,JP,jcb,debit
+311218,00-99,,JP,jcb,debit
+311219,00-99,,JP,jcb,debit
+311220,00-99,,JP,jcb,debit
+311221,00-99,,JP,jcb,debit
+311222,00-99,,JP,jcb,debit
+311223,00-99,,JP,jcb,debit
+311224,00-99,,JP,jcb,debit
+311225,00-99,,JP,jcb,debit
+311226,00-99,,JP,jcb,debit
+311227,00-99,,JP,jcb,debit
+311228,00-99,,JP,jcb,debit
+311229,00-99,,JP,jcb,debit
+311230,00-99,,JP,jcb,debit
+311231,00-99,,JP,jcb,debit
+311232,00-99,,JP,jcb,debit
+311233,00-99,,JP,jcb,debit
+311234,00-99,,JP,jcb,debit
+311235,00-99,,JP,jcb,debit
+311236,00-99,,JP,jcb,debit
+311237,00-99,,JP,jcb,debit
+311238,00-99,,JP,jcb,debit
+311239,00-99,,JP,jcb,debit
+311240,00-99,,JP,jcb,debit
+311241,00-99,,JP,jcb,debit
+311242,00-99,,JP,jcb,debit
+311243,00-99,,JP,jcb,debit
+311244,00-99,,JP,jcb,debit
+311245,00-99,,JP,jcb,debit
+311246,00-99,,JP,jcb,debit
+311247,00-99,,JP,jcb,debit
+311248,00-99,,JP,jcb,debit
+311249,00-99,,JP,jcb,debit
+311250,00-99,,JP,jcb,debit
+311251,00-99,,JP,jcb,debit
+311252,00-99,,JP,jcb,debit
+311253,00-99,,JP,jcb,debit
+311254,00-99,,JP,jcb,debit
+311255,00-99,,JP,jcb,debit
+311256,00-99,,JP,jcb,debit
+311257,00-99,,JP,jcb,debit
+311258,00-99,,JP,jcb,debit
+311259,00-99,,JP,jcb,debit
+311260,00-99,,JP,jcb,debit
+311261,00-99,,JP,jcb,debit
+311262,00-99,,JP,jcb,debit
+311263,00-99,,JP,jcb,debit
+311264,00-99,,JP,jcb,debit
+311265,00-99,,JP,jcb,debit
+311266,00-99,,JP,jcb,debit
+311267,00-99,,JP,jcb,debit
+311268,00-99,,JP,jcb,debit
+311269,00-99,,JP,jcb,debit
+311270,00-99,,JP,jcb,debit
+311271,00-99,,JP,jcb,debit
+311272,00-99,,JP,jcb,debit
+311273,00-99,,JP,jcb,debit
+311274,00-99,,JP,jcb,debit
+311275,00-99,,JP,jcb,debit
+311276,00-99,,JP,jcb,debit
+311277,00-99,,JP,jcb,debit
+311278,00-99,,JP,jcb,debit
+311279,00-99,,JP,jcb,debit
+311280,00-99,,JP,jcb,debit
+311281,00-99,,JP,jcb,debit
+311282,00-99,,JP,jcb,debit
+311283,00-99,,JP,jcb,debit
+311284,00-99,,JP,jcb,credit
+311285,00-99,,JP,jcb,debit
+311286,00-99,,JP,jcb,debit
+311287,00-99,,JP,jcb,debit
+311288,00-99,,JP,jcb,debit
+311289,00-99,,JP,jcb,debit
+311290,00-99,,JP,jcb,debit
+311291,00-99,,JP,jcb,debit
+311292,00-99,,JP,jcb,debit
+311293,00-99,,JP,jcb,debit
+311294,00-99,,JP,jcb,debit
+311295,00-99,,JP,jcb,debit
+311296,00-99,,JP,jcb,debit
+311297,00-99,,JP,jcb,debit
+311298,00-99,,JP,jcb,debit
+311299,00-99,,JP,jcb,debit
+311300,00-99,,JP,jcb,debit
+311301,00-99,,JP,jcb,debit
+311302,00-99,,JP,jcb,debit
+311303,00-99,,JP,jcb,debit
+311304,00-99,,JP,jcb,debit
+311305,00-99,,JP,jcb,debit
+311306,00-99,,JP,jcb,debit
+311307,00-99,,JP,jcb,debit
+311308,00-99,,JP,jcb,debit
+311309,00-99,,JP,jcb,debit
+311310,00-99,,JP,jcb,debit
+311311,00-99,,JP,jcb,debit
+311312,00-99,,JP,jcb,debit
+311313,00-99,,JP,jcb,debit
+311314,00-99,,JP,jcb,debit
+311315,00-99,,JP,jcb,debit
+311316,00-99,,JP,jcb,debit
+311317,00-99,,JP,jcb,debit
+311318,00-99,,JP,jcb,debit
+311319,00-99,,JP,jcb,debit
+311320,00-99,,JP,jcb,debit
+311321,00-99,,JP,jcb,debit
+311322,00-99,,JP,jcb,debit
+311323,00-99,,JP,jcb,debit
+311324,00-99,,JP,jcb,debit
+311325,00-99,,JP,jcb,debit
+311326,00-99,,JP,jcb,debit
+311327,00-99,,JP,jcb,debit
+311328,00-99,,JP,jcb,debit
+311329,00-99,,JP,jcb,debit
+311330,00-99,,JP,jcb,debit
+311331,00-99,,JP,jcb,debit
+311332,00-99,,JP,jcb,debit
+311333,00-99,,JP,jcb,debit
+311334,00-99,,JP,jcb,debit
+311335,00-99,,JP,jcb,debit
+311336,00-99,,JP,jcb,debit
+311337,00-99,,JP,jcb,debit
+311338,00-99,,JP,jcb,debit
+311339,00-99,,JP,jcb,debit
+311340,00-99,,JP,jcb,debit
+311341,00-99,,JP,jcb,debit
+311342,00-99,,JP,jcb,debit
+311343,00-99,,JP,jcb,debit
+311344,00-99,,JP,jcb,debit
+311345,00-99,,JP,jcb,debit
+311346,00-99,,JP,jcb,debit
+311347,00-99,,JP,jcb,debit
+311348,00-99,,JP,jcb,debit
+311349,00-99,,JP,jcb,debit
+311350,00-99,,JP,jcb,debit
+311351,00-99,,JP,jcb,debit
+311352,00-99,,JP,jcb,debit
+311353,00-99,,JP,jcb,debit
+311354,00-99,,JP,jcb,debit
+311355,00-99,,JP,jcb,debit
+311356,00-99,,JP,jcb,debit
+311357,00-99,,JP,jcb,debit
+311358,00-99,,JP,jcb,debit
+311359,00-99,,JP,jcb,debit
+311360,00-99,,JP,jcb,debit
+311361,00-99,,JP,jcb,debit
+311362,00-99,,JP,jcb,debit
+311363,00-99,,JP,jcb,debit
+311364,00-99,,JP,jcb,debit
+311365,00-99,,JP,jcb,debit
+311366,00-99,,JP,jcb,debit
+311367,00-99,,JP,jcb,debit
+311368,00-99,,JP,jcb,debit
+311369,00-99,,JP,jcb,debit
+311370,00-99,,JP,jcb,debit
+311371,00-99,,JP,jcb,debit
+311372,00-99,,JP,jcb,debit
+311373,00-99,,JP,jcb,debit
+311374,00-99,,JP,jcb,debit
+311375,00-99,,JP,jcb,debit
+311376,00-99,,JP,jcb,debit
+311377,00-99,,JP,jcb,debit
+311378,00-99,,JP,jcb,debit
+311379,00-99,,JP,jcb,debit
+311380,00-99,,JP,jcb,debit
+311381,00-99,,JP,jcb,debit
+311382,00-99,,JP,jcb,debit
+311383,00-99,,JP,jcb,debit
+311384,00-99,,JP,jcb,debit
+311385,00-99,,JP,jcb,debit
+311386,00-99,,JP,jcb,debit
+311387,00-99,,JP,jcb,debit
+311388,00-99,,JP,jcb,debit
+311389,00-99,,JP,jcb,debit
+311390,00-99,,JP,jcb,debit
+311391,00-99,,JP,jcb,debit
+311392,00-99,,JP,jcb,debit
+311393,00-99,,JP,jcb,debit
+311394,00-99,,JP,jcb,debit
+311395,00-99,,JP,jcb,debit
+311396,00-99,,JP,jcb,debit
+311397,00-99,,JP,jcb,debit
+311398,00-99,,JP,jcb,credit
+311399,00-99,,JP,jcb,debit
+311400,00-99,,JP,jcb,debit
+311401,00-99,,JP,jcb,debit
+311402,00-99,,JP,jcb,debit
+311403,00-99,,JP,jcb,debit
+311404,00-99,,JP,jcb,debit
+311405,00-99,,JP,jcb,debit
+311406,00-99,,JP,jcb,debit
+311407,00-99,,JP,jcb,debit
+311408,00-99,,JP,jcb,debit
+311409,00-99,,JP,jcb,debit
+311410,00-99,,JP,jcb,debit
+311411,00-99,,JP,jcb,debit
+311412,00-99,,JP,jcb,debit
+311413,00-99,,JP,jcb,debit
+311414,00-99,,JP,jcb,debit
+311415,00-99,,JP,jcb,debit
+311416,00-99,,JP,jcb,debit
+311417,00-99,,JP,jcb,debit
+311418,00-99,,JP,jcb,debit
+311419,00-99,,JP,jcb,debit
+311420,00-99,,JP,jcb,debit
+311421,00-99,,JP,jcb,debit
+311422,00-99,,JP,jcb,debit
+311423,00-99,,JP,jcb,debit
+311424,00-99,,JP,jcb,debit
+311425,00-99,,JP,jcb,debit
+311426,00-99,,JP,jcb,debit
+311427,00-99,,JP,jcb,debit
+311428,00-99,,JP,jcb,debit
+311429,00-99,,JP,jcb,debit
+311430,00-99,,JP,jcb,debit
+311431,00-99,,JP,jcb,debit
+311432,00-99,,JP,jcb,debit
+311433,00-99,,JP,jcb,debit
+311434,00-99,,JP,jcb,debit
+311435,00-99,,JP,jcb,debit
+311436,00-99,,JP,jcb,debit
+311437,00-99,,JP,jcb,debit
+311438,00-99,,JP,jcb,debit
+311439,00-99,,JP,jcb,debit
+311440,00-99,,JP,jcb,debit
+311441,00-99,,JP,jcb,debit
+311442,00-99,,JP,jcb,debit
+311443,00-99,,JP,jcb,debit
+311444,00-99,,JP,jcb,debit
+311445,00-99,,JP,jcb,debit
+311446,00-99,,JP,jcb,debit
+311447,00-99,,JP,jcb,debit
+311448,00-99,,JP,jcb,debit
+311449,00-99,,JP,jcb,debit
+311450,00-99,,JP,jcb,debit
+311451,00-99,,JP,jcb,debit
+311452,00-99,,JP,jcb,debit
+311453,00-99,,JP,jcb,debit
+311454,00-99,,JP,jcb,debit
+311455,00-99,,JP,jcb,debit
+311456,00-99,,JP,jcb,debit
+311457,00-99,,JP,jcb,debit
+311458,00-99,,JP,jcb,debit
+311459,00-99,,JP,jcb,debit
+311460,00-99,,JP,jcb,debit
+311461,00-99,,JP,jcb,debit
+311462,00-99,,JP,jcb,debit
+311463,00-99,,JP,jcb,debit
+311464,00-99,,JP,jcb,debit
+311465,00-99,,JP,jcb,debit
+311466,00-99,,JP,jcb,debit
+311467,00-99,,JP,jcb,debit
+311468,00-99,,JP,jcb,debit
+311469,00-99,,JP,jcb,debit
+311470,00-99,,JP,jcb,debit
+311471,00-99,,JP,jcb,debit
+311472,00-99,,JP,jcb,debit
+311473,00-99,,JP,jcb,debit
+311474,00-99,,JP,jcb,debit
+311475,00-99,,JP,jcb,debit
+311476,00-99,,JP,jcb,debit
+311477,00-99,,JP,jcb,debit
+311478,00-99,,JP,jcb,debit
+311479,00-99,,JP,jcb,debit
+311480,00-99,,JP,jcb,debit
+311481,00-99,,JP,jcb,debit
+311482,00-99,,JP,jcb,debit
+311483,00-99,,JP,jcb,debit
+311484,00-99,,JP,jcb,debit
+311485,00-99,,JP,jcb,debit
+311486,00-99,,JP,jcb,debit
+311487,00-99,,JP,jcb,debit
+311488,00-99,,JP,jcb,debit
+311489,00-99,,JP,jcb,debit
+311490,00-99,,JP,jcb,debit
+311491,00-99,,JP,jcb,debit
+311492,00-99,,JP,jcb,debit
+311493,00-99,,JP,jcb,debit
+311494,00-99,,JP,jcb,debit
+311495,00-99,,JP,jcb,debit
+311496,00-99,,JP,jcb,debit
+311497,00-99,,JP,jcb,debit
+311498,00-99,,JP,jcb,debit
+311499,00-99,,JP,jcb,debit
+311500,00-99,,JP,jcb,debit
+311501,00-99,,JP,jcb,debit
+311502,00-99,,JP,jcb,debit
+311503,00-99,,JP,jcb,debit
+311504,00-99,,JP,jcb,debit
+311505,00-99,,JP,jcb,debit
+311506,00-99,,JP,jcb,debit
+311507,00-99,,JP,jcb,debit
+311508,00-99,,JP,jcb,debit
+311509,00-99,,JP,jcb,debit
+311510,00-99,,JP,jcb,debit
+311511,00-99,,JP,jcb,debit
+311512,00-99,,JP,jcb,debit
+311513,00-99,,JP,jcb,debit
+311514,00-99,,JP,jcb,debit
+311515,00-99,,JP,jcb,debit
+311516,00-99,,JP,jcb,debit
+311517,00-99,,JP,jcb,debit
+311518,00-99,,JP,jcb,debit
+311519,00-99,,JP,jcb,debit
+311520,00-99,,JP,jcb,debit
+311521,00-99,,JP,jcb,debit
+311522,00-99,,JP,jcb,debit
+311523,00-99,,JP,jcb,debit
+311524,00-99,,JP,jcb,debit
+311525,00-99,,JP,jcb,debit
+311526,00-99,,JP,jcb,debit
+311527,00-99,,JP,jcb,debit
+311528,00-99,,JP,jcb,debit
+311529,00-99,,JP,jcb,debit
+311530,00-99,,JP,jcb,debit
+311531,00-99,,JP,jcb,debit
+311532,00-99,,JP,jcb,debit
+311533,00-99,,JP,jcb,debit
+311534,00-99,,JP,jcb,debit
+311535,00-99,,JP,jcb,debit
+311536,00-99,,JP,jcb,debit
+311537,00-99,,JP,jcb,debit
+311538,00-99,,JP,jcb,debit
+311539,00-99,,JP,jcb,debit
+311540,00-99,,JP,jcb,debit
+311541,00-99,,JP,jcb,debit
+311542,00-99,,JP,jcb,debit
+311543,00-99,,JP,jcb,debit
+311544,00-99,,JP,jcb,debit
+311545,00-99,,JP,jcb,debit
+311546,00-99,,JP,jcb,debit
+311547,00-99,,JP,jcb,debit
+311548,00-99,,JP,jcb,debit
+311549,00-99,,JP,jcb,debit
+311550,00-99,,JP,jcb,debit
+311551,00-99,,JP,jcb,debit
+311552,00-99,,JP,jcb,debit
+311553,00-99,,JP,jcb,debit
+311554,00-99,,JP,jcb,debit
+311555,00-99,,JP,jcb,debit
+311556,00-99,,JP,jcb,debit
+311557,00-99,,JP,jcb,debit
+311558,00-99,,JP,jcb,debit
+311559,00-99,,JP,jcb,debit
+311560,00-99,,JP,jcb,debit
+311561,00-99,,JP,jcb,debit
+311562,00-99,,JP,jcb,debit
+311563,00-99,,JP,jcb,debit
+311564,00-99,,JP,jcb,debit
+311565,00-99,,JP,jcb,debit
+311566,00-99,,JP,jcb,debit
+311567,00-99,,JP,jcb,debit
+311568,00-99,,JP,jcb,debit
+311569,00-99,,JP,jcb,debit
+311570,00-99,,JP,jcb,debit
+311571,00-99,,JP,jcb,debit
+311572,00-99,,JP,jcb,debit
+311573,00-99,,JP,jcb,debit
+311574,00-99,,JP,jcb,debit
+311575,00-99,,JP,jcb,debit
+311576,00-99,,JP,jcb,debit
+311577,00-99,,JP,jcb,debit
+311578,00-99,,JP,jcb,debit
+311579,00-99,,JP,jcb,debit
+311580,00-99,,JP,jcb,debit
+311581,00-99,,JP,jcb,debit
+311582,00-99,,JP,jcb,debit
+311583,00-99,,JP,jcb,debit
+311584,00-99,,JP,jcb,debit
+311585,00-99,,JP,jcb,debit
+311586,00-99,,JP,jcb,debit
+311587,00-99,,JP,jcb,debit
+311588,00-99,,JP,jcb,debit
+311589,00-99,,JP,jcb,debit
+311590,00-99,,JP,jcb,debit
+311591,00-99,,JP,jcb,debit
+311592,00-99,,JP,jcb,debit
+311593,00-99,,JP,jcb,debit
+311594,00-99,,JP,jcb,debit
+311595,00-99,,JP,jcb,debit
+311596,00-99,,JP,jcb,debit
+311597,00-99,,JP,jcb,debit
+311598,00-99,,JP,jcb,debit
+311599,00-99,,JP,jcb,debit
+311600,00-99,,JP,jcb,debit
+311601,00-99,,JP,jcb,debit
+311602,00-99,,JP,jcb,debit
+311603,00-99,,JP,jcb,debit
+311604,00-99,,JP,jcb,debit
+311605,00-99,,JP,jcb,debit
+311606,00-99,,JP,jcb,debit
+311607,00-99,,JP,jcb,debit
+311608,00-99,,JP,jcb,debit
+311609,00-99,,JP,jcb,debit
+311610,00-99,,JP,jcb,debit
+311611,00-99,,JP,jcb,debit
+311612,00-99,,JP,jcb,debit
+311613,00-99,,JP,jcb,debit
+311614,00-99,,JP,jcb,debit
+311615,00-99,,JP,jcb,debit
+311616,00-99,,JP,jcb,debit
+311617,00-99,,JP,jcb,debit
+311618,00-99,,JP,jcb,debit
+311619,00-99,,JP,jcb,debit
+311620,00-99,,JP,jcb,debit
+311621,00-99,,JP,jcb,debit
+311622,00-99,,JP,jcb,debit
+311623,00-99,,JP,jcb,debit
+311624,00-99,,JP,jcb,debit
+311625,00-99,,JP,jcb,debit
+311626,00-99,,JP,jcb,debit
+311627,00-99,,JP,jcb,debit
+311628,00-99,,JP,jcb,debit
+311629,00-99,,JP,jcb,debit
+311630,00-99,,JP,jcb,debit
+311631,00-99,,JP,jcb,debit
+311632,00-99,,JP,jcb,debit
+311633,00-99,,JP,jcb,debit
+311634,00-99,,JP,jcb,debit
+311635,00-99,,JP,jcb,debit
+311636,00-99,,JP,jcb,debit
+311637,00-99,,JP,jcb,debit
+311638,00-99,,JP,jcb,debit
+311639,00-99,,JP,jcb,debit
+311640,00-99,,JP,jcb,debit
+311641,00-99,,JP,jcb,debit
+311642,00-99,,JP,jcb,debit
+311643,00-99,,JP,jcb,debit
+311644,00-99,,JP,jcb,debit
+311645,00-99,,JP,jcb,debit
+311646,00-99,,JP,jcb,debit
+311647,00-99,,JP,jcb,debit
+311648,00-99,,JP,jcb,debit
+311649,00-99,,JP,jcb,debit
+311650,00-99,,JP,jcb,debit
+311651,00-99,,JP,jcb,debit
+311652,00-99,,JP,jcb,debit
+311653,00-99,,JP,jcb,debit
+311654,00-99,,JP,jcb,debit
+311655,00-99,,JP,jcb,debit
+311656,00-99,,JP,jcb,debit
+311657,00-99,,JP,jcb,debit
+311658,00-99,,JP,jcb,debit
+311659,00-99,,JP,jcb,debit
+311660,00-99,,JP,jcb,debit
+311661,00-99,,JP,jcb,debit
+311662,00-99,,JP,jcb,debit
+311663,00-99,,JP,jcb,debit
+311664,00-99,,JP,jcb,debit
+311665,00-99,,JP,jcb,debit
+311666,00-99,,JP,jcb,debit
+311667,00-99,,JP,jcb,debit
+311668,00-99,,JP,jcb,debit
+311669,00-99,,JP,jcb,debit
+311670,00-99,,JP,jcb,debit
+311671,00-99,,JP,jcb,debit
+311672,00-99,,JP,jcb,debit
+311673,00-99,,JP,jcb,debit
+311674,00-99,,JP,jcb,debit
+311675,00-99,,JP,jcb,debit
+311676,00-99,,JP,jcb,debit
+311677,00-99,,JP,jcb,debit
+311678,00-99,,JP,jcb,debit
+311679,00-99,,JP,jcb,debit
+311680,00-99,,JP,jcb,debit
+311681,00-99,,JP,jcb,debit
+311682,00-99,,JP,jcb,debit
+311683,00-99,,JP,jcb,debit
+311684,00-99,,JP,jcb,debit
+311685,00-99,,JP,jcb,debit
+311686,00-99,,JP,jcb,debit
+311687,00-99,,JP,jcb,debit
+311688,00-99,,JP,jcb,debit
+311689,00-99,,JP,jcb,debit
+311690,00-99,,JP,jcb,debit
+311691,00-99,,JP,jcb,debit
+311692,00-99,,JP,jcb,debit
+311693,00-99,,JP,jcb,debit
+311694,00-99,,JP,jcb,debit
+311695,00-99,,JP,jcb,debit
+311696,00-99,,JP,jcb,debit
+311697,00-99,,JP,jcb,debit
+311698,00-99,,JP,jcb,debit
+311699,00-99,,JP,jcb,debit
+311700,00-99,,JP,jcb,debit
+311701,00-99,,JP,jcb,debit
+311702,00-99,,JP,jcb,debit
+311703,00-99,,JP,jcb,debit
+311704,00-99,,JP,jcb,debit
+311705,00-99,,JP,jcb,debit
+311706,00-99,,JP,jcb,debit
+311707,00-99,,JP,jcb,debit
+311708,00-99,,JP,jcb,debit
+311709,00-99,,JP,jcb,debit
+311710,00-99,,JP,jcb,debit
+311711,00-99,,JP,jcb,debit
+311712,00-99,,JP,jcb,debit
+311713,00-99,,JP,jcb,debit
+311714,00-99,,JP,jcb,debit
+311715,00-99,,JP,jcb,debit
+311716,00-99,,JP,jcb,debit
+311717,00-99,,JP,jcb,debit
+311718,00-99,,JP,jcb,debit
+311719,00-99,,JP,jcb,debit
+311720,00-99,,JP,jcb,debit
+311721,00-99,,JP,jcb,debit
+311722,00-99,,JP,jcb,debit
+311723,00-99,,JP,jcb,debit
+311724,00-99,,JP,jcb,debit
+311725,00-99,,JP,jcb,debit
+311726,00-99,,JP,jcb,debit
+311727,00-99,,JP,jcb,debit
+311728,00-99,,JP,jcb,debit
+311729,00-99,,JP,jcb,debit
+311730,00-99,,JP,jcb,debit
+311731,00-99,,JP,jcb,debit
+311732,00-99,,JP,jcb,debit
+311733,00-99,,JP,jcb,debit
+311734,00-99,,JP,jcb,debit
+311735,00-99,,JP,jcb,debit
+311736,00-99,,JP,jcb,debit
+311737,00-99,,JP,jcb,debit
+311738,00-99,,JP,jcb,debit
+311739,00-99,,JP,jcb,debit
+311740,00-99,,JP,jcb,debit
+311741,00-99,,JP,jcb,debit
+311742,00-99,,JP,jcb,debit
+311743,00-99,,JP,jcb,debit
+311744,00-99,,JP,jcb,debit
+311745,00-99,,JP,jcb,debit
+311746,00-99,,JP,jcb,debit
+311747,00-99,,JP,jcb,debit
+311748,00-99,,JP,jcb,debit
+311749,00-99,,JP,jcb,debit
+311750,00-99,,JP,jcb,debit
+311751,00-99,,JP,jcb,debit
+311752,00-99,,JP,jcb,debit
+311753,00-99,,JP,jcb,debit
+311754,00-99,,JP,jcb,debit
+311755,00-99,,JP,jcb,debit
+311756,00-99,,JP,jcb,debit
+311757,00-99,,JP,jcb,debit
+311758,00-99,,JP,jcb,debit
+311759,00-99,,JP,jcb,debit
+311760,00-99,,JP,jcb,debit
+311761,00-99,,JP,jcb,debit
+311762,00-99,,JP,jcb,debit
+311763,00-99,,JP,jcb,debit
+311764,00-99,,JP,jcb,debit
+311765,00-99,,JP,jcb,debit
+311766,00-99,,JP,jcb,debit
+311767,00-99,,JP,jcb,debit
+311768,00-99,,JP,jcb,debit
+311769,00-99,,JP,jcb,debit
+311770,00-99,,JP,jcb,debit
+311771,00-99,,JP,jcb,debit
+311772,00-99,,JP,jcb,debit
+311773,00-99,,JP,jcb,debit
+311774,00-99,,JP,jcb,debit
+311775,00-99,,JP,jcb,debit
+311776,00-99,,JP,jcb,debit
+311777,00-99,,JP,jcb,debit
+311778,00-99,,JP,jcb,debit
+311779,00-99,,JP,jcb,debit
+311780,00-99,,JP,jcb,debit
+311781,00-99,,JP,jcb,debit
+311782,00-99,,JP,jcb,debit
+311783,00-99,,JP,jcb,debit
+311784,00-99,,JP,jcb,debit
+311785,00-99,,JP,jcb,debit
+311786,00-99,,JP,jcb,debit
+311787,00-99,,JP,jcb,debit
+311788,00-99,,JP,jcb,debit
+311789,00-99,,JP,jcb,debit
+311790,00-99,,JP,jcb,debit
+311791,00-99,,JP,jcb,debit
+311792,00-99,,JP,jcb,debit
+311793,00-99,,JP,jcb,debit
+311794,00-99,,JP,jcb,debit
+311795,00-99,,JP,jcb,debit
+311796,00-99,,JP,jcb,debit
+311797,00-99,,JP,jcb,debit
+311798,00-99,,JP,jcb,debit
+311799,00-99,,JP,jcb,debit
+311800,00-99,,JP,jcb,credit
+311801,00-99,,JP,jcb,debit
+311802,00-99,,JP,jcb,debit
+311803,00-99,,JP,jcb,debit
+311804,00-99,,JP,jcb,debit
+311805,00-99,,JP,jcb,debit
+311806,00-99,,JP,jcb,debit
+311807,00-99,,JP,jcb,debit
+311808,00-99,,JP,jcb,debit
+311809,00-99,,JP,jcb,debit
+311810,00-99,,JP,jcb,debit
+311811,00-99,,JP,jcb,debit
+311812,00-99,,JP,jcb,debit
+311813,00-99,,JP,jcb,debit
+311814,00-99,,JP,jcb,debit
+311815,00-99,,JP,jcb,debit
+311816,00-99,,JP,jcb,debit
+311817,00-99,,JP,jcb,debit
+311818,00-99,,JP,jcb,debit
+311819,00-99,,JP,jcb,debit
+311820,00-99,,JP,jcb,debit
+311821,00-99,,JP,jcb,debit
+311822,00-99,,JP,jcb,debit
+311823,00-99,,JP,jcb,debit
+311824,00-99,,JP,jcb,debit
+311825,00-99,,JP,jcb,debit
+311826,00-99,,JP,jcb,debit
+311827,00-99,,JP,jcb,debit
+311828,00-99,,JP,jcb,debit
+311829,00-99,,JP,jcb,debit
+311830,00-99,,JP,jcb,debit
+311831,00-99,,JP,jcb,debit
+311832,00-99,,JP,jcb,debit
+311833,00-99,,JP,jcb,debit
+311834,00-99,,JP,jcb,debit
+311835,00-99,,JP,jcb,debit
+311836,00-99,,JP,jcb,debit
+311837,00-99,,JP,jcb,debit
+311838,00-99,,JP,jcb,debit
+311839,00-99,,JP,jcb,debit
+311840,00-99,,JP,jcb,debit
+311841,00-99,,JP,jcb,debit
+311842,00-99,,JP,jcb,debit
+311843,00-99,,JP,jcb,debit
+311844,00-99,,JP,jcb,debit
+311845,00-99,,JP,jcb,debit
+311846,00-99,,JP,jcb,debit
+311847,00-99,,JP,jcb,debit
+311848,00-99,,JP,jcb,debit
+311849,00-99,,JP,jcb,debit
+311850,00-99,,JP,jcb,debit
+311851,00-99,,JP,jcb,debit
+311852,00-99,,JP,jcb,debit
+311853,00-99,,JP,jcb,debit
+311854,00-99,,JP,jcb,debit
+311855,00-99,,JP,jcb,debit
+311856,00-99,,JP,jcb,debit
+311857,00-99,,JP,jcb,debit
+311858,00-99,,JP,jcb,debit
+311859,00-99,,JP,jcb,debit
+311860,00-99,,JP,jcb,debit
+311861,00-99,,JP,jcb,debit
+311862,00-99,,JP,jcb,debit
+311863,00-99,,JP,jcb,debit
+311864,00-99,,JP,jcb,debit
+311865,00-99,,JP,jcb,debit
+311866,00-99,,JP,jcb,debit
+311867,00-99,,JP,jcb,debit
+311868,00-99,,JP,jcb,debit
+311869,00-99,,JP,jcb,debit
+311870,00-99,,JP,jcb,debit
+311871,00-99,,JP,jcb,debit
+311872,00-99,,JP,jcb,debit
+311873,00-99,,JP,jcb,debit
+311874,00-99,,JP,jcb,debit
+311875,00-99,,JP,jcb,debit
+311876,00-99,,JP,jcb,debit
+311877,00-99,,JP,jcb,debit
+311878,00-99,,JP,jcb,debit
+311879,00-99,,JP,jcb,debit
+311880,00-99,,JP,jcb,debit
+311881,00-99,,JP,jcb,debit
+311882,00-99,,JP,jcb,debit
+311883,00-99,,JP,jcb,debit
+311884,00-99,,JP,jcb,debit
+311885,00-99,,JP,jcb,debit
+311886,00-99,,JP,jcb,debit
+311887,00-99,,JP,jcb,debit
+311888,00-99,,JP,jcb,debit
+311889,00-99,,JP,jcb,debit
+311890,00-99,,JP,jcb,debit
+311891,00-99,,JP,jcb,debit
+311892,00-99,,JP,jcb,debit
+311893,00-99,,JP,jcb,debit
+311894,00-99,,JP,jcb,debit
+311895,00-99,,JP,jcb,debit
+311896,00-99,,JP,jcb,debit
+311897,00-99,,JP,jcb,debit
+311898,00-99,,JP,jcb,debit
+311899,00-99,,JP,jcb,debit
+311900,00-99,,JP,jcb,debit
+311901,00-99,,JP,jcb,debit
+311902,00-99,,JP,jcb,debit
+311903,00-99,,JP,jcb,debit
+311904,00-99,,JP,jcb,debit
+311905,00-99,,JP,jcb,debit
+311906,00-99,,JP,jcb,debit
+311907,00-99,,JP,jcb,debit
+311908,00-99,,JP,jcb,debit
+311909,00-99,,JP,jcb,debit
+311910,00-99,,JP,jcb,debit
+311911,00-99,,JP,jcb,debit
+311912,00-99,,JP,jcb,debit
+311913,00-99,,JP,jcb,debit
+311914,00-99,,JP,jcb,debit
+311915,00-99,,JP,jcb,debit
+311916,00-99,,JP,jcb,debit
+311917,00-99,,JP,jcb,debit
+311918,00-99,,JP,jcb,debit
+311919,00-99,,JP,jcb,debit
+311920,00-99,,JP,jcb,debit
+311921,00-99,,JP,jcb,debit
+311922,00-99,,JP,jcb,debit
+311923,00-99,,JP,jcb,debit
+311924,00-99,,JP,jcb,debit
+311925,00-99,,JP,jcb,debit
+311926,00-99,,JP,jcb,debit
+311927,00-99,,JP,jcb,debit
+311928,00-99,,JP,jcb,debit
+311929,00-99,,JP,jcb,debit
+311930,00-99,,JP,jcb,debit
+311931,00-99,,JP,jcb,debit
+311932,00-99,,JP,jcb,debit
+311933,00-99,,JP,jcb,debit
+311934,00-99,,JP,jcb,debit
+311935,00-99,,JP,jcb,debit
+311936,00-99,,JP,jcb,debit
+311937,00-99,,JP,jcb,debit
+311938,00-99,,JP,jcb,debit
+311939,00-99,,JP,jcb,debit
+311940,00-99,,JP,jcb,debit
+311941,00-99,,JP,jcb,debit
+311942,00-99,,JP,jcb,debit
+311943,00-99,,JP,jcb,debit
+311944,00-99,,JP,jcb,debit
+311945,00-99,,JP,jcb,debit
+311946,00-99,,JP,jcb,debit
+311947,00-99,,JP,jcb,debit
+311948,00-99,,JP,jcb,debit
+311949,00-99,,JP,jcb,debit
+311950,00-99,,JP,jcb,debit
+311951,00-99,,JP,jcb,debit
+311952,00-99,,JP,jcb,debit
+311953,00-99,,JP,jcb,debit
+311954,00-99,,JP,jcb,debit
+311955,00-99,,JP,jcb,debit
+311956,00-99,,JP,jcb,debit
+311957,00-99,,JP,jcb,debit
+311958,00-99,,JP,jcb,debit
+311959,00-99,,JP,jcb,debit
+311960,00-99,,JP,jcb,debit
+311961,00-99,,JP,jcb,debit
+311962,00-99,,JP,jcb,debit
+311963,00-99,,JP,jcb,debit
+311964,00-99,,JP,jcb,debit
+311965,00-99,,JP,jcb,debit
+311966,00-99,,JP,jcb,credit
+311967,00-99,,JP,jcb,credit
+311968,00-99,,JP,jcb,debit
+311969,00-99,,JP,jcb,debit
+311970,00-99,,JP,jcb,debit
+311971,00-99,,JP,jcb,debit
+311972,00-99,,JP,jcb,debit
+311973,00-99,,JP,jcb,debit
+311974,00-99,,JP,jcb,debit
+311975,00-99,,JP,jcb,debit
+311976,00-99,,JP,jcb,debit
+311977,00-99,,JP,jcb,debit
+311978,00-99,,JP,jcb,debit
+311979,00-99,,JP,jcb,debit
+311980,00-99,,JP,jcb,debit
+311981,00-99,,JP,jcb,debit
+311982,00-99,,JP,jcb,debit
+311983,00-99,,JP,jcb,debit
+311984,00-99,,JP,jcb,debit
+311985,00-99,,JP,jcb,debit
+311986,00-99,,JP,jcb,debit
+311987,00-99,,JP,jcb,debit
+311988,00-99,,JP,jcb,debit
+311989,00-99,,JP,jcb,debit
+311990,00-99,,JP,jcb,debit
+311991,00-99,,JP,jcb,debit
+311992,00-99,,JP,jcb,debit
+311993,00-99,,JP,jcb,debit
+311994,00-99,,JP,jcb,debit
+311995,00-99,,JP,jcb,debit
+311996,00-99,,JP,jcb,debit
+311997,00-99,,JP,jcb,debit
+311998,00-99,,JP,jcb,debit
+311999,00-99,,JP,jcb,debit
+312000,00-99,,JP,jcb,debit
+312001,00-99,,JP,jcb,debit
+312002,00-99,,JP,jcb,debit
+312003,00-99,,JP,jcb,debit
+312004,00-99,,JP,jcb,debit
+312005,00-99,,JP,jcb,debit
+312006,00-99,,JP,jcb,debit
+312007,00-99,,JP,jcb,debit
+312008,00-99,,JP,jcb,debit
+312009,00-99,,JP,jcb,debit
+312010,00-99,,JP,jcb,debit
+312011,00-99,,JP,jcb,debit
+312012,00-99,,JP,jcb,debit
+312013,00-99,,JP,jcb,debit
+312014,00-99,,JP,jcb,debit
+312015,00-99,,JP,jcb,debit
+312016,00-99,,JP,jcb,debit
+312017,00-99,,JP,jcb,debit
+312018,00-99,,JP,jcb,debit
+312019,00-99,,JP,jcb,debit
+312020,00-99,,JP,jcb,debit
+312021,00-99,,JP,jcb,debit
+312022,00-99,,JP,jcb,debit
+312023,00-99,,JP,jcb,debit
+312024,00-99,,JP,jcb,debit
+312025,00-99,,JP,jcb,debit
+312026,00-99,,JP,jcb,debit
+312027,00-99,,JP,jcb,debit
+312028,00-99,,JP,jcb,debit
+312029,00-99,,JP,jcb,debit
+312030,00-99,,JP,jcb,debit
+312031,00-99,,JP,jcb,debit
+312032,00-99,,JP,jcb,debit
+312033,00-99,,JP,jcb,debit
+312034,00-99,,JP,jcb,debit
+312035,00-99,,JP,jcb,debit
+312036,00-99,,JP,jcb,debit
+312037,00-99,,JP,jcb,debit
+312038,00-99,,JP,jcb,debit
+312039,00-99,,JP,jcb,debit
+312040,00-99,,JP,jcb,debit
+312041,00-99,,JP,jcb,debit
+312042,00-99,,JP,jcb,debit
+312043,00-99,,JP,jcb,debit
+312044,00-99,,JP,jcb,debit
+312045,00-99,,JP,jcb,debit
+312046,00-99,,JP,jcb,debit
+312047,00-99,,JP,jcb,debit
+312048,00-99,,JP,jcb,debit
+312049,00-99,,JP,jcb,debit
+312050,00-99,,JP,jcb,debit
+312051,00-99,,JP,jcb,debit
+312052,00-99,,JP,jcb,debit
+312053,00-99,,JP,jcb,debit
+312054,00-99,,JP,jcb,debit
+312055,00-99,,JP,jcb,debit
+312056,00-99,,JP,jcb,debit
+312057,00-99,,JP,jcb,debit
+312058,00-99,,JP,jcb,debit
+312059,00-99,,JP,jcb,debit
+312060,00-99,,JP,jcb,debit
+312061,00-99,,JP,jcb,debit
+312062,00-99,,JP,jcb,debit
+312063,00-99,,JP,jcb,debit
+312064,00-99,,JP,jcb,debit
+312065,00-99,,JP,jcb,debit
+312066,00-99,,JP,jcb,debit
+312067,00-99,,JP,jcb,debit
+312068,00-99,,JP,jcb,debit
+312069,00-99,,JP,jcb,debit
+312070,00-99,,JP,jcb,debit
+312071,00-99,,JP,jcb,debit
+312072,00-99,,JP,jcb,debit
+312073,00-99,,JP,jcb,debit
+312074,00-99,,JP,jcb,debit
+312075,00-99,,JP,jcb,debit
+312076,00-99,,JP,jcb,debit
+312077,00-99,,JP,jcb,debit
+312078,00-99,,JP,jcb,debit
+312079,00-99,,JP,jcb,debit
+312080,00-99,,JP,jcb,debit
+312081,00-99,,JP,jcb,debit
+312082,00-99,,JP,jcb,debit
+312083,00-99,,JP,jcb,debit
+312084,00-99,,JP,jcb,debit
+312085,00-99,,JP,jcb,debit
+312086,00-99,,JP,jcb,debit
+312087,00-99,,JP,jcb,debit
+312088,00-99,,JP,jcb,debit
+312089,00-99,,JP,jcb,debit
+312090,00-99,,JP,jcb,debit
+312091,00-99,,JP,jcb,debit
+312092,00-99,,JP,jcb,debit
+312093,00-99,,JP,jcb,debit
+312094,00-99,,JP,jcb,debit
+312095,00-99,,JP,jcb,debit
+312096,00-99,,JP,jcb,debit
+312097,00-99,,JP,jcb,debit
+312098,00-99,,JP,jcb,debit
+312099,00-99,,JP,jcb,debit
+312525,00-99,,TN,diners club international,credit
+313003,00-99,,US,private label,debit
+313024,00-99,,US,private label,debit
+313025,00-99,,US,private label,debit
+313027,00-99,,US,private label,debit
+313069,00-99,,US,private label,debit
+313071,00-99,,US,private label,debit
+313076,00-99,,US,private label,debit
+313077,00-99,,US,private label,debit
+313082,00-99,,US,private label,debit
+313083,00-99,,US,private label,debit
+313084,00-99,,US,private label,debit
+313094,00-99,,US,private label,debit
+313095,00-99,,US,private label,debit
+313099,00-99,,US,private label,debit
+313108,00-99,,US,private label,debit
+313110,00-99,,US,private label,debit
+313116,00-99,,US,private label,debit
+313121,00-99,,US,private label,debit
+313124,00-99,,US,private label,debit
+313130,00-99,,US,private label,debit
+313133,00-99,,US,private label,debit
+313137,00-99,,US,private label,debit
+313144,00-99,,US,private label,debit
+313165,00-99,,US,private label,debit
+313166,00-99,,US,private label,debit
+313170,00-99,,US,private label,debit
+313171,00-99,,US,private label,debit
+313174,00-99,,US,private label,debit
+313175,00-99,,US,private label,debit
+313176,00-99,,US,private label,debit
+313177,00-99,,US,private label,debit
+313181,00-99,,US,private label,debit
+313185,00-99,,US,private label,debit
+313186,00-99,,US,private label,debit
+313187,00-99,,US,private label,debit
+313189,00-99,,US,private label,debit
+313190,00-99,,US,private label,debit
+313191,00-99,,US,private label,debit
+313192,00-99,,US,private label,debit
+313193,00-99,,US,private label,debit
+313194,00-99,,US,private label,debit
+313195,00-99,,US,private label,debit
+313198,00-99,,US,private label,debit
+313199,00-99,,US,private label,debit
+313201,00-99,,US,private label,debit
+313203,00-99,,US,private label,debit
+313206,00-99,,US,private label,debit
+313227,00-99,,US,private label,debit
+313239,00-99,,US,private label,debit
+313242,00-99,,US,private label,debit
+313244,00-99,,US,private label,debit
+313245,00-99,,US,private label,debit
+313248,00-99,,US,private label,debit
+313249,00-99,,US,private label,debit
+313250,00-99,,US,private label,debit
+313261,00-99,,US,private label,debit
+313262,00-99,,US,private label,debit
+313265,00-99,,US,private label,debit
+313271,00-99,,US,private label,debit
+313276,00-99,,US,private label,debit
+313277,00-99,,US,private label,debit
+313278,00-99,,US,private label,debit
+313279,00-99,,US,private label,debit
+313280,00-99,,US,private label,debit
+313281,00-99,,US,private label,debit
+313282,00-99,,US,private label,debit
+313285,00-99,,US,private label,debit
+313295,00-99,,US,private label,debit
+313297,00-99,,US,private label,debit
+313300,00-99,,US,private label,debit
+313302,00-99,,US,private label,debit
+313303,00-99,,US,private label,debit
+313305,00-99,,US,private label,debit
+313310,00-99,,US,private label,debit
+313311,00-99,,US,private label,debit
+313312,00-99,,US,private label,debit
+313313,00-99,,US,private label,debit
+313314,00-99,,US,private label,debit
+313315,00-99,,US,private label,debit
+313316,00-99,,US,private label,debit
+313319,00-99,,US,private label,debit
+313320,00-99,,US,private label,debit
+313321,00-99,,US,private label,debit
+313322,00-99,,US,private label,debit
+313323,00-99,,US,private label,debit
+313421,00-99,,US,private label,debit
+313437,00-99,,US,private label,debit
+313442,00-99,,US,private label,debit
+313443,00-99,,US,private label,debit
+313446,00-99,,US,private label,debit
+313450,00-99,,US,private label,debit
+313451,00-99,,US,private label,debit
+313452,00-99,,US,private label,debit
+313453,00-99,,US,private label,debit
+313458,00-99,,US,private label,debit
+313461,00-99,,US,private label,debit
+313468,00-99,,US,private label,debit
+313470,00-99,,US,private label,debit
+313472,00-99,,US,private label,debit
+313473,00-99,,US,private label,debit
+313474,00-99,,US,private label,debit
+313475,00-99,,US,private label,debit
+313476,00-99,,US,private label,debit
+313479,00-99,,US,private label,debit
+313481,00-99,,US,private label,debit
+313486,00-99,,US,private label,debit
+313487,00-99,,US,private label,debit
+313488,00-99,,US,private label,debit
+313490,00-99,,US,private label,debit
+313492,00-99,,US,private label,debit
+313505,00-99,,US,private label,debit
+313506,00-99,,US,private label,debit
+313513,00-99,,US,private label,debit
+313514,00-99,,US,private label,debit
+313518,00-99,,US,private label,debit
+313521,00-99,,US,private label,debit
+313537,00-99,,US,private label,debit
+313549,00-99,,US,private label,debit
+313554,00-99,,US,private label,debit
+313567,00-99,,US,private label,debit
+313574,00-99,,US,private label,debit
+313575,00-99,,US,private label,debit
+313577,00-99,,US,private label,debit
+313578,00-99,,US,private label,debit
+313579,00-99,,US,private label,credit
+313580,00-99,,US,private label,debit
+313581,00-99,,US,private label,debit
+313585,00-99,,US,private label,debit
+313587,00-99,,US,private label,debit
+313589,00-99,,US,private label,debit
+313593,00-99,,US,private label,debit
+313600,00-99,,US,private label,debit
+313602,00-99,,US,private label,debit
+313605,00-99,,US,private label,debit
+313606,00-99,,US,private label,debit
+313621,00-99,,US,private label,debit
+313627,00-99,,US,private label,debit
+313634,00-99,,US,private label,debit
+313635,00-99,,US,private label,debit
+313638,00-99,,US,private label,debit
+313639,00-99,,US,private label,debit
+313641,00-99,,US,private label,debit
+313642,00-99,,US,private label,debit
+313643,00-99,,US,private label,debit
+313644,00-99,,US,private label,debit
+313645,00-99,,US,private label,debit
+313646,00-99,,US,private label,debit
+313648,00-99,,US,private label,debit
+313667,00-99,,US,private label,debit
+313668,00-99,,US,private label,debit
+313669,00-99,,US,private label,debit
+313670,00-99,,US,private label,debit
+313671,00-99,,US,private label,debit
+313672,00-99,,US,private label,debit
+313673,00-99,,US,private label,debit
+313674,00-99,,US,private label,debit
+313675,00-99,,US,private label,debit
+313676,00-99,,US,private label,debit
+313677,00-99,,US,private label,debit
+313678,00-99,,US,private label,debit
+313679,00-99,,US,private label,debit
+313680,00-99,,US,private label,debit
+313681,00-99,,US,private label,debit
+313682,00-99,,US,private label,debit
+313683,00-99,,US,private label,debit
+313684,00-99,,US,private label,debit
+313685,00-99,,US,private label,debit
+313686,00-99,,US,private label,debit
+313687,00-99,,US,private label,debit
+313688,00-99,,US,private label,debit
+313689,00-99,,US,private label,debit
+313690,00-99,,US,private label,debit
+313691,00-99,,US,private label,debit
+313692,00-99,,US,private label,debit
+313701,00-99,,US,private label,debit
+313702,00-99,,US,private label,debit
+313706,00-99,,US,private label,debit
+313708,00-99,,US,private label,debit
+313710,00-99,,US,private label,debit
+313712,00-99,,US,private label,debit
+313713,00-99,,US,private label,debit
+313716,00-99,,US,private label,debit
+313728,00-99,,US,private label,debit
+313729,00-99,,US,private label,debit
+313732,00-99,,US,private label,debit
+313733,00-99,,US,private label,debit
+313734,00-99,,US,private label,debit
+313735,00-99,,US,private label,debit
+313736,00-99,,US,private label,debit
+313737,00-99,,US,private label,debit
+313738,00-99,,US,private label,debit
+313739,00-99,,US,private label,debit
+313740,00-99,,US,private label,debit
+313741,00-99,,US,private label,debit
+313742,00-99,,US,private label,debit
+313743,00-99,,US,private label,debit
+313744,00-99,,US,private label,debit
+313745,00-99,,US,private label,debit
+313746,00-99,,US,private label,debit
+313747,00-99,,US,private label,debit
+313748,00-99,,US,private label,debit
+313749,00-99,,US,private label,debit
+313750,00-99,,US,private label,debit
+313751,00-99,,US,private label,debit
+313752,00-99,,US,private label,debit
+313753,00-99,,US,private label,debit
+313754,00-99,,US,private label,debit
+313755,00-99,,US,private label,debit
+313756,00-99,,US,private label,debit
+313757,00-99,,US,private label,debit
+313758,00-99,,US,private label,debit
+313759,00-99,,US,private label,debit
+313760,00-99,,US,private label,debit
+313761,00-99,,US,private label,debit
+313762,00-99,,US,private label,debit
+313763,00-99,,US,private label,debit
+313764,00-99,,US,private label,debit
+313765,00-99,,US,private label,debit
+313766,00-99,,US,private label,debit
+313767,00-99,,US,private label,debit
+313768,00-99,,US,private label,debit
+313773,00-99,,US,private label,debit
+313774,00-99,,US,private label,debit
+313778,00-99,,US,private label,debit
+313779,00-99,,US,private label,debit
+313783,00-99,,US,private label,debit
+313789,00-99,,US,private label,debit
+313790,00-99,,US,private label,debit
+313791,00-99,,US,private label,debit
+313793,00-99,,US,private label,debit
+313796,00-99,,US,private label,debit
+313801,00-99,,US,private label,debit
+313810,00-99,,US,private label,debit
+313814,00-99,,US,private label,debit
+313815,00-99,,US,private label,debit
+313816,00-99,,US,private label,debit
+313818,00-99,,US,private label,debit
+313822,00-99,,US,private label,debit
+313832,00-99,,US,private label,debit
+313833,00-99,,US,private label,debit
+313834,00-99,,US,private label,debit
+313846,00-99,,US,private label,debit
+313847,00-99,,US,private label,debit
+313848,00-99,,US,private label,debit
+313850,00-99,,US,private label,debit
+313851,00-99,,US,private label,debit
+313879,00-99,,US,private label,debit
+313880,00-99,,US,private label,debit
+313881,00-99,,US,private label,debit
+313882,00-99,,US,private label,debit
+313883,00-99,,US,private label,debit
+313884,00-99,,US,private label,debit
+313885,00-99,,US,private label,debit
+313886,00-99,,US,private label,debit
+313887,00-99,,US,private label,debit
+313888,00-99,,US,private label,debit
+313889,00-99,,US,private label,debit
+313890,00-99,,US,private label,debit
+313891,00-99,,US,private label,debit
+313892,00-99,,US,private label,debit
+313893,00-99,,US,private label,debit
+313894,00-99,,US,private label,debit
+313895,00-99,,US,private label,debit
+313896,00-99,,US,private label,debit
+313897,00-99,,US,private label,debit
+313898,00-99,,US,private label,debit
+313900,00-99,,US,private label,debit
+313901,00-99,,US,private label,debit
+313902,00-99,,US,private label,debit
+313903,00-99,,US,private label,debit
+313904,00-99,,US,private label,debit
+313905,00-99,,US,private label,debit
+313906,00-99,,US,private label,debit
+313907,00-99,,US,private label,debit
+313908,00-99,,US,private label,debit
+313909,00-99,,US,private label,debit
+313910,00-99,,US,private label,debit
+313911,00-99,,US,private label,debit
+313912,00-99,,US,private label,debit
+313913,00-99,,US,private label,debit
+313914,00-99,,US,private label,debit
+313915,00-99,,US,private label,debit
+313916,00-99,,US,private label,debit
+313917,00-99,,US,private label,debit
+313918,00-99,,US,private label,debit
+313919,00-99,,US,private label,debit
+313920,00-99,,US,private label,debit
+313921,00-99,,US,private label,debit
+313922,00-99,,US,private label,debit
+313923,00-99,,US,private label,debit
+313924,00-99,,US,private label,debit
+313925,00-99,,US,private label,debit
+313926,00-99,,US,private label,debit
+313927,00-99,,US,private label,debit
+313928,00-99,,US,private label,debit
+313929,00-99,,US,private label,debit
+313930,00-99,,US,private label,debit
+313931,00-99,,US,private label,debit
+313932,00-99,,US,private label,debit
+313933,00-99,,US,private label,debit
+313935,00-99,,US,private label,debit
+313936,00-99,,US,private label,debit
+313937,00-99,,US,private label,debit
+313939,00-99,,US,private label,debit
+313940,00-99,,US,private label,debit
+313941,00-99,,US,private label,debit
+313942,00-99,,US,private label,debit
+313943,00-99,,US,private label,debit
+313944,00-99,,US,private label,debit
+313945,00-99,,US,private label,debit
+313946,00-99,,US,private label,debit
+313947,00-99,,US,private label,debit
+313948,00-99,,US,private label,debit
+313949,00-99,,US,private label,debit
+313950,00-99,,US,private label,debit
+313951,00-99,,US,private label,debit
+313952,00-99,,US,private label,debit
+313953,00-99,,US,private label,debit
+313954,00-99,,US,private label,debit
+313955,00-99,,US,private label,debit
+313957,00-99,,US,private label,debit
+313958,00-99,,US,private label,debit
+313959,00-99,,US,private label,debit
+313960,00-99,,US,private label,debit
+313961,00-99,,US,private label,debit
+313962,00-99,,US,private label,debit
+313963,00-99,,US,private label,debit
+313964,00-99,,US,private label,debit
+313965,00-99,,US,private label,debit
+313966,00-99,,US,private label,debit
+313967,00-99,,US,private label,debit
+313968,00-99,,US,private label,debit
+313969,00-99,,US,private label,debit
+313970,00-99,,US,private label,debit
+313971,00-99,,US,private label,debit
+313972,00-99,,US,private label,debit
+313973,00-99,,US,private label,debit
+313974,00-99,,US,private label,debit
+313975,00-99,,US,private label,debit
+313976,00-99,,US,private label,debit
+313977,00-99,,US,private label,debit
+313978,00-99,,US,private label,debit
+313979,00-99,,US,private label,debit
+313980,00-99,,US,private label,debit
+313981,00-99,,US,private label,debit
+313982,00-99,,US,private label,debit
+313983,00-99,,US,private label,debit
+313984,00-99,,US,private label,debit
+313985,00-99,,US,private label,debit
+313986,00-99,,US,private label,debit
+314119,00-99,BANCO CREDICOOP,AR,cabal,debit
+314159,00-99,,US,private label,debit
+314219,00-99,BANCO CREDICOOP,AR,cabal,debit
+315016,00-99,,US,private label,debit
+315019,00-99,,US,private label,debit
+315020,00-99,,US,private label,debit
+315026,00-99,,US,private label,debit
+315027,00-99,,US,private label,debit
+315028,00-99,,US,private label,debit
+315029,00-99,,US,private label,debit
+315030,00-99,,US,private label,debit
+315035,00-99,,US,private label,debit
+315037,00-99,,US,private label,debit
+315038,00-99,,US,private label,debit
+315039,00-99,,US,private label,debit
+315040,00-99,,US,private label,debit
+315041,00-99,,US,private label,debit
+315047,00-99,,US,private label,debit
+315052,00-99,,US,private label,debit
+315053,00-99,,US,private label,debit
+315054,00-99,,US,private label,debit
+315059,00-99,,US,private label,debit
+315060,00-99,,US,private label,debit
+315061,00-99,,US,private label,debit
+315062,00-99,,US,private label,debit
+315065,00-99,,US,private label,debit
+315066,00-99,,US,private label,debit
+315067,00-99,,US,private label,debit
+315070,00-99,,US,private label,debit
+315071,00-99,,US,private label,debit
+315072,00-99,,US,private label,debit
+315073,00-99,,US,private label,debit
+315074,00-99,,US,private label,debit
+315077,00-99,,US,private label,debit
+315078,00-99,,US,private label,debit
+315079,00-99,,US,private label,debit
+315082,00-99,,US,private label,debit
+315083,00-99,,US,private label,debit
+315084,00-99,,US,private label,debit
+315088,00-99,,US,private label,debit
+315092,00-99,,US,private label,debit
+315093,00-99,,US,private label,debit
+315094,00-99,,US,private label,debit
+315095,00-99,,US,private label,debit
+315098,00-99,,US,private label,debit
+315099,00-99,,US,private label,debit
+315100,00-99,,US,private label,debit
+315101,00-99,,US,private label,debit
+315102,00-99,,US,private label,debit
+315106,00-99,,US,private label,debit
+315107,00-99,,US,private label,debit
+315114,00-99,,US,private label,debit
+315117,00-99,,US,private label,debit
+315121,00-99,,US,private label,debit
+315125,00-99,,US,private label,debit
+315126,00-99,,US,private label,debit
+315128,00-99,,US,private label,debit
+315129,00-99,,US,private label,debit
+315134,00-99,,US,private label,debit
+315163,00-99,,US,private label,debit
+315174,00-99,,US,private label,debit
+315175,00-99,,US,private label,debit
+315176,00-99,,US,private label,debit
+315177,00-99,,US,private label,debit
+315178,00-99,,US,private label,debit
+315179,00-99,,US,private label,debit
+315180,00-99,,US,private label,debit
+315181,00-99,,US,private label,debit
+315182,00-99,,US,private label,debit
+315183,00-99,,US,private label,debit
+315184,00-99,,US,private label,debit
+315185,00-99,,US,private label,debit
+315186,00-99,,US,private label,debit
+315187,00-99,,US,private label,debit
+315188,00-99,,US,private label,debit
+315189,00-99,,US,private label,debit
+315190,00-99,,US,private label,debit
+315191,00-99,,US,private label,debit
+315192,00-99,,US,private label,debit
+315193,00-99,,US,private label,debit
+315194,00-99,,US,private label,debit
+315195,00-99,,US,private label,debit
+315196,00-99,,US,private label,debit
+315197,00-99,,US,private label,debit
+315198,00-99,,US,private label,debit
+315199,00-99,,US,private label,debit
+315200,00-99,,US,private label,debit
+315252,00-99,,US,private label,debit
+315255,00-99,,US,private label,debit
+315256,00-99,,US,private label,debit
+315258,00-99,,US,private label,debit
+315259,00-99,,US,private label,debit
+315260,00-99,,US,private label,debit
+315261,00-99,,US,private label,debit
+315262,00-99,,US,private label,debit
+315265,00-99,,US,private label,debit
+315266,00-99,,US,private label,debit
+315267,00-99,,US,private label,debit
+315271,00-99,,US,private label,debit
+315272,00-99,,US,private label,debit
+315273,00-99,,US,private label,debit
+315274,00-99,,US,private label,debit
+315275,00-99,,US,private label,debit
+315276,00-99,,US,private label,debit
+315277,00-99,,US,private label,debit
+315278,00-99,,US,private label,debit
+315279,00-99,,US,private label,debit
+315291,00-99,,US,private label,debit
+315294,00-99,,US,private label,debit
+315295,00-99,,US,private label,debit
+315297,00-99,,US,private label,debit
+315298,00-99,,US,private label,debit
+315299,00-99,,US,private label,debit
+315302,00-99,,US,private label,debit
+315303,00-99,,US,private label,debit
+315305,00-99,,US,private label,debit
+315319,00-99,,US,private label,debit
+315322,00-99,,US,private label,debit
+315323,00-99,,US,private label,debit
+315327,00-99,,US,private label,debit
+315332,00-99,,US,private label,debit
+315346,00-99,,US,private label,debit
+315347,00-99,,US,private label,debit
+315348,00-99,,US,private label,debit
+315359,00-99,,US,private label,debit
+315360,00-99,,US,private label,debit
+315361,00-99,,US,private label,debit
+315362,00-99,,US,private label,debit
+315363,00-99,,US,private label,debit
+315364,00-99,,US,private label,debit
+315372,00-99,,US,private label,debit
+315373,00-99,,US,private label,debit
+315374,00-99,,US,private label,debit
+315375,00-99,,US,private label,debit
+315376,00-99,,US,private label,debit
+315382,00-99,,US,private label,debit
+315383,00-99,,US,private label,debit
+315384,00-99,,US,private label,debit
+315385,00-99,,US,private label,debit
+315386,00-99,,US,private label,debit
+315387,00-99,,US,private label,debit
+315389,00-99,,US,private label,debit
+315391,00-99,,US,private label,debit
+315393,00-99,,US,private label,debit
+315394,00-99,,US,private label,debit
+315401,00-99,,US,private label,debit
+315402,00-99,,US,private label,debit
+315403,00-99,,US,private label,debit
+315404,00-99,,US,private label,debit
+315405,00-99,,US,private label,debit
+315418,00-99,,US,private label,debit
+315419,00-99,,US,private label,debit
+315420,00-99,,US,private label,debit
+315421,00-99,,US,private label,debit
+315422,00-99,,US,private label,debit
+315423,00-99,,US,private label,debit
+315424,00-99,,US,private label,debit
+315800,00-99,,JP,jcb,debit
+315801,00-99,,JP,jcb,debit
+315802,00-99,,JP,jcb,debit
+315803,00-99,,JP,jcb,debit
+315804,00-99,,JP,jcb,debit
+315805,00-99,,JP,jcb,debit
+315806,00-99,,JP,jcb,debit
+315807,00-99,,JP,jcb,debit
+315808,00-99,,JP,jcb,debit
+315809,00-99,,JP,jcb,debit
+315810,00-99,,JP,jcb,debit
+315811,00-99,,JP,jcb,debit
+315812,00-99,,JP,jcb,debit
+315813,00-99,,JP,jcb,debit
+315814,00-99,,JP,jcb,debit
+315815,00-99,,JP,jcb,debit
+315816,00-99,,JP,jcb,debit
+315817,00-99,,JP,jcb,debit
+315818,00-99,,JP,jcb,debit
+315819,00-99,,JP,jcb,debit
+315820,00-99,,JP,jcb,debit
+315821,00-99,,JP,jcb,debit
+315822,00-99,,JP,jcb,debit
+315823,00-99,,JP,jcb,debit
+315824,00-99,,JP,jcb,debit
+315825,00-99,,JP,jcb,debit
+315826,00-99,,JP,jcb,debit
+315827,00-99,,JP,jcb,debit
+315828,00-99,,JP,jcb,debit
+315829,00-99,,JP,jcb,debit
+315830,00-99,,JP,jcb,debit
+315831,00-99,,JP,jcb,debit
+315832,00-99,,JP,jcb,debit
+315833,00-99,,JP,jcb,debit
+315834,00-99,,JP,jcb,debit
+315835,00-99,,JP,jcb,debit
+315836,00-99,,JP,jcb,debit
+315837,00-99,,JP,jcb,debit
+315838,00-99,,JP,jcb,debit
+315839,00-99,,JP,jcb,debit
+315840,00-99,,JP,jcb,debit
+315841,00-99,,JP,jcb,debit
+315842,00-99,,JP,jcb,debit
+315843,00-99,,JP,jcb,debit
+315844,00-99,,JP,jcb,debit
+315845,00-99,,JP,jcb,debit
+315846,00-99,,JP,jcb,debit
+315847,00-99,,JP,jcb,debit
+315848,00-99,,JP,jcb,debit
+315849,00-99,,JP,jcb,debit
+315850,00-99,,JP,jcb,debit
+315851,00-99,,JP,jcb,debit
+315852,00-99,,JP,jcb,debit
+315853,00-99,,JP,jcb,debit
+315854,00-99,,JP,jcb,debit
+315855,00-99,,JP,jcb,debit
+315856,00-99,,JP,jcb,debit
+315857,00-99,,JP,jcb,debit
+315858,00-99,,JP,jcb,debit
+315859,00-99,,JP,jcb,debit
+315860,00-99,,JP,jcb,debit
+315861,00-99,,JP,jcb,debit
+315862,00-99,,JP,jcb,debit
+315863,00-99,,JP,jcb,debit
+315864,00-99,,JP,jcb,debit
+315865,00-99,,JP,jcb,debit
+315866,00-99,,JP,jcb,debit
+315867,00-99,,JP,jcb,debit
+315868,00-99,,JP,jcb,debit
+315869,00-99,,JP,jcb,debit
+315870,00-99,,JP,jcb,debit
+315871,00-99,,JP,jcb,debit
+315872,00-99,,JP,jcb,debit
+315873,00-99,,JP,jcb,debit
+315874,00-99,,JP,jcb,debit
+315875,00-99,,JP,jcb,debit
+315876,00-99,,JP,jcb,debit
+315877,00-99,,JP,jcb,debit
+315878,00-99,,JP,jcb,debit
+315879,00-99,,JP,jcb,debit
+315880,00-99,,JP,jcb,debit
+315881,00-99,,JP,jcb,debit
+315882,00-99,,JP,jcb,debit
+315883,00-99,,JP,jcb,debit
+315884,00-99,,JP,jcb,debit
+315885,00-99,,JP,jcb,debit
+315886,00-99,,JP,jcb,debit
+315887,00-99,,JP,jcb,debit
+315888,00-99,,JP,jcb,debit
+315889,00-99,,JP,jcb,debit
+315890,00-99,,JP,jcb,debit
+315891,00-99,,JP,jcb,debit
+315892,00-99,,JP,jcb,debit
+315893,00-99,,JP,jcb,debit
+315894,00-99,,JP,jcb,debit
+315895,00-99,,JP,jcb,debit
+315896,00-99,,JP,jcb,debit
+315897,00-99,,JP,jcb,debit
+315898,00-99,,JP,jcb,debit
+315899,00-99,,JP,jcb,debit
+315900,00-99,,JP,jcb,debit
+315901,00-99,,JP,jcb,debit
+315902,00-99,,JP,jcb,debit
+315903,00-99,,JP,jcb,debit
+315904,00-99,,JP,jcb,debit
+315905,00-99,,JP,jcb,debit
+315906,00-99,,JP,jcb,debit
+315907,00-99,,JP,jcb,debit
+315908,00-99,,JP,jcb,debit
+315909,00-99,,JP,jcb,debit
+315910,00-99,,JP,jcb,debit
+315911,00-99,,JP,jcb,debit
+315912,00-99,,JP,jcb,debit
+315913,00-99,,JP,jcb,debit
+315914,00-99,,JP,jcb,debit
+315915,00-99,,JP,jcb,debit
+315916,00-99,,JP,jcb,debit
+315917,00-99,,JP,jcb,debit
+315918,00-99,,JP,jcb,debit
+315919,00-99,,JP,jcb,debit
+315920,00-99,,JP,jcb,debit
+315921,00-99,,JP,jcb,debit
+315922,00-99,,JP,jcb,debit
+315923,00-99,,JP,jcb,debit
+315924,00-99,,JP,jcb,debit
+315925,00-99,,JP,jcb,debit
+315926,00-99,,JP,jcb,debit
+315927,00-99,,JP,jcb,debit
+315928,00-99,,JP,jcb,debit
+315929,00-99,,JP,jcb,debit
+315930,00-99,,JP,jcb,debit
+315931,00-99,,JP,jcb,debit
+315932,00-99,,JP,jcb,debit
+315933,00-99,,JP,jcb,debit
+315934,00-99,,JP,jcb,debit
+315935,00-99,,JP,jcb,debit
+315936,00-99,,JP,jcb,debit
+315937,00-99,,JP,jcb,debit
+315938,00-99,,JP,jcb,debit
+315939,00-99,,JP,jcb,debit
+315940,00-99,,JP,jcb,debit
+315941,00-99,,JP,jcb,debit
+315942,00-99,,JP,jcb,debit
+315943,00-99,,JP,jcb,debit
+315944,00-99,,JP,jcb,debit
+315945,00-99,,JP,jcb,debit
+315946,00-99,,JP,jcb,debit
+315947,00-99,,JP,jcb,debit
+315948,00-99,,JP,jcb,debit
+315949,00-99,,JP,jcb,debit
+315950,00-99,,JP,jcb,debit
+315951,00-99,,JP,jcb,debit
+315952,00-99,,JP,jcb,debit
+315953,00-99,,JP,jcb,debit
+315954,00-99,,JP,jcb,debit
+315955,00-99,,JP,jcb,debit
+315956,00-99,,JP,jcb,debit
+315957,00-99,,JP,jcb,debit
+315958,00-99,,JP,jcb,debit
+315959,00-99,,JP,jcb,debit
+315960,00-99,,JP,jcb,debit
+315961,00-99,,JP,jcb,debit
+315962,00-99,,JP,jcb,debit
+315963,00-99,,JP,jcb,debit
+315964,00-99,,JP,jcb,debit
+315965,00-99,,JP,jcb,debit
+315966,00-99,,JP,jcb,debit
+315967,00-99,,JP,jcb,debit
+315968,00-99,,JP,jcb,debit
+315969,00-99,,JP,jcb,debit
+315970,00-99,,JP,jcb,debit
+315971,00-99,,JP,jcb,debit
+315972,00-99,,JP,jcb,debit
+315973,00-99,,JP,jcb,debit
+315974,00-99,,JP,jcb,debit
+315975,00-99,,JP,jcb,debit
+315976,00-99,,JP,jcb,debit
+315977,00-99,,JP,jcb,debit
+315978,00-99,,JP,jcb,debit
+315979,00-99,,JP,jcb,debit
+315980,00-99,,JP,jcb,debit
+315981,00-99,,JP,jcb,debit
+315982,00-99,,JP,jcb,debit
+315983,00-99,,JP,jcb,debit
+315984,00-99,,JP,jcb,debit
+315985,00-99,,JP,jcb,debit
+315986,00-99,,JP,jcb,debit
+315987,00-99,,JP,jcb,debit
+315988,00-99,,JP,jcb,debit
+315989,00-99,,JP,jcb,debit
+315990,00-99,,JP,jcb,debit
+315991,00-99,,JP,jcb,debit
+315992,00-99,,JP,jcb,debit
+315993,00-99,,JP,jcb,debit
+315994,00-99,,JP,jcb,debit
+315995,00-99,,JP,jcb,debit
+315996,00-99,,JP,jcb,debit
+315997,00-99,,JP,jcb,debit
+315998,00-99,,JP,jcb,debit
+315999,00-99,,JP,jcb,debit
+316006,00-99,,US,private label,debit
+316007,00-99,,US,private label,debit
+316025,00-99,,US,private label,debit
+316042,00-99,,US,private label,debit
+316066,00-99,,US,private label,debit
+316067,00-99,,US,private label,debit
+316068,00-99,,US,private label,debit
+316070,00-99,,US,private label,debit
+316208,00-99,,US,private label,debit
+316236,00-99,,US,private label,debit
+316237,00-99,,US,private label,debit
+316240,00-99,,US,private label,debit
+316241,00-99,,US,private label,debit
+316242,00-99,,US,private label,debit
+316244,00-99,,US,private label,debit
+316246,00-99,,US,private label,debit
+316247,00-99,,US,private label,debit
+316248,00-99,,US,private label,debit
+316249,00-99,,US,private label,debit
+316250,00-99,,US,private label,debit
+316251,00-99,,US,private label,debit
+316269,00-99,,US,private label,debit
+316272,00-99,,US,private label,debit
+316273,00-99,,US,private label,debit
+316274,00-99,,US,private label,debit
+316275,00-99,,US,private label,debit
+316276,00-99,,US,private label,debit
+316278,00-99,,US,private label,debit
+316279,00-99,,US,private label,debit
+316280,00-99,,US,private label,debit
+316281,00-99,,US,private label,debit
+316282,00-99,,US,private label,debit
+316283,00-99,,US,private label,debit
+316309,00-99,,US,private label,debit
+316314,00-99,,US,private label,debit
+316375,00-99,,US,private label,debit
+316379,00-99,,US,private label,debit
+316380,00-99,,US,private label,debit
+316398,00-99,,US,private label,debit
+316400,00-99,,US,private label,debit
+316427,00-99,,US,private label,debit
+316429,00-99,,US,private label,debit
+316466,00-99,,US,private label,debit
+316505,00-99,,US,private label,debit
+316506,00-99,,US,private label,debit
+316510,00-99,,US,private label,debit
+316531,00-99,,US,private label,debit
+316537,00-99,,US,private label,debit
+316543,00-99,,US,private label,debit
+316545,00-99,,US,private label,debit
+316546,00-99,,US,private label,debit
+316547,00-99,,US,private label,debit
+316549,00-99,,US,private label,debit
+316554,00-99,,US,private label,debit
+316563,00-99,,US,private label,debit
+316567,00-99,,US,private label,debit
+316568,00-99,,US,private label,debit
+316575,00-99,,US,private label,debit
+316576,00-99,,US,private label,debit
+316578,00-99,,US,private label,debit
+316579,00-99,,US,private label,debit
+316580,00-99,,US,private label,debit
+316583,00-99,,US,private label,debit
+316588,00-99,,US,private label,debit
+316591,00-99,,US,private label,debit
+316592,00-99,,US,private label,debit
+316594,00-99,,US,private label,debit
+316595,00-99,,US,private label,debit
+316596,00-99,,US,private label,debit
+316597,00-99,,US,private label,debit
+316599,00-99,,US,private label,debit
+316602,00-99,,US,private label,debit
+316605,00-99,,US,private label,debit
+316606,00-99,,US,private label,debit
+316608,00-99,,US,private label,debit
+316609,00-99,,US,private label,debit
+316611,00-99,,US,private label,debit
+316613,00-99,,US,private label,debit
+316614,00-99,,US,private label,debit
+316621,00-99,,US,private label,debit
+316624,00-99,,US,private label,debit
+316627,00-99,,US,private label,debit
+316628,00-99,,US,private label,debit
+316629,00-99,,US,private label,debit
+316630,00-99,,US,private label,debit
+316631,00-99,,US,private label,debit
+316633,00-99,,US,private label,debit
+316650,00-99,,US,private label,debit
+316653,00-99,,US,private label,debit
+316657,00-99,,US,private label,debit
+316659,00-99,,US,private label,debit
+316665,00-99,,US,private label,debit
+316666,00-99,,US,private label,debit
+316672,00-99,,US,private label,debit
+316673,00-99,,US,private label,debit
+316674,00-99,,US,private label,debit
+316675,00-99,,US,private label,debit
+316676,00-99,,US,private label,debit
+316677,00-99,,US,private label,debit
+316679,00-99,,US,private label,debit
+316682,00-99,,US,private label,debit
+316683,00-99,,US,private label,debit
+316684,00-99,,US,private label,debit
+316685,00-99,,US,private label,debit
+316690,00-99,,US,private label,debit
+316693,00-99,,US,private label,debit
+316696,00-99,,US,private label,debit
+316706,00-99,,US,private label,debit
+316713,00-99,,US,private label,debit
+316715,00-99,,US,private label,debit
+316716,00-99,,US,private label,debit
+316717,00-99,,US,private label,debit
+316725,00-99,,US,private label,debit
+316726,00-99,,US,private label,debit
+316727,00-99,,US,private label,debit
+316729,00-99,,US,private label,debit
+316730,00-99,,US,private label,debit
+316731,00-99,,US,private label,debit
+316732,00-99,,US,private label,debit
+316734,00-99,,US,private label,debit
+316738,00-99,,US,private label,debit
+316739,00-99,,US,private label,debit
+316741,00-99,,US,private label,debit
+316742,00-99,,US,private label,debit
+316744,00-99,,US,private label,debit
+316745,00-99,,US,private label,debit
+316746,00-99,,US,private label,debit
+316750,00-99,,US,private label,debit
+316760,00-99,,US,private label,debit
+316761,00-99,,US,private label,debit
+316765,00-99,,US,private label,debit
+316803,00-99,,US,private label,debit
+316806,00-99,,US,private label,debit
+316814,00-99,,US,private label,debit
+316821,00-99,,US,private label,debit
+316822,00-99,,US,private label,debit
+316823,00-99,,US,private label,debit
+316824,00-99,,US,private label,debit
+316826,00-99,,US,private label,debit
+316827,00-99,,US,private label,debit
+316834,00-99,,US,private label,debit
+316856,00-99,,US,private label,debit
+316857,00-99,,US,private label,debit
+316859,00-99,,US,private label,debit
+316866,00-99,,US,private label,debit
+316892,00-99,,US,private label,debit
+316897,00-99,,US,private label,debit
+316902,00-99,,US,private label,debit
+316909,00-99,,US,private label,debit
+316914,00-99,,US,private label,debit
+316921,00-99,,US,private label,debit
+316922,00-99,,US,private label,debit
+316925,00-99,,US,private label,debit
+316929,00-99,,US,private label,debit
+316931,00-99,,US,private label,debit
+316932,00-99,,US,private label,debit
+316956,00-99,,US,private label,debit
+316957,00-99,,US,private label,debit
+316971,00-99,,US,private label,debit
+316974,00-99,,US,private label,debit
+316975,00-99,,US,private label,debit
+316976,00-99,,US,private label,debit
+316983,00-99,,US,private label,debit
+316985,00-99,,US,private label,debit
+316990,00-99,,US,private label,debit
+316993,00-99,,US,private label,debit
+316994,00-99,,US,private label,debit
+317001,00-99,,US,private label,debit
+317002,00-99,,US,private label,debit
+317003,00-99,,US,private label,debit
+317004,00-99,,US,private label,debit
+317012,00-99,,US,private label,debit
+317024,00-99,,US,private label,debit
+317032,00-99,,US,private label,debit
+317036,00-99,,US,private label,debit
+317038,00-99,,US,private label,debit
+317039,00-99,,US,private label,debit
+317043,00-99,,US,private label,debit
+317045,00-99,,US,private label,debit
+317046,00-99,,US,private label,debit
+317047,00-99,,US,private label,debit
+317048,00-99,,US,private label,debit
+317049,00-99,,US,private label,debit
+317050,00-99,,US,private label,debit
+317051,00-99,,US,private label,debit
+317052,00-99,,US,private label,debit
+317053,00-99,,US,private label,debit
+317054,00-99,,US,private label,debit
+317055,00-99,,US,private label,debit
+317056,00-99,,US,private label,debit
+317057,00-99,,US,private label,debit
+317058,00-99,,US,private label,debit
+317063,00-99,,US,private label,debit
+317065,00-99,,US,private label,debit
+317200,00-99,,US,private label,debit
+317380,00-99,,NG,diners club international,credit
+318007,00-99,,US,private label,debit
+318035,00-99,,US,private label,debit
+318039,00-99,,US,private label,debit
+318040,00-99,,US,private label,debit
+318044,00-99,,US,private label,debit
+318045,00-99,,US,private label,debit
+318055,00-99,,US,private label,debit
+318056,00-99,,US,private label,debit
+318057,00-99,,US,private label,debit
+318068,00-99,,US,private label,debit
+318084,00-99,,US,private label,debit
+318091,00-99,,US,private label,debit
+318092,00-99,,US,private label,debit
+318093,00-99,,US,private label,debit
+318094,00-99,,US,private label,debit
+318095,00-99,,US,private label,debit
+318097,00-99,,US,private label,debit
+318099,00-99,,US,private label,debit
+318104,00-99,,US,private label,debit
+318105,00-99,,US,private label,debit
+318106,00-99,,US,private label,debit
+318107,00-99,,US,private label,debit
+318110,00-99,,US,private label,debit
+318112,00-99,,US,private label,debit
+318114,00-99,,US,private label,debit
+318124,00-99,,US,private label,debit
+318130,00-99,,US,private label,debit
+318139,00-99,,US,private label,debit
+318140,00-99,,US,private label,debit
+318150,00-99,,US,private label,debit
+318158,00-99,,US,private label,debit
+318163,00-99,,US,private label,debit
+318164,00-99,,US,private label,debit
+318165,00-99,,US,private label,debit
+318166,00-99,,US,private label,debit
+318172,00-99,,US,private label,debit
+318173,00-99,,US,private label,debit
+318177,00-99,,US,private label,debit
+318180,00-99,,US,private label,debit
+318184,00-99,,US,private label,debit
+318186,00-99,,US,private label,debit
+318194,00-99,,US,private label,debit
+318197,00-99,,US,private label,debit
+318203,00-99,,US,private label,debit
+318205,00-99,,US,private label,debit
+318209,00-99,,US,private label,debit
+318218,00-99,,US,private label,debit
+318235,00-99,,US,private label,debit
+318236,00-99,,US,private label,debit
+318237,00-99,,US,private label,debit
+318243,00-99,,US,private label,debit
+318246,00-99,,US,private label,debit
+318250,00-99,,US,private label,debit
+318253,00-99,,US,private label,debit
+318258,00-99,,US,private label,debit
+318280,00-99,,US,private label,debit
+318291,00-99,,US,private label,debit
+318305,00-99,,US,private label,debit
+318309,00-99,,US,private label,debit
+318312,00-99,,US,private label,debit
+318313,00-99,,US,private label,debit
+318319,00-99,,US,private label,debit
+318323,00-99,,US,private label,debit
+318328,00-99,,US,private label,debit
+318330,00-99,,US,private label,debit
+318346,00-99,,US,private label,debit
+318349,00-99,,US,private label,debit
+318350,00-99,,US,private label,debit
+318353,00-99,,US,private label,debit
+318356,00-99,,US,private label,debit
+318357,00-99,,US,private label,debit
+318359,00-99,,US,private label,debit
+318362,00-99,,US,private label,debit
+318372,00-99,,US,private label,debit
+318373,00-99,,US,private label,debit
+318374,00-99,,US,private label,debit
+318380,00-99,,US,private label,debit
+318382,00-99,,US,private label,debit
+318393,00-99,,US,private label,debit
+318394,00-99,,US,private label,debit
+318397,00-99,,US,private label,debit
+318398,00-99,,US,private label,debit
+318404,00-99,,US,private label,debit
+318417,00-99,,US,private label,debit
+318419,00-99,,US,private label,debit
+318429,00-99,,US,private label,debit
+318463,00-99,,US,private label,debit
+318464,00-99,,US,private label,debit
+318465,00-99,,US,private label,debit
+318467,00-99,,US,private label,debit
+318468,00-99,,US,private label,debit
+318495,00-99,,US,private label,debit
+318503,00-99,,US,private label,debit
+318505,00-99,,US,private label,debit
+318517,00-99,,US,private label,debit
+318556,00-99,,US,private label,debit
+318557,00-99,,US,private label,debit
+318558,00-99,,US,private label,debit
+318567,00-99,,US,private label,debit
+318569,00-99,,US,private label,debit
+318570,00-99,,US,private label,debit
+318573,00-99,,US,private label,debit
+318574,00-99,,US,private label,debit
+318575,00-99,,US,private label,debit
+318576,00-99,,US,private label,debit
+318577,00-99,,US,private label,debit
+318578,00-99,,US,private label,debit
+318579,00-99,,US,private label,debit
+318580,00-99,,US,private label,debit
+318581,00-99,,US,private label,debit
+318582,00-99,,US,private label,debit
+318583,00-99,,US,private label,debit
+318584,00-99,,US,private label,debit
+318585,00-99,,US,private label,debit
+318586,00-99,,US,private label,debit
+318587,00-99,,US,private label,debit
+318612,00-99,,US,private label,debit
+318629,00-99,,US,private label,debit
+318630,00-99,,US,private label,debit
+318633,00-99,,US,private label,debit
+318637,00-99,,US,private label,debit
+318640,00-99,,US,private label,debit
+318641,00-99,,US,private label,debit
+318644,00-99,,US,private label,debit
+318645,00-99,,US,private label,debit
+318647,00-99,,US,private label,debit
+318654,00-99,,US,private label,debit
+318655,00-99,,US,private label,debit
+318677,00-99,,US,private label,debit
+318682,00-99,,US,private label,debit
+318684,00-99,,US,private label,debit
+318689,00-99,,US,private label,debit
+318694,00-99,,US,private label,debit
+318697,00-99,,US,private label,debit
+318700,00-99,,US,private label,debit
+318701,00-99,,US,private label,debit
+318702,00-99,,US,private label,debit
+318706,00-99,,US,private label,debit
+318710,00-99,,US,private label,debit
+318712,00-99,,US,private label,debit
+318714,00-99,,US,private label,debit
+318715,00-99,,US,private label,debit
+318718,00-99,,US,private label,debit
+318719,00-99,,US,private label,debit
+318723,00-99,,US,private label,debit
+318729,00-99,,US,private label,debit
+318735,00-99,,US,private label,debit
+318739,00-99,,US,private label,debit
+318743,00-99,,US,private label,debit
+318744,00-99,,US,private label,debit
+318746,00-99,,US,private label,debit
+318748,00-99,,US,private label,debit
+318749,00-99,,US,private label,debit
+318750,00-99,,US,private label,debit
+318757,00-99,,US,private label,debit
+318761,00-99,,US,private label,debit
+318762,00-99,,US,private label,debit
+318767,00-99,,US,private label,debit
+318768,00-99,,US,private label,debit
+318769,00-99,,US,private label,debit
+318770,00-99,,US,private label,debit
+318776,00-99,,US,private label,debit
+318778,00-99,,US,private label,debit
+318780,00-99,,US,private label,debit
+318783,00-99,,US,private label,debit
+318786,00-99,,US,private label,debit
+318800,00-99,,US,private label,debit
+318804,00-99,,US,private label,debit
+318805,00-99,,US,private label,debit
+318806,00-99,,US,private label,debit
+318808,00-99,,US,private label,debit
+318812,00-99,,US,private label,debit
+318815,00-99,,US,private label,debit
+318819,00-99,,US,private label,debit
+318821,00-99,,US,private label,debit
+318824,00-99,,US,private label,debit
+318829,00-99,,US,private label,debit
+318832,00-99,,US,private label,debit
+318843,00-99,,US,private label,debit
+318844,00-99,,US,private label,debit
+318846,00-99,,US,private label,debit
+318850,00-99,,US,private label,debit
+318851,00-99,,US,private label,debit
+318863,00-99,,US,private label,debit
+318867,00-99,,US,private label,debit
+318877,00-99,,US,private label,debit
+318883,00-99,,US,private label,debit
+318886,00-99,,US,private label,debit
+318897,00-99,,US,private label,debit
+318898,00-99,,US,private label,debit
+318901,00-99,,US,private label,debit
+318909,00-99,,US,private label,debit
+318911,00-99,,US,private label,debit
+318920,00-99,,US,private label,debit
+318922,00-99,,US,private label,debit
+318926,00-99,,US,private label,debit
+318928,00-99,,US,private label,debit
+318930,00-99,,US,private label,debit
+318931,00-99,,US,private label,debit
+318938,00-99,,US,private label,debit
+318940,00-99,,US,private label,debit
+318943,00-99,,US,private label,debit
+318944,00-99,,US,private label,debit
+318950,00-99,,US,private label,debit
+318951,00-99,,US,private label,debit
+318958,00-99,,US,private label,debit
+318962,00-99,,US,private label,debit
+318963,00-99,,US,private label,debit
+318965,00-99,,US,private label,debit
+318980,00-99,,US,private label,debit
+318987,00-99,,US,private label,debit
+318988,00-99,,US,private label,debit
+318989,00-99,,US,private label,debit
+318991,00-99,,US,private label,debit
+318995,00-99,,US,private label,debit
+319049,00-99,,US,private label,debit
+319066,00-99,,US,private label,debit
+319067,00-99,,US,private label,debit
+319069,00-99,,US,private label,debit
+319075,00-99,,US,private label,debit
+319076,00-99,,US,private label,debit
+319089,00-99,,US,private label,debit
+319090,00-99,,US,private label,debit
+319091,00-99,,US,private label,debit
+319099,00-99,,US,private label,debit
+319104,00-99,,US,private label,debit
+319110,00-99,,US,private label,debit
+319123,00-99,,US,private label,debit
+319125,00-99,,US,private label,debit
+319126,00-99,,US,private label,debit
+319133,00-99,,US,private label,debit
+319143,00-99,,US,private label,debit
+319149,00-99,,US,private label,debit
+319155,00-99,,US,private label,debit
+319166,00-99,,US,private label,debit
+319173,00-99,,US,private label,debit
+319174,00-99,,US,private label,debit
+319194,00-99,,US,private label,debit
+319195,00-99,,US,private label,debit
+319196,00-99,,US,private label,debit
+319198,00-99,,US,private label,debit
+319211,00-99,,US,private label,debit
+319218,00-99,,US,private label,debit
+319219,00-99,,US,private label,debit
+319231,00-99,,US,private label,debit
+319235,00-99,,US,private label,debit
+319237,00-99,,US,private label,debit
+319241,00-99,,US,private label,debit
+319247,00-99,,US,private label,debit
+319249,00-99,,US,private label,debit
+319252,00-99,,US,private label,debit
+319263,00-99,,US,private label,debit
+319267,00-99,,US,private label,debit
+319276,00-99,,US,private label,debit
+319277,00-99,,US,private label,debit
+319292,00-99,,US,private label,debit
+319298,00-99,,US,private label,debit
+319300,00-99,,US,private label,debit
+319332,00-99,,US,private label,debit
+319333,00-99,,US,private label,debit
+319334,00-99,,US,private label,debit
+319346,00-99,,US,private label,debit
+319347,00-99,,US,private label,debit
+319350,00-99,,US,private label,debit
+319352,00-99,,US,private label,debit
+319353,00-99,,US,private label,debit
+319354,00-99,,US,private label,debit
+319357,00-99,,US,private label,debit
+319362,00-99,,US,private label,debit
+319363,00-99,,US,private label,debit
+319364,00-99,,US,private label,debit
+319365,00-99,,US,private label,debit
+319367,00-99,,US,private label,debit
+319374,00-99,,US,private label,debit
+319375,00-99,,US,private label,debit
+319376,00-99,,US,private label,debit
+319377,00-99,,US,private label,debit
+319378,00-99,,US,private label,debit
+319379,00-99,,US,private label,debit
+319380,00-99,,US,private label,debit
+319382,00-99,,US,private label,debit
+319394,00-99,,US,private label,debit
+319397,00-99,,US,private label,debit
+319398,00-99,,US,private label,debit
+319399,00-99,,US,private label,debit
+319400,00-99,,US,private label,debit
+319401,00-99,,US,private label,debit
+319402,00-99,,US,private label,debit
+319434,00-99,,US,private label,debit
+319444,00-99,,US,private label,debit
+319448,00-99,,US,private label,debit
+319460,00-99,,US,private label,debit
+319469,00-99,,US,private label,debit
+319471,00-99,,US,private label,debit
+319485,00-99,,US,private label,debit
+319486,00-99,,US,private label,debit
+319488,00-99,,US,private label,debit
+319489,00-99,,US,private label,debit
+319490,00-99,,US,private label,debit
+319539,00-99,,US,private label,debit
+319542,00-99,,US,private label,debit
+319597,00-99,,EG,diners club international,credit
+319613,00-99,,US,private label,debit
+319614,00-99,,US,private label,debit
+319615,00-99,,US,private label,debit
+319622,00-99,,US,private label,debit
+319646,00-99,,US,private label,debit
+319647,00-99,,US,private label,debit
+319649,00-99,,US,private label,debit
+319650,00-99,,US,private label,debit
+319651,00-99,,US,private label,debit
+319653,00-99,,US,private label,debit
+319666,00-99,,US,private label,debit
+319670,00-99,,US,private label,debit
+319680,00-99,,US,private label,debit
+319681,00-99,,US,private label,debit
+319689,00-99,,US,private label,debit
+319691,00-99,,US,private label,debit
+319693,00-99,,US,private label,debit
+319715,00-99,,US,private label,debit
+319719,00-99,,US,private label,debit
+319721,00-99,,US,private label,debit
+319722,00-99,,US,private label,debit
+319723,00-99,,US,private label,debit
+319724,00-99,,US,private label,debit
+319725,00-99,,US,private label,debit
+319726,00-99,,US,private label,debit
+319728,00-99,,US,private label,debit
+319729,00-99,,US,private label,debit
+319730,00-99,,US,private label,debit
+319731,00-99,,US,private label,debit
+319732,00-99,,US,private label,debit
+319737,00-99,,US,private label,debit
+319740,00-99,,US,private label,debit
+319742,00-99,,US,private label,debit
+319747,00-99,,US,private label,debit
+319748,00-99,,US,private label,debit
+319750,00-99,,US,private label,debit
+319756,00-99,,US,private label,debit
+319765,00-99,,US,private label,debit
+319767,00-99,,US,private label,debit
+319778,00-99,,US,private label,debit
+319779,00-99,,US,private label,debit
+319781,00-99,,US,private label,debit
+319879,00-99,,US,private label,debit
+319990,00-99,ING BANK SLASKI S.A.,PL,private label,debit

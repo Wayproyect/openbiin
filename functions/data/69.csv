@@ -1,0 +1,270 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+690000,00-99,,JP,maestro,debit
+690001,00-99,WEX INC.,US,wexcard,credit
+690002,00-99,,TR,maestro,debit
+690003,00-99,WEX INC.,US,wexcard,credit
+690004,00-99,WEX INC.,US,wexcard,credit
+690005,00-99,WEX INC.,US,wexcard,credit
+690006,00-99,WEX INC.,US,wexcard,credit
+690007,00-99,PITAPA BASIC,JP,local brand,debit
+690008,00-99,WEX INC.,US,wexcard,credit
+690009,00-99,,RO,maestro,debit
+690010,00-99,WEX INC.,US,wexcard,credit
+690011,00-99,WEX INC.,US,wexcard,credit
+690012,00-99,WEX INC.,US,wexcard,credit
+690013,00-99,WEX INC.,US,wexcard,credit
+690014,00-99,WEX INC.,US,wexcard,credit
+690015,00-99,WEX INC.,US,wexcard,credit
+690016,00-99,WEX INC.,US,wexcard,credit
+690017,00-99,,JP,maestro,debit
+690018,00-99,WEX INC.,US,wexcard,credit
+690019,00-99,WEX INC.,US,wexcard,credit
+690020,00-99,WEX INC.,US,wexcard,credit
+690021,00-99,WEX INC.,US,wexcard,credit
+690022,00-99,WEX INC.,US,wexcard,credit
+690023,00-99,WEX INC.,US,wexcard,credit
+690024,00-99,WEX INC.,US,wexcard,credit
+690025,00-99,,JM,maestro,debit
+690026,00-99,WEX INC.,US,wexcard,credit
+690027,00-99,WEX INC.,US,wexcard,credit
+690028,00-99,WEX INC.,US,wexcard,credit
+690029,00-99,WEX INC.,US,wexcard,credit
+690030,00-99,WEX INC.,US,wexcard,credit
+690031,00-99,WEX INC.,US,wexcard,credit
+690032,00-99,,AR,maestro,debit
+690033,00-99,WEX INC.,US,wexcard,credit
+690034,00-99,WEX INC.,US,wexcard,credit
+690035,00-99,WEX INC.,US,wexcard,credit
+690036,00-99,WEX INC.,US,wexcard,credit
+690037,00-99,WEX INC.,US,wexcard,credit
+690038,00-99,WEX INC.,US,wexcard,credit
+690039,00-99,WEX INC.,US,wexcard,credit
+690040,00-99,WEX INC.,US,wexcard,credit
+690041,00-99,WEX INC.,US,wexcard,credit
+690042,00-99,WEX INC.,US,wexcard,credit
+690043,00-99,WEX INC.,US,wexcard,credit
+690044,00-99,WEX INC.,US,wexcard,credit
+690045,00-99,WEX INC.,US,wexcard,credit
+690046,00-99,WEX INC.,US,wexcard,credit
+690047,00-99,WEX INC.,US,wexcard,credit
+690048,00-99,WEX INC.,US,wexcard,credit
+690049,00-99,WEX INC.,US,wexcard,credit
+690050,00-99,WEX INC.,US,wexcard,credit
+690051,00-99,WEX INC.,US,wexcard,credit
+690052,00-99,WEX INC.,US,wexcard,credit
+690053,00-99,WEX INC.,US,wexcard,credit
+690054,00-99,,RU,maestro,debit
+690055,00-99,WEX INC.,US,wexcard,credit
+690056,00-99,WEX INC.,US,wexcard,credit
+690057,00-99,WEX INC.,US,wexcard,credit
+690058,00-99,WEX INC.,US,wexcard,credit
+690059,00-99,WEX INC.,US,wexcard,credit
+690060,00-99,WEX INC.,US,wexcard,credit
+690061,00-99,WEX INC.,US,wexcard,credit
+690062,00-99,WEX INC.,US,wexcard,credit
+690063,00-99,WEX INC.,US,wexcard,credit
+690064,00-99,WEX INC.,US,wexcard,credit
+690065,00-99,WEX INC.,US,wexcard,credit
+690066,00-99,WEX INC.,US,wexcard,credit
+690067,00-99,WEX INC.,US,wexcard,credit
+690068,00-99,WEX INC.,US,wexcard,credit
+690069,00-99,WEX INC.,US,wexcard,credit
+690070,00-99,WEX INC.,US,wexcard,credit
+690071,00-99,WEX INC.,US,wexcard,credit
+690072,00-99,WEX INC.,US,wexcard,credit
+690073,00-99,WEX INC.,US,wexcard,credit
+690074,00-99,WEX INC.,US,wexcard,credit
+690075,00-99,WEX INC.,US,wexcard,credit
+690076,00-99,WEX INC.,US,wexcard,credit
+690077,00-99,WEX INC.,US,wexcard,credit
+690078,00-99,WEX INC.,US,wexcard,credit
+690079,00-99,WEX INC.,US,wexcard,credit
+690080,00-99,WEX INC.,US,wexcard,credit
+690081,00-99,WEX INC.,US,wexcard,credit
+690082,00-99,,US,ebt,debit
+690083,00-99,WEX INC.,US,wexcard,credit
+690084,00-99,WEX INC.,US,wexcard,credit
+690085,00-99,WEX INC.,US,wexcard,credit
+690086,00-99,WEX INC.,US,wexcard,credit
+690087,00-99,WEX INC.,US,wexcard,credit
+690088,00-99,WEX INC.,US,wexcard,credit
+690089,00-99,WEX INC.,US,wexcard,credit
+690090,00-99,WEX INC.,US,wexcard,credit
+690091,00-99,WEX INC.,US,wexcard,credit
+690092,00-99,WEX INC.,US,wexcard,credit
+690093,00-99,WEX INC.,US,wexcard,credit
+690094,00-99,WEX INC.,US,wexcard,credit
+690095,00-99,WEX INC.,US,wexcard,credit
+690096,00-99,WEX INC.,US,wexcard,credit
+690097,00-99,WEX INC.,US,wexcard,credit
+690098,00-99,WEX INC.,US,wexcard,credit
+690099,00-99,,JP,maestro,debit
+690101,00-99,MARUI'S RED,JP,local brand,debit
+690149,00-99,IAPA FREQUENT FLYERS,GB,maestro,debit
+690172,00-99,,BR,maestro,debit
+690231,00-99,,GE,maestro,debit
+690413,00-99,,EC,maestro,debit
+690465,00-99,,US,ebt,debit
+690527,00-99,,US,ebt,debit
+690750,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690751,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690752,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690753,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690754,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690755,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690756,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690757,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690758,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690759,00-99,CHINA MERCHANTS BANK,CN,local,debit
+690970,00-99,,DE,maestro,debit
+691026,00-99,,US,ebt,debit
+691100,00-99,ISETAN EYE,JP,local brand,debit
+691106,00-99,,IN,maestro,debit
+691131,00-99,TAKASHIMAYA,JP,local brand,debit
+691134,00-99,,US,ebt,debit
+691141,00-99,,RU,maestro,debit
+691313,00-99,,RU,maestro,debit
+691339,00-99,,BR,maestro,debit
+691401,00-99,,FR,maestro,debit
+691510,00-99,,VE,maestro,debit
+691597,00-99,,EG,maestro,debit
+691710,00-99,,PK,maestro,debit
+691801,00-99,,IS,maestro,debit
+691842,00-99,,US,ebt,debit
+692042,00-99,,RU,maestro,debit
+692181,00-99,,GB,maestro,debit
+692182,00-99,,RU,maestro,debit
+692200,00-99,TAKASHIMAYA,JP,local brand,debit
+692223,00-99,,US,ebt,debit
+692253,00-99,,GR,maestro,debit
+692505,00-99,,DK,maestro,debit
+692550,00-99,,GB,maestro,debit
+692693,00-99,,CO,maestro,debit
+692711,00-99,,TN,maestro,debit
+692893,00-99,,NL,maestro,debit
+693002,00-99,,RU,maestro,debit
+693003,00-99,,GB,maestro,debit
+693010,00-99,,RU,maestro,debit
+693014,00-99,,AU,maestro,debit
+693050,00-99,ION PROPER,JP,local brand,debit
+693057,00-99,,GB,maestro,debit
+693099,00-99,,GB,maestro,debit
+693134,00-99,,MA,maestro,debit
+693312,00-99,,AU,maestro,debit
+693395,00-99,,US,ebt,debit
+693405,00-99,,RU,maestro,debit
+693409,00-99,,DE,maestro,debit
+693426,00-99,,US,ebt,debit
+693523,00-99,,BR,maestro,debit
+693574,00-99,,BR,maestro,debit
+693689,00-99,,BR,maestro,debit
+693700,00-99,,BR,maestro,debit
+693711,00-99,,MK,maestro,debit
+693715,00-99,,IT,maestro,debit
+693800,00-99,,GB,maestro,debit
+694209,00-99,,BR,maestro,debit
+694230,00-99,,RU,maestro,debit
+694258,00-99,,MA,maestro,debit
+694301,00-99,CHANGSHA CITY COMMERCIAL BANK,CN,private label,debit
+694400,00-99,,US,ebt,debit
+694675,00-99,,PK,maestro,debit
+694830,00-99,,BR,maestro,debit
+694845,00-99,,US,ebt,debit
+694858,00-99,,AU,maestro,debit
+694867,00-99,,US,ebt,debit
+694982,00-99,,BR,maestro,debit
+695000,00-99,,JP,maestro,debit
+695001,00-99,NIKKEI BP,JP,local brand,debit
+695002,00-99,MITSUBISHI UFJ NICOS CO. LTD.,JP,local brand,debit
+695010,00-99,MITSUBISHI UFJ NICOS CO. LTD.,JP,local brand,debit
+695017,00-99,MITSUBISHI UFJ NICOS CO. LTD.,JP,local brand,debit
+695020,00-99,MITSUBISHI UFJ NICOS CO. LTD.,JP,local brand,debit
+695045,00-99,,US,ebt,debit
+695047,00-99,CATHOLIC SYRIAN BANK,IN,rupay,debit
+695054,00-99,,RU,maestro,debit
+695110,00-99,,US,ebt,debit
+695111,00-99,,IT,maestro,debit
+695132,00-99,,GB,maestro,debit
+695136,00-99,,US,ebt,debit
+695161,00-99,,HK,maestro,debit
+695430,00-99,,RU,maestro,debit
+695477,00-99,,MA,maestro,debit
+695485,00-99,,FR,maestro,debit
+695588,00-99,,BR,maestro,debit
+695800,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695801,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695802,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695803,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695804,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695805,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695806,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695807,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695808,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695809,00-99,NANTONG COMMERCIAL BANK,CN,private label,debit
+695896,00-99,,BR,maestro,debit
+695921,00-99,,GB,maestro,debit
+695943,00-99,,MA,maestro,debit
+695946,00-99,,GB,maestro,debit
+696000,00-99,,RU,maestro,debit
+696011,00-99,,MD,maestro,debit
+696100,00-99,,US,ebt,debit
+696196,00-99,,RU,maestro,debit
+696207,00-99,,US,ebt,debit
+696280,00-99,,RU,maestro,debit
+696282,00-99,,BR,maestro,debit
+696352,00-99,,VE,maestro,debit
+696450,00-99,,AT,maestro,debit
+696569,00-99,,GB,maestro,debit
+696628,00-99,,US,ebt,debit
+696669,00-99,,TR,maestro,debit
+696857,00-99,,DE,maestro,debit
+696900,00-99,,RU,maestro,debit
+696969,00-99,,BR,maestro,debit
+697000,00-99,,AT,maestro,debit
+697090,00-99,,TN,maestro,debit
+697096,00-99,,PK,maestro,debit
+697196,00-99,,RU,maestro,debit
+697208,00-99,,US,ebt,debit
+697301,00-99,,MA,maestro,debit
+697361,00-99,,LB,maestro,debit
+697530,00-99,,CA,maestro,debit
+697645,00-99,,FR,maestro,debit
+697687,00-99,,GB,maestro,debit
+697720,00-99,,CL,maestro,debit
+697800,00-99,,US,ebt,debit
+697807,00-99,,IT,maestro,debit
+697829,00-99,,EG,maestro,debit
+697901,00-99,,IT,maestro,debit
+698011,00-99,,BR,maestro,debit
+698113,00-99,,IL,maestro,debit
+698233,00-99,,AU,maestro,debit
+698406,00-99,,IL,maestro,debit
+698453,00-99,,RO,maestro,debit
+698534,00-99,,MX,maestro,debit
+698555,00-99,,DE,maestro,debit
+698644,00-99,,RO,maestro,debit
+698653,00-99,,RU,maestro,debit
+698703,00-99,,GB,maestro,debit
+698745,00-99,,TR,maestro,debit
+698763,00-99,,PA,maestro,debit
+698766,00-99,,MA,maestro,debit
+698857,00-99,,LT,maestro,debit
+698889,00-99,,US,ebt,debit
+698982,00-99,,US,ebt,debit
+699000,00-99,,US,ebt,debit
+699001,00-99,,TR,maestro,debit
+699002,00-99,,RU,maestro,debit
+699066,00-99,,US,ebt,debit
+699087,00-99,,GB,maestro,debit
+699110,00-99,JACCS,JP,local brand,debit
+699331,00-99,,IT,maestro,debit
+699341,00-99,,RU,maestro,debit
+699388,00-99,,US,ebt,debit
+699404,00-99,,BR,maestro,debit
+699423,00-99,,BR,maestro,debit
+699696,00-99,,HK,maestro,debit
+699876,00-99,ML CARD,JP,local brand,debit
+699906,00-99,,BR,maestro,debit
+699930,00-99,,CA,maestro,debit
+699937,00-99,,RU,maestro,debit
+699999,00-99,,PK,maestro,debit

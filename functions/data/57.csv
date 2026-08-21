@@ -1,0 +1,3465 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+570000,00-99,,US,ebt,debit
+570001,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570002,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570003,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570004,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570007,00-99,,US,ebt,debit
+570009,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570010,00-99,,US,ebt,debit
+570011,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+570012,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570015,00-99,,US,ebt,debit
+570016,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570019,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570021,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570022,00-99,,US,ebt,debit
+570025,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570026,00-99,,US,ebt,debit
+570027,00-99,,US,ebt,debit
+570028,00-99,,CA,maestro,debit
+570031,00-99,MAESTRO INTERNATIONAL,TR,maestro,debit
+570032,00-99,,US,ebt,debit
+570033,00-99,,RU,maestro,debit
+570042,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+570055,00-99,,US,cirrus,debit
+570062,00-99,,MA,maestro,debit
+570063,00-99,,US,ebt,debit
+570066,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+570073,00-99,,US,ebt,debit
+570084,00-99,,US,ebt,debit
+570086,00-99,,PH,maestro,debit
+570093,00-99,,US,ebt,debit
+570100,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+570110,00-99,,US,maestro,debit
+570111,00-99,,US,ebt,debit
+570112,00-99,,US,ebt,debit
+570115,00-99,,US,ebt,debit
+570118,00-99,,US,ebt,debit
+570121,00-99,,US,ebt,debit
+570123,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570125,00-99,,RU,maestro,debit
+570129,00-99,,CA,maestro,debit
+570130,00-99,,US,maestro,debit
+570132,00-99,,DE,maestro,debit
+570141,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570145,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+570147,00-99,,US,ebt,debit
+570150,00-99,,US,ebt,debit
+570151,00-99,,US,ebt,debit
+570155,00-99,,GB,maestro,debit
+570156,00-99,,US,ebt,debit
+570162,00-99,,US,ebt,debit
+570167,00-99,,US,ebt,debit
+570168,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570170,00-99,,US,maestro,debit
+570172,00-99,U.S. BANK N.A.,US,cirrus,debit
+570174,00-99,,US,ebt,debit
+570180,00-99,,US,maestro,debit
+570182,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570190,00-99,,US,maestro,debit
+570197,00-99,,US,cirrus,debit
+570200,00-99,,US,cirrus,debit
+570212,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+570213,00-99,,US,ebt,debit
+570215,00-99,,US,cirrus,debit
+570220,00-99,,US,ebt,debit
+570223,00-99,,US,cirrus,debit
+570225,00-99,,US,ebt,debit
+570226,00-99,,US,ebt,debit
+570234,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+570236,00-99,,TR,maestro,debit
+570237,00-99,,US,cirrus,debit
+570243,00-99,MAESTRO INTERNATIONAL,PE,maestro,debit
+570248,00-99,,US,ebt,debit
+570255,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570280,00-99,,US,ebt,debit
+570281,00-99,U.S. BANK N.A.,US,ebt,debit
+570284,00-99,,US,ebt,debit
+570286,00-99,,US,cirrus,debit
+570287,00-99,,IT,maestro,debit
+570306,00-99,,US,ebt,debit
+570311,00-99,,US,maestro,debit
+570312,00-99,,US,ebt,debit
+570313,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+570322,00-99,,US,maestro,debit
+570323,00-99,,US,ebt,debit
+570324,00-99,,US,ebt,debit
+570336,00-99,,US,ebt,debit
+570344,00-99,,US,cirrus,debit
+570351,00-99,,US,cirrus,debit
+570357,00-99,CAPITAL ONE,US,ebt,credit
+570360,00-99,,US,cirrus,debit
+570366,00-99,,US,ebt,debit
+570371,00-99,,US,ebt,debit
+570373,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+570374,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+570375,00-99,,DE,maestro,debit
+570376,00-99,,DE,maestro,debit
+570379,00-99,,US,ebt,debit
+570382,00-99,,US,ebt,debit
+570388,00-99,,DE,maestro,debit
+570390,00-99,,US,cirrus,debit
+570394,00-99,,US,maestro,debit
+570397,00-99,,US,cirrus,debit
+570401,00-99,,US,ebt,debit
+570402,00-99,,US,maestro,debit
+570413,00-99,,MX,maestro,debit
+570414,00-99,,US,ebt,debit
+570423,00-99,TARJETA EXITO - TUYA,CO,maestro,debit
+570424,00-99,,US,cirrus,debit
+570433,00-99,,US,ebt,debit
+570435,00-99,,US,ebt,debit
+570442,00-99,,MX,maestro,debit
+570445,00-99,,IL,maestro,debit
+570450,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+570453,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+570457,00-99,,US,ebt,debit
+570458,00-99,,GB,maestro,debit
+570460,00-99,,BR,maestro,debit
+570464,00-99,,US,cirrus,debit
+570466,00-99,,US,cirrus,debit
+570477,00-99,,FR,maestro,debit
+570481,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+570486,00-99,,MX,maestro,debit
+570497,00-99,,US,ebt,debit
+570498,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+570500,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570519,00-99,MAESTRO INTERNATIONAL,VN,maestro,debit
+570520,00-99,,US,cirrus,debit
+570525,00-99,,BR,maestro,debit
+570545,00-99,,IE,maestro,debit
+570556,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+570561,00-99,,US,cirrus,debit
+570566,00-99,,US,ebt,debit
+570580,00-99,,US,ebt,debit
+570581,00-99,,US,cirrus,debit
+570584,00-99,,US,cirrus,debit
+570586,00-99,,US,maestro,debit
+570598,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+570600,00-99,,US,ebt,debit
+570604,00-99,,US,cirrus,debit
+570605,00-99,,US,ebt,debit
+570606,00-99,,US,ebt,debit
+570608,00-99,,US,cirrus,debit
+570634,00-99,,US,ebt,debit
+570637,00-99,,US,cirrus,debit
+570649,00-99,,US,ebt,debit
+570653,00-99,,US,ebt,debit
+570665,00-99,,US,ebt,debit
+570670,00-99,,US,maestro,debit
+570672,00-99,,US,cirrus,debit
+570673,00-99,,RU,maestro,debit
+570680,00-99,,US,cirrus,debit
+570696,00-99,,US,cirrus,debit
+570700,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+570701,00-99,,RO,maestro,debit
+570702,00-99,,US,ebt,debit
+570706,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570711,00-99,,CO,maestro,debit
+570712,00-99,,GB,maestro,debit
+570714,00-99,COOPSIBATE COOPERATIVA FINANCIERA,CO,maestro,debit
+570720,00-99,,GB,maestro,debit
+570723,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+570728,00-99,,US,ebt,debit
+570733,00-99,,US,cirrus,debit
+570740,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+570746,00-99,MAESTRO INTERNATIONAL,PS,maestro,debit
+570748,00-99,,US,ebt,debit
+570757,00-99,,US,ebt,debit
+570758,00-99,,GB,maestro,debit
+570760,00-99,,US,ebt,debit
+570763,00-99,,US,cirrus,debit
+570767,00-99,,US,ebt,debit
+570774,00-99,,US,ebt,debit
+570780,00-99,,US,ebt,debit
+570788,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570791,00-99,,US,ebt,debit
+570793,00-99,,US,cirrus,debit
+570795,00-99,BANK OF AMERICA,US,ebt,debit
+570800,00-99,,US,ebt,debit
+570809,00-99,,US,cirrus,debit
+570812,00-99,,US,cirrus,debit
+570816,00-99,,US,ebt,debit
+570817,00-99,,US,ebt,debit
+570820,00-99,,US,cirrus,debit
+570831,00-99,,US,ebt,debit
+570832,00-99,,US,ebt,debit
+570835,00-99,,US,cirrus,debit
+570836,00-99,,US,ebt,debit
+570839,00-99,,US,ebt,debit
+570840,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+570844,00-99,,US,cirrus,debit
+570852,00-99,,US,ebt,debit
+570853,00-99,,US,cirrus,debit
+570865,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+570868,00-99,,US,cirrus,debit
+570874,00-99,,NO,maestro,debit
+570877,00-99,,US,cirrus,debit
+570888,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+570889,00-99,,US,ebt,debit
+570902,00-99,,US,ebt,debit
+570905,00-99,,US,cirrus,debit
+570907,00-99,,ES,maestro,debit
+570910,00-99,,US,ebt,debit
+570917,00-99,,FR,maestro,debit
+570925,00-99,,US,cirrus,debit
+570930,00-99,,US,cirrus,debit
+570935,00-99,,US,ebt,debit
+570938,00-99,,US,cirrus,debit
+570947,00-99,MAESTRO INTERNATIONAL,NL,maestro,debit
+570952,00-99,,US,ebt,debit
+570957,00-99,,US,cirrus,debit
+570969,00-99,,US,ebt,debit
+570970,00-99,,US,ebt,debit
+570973,00-99,,US,cirrus,debit
+570977,00-99,,US,ebt,debit
+570978,00-99,,US,cirrus,debit
+570982,00-99,MAESTRO INTERNATIONAL,AL,maestro,debit
+570985,00-99,,US,ebt,debit
+570986,00-99,,US,cirrus,debit
+570990,00-99,,US,cirrus,debit
+570992,00-99,,US,ebt,debit
+570997,00-99,,US,ebt,debit
+571004,00-99,,US,ebt,debit
+571005,00-99,,US,ebt,debit
+571006,00-99,,US,cirrus,debit
+571010,00-99,,JP,maestro,debit
+571015,00-99,,US,cirrus,debit
+571020,00-99,,US,ebt,debit
+571021,00-99,VISA DPS,US,ebt,debit
+571022,00-99,,US,ebt,debit
+571031,00-99,,US,cirrus,debit
+571034,00-99,,US,cirrus,debit
+571035,00-99,,US,ebt,debit
+571037,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+571039,00-99,,US,cirrus,debit
+571040,00-99,,DK,maestro,debit
+571042,00-99,,US,cirrus,debit
+571048,00-99,,US,ebt,debit
+571051,00-99,VISA DPS,US,ebt,debit
+571053,00-99,,US,cirrus,debit
+571055,00-99,,US,cirrus,debit
+571057,00-99,,US,ebt,debit
+571063,00-99,,US,cirrus,debit
+571064,00-99,,US,cirrus,debit
+571065,00-99,,US,cirrus,debit
+571070,00-99,,US,ebt,debit
+571073,00-99,,US,ebt,debit
+571074,00-99,,US,cirrus,debit
+571076,00-99,VISA DPS,US,ebt,debit
+571081,00-99,MAESTRO INTERNATIONAL,NG,maestro,debit
+571082,00-99,,US,cirrus,debit
+571094,00-99,,US,ebt,debit
+571096,00-99,,US,cirrus,debit
+571098,00-99,,US,cirrus,debit
+571100,00-99,MAESTRO INTERNATIONAL,JP,maestro,debit
+571105,00-99,,US,cirrus,debit
+571107,00-99,,US,cirrus,debit
+571113,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571114,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+571118,00-99,,US,ebt,debit
+571119,00-99,,US,ebt,debit
+571122,00-99,,US,ebt,debit
+571131,00-99,,US,cirrus,debit
+571134,00-99,,TR,maestro,debit
+571142,00-99,,CA,maestro,debit
+571150,00-99,MAESTRO INTERNATIONAL,SG,maestro,debit
+571156,00-99,,US,cirrus,debit
+571158,00-99,,US,cirrus,debit
+571162,00-99,,US,ebt,debit
+571167,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+571174,00-99,,US,cirrus,debit
+571175,00-99,,BR,maestro,debit
+571176,00-99,,GB,maestro,debit
+571177,00-99,,US,cirrus,debit
+571178,00-99,,US,cirrus,debit
+571180,00-99,,US,ebt,debit
+571185,00-99,,US,cirrus,debit
+571187,00-99,,US,ebt,debit
+571188,00-99,,US,cirrus,debit
+571190,00-99,,US,cirrus,debit
+571200,00-99,KOMERCIJALNA BANKA A.D. BANJA LUKA,BA,maestro,debit
+571201,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+571204,00-99,,US,ebt,debit
+571205,00-99,,US,ebt,debit
+571209,00-99,,US,ebt,debit
+571210,00-99,,DK,maestro,debit
+571216,00-99,,IN,maestro,debit
+571222,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571224,00-99,,US,cirrus,debit
+571225,00-99,,US,ebt,debit
+571228,00-99,,US,ebt,debit
+571229,00-99,,US,ebt,debit
+571231,00-99,,PR,maestro,debit
+571233,00-99,,ES,maestro,debit
+571236,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571238,00-99,,US,ebt,debit
+571239,00-99,,US,ebt,debit
+571242,00-99,,US,cirrus,debit
+571245,00-99,,US,ebt,debit
+571247,00-99,,US,ebt,debit
+571250,00-99,,US,cirrus,debit
+571254,00-99,,US,ebt,debit
+571256,00-99,,US,cirrus,debit
+571258,00-99,,US,ebt,debit
+571261,00-99,MAESTRO INTERNATIONAL,PH,maestro,debit
+571265,00-99,,US,ebt,debit
+571268,00-99,,US,ebt,debit
+571271,00-99,,US,ebt,debit
+571272,00-99,,US,ebt,debit
+571273,00-99,,US,cirrus,debit
+571276,00-99,,US,ebt,debit
+571282,00-99,,US,ebt,debit
+571285,00-99,,US,cirrus,debit
+571287,00-99,,US,cirrus,debit
+571292,00-99,,US,ebt,debit
+571306,00-99,MAESTRO INTERNATIONAL,ME,maestro,debit
+571311,00-99,,US,ebt,debit
+571312,00-99,,DK,maestro,debit
+571313,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+571314,00-99,,US,ebt,debit
+571315,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+571316,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+571317,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571318,00-99,,US,cirrus,debit
+571320,00-99,,US,ebt,debit
+571322,00-99,,US,ebt,debit
+571323,00-99,,US,ebt,debit
+571327,00-99,,US,ebt,debit
+571329,00-99,,US,cirrus,debit
+571331,00-99,,US,ebt,debit
+571334,00-99,,DK,maestro,debit
+571336,00-99,,DK,maestro,debit
+571342,00-99,,US,ebt,debit
+571345,00-99,,US,ebt,debit
+571349,00-99,,US,ebt,debit
+571351,00-99,,US,ebt,debit
+571353,00-99,,BR,maestro,debit
+571357,00-99,,US,ebt,debit
+571359,00-99,,US,cirrus,debit
+571368,00-99,,US,ebt,debit
+571374,00-99,,US,cirrus,debit
+571382,00-99,,US,ebt,debit
+571387,00-99,,US,ebt,debit
+571392,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+571407,00-99,,IT,maestro,debit
+571411,00-99,,US,ebt,debit
+571412,00-99,,US,ebt,debit
+571423,00-99,,US,ebt,debit
+571424,00-99,,US,cirrus,debit
+571426,00-99,,US,cirrus,debit
+571432,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+571440,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+571444,00-99,,NL,maestro,debit
+571450,00-99,,US,ebt,debit
+571456,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+571459,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+571468,00-99,,US,cirrus,debit
+571476,00-99,,US,ebt,debit
+571496,00-99,,US,ebt,debit
+571500,00-99,,US,ebt,debit
+571501,00-99,,RU,maestro,debit
+571504,00-99,,US,cirrus,debit
+571505,00-99,MAESTRO INTERNATIONAL,LV,maestro,debit
+571506,00-99,,US,cirrus,debit
+571512,00-99,MAESTRO INTERNATIONAL,MY,maestro,debit
+571513,00-99,MAESTRO INTERNATIONAL,VN,maestro,debit
+571517,00-99,,US,ebt,debit
+571518,00-99,,US,cirrus,debit
+571521,00-99,,US,cirrus,debit
+571523,00-99,,US,cirrus,debit
+571525,00-99,,US,ebt,debit
+571526,00-99,,US,ebt,debit
+571527,00-99,,AU,maestro,debit
+571528,00-99,,US,ebt,debit
+571529,00-99,,US,ebt,debit
+571542,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+571545,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571546,00-99,,US,ebt,debit
+571547,00-99,,US,cirrus,debit
+571552,00-99,,US,cirrus,debit
+571563,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+571565,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+571570,00-99,,US,ebt,debit
+571575,00-99,,US,cirrus,debit
+571581,00-99,,RO,maestro,debit
+571583,00-99,,US,cirrus,debit
+571587,00-99,,US,cirrus,debit
+571589,00-99,,US,cirrus,debit
+571591,00-99,MAESTRO INTERNATIONAL,SG,maestro,debit
+571602,00-99,,US,ebt,debit
+571604,00-99,U.S. BANK N.A.,US,cirrus,debit
+571605,00-99,,US,ebt,debit
+571609,00-99,,US,cirrus,debit
+571615,00-99,,TR,maestro,debit
+571628,00-99,,US,ebt,debit
+571633,00-99,,US,ebt,debit
+571640,00-99,,US,cirrus,debit
+571641,00-99,,US,ebt,debit
+571642,00-99,,US,ebt,debit
+571646,00-99,,US,ebt,debit
+571656,00-99,,US,ebt,debit
+571669,00-99,,US,ebt,debit
+571672,00-99,,US,ebt,debit
+571678,00-99,,US,cirrus,debit
+571686,00-99,,US,cirrus,debit
+571690,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+571702,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+571704,00-99,,US,ebt,debit
+571709,00-99,,US,ebt,debit
+571715,00-99,,US,cirrus,debit
+571722,00-99,,LK,maestro,debit
+571723,00-99,,US,ebt,debit
+571729,00-99,,US,ebt,debit
+571745,00-99,,US,ebt,debit
+571750,00-99,,FR,maestro,debit
+571754,00-99,,US,ebt,debit
+571758,00-99,,US,cirrus,debit
+571760,00-99,,US,maestro,debit
+571764,00-99,,US,ebt,debit
+571787,00-99,,US,cirrus,debit
+571790,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571793,00-99,,US,cirrus,debit
+571796,00-99,,US,ebt,debit
+571798,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+571800,00-99,,US,ebt,debit
+571801,00-99,,US,ebt,debit
+571805,00-99,,US,ebt,debit
+571810,00-99,,CO,maestro,debit
+571811,00-99,,US,ebt,debit
+571813,00-99,,ES,maestro,debit
+571814,00-99,,US,ebt,debit
+571818,00-99,,US,ebt,debit
+571823,00-99,,US,cirrus,debit
+571824,00-99,,US,ebt,debit
+571829,00-99,,US,ebt,debit
+571837,00-99,MAESTRO INTERNATIONAL,IN,maestro,debit
+571847,00-99,,US,cirrus,debit
+571852,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+571859,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+571871,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+571872,00-99,,US,cirrus,debit
+571874,00-99,,US,ebt,debit
+571875,00-99,,US,ebt,debit
+571879,00-99,,US,ebt,debit
+571883,00-99,,US,ebt,debit
+571884,00-99,,FR,maestro,debit
+571887,00-99,,US,cirrus,debit
+571890,00-99,,FR,maestro,debit
+571891,00-99,,US,ebt,debit
+571898,00-99,,US,ebt,debit
+571900,00-99,PLUMMER TOWNSHIP - TAXES,CA,private label,debit
+571904,00-99,,DK,maestro,debit
+571905,00-99,,US,ebt,debit
+571906,00-99,,US,ebt,debit
+571907,00-99,,US,ebt,debit
+571909,00-99,,US,cirrus,debit
+571913,00-99,,US,ebt,debit
+571915,00-99,,US,ebt,debit
+571921,00-99,,US,ebt,debit
+571928,00-99,,US,cirrus,debit
+571930,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+571931,00-99,,RU,maestro,debit
+571932,00-99,,US,cirrus,debit
+571936,00-99,,US,ebt,debit
+571943,00-99,,US,ebt,debit
+571945,00-99,,US,ebt,debit
+571946,00-99,,US,ebt,debit
+571951,00-99,,US,cirrus,debit
+571952,00-99,,US,ebt,debit
+571955,00-99,,US,ebt,debit
+571959,00-99,,US,ebt,debit
+571961,00-99,,US,cirrus,debit
+571968,00-99,,DK,maestro,debit
+571969,00-99,,DK,maestro,debit
+571973,00-99,ICBA BANCARD INC.,US,maestro,debit
+571977,00-99,,US,cirrus,debit
+571982,00-99,,US,ebt,debit
+571986,00-99,,US,cirrus,debit
+571992,00-99,,US,cirrus,debit
+571995,00-99,,US,cirrus,debit
+571996,00-99,U.S. BANK N.A.,US,cirrus,debit
+572000,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572001,00-99,,US,cirrus,debit
+572011,00-99,,US,ebt,debit
+572013,00-99,,US,ebt,debit
+572015,00-99,,US,ebt,debit
+572018,00-99,,US,ebt,debit
+572021,00-99,,US,cirrus,debit
+572022,00-99,,AU,maestro,debit
+572024,00-99,,US,cirrus,debit
+572027,00-99,,US,ebt,debit
+572028,00-99,,US,cirrus,debit
+572033,00-99,,US,cirrus,debit
+572034,00-99,FISERV SOLUTIONS LLC,US,maestro,debit
+572037,00-99,,US,ebt,debit
+572038,00-99,,US,maestro,debit
+572039,00-99,,US,ebt,debit
+572040,00-99,,US,cirrus,debit
+572048,00-99,,US,ebt,debit
+572052,00-99,,US,ebt,debit
+572053,00-99,,US,cirrus,debit
+572054,00-99,,US,ebt,debit
+572056,00-99,,US,cirrus,debit
+572063,00-99,,US,cirrus,debit
+572067,00-99,,US,cirrus,debit
+572069,00-99,,US,ebt,debit
+572072,00-99,,US,cirrus,debit
+572073,00-99,,US,ebt,debit
+572074,00-99,,US,ebt,debit
+572076,00-99,,US,ebt,debit
+572077,00-99,,US,cirrus,debit
+572079,00-99,,US,cirrus,debit
+572081,00-99,,US,cirrus,debit
+572088,00-99,U.S. BANK N.A.,US,ebt,debit
+572090,00-99,U.S. BANK N.A.,US,cirrus,debit
+572096,00-99,,US,ebt,debit
+572103,00-99,,US,cirrus,debit
+572107,00-99,,US,ebt,debit
+572109,00-99,,US,ebt,debit
+572110,00-99,,US,ebt,debit
+572112,00-99,BANK OF AMERICA,US,ebt,debit
+572113,00-99,,US,cirrus,debit
+572115,00-99,,US,cirrus,debit
+572117,00-99,,US,cirrus,debit
+572121,00-99,,US,ebt,debit
+572130,00-99,VISA DPS,US,ebt,debit
+572136,00-99,VISA DPS,US,maestro,debit
+572138,00-99,,US,cirrus,debit
+572145,00-99,,US,cirrus,debit
+572149,00-99,,US,ebt,debit
+572153,00-99,,US,ebt,debit
+572154,00-99,,US,ebt,debit
+572155,00-99,,US,ebt,debit
+572156,00-99,,US,ebt,debit
+572163,00-99,,US,ebt,debit
+572164,00-99,BANK OF AMERICA,US,ebt,debit
+572165,00-99,,US,cirrus,debit
+572167,00-99,,US,ebt,debit
+572175,00-99,,US,cirrus,debit
+572181,00-99,,US,cirrus,debit
+572184,00-99,,US,ebt,debit
+572188,00-99,,FI,maestro,debit
+572190,00-99,,TR,maestro,debit
+572194,00-99,,US,ebt,debit
+572196,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+572197,00-99,,US,cirrus,debit
+572199,00-99,,US,ebt,debit
+572201,00-99,,CA,maestro,debit
+572202,00-99,,US,cirrus,debit
+572204,00-99,,US,cirrus,debit
+572226,00-99,,CO,maestro,debit
+572227,00-99,VISA DPS,US,ebt,debit
+572232,00-99,,US,cirrus,debit
+572237,00-99,,US,ebt,debit
+572251,00-99,,GB,maestro,debit
+572258,00-99,,US,ebt,debit
+572261,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572262,00-99,,US,cirrus,debit
+572277,00-99,,US,ebt,debit
+572283,00-99,,US,ebt,debit
+572284,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+572309,00-99,MAESTRO INTERNATIONAL,BE,maestro,debit
+572310,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+572311,00-99,,US,cirrus,debit
+572319,00-99,,US,cirrus,debit
+572322,00-99,,US,cirrus,debit
+572325,00-99,,KR,maestro,debit
+572328,00-99,,US,ebt,debit
+572332,00-99,,KR,maestro,debit
+572333,00-99,,US,ebt,debit
+572339,00-99,,US,cirrus,debit
+572346,00-99,,IT,maestro,debit
+572352,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+572357,00-99,,US,ebt,debit
+572379,00-99,,US,ebt,debit
+572385,00-99,,US,cirrus,debit
+572389,00-99,MAESTRO INTERNATIONAL,CI,maestro,debit
+572394,00-99,,US,ebt,debit
+572402,00-99,,AR,maestro,debit
+572406,00-99,,LV,maestro,debit
+572407,00-99,,US,cirrus,debit
+572409,00-99,MAESTRO INTERNATIONAL,PE,maestro,debit
+572410,00-99,,CO,maestro,debit
+572418,00-99,,US,ebt,debit
+572420,00-99,,US,ebt,debit
+572430,00-99,,US,ebt,debit
+572431,00-99,,US,ebt,debit
+572432,00-99,,US,ebt,debit
+572441,00-99,,US,ebt,debit
+572449,00-99,,US,ebt,debit
+572455,00-99,,US,ebt,debit
+572458,00-99,,US,cirrus,debit
+572468,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572489,00-99,,CO,maestro,debit
+572491,00-99,,US,cirrus,debit
+572496,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+572497,00-99,,CA,maestro,debit
+572511,00-99,,RU,maestro,debit
+572513,00-99,,US,ebt,debit
+572515,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572518,00-99,,US,cirrus,debit
+572519,00-99,,US,ebt,debit
+572520,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572525,00-99,,US,cirrus,debit
+572529,00-99,,US,ebt,debit
+572533,00-99,,US,ebt,debit
+572536,00-99,,US,cirrus,debit
+572539,00-99,,US,ebt,debit
+572542,00-99,,AE,maestro,debit
+572543,00-99,,US,ebt,debit
+572544,00-99,,US,ebt,debit
+572545,00-99,,US,ebt,debit
+572546,00-99,,US,cirrus,debit
+572550,00-99,,US,ebt,debit
+572552,00-99,,US,cirrus,debit
+572557,00-99,,US,ebt,debit
+572562,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572563,00-99,,US,cirrus,debit
+572565,00-99,,US,ebt,debit
+572580,00-99,,US,ebt,debit
+572583,00-99,,US,ebt,debit
+572584,00-99,,US,ebt,debit
+572585,00-99,,US,ebt,debit
+572592,00-99,,US,ebt,debit
+572593,00-99,,US,cirrus,debit
+572595,00-99,,US,ebt,debit
+572600,00-99,,US,ebt,debit
+572601,00-99,,US,cirrus,debit
+572602,00-99,MAESTRO INTERNATIONAL,CL,maestro,debit
+572604,00-99,,US,ebt,debit
+572605,00-99,,US,ebt,debit
+572606,00-99,,US,ebt,debit
+572607,00-99,,US,ebt,debit
+572609,00-99,,US,cirrus,debit
+572610,00-99,MAESTRO INTERNATIONAL,AR,maestro,debit
+572611,00-99,,US,ebt,debit
+572612,00-99,,US,cirrus,debit
+572618,00-99,,US,ebt,debit
+572622,00-99,,US,cirrus,debit
+572623,00-99,,US,cirrus,debit
+572625,00-99,,MX,maestro,debit
+572626,00-99,MAESTRO INTERNATIONAL,AR,maestro,debit
+572639,00-99,,US,cirrus,debit
+572640,00-99,,US,cirrus,debit
+572642,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572644,00-99,,US,cirrus,debit
+572657,00-99,,US,ebt,debit
+572658,00-99,,US,cirrus,debit
+572663,00-99,,US,ebt,debit
+572668,00-99,,US,ebt,debit
+572671,00-99,,US,cirrus,debit
+572675,00-99,,US,ebt,debit
+572680,00-99,,US,cirrus,debit
+572683,00-99,,US,ebt,debit
+572691,00-99,,US,cirrus,debit
+572704,00-99,,US,ebt,debit
+572707,00-99,,US,ebt,debit
+572711,00-99,,US,ebt,debit
+572722,00-99,,US,ebt,debit
+572726,00-99,,US,ebt,debit
+572734,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+572737,00-99,,US,ebt,debit
+572744,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+572746,00-99,,US,ebt,debit
+572747,00-99,,US,ebt,debit
+572753,00-99,,US,cirrus,debit
+572758,00-99,,US,ebt,debit
+572764,00-99,,US,ebt,debit
+572766,00-99,,US,ebt,debit
+572773,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572774,00-99,,NL,maestro,debit
+572777,00-99,,US,ebt,debit
+572787,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+572790,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+572796,00-99,,US,ebt,debit
+572801,00-99,,US,cirrus,debit
+572802,00-99,,US,ebt,debit
+572803,00-99,,US,cirrus,debit
+572807,00-99,,US,ebt,debit
+572811,00-99,,US,cirrus,debit
+572812,00-99,,US,cirrus,debit
+572815,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572817,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+572819,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572820,00-99,CFSBANK,US,ebt,debit
+572823,00-99,,US,cirrus,debit
+572828,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+572835,00-99,,US,ebt,debit
+572838,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+572848,00-99,,US,ebt,debit
+572850,00-99,,US,cirrus,debit
+572853,00-99,,US,ebt,debit
+572854,00-99,,US,cirrus,debit
+572857,00-99,,US,cirrus,debit
+572864,00-99,,US,cirrus,debit
+572869,00-99,,DK,maestro,debit
+572872,00-99,,US,cirrus,debit
+572877,00-99,,US,ebt,debit
+572879,00-99,,US,cirrus,debit
+572886,00-99,,US,cirrus,debit
+572887,00-99,,US,cirrus,debit
+572889,00-99,FISERV SOLUTIONS LLC,US,ebt,debit
+572890,00-99,NATIONAL BANK OF GREECE,GR,local brand,credit
+572893,00-99,,US,ebt,debit
+572900,00-99,,US,ebt,debit
+572907,00-99,,US,cirrus,debit
+572910,00-99,,US,ebt,debit
+572915,00-99,,US,ebt,debit
+572916,00-99,U.S. BANK N.A.,US,ebt,debit
+572927,00-99,,US,ebt,debit
+572933,00-99,,US,cirrus,debit
+572935,00-99,,US,ebt,debit
+572936,00-99,,US,ebt,debit
+572937,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+572943,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+572944,00-99,,ES,maestro,debit
+572952,00-99,,US,ebt,debit
+572958,00-99,,US,cirrus,debit
+572963,00-99,,US,ebt,debit
+572968,00-99,,MX,maestro,debit
+572988,00-99,,US,ebt,debit
+572992,00-99,,US,cirrus,debit
+573000,00-99,MAESTRO INTERNATIONAL,ID,maestro,debit
+573003,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+573012,00-99,,US,cirrus,debit
+573024,00-99,,MA,maestro,debit
+573030,00-99,,US,cirrus,debit
+573036,00-99,,US,ebt,debit
+573037,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+573038,00-99,,US,ebt,debit
+573039,00-99,,FR,maestro,debit
+573046,00-99,,US,ebt,debit
+573055,00-99,,US,cirrus,debit
+573059,00-99,,US,ebt,debit
+573065,00-99,,US,ebt,debit
+573067,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+573081,00-99,,US,cirrus,debit
+573085,00-99,,US,ebt,debit
+573087,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+573089,00-99,,CN,maestro,debit
+573091,00-99,,US,cirrus,debit
+573095,00-99,,US,cirrus,debit
+573099,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+573101,00-99,,MA,maestro,debit
+573103,00-99,,US,ebt,debit
+573110,00-99,,US,cirrus,debit
+573111,00-99,,US,ebt,debit
+573120,00-99,,US,ebt,debit
+573136,00-99,,US,cirrus,debit
+573144,00-99,,US,cirrus,debit
+573149,00-99,MAESTRO INTERNATIONAL,BE,maestro,debit
+573162,00-99,,MA,maestro,debit
+573163,00-99,,US,ebt,debit
+573168,00-99,,US,cirrus,debit
+573170,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+573171,00-99,,US,ebt,debit
+573178,00-99,,US,ebt,debit
+573183,00-99,,MU,maestro,debit
+573186,00-99,,US,ebt,debit
+573188,00-99,,US,cirrus,debit
+573192,00-99,,US,maestro,debit
+573194,00-99,,US,cirrus,debit
+573205,00-99,,US,cirrus,debit
+573206,00-99,,US,ebt,debit
+573210,00-99,,US,cirrus,debit
+573217,00-99,,AU,maestro,debit
+573221,00-99,,US,ebt,debit
+573225,00-99,,US,cirrus,debit
+573228,00-99,,US,ebt,debit
+573245,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+573246,00-99,,US,cirrus,debit
+573249,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+573254,00-99,,US,ebt,debit
+573255,00-99,,US,cirrus,debit
+573265,00-99,,US,cirrus,debit
+573267,00-99,,US,cirrus,debit
+573270,00-99,,US,ebt,debit
+573271,00-99,CITIZENS BANK N.A.,US,maestro,debit
+573272,00-99,,US,cirrus,debit
+573278,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+573280,00-99,,US,ebt,debit
+573283,00-99,,FR,maestro,debit
+573288,00-99,,US,ebt,debit
+573292,00-99,,US,ebt,debit
+573295,00-99,,US,ebt,debit
+573300,00-99,,US,cirrus,debit
+573308,00-99,,US,ebt,debit
+573311,00-99,,US,cirrus,debit
+573316,00-99,,US,cirrus,debit
+573318,00-99,,US,cirrus,debit
+573320,00-99,,US,cirrus,debit
+573329,00-99,,US,cirrus,debit
+573330,00-99,,GB,maestro,debit
+573331,00-99,,US,cirrus,debit
+573335,00-99,,US,ebt,debit
+573336,00-99,,US,cirrus,debit
+573339,00-99,,US,ebt,debit
+573340,00-99,U.S. BANK N.A.,US,ebt,debit
+573357,00-99,,US,cirrus,debit
+573361,00-99,,US,ebt,debit
+573362,00-99,,US,ebt,debit
+573373,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+573379,00-99,,US,ebt,debit
+573382,00-99,,US,ebt,debit
+573384,00-99,,US,ebt,debit
+573388,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+573395,00-99,,US,ebt,debit
+573397,00-99,,US,cirrus,debit
+573403,00-99,,US,ebt,debit
+573408,00-99,,US,ebt,debit
+573412,00-99,,US,ebt,debit
+573429,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+573432,00-99,,US,ebt,debit
+573434,00-99,,US,ebt,debit
+573441,00-99,,US,ebt,debit
+573443,00-99,,AU,maestro,debit
+573446,00-99,,US,ebt,debit
+573447,00-99,,US,cirrus,debit
+573448,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+573454,00-99,,US,cirrus,debit
+573458,00-99,,GB,maestro,debit
+573460,00-99,,GB,maestro,debit
+573463,00-99,,US,ebt,debit
+573469,00-99,,US,ebt,debit
+573490,00-99,MAESTRO INTERNATIONAL,NL,maestro,debit
+573492,00-99,,US,cirrus,debit
+573495,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+573497,00-99,,MA,maestro,debit
+573500,00-99,MAESTRO INTERNATIONAL,ID,maestro,debit
+573510,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+573513,00-99,MAESTRO INTERNATIONAL,IN,maestro,debit
+573521,00-99,,US,ebt,debit
+573528,00-99,,US,ebt,debit
+573529,00-99,,US,cirrus,debit
+573532,00-99,,US,ebt,debit
+573535,00-99,,US,cirrus,debit
+573536,00-99,,FR,maestro,debit
+573540,00-99,,BR,maestro,debit
+573541,00-99,,US,ebt,debit
+573544,00-99,,US,cirrus,debit
+573549,00-99,,US,ebt,debit
+573550,00-99,,BR,maestro,debit
+573553,00-99,,US,ebt,debit
+573570,00-99,,GB,maestro,debit
+573576,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+573581,00-99,,US,ebt,debit
+573585,00-99,,US,cirrus,debit
+573587,00-99,,US,ebt,debit
+573593,00-99,,AU,maestro,debit
+573595,00-99,,US,ebt,debit
+573605,00-99,,CA,maestro,debit
+573613,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+573615,00-99,,RU,maestro,debit
+573619,00-99,,US,ebt,debit
+573621,00-99,,US,ebt,debit
+573622,00-99,,US,ebt,debit
+573628,00-99,,US,ebt,debit
+573649,00-99,,US,cirrus,debit
+573650,00-99,,US,ebt,debit
+573651,00-99,,US,ebt,debit
+573677,00-99,,GB,maestro,debit
+573680,00-99,,US,ebt,debit
+573684,00-99,,MX,maestro,debit
+573686,00-99,,US,ebt,debit
+573689,00-99,,GB,maestro,debit
+573690,00-99,,US,ebt,debit
+573700,00-99,,US,ebt,debit
+573702,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+573706,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+573710,00-99,,US,ebt,debit
+573727,00-99,,US,ebt,debit
+573737,00-99,,US,ebt,debit
+573739,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+573742,00-99,,FR,maestro,debit
+573745,00-99,,US,ebt,debit
+573746,00-99,,US,ebt,debit
+573755,00-99,,US,ebt,debit
+573759,00-99,,US,ebt,debit
+573766,00-99,,US,ebt,debit
+573768,00-99,,US,ebt,debit
+573770,00-99,,BE,maestro,debit
+573771,00-99,,TR,maestro,debit
+573773,00-99,,SE,maestro,debit
+573776,00-99,,US,ebt,debit
+573777,00-99,,US,ebt,debit
+573785,00-99,,IT,maestro,debit
+573787,00-99,,US,cirrus,debit
+573789,00-99,,US,ebt,debit
+573790,00-99,,US,ebt,debit
+573791,00-99,,US,ebt,debit
+573792,00-99,,US,ebt,debit
+573795,00-99,,US,cirrus,debit
+573796,00-99,,US,cirrus,debit
+573798,00-99,,US,ebt,debit
+573802,00-99,,US,ebt,debit
+573803,00-99,,US,cirrus,debit
+573805,00-99,,US,ebt,debit
+573807,00-99,,US,cirrus,debit
+573808,00-99,,US,cirrus,debit
+573815,00-99,,US,ebt,debit
+573822,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+573825,00-99,,US,ebt,debit
+573836,00-99,,US,ebt,debit
+573837,00-99,,CH,maestro,debit
+573839,00-99,,US,ebt,debit
+573841,00-99,,US,cirrus,debit
+573843,00-99,,US,ebt,debit
+573846,00-99,,US,cirrus,debit
+573850,00-99,,US,ebt,debit
+573860,00-99,,TH,maestro,debit
+573863,00-99,,DK,maestro,debit
+573864,00-99,,US,ebt,debit
+573871,00-99,,US,cirrus,debit
+573872,00-99,,US,ebt,debit
+573874,00-99,,US,ebt,debit
+573875,00-99,,US,ebt,debit
+573877,00-99,,IE,maestro,debit
+573878,00-99,,US,cirrus,debit
+573880,00-99,,US,ebt,debit
+573881,00-99,,US,ebt,debit
+573882,00-99,,US,ebt,debit
+573900,00-99,,US,ebt,debit
+573901,00-99,,US,ebt,debit
+573905,00-99,,TT,maestro,debit
+573906,00-99,,US,cirrus,debit
+573910,00-99,,US,ebt,debit
+573915,00-99,,US,ebt,debit
+573919,00-99,,US,cirrus,debit
+573920,00-99,,US,ebt,debit
+573923,00-99,,US,ebt,debit
+573934,00-99,,US,ebt,debit
+573941,00-99,MAESTRO INTERNATIONAL,JP,maestro,debit
+573944,00-99,,US,ebt,debit
+573948,00-99,,US,ebt,debit
+573950,00-99,,US,ebt,debit
+573951,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+573956,00-99,,US,ebt,debit
+573957,00-99,,US,ebt,debit
+573959,00-99,,US,ebt,debit
+573961,00-99,,US,ebt,debit
+573969,00-99,,US,ebt,debit
+573991,00-99,,US,ebt,debit
+574001,00-99,,DE,maestro,debit
+574007,00-99,,US,ebt,debit
+574008,00-99,,US,ebt,debit
+574011,00-99,,US,ebt,debit
+574019,00-99,,US,ebt,debit
+574021,00-99,,US,ebt,debit
+574023,00-99,,US,ebt,debit
+574029,00-99,,MY,maestro,debit
+574031,00-99,,US,ebt,debit
+574035,00-99,,US,ebt,debit
+574041,00-99,,US,ebt,debit
+574042,00-99,,US,ebt,debit
+574046,00-99,,US,cirrus,debit
+574050,00-99,,VC,maestro,debit
+574063,00-99,,US,cirrus,debit
+574067,00-99,,US,ebt,debit
+574078,00-99,,US,ebt,debit
+574084,00-99,,US,ebt,debit
+574085,00-99,BANCO SANTANDER,PR,maestro,debit
+574100,00-99,,RO,maestro,debit
+574104,00-99,,US,cirrus,debit
+574108,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+574111,00-99,,US,ebt,debit
+574116,00-99,,US,cirrus,debit
+574120,00-99,,US,ebt,debit
+574121,00-99,,US,ebt,debit
+574128,00-99,,GB,maestro,debit
+574129,00-99,,US,ebt,debit
+574130,00-99,,US,cirrus,debit
+574131,00-99,,MX,maestro,debit
+574135,00-99,,US,ebt,debit
+574140,00-99,,US,cirrus,debit
+574143,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+574146,00-99,,MX,maestro,debit
+574153,00-99,MAESTRO INTERNATIONAL,TR,maestro,debit
+574156,00-99,,US,cirrus,debit
+574165,00-99,,BY,maestro,debit
+574166,00-99,,US,ebt,debit
+574167,00-99,,US,ebt,debit
+574169,00-99,,US,ebt,debit
+574172,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+574175,00-99,,US,cirrus,debit
+574181,00-99,,US,cirrus,debit
+574185,00-99,,US,ebt,debit
+574190,00-99,,US,ebt,debit
+574200,00-99,,US,ebt,debit
+574206,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+574208,00-99,,US,ebt,debit
+574211,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+574212,00-99,,US,maestro,debit
+574217,00-99,,MA,maestro,debit
+574226,00-99,MAESTRO INTERNATIONAL,EG,maestro,debit
+574227,00-99,,US,cirrus,debit
+574234,00-99,,TN,maestro,debit
+574248,00-99,,US,ebt,debit
+574250,00-99,,GB,maestro,debit
+574253,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+574257,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+574261,00-99,,US,ebt,debit
+574263,00-99,,CO,maestro,debit
+574266,00-99,MAESTRO INTERNATIONAL,PE,maestro,debit
+574273,00-99,,US,ebt,debit
+574274,00-99,,US,cirrus,debit
+574282,00-99,,US,cirrus,debit
+574283,00-99,,US,cirrus,debit
+574290,00-99,,US,ebt,debit
+574295,00-99,,US,cirrus,debit
+574323,00-99,,US,ebt,debit
+574324,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+574332,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+574337,00-99,,US,ebt,debit
+574343,00-99,,BR,maestro,debit
+574347,00-99,,GB,maestro,debit
+574354,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+574357,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+574359,00-99,,US,ebt,debit
+574367,00-99,,US,ebt,debit
+574381,00-99,,US,ebt,debit
+574389,00-99,,US,ebt,debit
+574411,00-99,,CO,maestro,debit
+574420,00-99,,US,ebt,debit
+574437,00-99,,US,ebt,debit
+574439,00-99,,US,ebt,debit
+574441,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+574444,00-99,,US,ebt,debit
+574445,00-99,,US,ebt,debit
+574446,00-99,,US,ebt,debit
+574450,00-99,,US,ebt,debit
+574455,00-99,,US,ebt,debit
+574458,00-99,,US,ebt,debit
+574464,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+574468,00-99,MAESTRO INTERNATIONAL,JM,maestro,debit
+574470,00-99,,SE,maestro,debit
+574472,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+574473,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+574474,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+574475,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+574476,00-99,,US,ebt,debit
+574478,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+574489,00-99,,UA,maestro,debit
+574491,00-99,,MX,maestro,debit
+574497,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+574501,00-99,,US,ebt,debit
+574503,00-99,,US,ebt,debit
+574509,00-99,,US,cirrus,debit
+574518,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+574524,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+574530,00-99,,US,cirrus,debit
+574532,00-99,,US,ebt,debit
+574534,00-99,,US,ebt,debit
+574564,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+574566,00-99,,US,ebt,debit
+574575,00-99,,US,ebt,debit
+574578,00-99,,US,ebt,debit
+574584,00-99,,US,ebt,debit
+574587,00-99,,US,ebt,debit
+574625,00-99,,GB,maestro,debit
+574635,00-99,,US,ebt,debit
+574638,00-99,,US,ebt,debit
+574639,00-99,,US,ebt,debit
+574640,00-99,,US,ebt,debit
+574644,00-99,,US,cirrus,debit
+574650,00-99,,US,ebt,debit
+574662,00-99,,US,ebt,debit
+574668,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+574672,00-99,,BR,maestro,debit
+574674,00-99,,US,cirrus,debit
+574714,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+574715,00-99,MAESTRO INTERNATIONAL,ZM,maestro,debit
+574731,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+574740,00-99,,BR,maestro,debit
+574747,00-99,,US,ebt,debit
+574748,00-99,,US,cirrus,debit
+574749,00-99,,US,cirrus,debit
+574752,00-99,,US,cirrus,debit
+574772,00-99,,US,cirrus,debit
+574774,00-99,,US,ebt,debit
+574777,00-99,,US,ebt,debit
+574782,00-99,,US,cirrus,debit
+574785,00-99,,US,ebt,debit
+574791,00-99,,MA,maestro,debit
+574794,00-99,,US,ebt,debit
+574798,00-99,,US,cirrus,debit
+574800,00-99,,US,ebt,debit
+574803,00-99,,US,ebt,debit
+574804,00-99,,US,ebt,debit
+574809,00-99,,US,ebt,debit
+574811,00-99,,US,cirrus,debit
+574815,00-99,,US,cirrus,debit
+574825,00-99,,US,ebt,debit
+574826,00-99,,US,ebt,debit
+574828,00-99,,US,ebt,debit
+574831,00-99,MAESTRO INTERNATIONAL USA,US,ebt,debit
+574839,00-99,,US,ebt,debit
+574842,00-99,,US,ebt,debit
+574843,00-99,,DE,maestro,debit
+574844,00-99,,US,cirrus,debit
+574847,00-99,,US,ebt,debit
+574848,00-99,,US,maestro,debit
+574849,00-99,,US,ebt,debit
+574850,00-99,,TR,maestro,debit
+574859,00-99,,US,ebt,debit
+574860,00-99,,US,cirrus,debit
+574863,00-99,,US,cirrus,debit
+574867,00-99,,US,ebt,debit
+574868,00-99,,US,cirrus,debit
+574873,00-99,,US,cirrus,debit
+574874,00-99,,US,cirrus,debit
+574875,00-99,,US,cirrus,debit
+574876,00-99,,US,ebt,debit
+574879,00-99,,US,ebt,debit
+574881,00-99,,US,cirrus,debit
+574885,00-99,,BR,maestro,debit
+574887,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+574888,00-99,,US,ebt,debit
+574889,00-99,,US,ebt,debit
+574892,00-99,,US,ebt,debit
+574894,00-99,,NG,maestro,debit
+574895,00-99,,US,ebt,debit
+574896,00-99,,US,cirrus,debit
+574898,00-99,,IT,maestro,debit
+574903,00-99,,ID,maestro,debit
+574908,00-99,,US,ebt,debit
+574910,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+574912,00-99,VISA DPS,US,ebt,debit
+574916,00-99,,US,cirrus,debit
+574917,00-99,VISA DPS,US,ebt,debit
+574923,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+574925,00-99,,US,ebt,debit
+574928,00-99,,US,cirrus,debit
+574929,00-99,,US,cirrus,debit
+574933,00-99,BMO BANK NATIONAL ASSOCIATION,US,maestro,debit
+574936,00-99,,US,ebt,debit
+574938,00-99,,US,cirrus,debit
+574944,00-99,,US,cirrus,debit
+574952,00-99,,US,cirrus,debit
+574954,00-99,,US,ebt,debit
+574957,00-99,,NL,maestro,debit
+574961,00-99,,US,ebt,debit
+574966,00-99,,US,ebt,debit
+574968,00-99,,US,cirrus,debit
+574993,00-99,,US,ebt,debit
+574995,00-99,,US,cirrus,debit
+575000,00-99,,SE,maestro,debit
+575001,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+575003,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+575007,00-99,,US,cirrus,debit
+575035,00-99,,US,ebt,debit
+575038,00-99,,US,cirrus,debit
+575039,00-99,,GB,maestro,debit
+575045,00-99,,US,cirrus,debit
+575049,00-99,,US,ebt,debit
+575055,00-99,,US,ebt,debit
+575065,00-99,,US,cirrus,debit
+575080,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+575087,00-99,,US,ebt,debit
+575100,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575101,00-99,,US,ebt,debit
+575105,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+575107,00-99,,US,cirrus,debit
+575112,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+575113,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+575116,00-99,,GB,maestro,debit
+575117,00-99,,GB,maestro,debit
+575127,00-99,,US,ebt,debit
+575128,00-99,,GB,maestro,debit
+575129,00-99,,GB,maestro,debit
+575130,00-99,,GB,maestro,debit
+575131,00-99,,GB,maestro,debit
+575132,00-99,,US,ebt,debit
+575135,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575141,00-99,,GB,maestro,debit
+575146,00-99,,US,cirrus,debit
+575148,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575152,00-99,,US,ebt,debit
+575156,00-99,,US,ebt,debit
+575176,00-99,,US,ebt,debit
+575184,00-99,,GB,maestro,debit
+575185,00-99,,US,ebt,debit
+575192,00-99,,US,ebt,debit
+575193,00-99,,US,cirrus,debit
+575195,00-99,,US,cirrus,debit
+575196,00-99,,US,ebt,debit
+575198,00-99,,US,ebt,debit
+575207,00-99,,US,ebt,debit
+575209,00-99,,US,cirrus,debit
+575218,00-99,,US,cirrus,debit
+575229,00-99,,US,cirrus,debit
+575241,00-99,USAA FEDERAL SAVINGS BANK,US,ebt,debit
+575243,00-99,,CA,maestro,debit
+575245,00-99,MAESTRO INTERNATIONAL,UA,maestro,debit
+575246,00-99,,US,ebt,debit
+575276,00-99,,US,cirrus,debit
+575280,00-99,MAESTRO INTERNATIONAL,NL,maestro,debit
+575282,00-99,,US,cirrus,debit
+575285,00-99,,US,ebt,debit
+575287,00-99,,IT,maestro,debit
+575288,00-99,,US,cirrus,debit
+575292,00-99,,US,ebt,debit
+575299,00-99,,US,ebt,debit
+575300,00-99,,BG,maestro,debit
+575302,00-99,MAESTRO INTERNATIONAL,PL,maestro,debit
+575303,00-99,,US,cirrus,debit
+575305,00-99,,US,ebt,debit
+575306,00-99,,US,cirrus,debit
+575308,00-99,,US,maestro,debit
+575315,00-99,,US,ebt,debit
+575318,00-99,,US,ebt,debit
+575322,00-99,,US,cirrus,debit
+575327,00-99,,US,ebt,debit
+575332,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575334,00-99,,US,ebt,debit
+575336,00-99,,US,ebt,debit
+575346,00-99,,US,cirrus,debit
+575350,00-99,,US,cirrus,debit
+575351,00-99,,US,ebt,debit
+575352,00-99,,US,cirrus,debit
+575353,00-99,,US,ebt,debit
+575362,00-99,,US,ebt,debit
+575365,00-99,,US,cirrus,debit
+575367,00-99,,US,ebt,debit
+575368,00-99,,US,ebt,debit
+575369,00-99,,US,ebt,debit
+575371,00-99,,US,cirrus,debit
+575373,00-99,U.S. BANK N.A.,US,cirrus,debit
+575374,00-99,,US,cirrus,debit
+575376,00-99,,US,ebt,debit
+575378,00-99,,US,ebt,debit
+575381,00-99,,US,ebt,debit
+575386,00-99,,US,ebt,debit
+575389,00-99,,US,cirrus,debit
+575401,00-99,,US,cirrus,debit
+575406,00-99,,US,cirrus,debit
+575408,00-99,,US,cirrus,debit
+575409,00-99,,US,cirrus,debit
+575410,00-99,,US,cirrus,debit
+575412,00-99,,US,cirrus,debit
+575413,00-99,,US,cirrus,debit
+575414,00-99,,US,ebt,debit
+575416,00-99,,US,ebt,debit
+575417,00-99,,US,ebt,debit
+575420,00-99,,US,cirrus,debit
+575421,00-99,,US,ebt,debit
+575424,00-99,,US,cirrus,debit
+575427,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+575430,00-99,,US,ebt,debit
+575432,00-99,,US,ebt,debit
+575434,00-99,,US,cirrus,debit
+575435,00-99,,MX,maestro,debit
+575436,00-99,,US,cirrus,debit
+575437,00-99,,US,ebt,debit
+575438,00-99,,MA,maestro,debit
+575440,00-99,,US,ebt,debit
+575446,00-99,,US,ebt,debit
+575449,00-99,,CA,maestro,debit
+575450,00-99,,CA,maestro,debit
+575452,00-99,,US,cirrus,debit
+575453,00-99,,JP,maestro,debit
+575456,00-99,,CA,maestro,debit
+575458,00-99,,US,cirrus,debit
+575460,00-99,,US,ebt,debit
+575462,00-99,,US,ebt,debit
+575463,00-99,,US,cirrus,debit
+575470,00-99,,US,cirrus,debit
+575473,00-99,,US,cirrus,debit
+575475,00-99,,US,cirrus,debit
+575477,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+575483,00-99,,US,ebt,debit
+575484,00-99,,US,ebt,debit
+575485,00-99,,US,cirrus,debit
+575486,00-99,,US,ebt,debit
+575487,00-99,,US,ebt,debit
+575488,00-99,,NL,maestro,debit
+575490,00-99,,US,ebt,debit
+575491,00-99,,US,ebt,debit
+575492,00-99,,US,ebt,debit
+575493,00-99,,US,cirrus,debit
+575494,00-99,,US,ebt,debit
+575495,00-99,,US,ebt,debit
+575497,00-99,,US,ebt,debit
+575500,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+575501,00-99,,US,ebt,debit
+575502,00-99,,US,ebt,debit
+575506,00-99,,US,cirrus,debit
+575507,00-99,,US,cirrus,debit
+575511,00-99,,US,cirrus,debit
+575513,00-99,,US,ebt,debit
+575517,00-99,,US,ebt,debit
+575520,00-99,,US,ebt,debit
+575522,00-99,,US,ebt,debit
+575523,00-99,,US,cirrus,debit
+575530,00-99,,US,cirrus,debit
+575531,00-99,,US,cirrus,debit
+575532,00-99,BANKUNITED,US,cirrus,debit
+575538,00-99,,US,ebt,debit
+575540,00-99,,US,ebt,debit
+575544,00-99,,US,ebt,debit
+575554,00-99,,US,ebt,debit
+575558,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575576,00-99,,CO,maestro,debit
+575577,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+575578,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+575580,00-99,,US,ebt,debit
+575597,00-99,,US,ebt,debit
+575599,00-99,,US,ebt,debit
+575600,00-99,,US,cirrus,debit
+575602,00-99,,US,cirrus,debit
+575603,00-99,,US,cirrus,debit
+575606,00-99,,US,ebt,debit
+575607,00-99,ICBA BANCARD INC.,US,cirrus,debit
+575608,00-99,,US,ebt,debit
+575609,00-99,,US,ebt,debit
+575610,00-99,,US,ebt,debit
+575611,00-99,,US,ebt,debit
+575612,00-99,,US,cirrus,debit
+575614,00-99,,US,ebt,debit
+575615,00-99,,US,cirrus,debit
+575619,00-99,,US,ebt,debit
+575622,00-99,,US,ebt,debit
+575623,00-99,,US,cirrus,debit
+575624,00-99,,US,ebt,debit
+575627,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+575629,00-99,,US,cirrus,debit
+575630,00-99,,US,cirrus,debit
+575631,00-99,,US,cirrus,debit
+575632,00-99,,BR,maestro,debit
+575634,00-99,,US,ebt,debit
+575635,00-99,,US,cirrus,debit
+575636,00-99,,US,ebt,debit
+575638,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575639,00-99,,US,ebt,debit
+575641,00-99,,US,ebt,debit
+575644,00-99,,US,cirrus,debit
+575645,00-99,,US,ebt,debit
+575646,00-99,,US,cirrus,debit
+575647,00-99,,US,ebt,debit
+575648,00-99,,US,ebt,debit
+575649,00-99,,US,cirrus,debit
+575650,00-99,,US,cirrus,debit
+575651,00-99,,US,cirrus,debit
+575652,00-99,,US,ebt,debit
+575653,00-99,,US,cirrus,debit
+575655,00-99,,US,ebt,debit
+575656,00-99,,US,cirrus,debit
+575657,00-99,,US,ebt,debit
+575658,00-99,,US,cirrus,debit
+575659,00-99,,US,ebt,debit
+575660,00-99,,US,ebt,debit
+575661,00-99,,US,ebt,debit
+575663,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+575667,00-99,,US,cirrus,debit
+575670,00-99,,BG,maestro,debit
+575672,00-99,MAESTRO INTERNATIONAL,LK,maestro,debit
+575675,00-99,,IN,maestro,debit
+575676,00-99,CITIZENS BANK N.A.,US,maestro,debit
+575678,00-99,,US,maestro,debit
+575683,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+575684,00-99,,US,ebt,debit
+575685,00-99,,US,cirrus,debit
+575687,00-99,,US,ebt,debit
+575688,00-99,JPMORGAN CHASE BANK N.A.,US,ebt,debit
+575690,00-99,MAESTRO INTERNATIONAL,DO,maestro,debit
+575692,00-99,,US,ebt,debit
+575695,00-99,CITIZENS BANK N.A.,US,maestro,debit
+575696,00-99,,US,cirrus,debit
+575697,00-99,,US,cirrus,debit
+575699,00-99,,US,ebt,debit
+575700,00-99,,US,ebt,debit
+575701,00-99,USAA SAVINGS BANK,US,ebt,debit
+575703,00-99,,US,maestro,debit
+575704,00-99,,US,ebt,debit
+575705,00-99,,US,cirrus,debit
+575706,00-99,JPMORGAN CHASE BANK N.A.,US,ebt,debit
+575707,00-99,,US,ebt,debit
+575708,00-99,,US,ebt,debit
+575710,00-99,,US,cirrus,debit
+575711,00-99,,US,ebt,debit
+575712,00-99,MAESTRO INTERNATIONAL,IM,maestro,debit
+575713,00-99,,US,cirrus,debit
+575714,00-99,,US,ebt,debit
+575716,00-99,,US,ebt,debit
+575718,00-99,,US,ebt,debit
+575719,00-99,,US,ebt,debit
+575722,00-99,,US,ebt,debit
+575723,00-99,,US,ebt,debit
+575724,00-99,,US,ebt,debit
+575725,00-99,,US,ebt,debit
+575727,00-99,,US,ebt,debit
+575728,00-99,,US,cirrus,debit
+575730,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+575732,00-99,,US,ebt,debit
+575734,00-99,,US,cirrus,debit
+575735,00-99,,US,ebt,debit
+575736,00-99,,US,ebt,debit
+575737,00-99,,US,ebt,debit
+575738,00-99,,US,ebt,debit
+575739,00-99,,US,cirrus,debit
+575740,00-99,,US,cirrus,debit
+575742,00-99,,US,ebt,debit
+575743,00-99,,US,ebt,debit
+575744,00-99,,US,ebt,debit
+575745,00-99,,US,ebt,debit
+575746,00-99,,US,ebt,debit
+575748,00-99,,US,ebt,debit
+575749,00-99,,US,cirrus,debit
+575750,00-99,,US,cirrus,debit
+575751,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+575752,00-99,,US,ebt,debit
+575754,00-99,,US,ebt,debit
+575755,00-99,,US,cirrus,debit
+575756,00-99,,US,cirrus,debit
+575757,00-99,,US,ebt,debit
+575758,00-99,,US,ebt,debit
+575760,00-99,,US,ebt,debit
+575764,00-99,,US,ebt,debit
+575765,00-99,,US,ebt,debit
+575766,00-99,,US,ebt,debit
+575769,00-99,,US,cirrus,debit
+575770,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+575771,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+575773,00-99,,US,cirrus,debit
+575774,00-99,,US,ebt,debit
+575775,00-99,,US,ebt,debit
+575776,00-99,,US,cirrus,debit
+575777,00-99,,US,ebt,debit
+575778,00-99,,US,ebt,debit
+575779,00-99,,US,ebt,debit
+575782,00-99,,US,cirrus,debit
+575783,00-99,,US,ebt,debit
+575786,00-99,,US,cirrus,debit
+575787,00-99,,US,cirrus,debit
+575789,00-99,,US,ebt,debit
+575792,00-99,,US,ebt,debit
+575793,00-99,,US,ebt,debit
+575794,00-99,,US,cirrus,debit
+575796,00-99,,US,ebt,debit
+575797,00-99,MAESTRO INTERNATIONAL,BG,maestro,debit
+575798,00-99,,US,ebt,debit
+575800,00-99,,US,ebt,debit
+575803,00-99,,US,ebt,debit
+575805,00-99,,US,ebt,debit
+575806,00-99,,US,ebt,debit
+575807,00-99,,US,ebt,debit
+575808,00-99,,US,cirrus,debit
+575809,00-99,,MX,maestro,debit
+575810,00-99,,US,ebt,debit
+575811,00-99,,US,ebt,debit
+575812,00-99,,US,cirrus,debit
+575813,00-99,,US,ebt,debit
+575814,00-99,,US,ebt,debit
+575815,00-99,,US,ebt,debit
+575816,00-99,,US,ebt,debit
+575817,00-99,,US,ebt,debit
+575818,00-99,,US,cirrus,debit
+575819,00-99,,US,ebt,debit
+575820,00-99,,US,ebt,debit
+575822,00-99,,US,cirrus,debit
+575823,00-99,,US,ebt,debit
+575836,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+575843,00-99,,IR,maestro,debit
+575848,00-99,,US,ebt,debit
+575849,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+575856,00-99,,SE,maestro,debit
+575905,00-99,,GB,maestro,debit
+575912,00-99,,CZ,maestro,debit
+575913,00-99,,US,cirrus,debit
+575920,00-99,,GB,maestro,debit
+575923,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+575940,00-99,,GB,maestro,debit
+575944,00-99,,ES,maestro,debit
+575957,00-99,,GB,maestro,debit
+575964,00-99,,GB,maestro,debit
+575967,00-99,,GB,maestro,debit
+575968,00-99,,GB,maestro,debit
+575973,00-99,,BR,maestro,debit
+575999,00-99,,US,ebt,debit
+576001,00-99,,US,ebt,debit
+576002,00-99,,CO,maestro,debit
+576003,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+576018,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+576019,00-99,MAESTRO INTERNATIONAL,PK,maestro,debit
+576076,00-99,MAESTRO INTERNATIONAL,CI,maestro,debit
+576078,00-99,,RU,maestro,debit
+576090,00-99,,RU,maestro,debit
+576094,00-99,,VE,maestro,debit
+576097,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+576124,00-99,,MA,maestro,debit
+576135,00-99,MAESTRO INTERNATIONAL,BE,maestro,debit
+576152,00-99,,US,ebt,debit
+576153,00-99,,US,ebt,debit
+576184,00-99,,US,ebt,debit
+576196,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+576198,00-99,,GB,maestro,debit
+576201,00-99,MAESTRO INTERNATIONAL,PE,maestro,debit
+576205,00-99,,ES,maestro,debit
+576211,00-99,,TW,maestro,debit
+576213,00-99,,US,ebt,debit
+576214,00-99,,US,ebt,debit
+576215,00-99,,US,ebt,debit
+576217,00-99,,KR,maestro,debit
+576220,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+576225,00-99,,US,ebt,debit
+576230,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+576232,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+576243,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+576248,00-99,,GB,maestro,debit
+576258,00-99,,ES,maestro,debit
+576283,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+576311,00-99,,US,ebt,debit
+576319,00-99,,AU,maestro,debit
+576321,00-99,,US,ebt,debit
+576328,00-99,SANTANDER RIO,AR,local brand,credit
+576337,00-99,,US,ebt,debit
+576345,00-99,,US,ebt,debit
+576356,00-99,,US,ebt,debit
+576361,00-99,,AU,maestro,debit
+576364,00-99,,GB,maestro,debit
+576374,00-99,,BR,maestro,debit
+576382,00-99,,AU,maestro,debit
+576385,00-99,MAESTRO INTERNATIONAL,PK,maestro,debit
+576396,00-99,,MA,maestro,debit
+576409,00-99,,GB,maestro,debit
+576416,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+576433,00-99,,US,ebt,debit
+576436,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
+576437,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+576439,00-99,,US,ebt,debit
+576446,00-99,,BR,maestro,debit
+576449,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+576451,00-99,,BR,maestro,debit
+576456,00-99,,US,ebt,debit
+576462,00-99,MAESTRO INTERNATIONAL,BG,maestro,debit
+576470,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+576471,00-99,,CO,maestro,debit
+576479,00-99,MAESTRO INTERNATIONAL,BG,maestro,debit
+576485,00-99,MAESTRO INTERNATIONAL,PL,maestro,debit
+576492,00-99,,US,ebt,debit
+576507,00-99,,BR,maestro,debit
+576516,00-99,,US,ebt,debit
+576540,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+576543,00-99,,BR,maestro,debit
+576546,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+576549,00-99,,RO,maestro,debit
+576554,00-99,,KZ,maestro,debit
+576565,00-99,,MA,maestro,debit
+576567,00-99,,US,ebt,debit
+576568,00-99,,US,ebt,debit
+576576,00-99,,US,ebt,debit
+576588,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+576593,00-99,,US,ebt,debit
+576595,00-99,,US,ebt,debit
+576616,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+576624,00-99,MAESTRO INTERNATIONAL,MY,maestro,debit
+576640,00-99,,BR,maestro,debit
+576645,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+576667,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+576676,00-99,,BR,maestro,debit
+576682,00-99,,BR,maestro,debit
+576697,00-99,,US,ebt,debit
+576709,00-99,,SG,maestro,debit
+576722,00-99,,MA,maestro,debit
+576725,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+576742,00-99,,IT,maestro,debit
+576743,00-99,,MY,maestro,debit
+576759,00-99,,US,ebt,debit
+576789,00-99,MAESTRO INTERNATIONAL,CH,maestro,debit
+576827,00-99,,AU,maestro,debit
+576829,00-99,,US,ebt,debit
+576843,00-99,MAESTRO INTERNATIONAL,VN,maestro,debit
+576847,00-99,BC VICTORIABANK SA,MD,maestro,debit
+576849,00-99,,US,ebt,debit
+576875,00-99,,UA,maestro,debit
+576876,00-99,,US,ebt,debit
+576880,00-99,MAESTRO INTERNATIONAL,NG,maestro,debit
+576890,00-99,,VN,maestro,debit
+576894,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+576904,00-99,MAESTRO INTERNATIONAL,AR,maestro,debit
+576921,00-99,,MA,maestro,debit
+576924,00-99,,US,ebt,debit
+576925,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+576940,00-99,,US,ebt,debit
+576945,00-99,,GB,maestro,debit
+576952,00-99,MAESTRO INTERNATIONAL,BG,maestro,debit
+576987,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+577000,00-99,,US,cirrus,debit
+577001,00-99,,US,cirrus,debit
+577003,00-99,,US,ebt,debit
+577005,00-99,,US,cirrus,debit
+577006,00-99,,US,cirrus,debit
+577007,00-99,,US,cirrus,debit
+577008,00-99,,US,cirrus,debit
+577009,00-99,,US,cirrus,debit
+577010,00-99,,US,cirrus,debit
+577011,00-99,,US,cirrus,debit
+577012,00-99,,US,ebt,debit
+577013,00-99,,US,ebt,debit
+577014,00-99,,US,cirrus,debit
+577015,00-99,,US,ebt,debit
+577016,00-99,,US,ebt,debit
+577017,00-99,,US,ebt,debit
+577020,00-99,,US,ebt,debit
+577021,00-99,MAESTRO INTERNATIONAL,ID,maestro,debit
+577025,00-99,,US,ebt,debit
+577027,00-99,,US,ebt,debit
+577028,00-99,,US,ebt,debit
+577029,00-99,,US,ebt,debit
+577037,00-99,,US,ebt,debit
+577038,00-99,,US,ebt,debit
+577039,00-99,,US,ebt,debit
+577040,00-99,,US,ebt,debit
+577041,00-99,,US,cirrus,debit
+577042,00-99,MAESTRO INTERNATIONAL,SE,maestro,debit
+577043,00-99,,US,ebt,debit
+577044,00-99,,US,ebt,debit
+577045,00-99,,US,ebt,debit
+577046,00-99,,US,ebt,debit
+577047,00-99,,US,ebt,debit
+577048,00-99,,US,ebt,debit
+577049,00-99,,US,ebt,debit
+577050,00-99,,US,ebt,debit
+577053,00-99,,US,ebt,debit
+577056,00-99,,US,ebt,debit
+577057,00-99,,US,cirrus,debit
+577061,00-99,,US,cirrus,debit
+577062,00-99,,US,ebt,debit
+577063,00-99,,US,ebt,debit
+577064,00-99,,US,ebt,debit
+577065,00-99,,US,ebt,debit
+577066,00-99,,US,ebt,debit
+577067,00-99,,US,ebt,debit
+577068,00-99,,US,ebt,debit
+577069,00-99,,US,maestro,debit
+577070,00-99,,US,cirrus,debit
+577072,00-99,,US,ebt,debit
+577074,00-99,,US,ebt,debit
+577075,00-99,,US,cirrus,debit
+577076,00-99,,US,cirrus,debit
+577077,00-99,,US,cirrus,debit
+577079,00-99,,US,ebt,debit
+577080,00-99,,US,cirrus,debit
+577081,00-99,,US,ebt,debit
+577082,00-99,,US,ebt,debit
+577083,00-99,,US,ebt,debit
+577084,00-99,,US,cirrus,debit
+577085,00-99,,US,cirrus,debit
+577086,00-99,,US,cirrus,debit
+577087,00-99,,US,ebt,debit
+577088,00-99,,US,cirrus,debit
+577089,00-99,,US,ebt,debit
+577090,00-99,,US,cirrus,debit
+577091,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+577092,00-99,,US,ebt,debit
+577094,00-99,,US,ebt,debit
+577095,00-99,,US,ebt,debit
+577097,00-99,,US,cirrus,debit
+577098,00-99,,US,ebt,debit
+577099,00-99,,US,ebt,debit
+577100,00-99,,TR,maestro,debit
+577101,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+577102,00-99,,US,cirrus,debit
+577103,00-99,,US,ebt,debit
+577105,00-99,,US,ebt,debit
+577106,00-99,,US,ebt,debit
+577107,00-99,,US,cirrus,debit
+577108,00-99,,US,ebt,debit
+577110,00-99,,US,cirrus,debit
+577111,00-99,,US,cirrus,debit
+577112,00-99,,US,cirrus,debit
+577113,00-99,,US,ebt,debit
+577114,00-99,,US,ebt,debit
+577115,00-99,U.S. BANK N.A.,US,cirrus,debit
+577116,00-99,,US,ebt,debit
+577117,00-99,,US,ebt,debit
+577118,00-99,,US,cirrus,debit
+577119,00-99,,US,ebt,debit
+577120,00-99,,US,cirrus,debit
+577121,00-99,,US,ebt,debit
+577122,00-99,,US,ebt,debit
+577123,00-99,,US,ebt,debit
+577124,00-99,,US,cirrus,debit
+577125,00-99,,US,ebt,debit
+577126,00-99,,US,cirrus,debit
+577127,00-99,,US,cirrus,debit
+577129,00-99,,CO,maestro,debit
+577130,00-99,,US,ebt,debit
+577131,00-99,,US,ebt,debit
+577132,00-99,,US,cirrus,debit
+577133,00-99,,US,cirrus,debit
+577134,00-99,,US,ebt,debit
+577135,00-99,,US,ebt,debit
+577136,00-99,,US,maestro,debit
+577137,00-99,,US,ebt,debit
+577138,00-99,,US,ebt,debit
+577139,00-99,,US,ebt,debit
+577140,00-99,,US,cirrus,debit
+577141,00-99,,US,cirrus,debit
+577142,00-99,,US,ebt,debit
+577143,00-99,,US,ebt,debit
+577145,00-99,,US,ebt,debit
+577146,00-99,,US,ebt,debit
+577147,00-99,,US,ebt,debit
+577148,00-99,,US,maestro,debit
+577150,00-99,,US,ebt,debit
+577151,00-99,,US,ebt,debit
+577152,00-99,,US,cirrus,debit
+577153,00-99,,US,ebt,debit
+577154,00-99,,US,maestro,debit
+577155,00-99,,US,ebt,debit
+577156,00-99,,US,ebt,debit
+577158,00-99,,US,cirrus,debit
+577159,00-99,,US,cirrus,debit
+577162,00-99,,US,ebt,debit
+577163,00-99,,US,cirrus,debit
+577164,00-99,,US,cirrus,debit
+577166,00-99,,US,ebt,debit
+577167,00-99,,US,ebt,debit
+577168,00-99,,US,ebt,debit
+577169,00-99,,US,cirrus,debit
+577171,00-99,,US,ebt,debit
+577172,00-99,,US,ebt,debit
+577173,00-99,,US,ebt,debit
+577174,00-99,,US,ebt,debit
+577175,00-99,,US,ebt,debit
+577176,00-99,MAESTRO INTERNATIONAL,IN,maestro,debit
+577177,00-99,,US,cirrus,debit
+577179,00-99,,US,ebt,debit
+577182,00-99,,US,cirrus,debit
+577183,00-99,,US,cirrus,debit
+577186,00-99,,US,cirrus,debit
+577187,00-99,,US,cirrus,debit
+577188,00-99,,US,ebt,debit
+577191,00-99,,US,ebt,debit
+577192,00-99,,US,ebt,debit
+577193,00-99,,US,ebt,debit
+577194,00-99,,US,ebt,debit
+577195,00-99,,US,ebt,debit
+577196,00-99,,US,ebt,debit
+577197,00-99,,US,maestro,debit
+577198,00-99,,US,ebt,debit
+577199,00-99,,US,ebt,debit
+577200,00-99,,US,ebt,debit
+577202,00-99,,US,cirrus,debit
+577203,00-99,,US,cirrus,debit
+577204,00-99,,US,ebt,debit
+577205,00-99,,US,ebt,debit
+577206,00-99,,US,ebt,debit
+577207,00-99,,US,ebt,debit
+577210,00-99,,US,ebt,debit
+577211,00-99,,US,cirrus,debit
+577213,00-99,,US,ebt,debit
+577214,00-99,,US,ebt,debit
+577216,00-99,,US,cirrus,debit
+577218,00-99,,US,ebt,debit
+577219,00-99,,US,ebt,debit
+577220,00-99,,US,ebt,debit
+577221,00-99,,US,ebt,debit
+577224,00-99,,US,cirrus,debit
+577225,00-99,,US,ebt,debit
+577227,00-99,,US,ebt,debit
+577228,00-99,,US,ebt,debit
+577229,00-99,,US,ebt,debit
+577231,00-99,,US,ebt,debit
+577232,00-99,,US,cirrus,debit
+577234,00-99,,US,ebt,debit
+577235,00-99,,US,ebt,debit
+577236,00-99,,US,ebt,debit
+577238,00-99,,US,ebt,debit
+577239,00-99,,US,ebt,debit
+577240,00-99,,US,ebt,debit
+577242,00-99,,US,cirrus,debit
+577243,00-99,,US,cirrus,debit
+577244,00-99,,US,ebt,debit
+577245,00-99,,US,ebt,debit
+577249,00-99,,US,cirrus,debit
+577250,00-99,,US,ebt,debit
+577251,00-99,,US,maestro,debit
+577252,00-99,,US,ebt,debit
+577255,00-99,,US,ebt,debit
+577256,00-99,,US,ebt,debit
+577257,00-99,,US,ebt,debit
+577258,00-99,,US,ebt,debit
+577260,00-99,,US,cirrus,debit
+577261,00-99,,US,cirrus,debit
+577262,00-99,U.S. BANK N.A.,US,cirrus,debit
+577264,00-99,,US,ebt,debit
+577265,00-99,,US,ebt,debit
+577267,00-99,,US,ebt,debit
+577269,00-99,,US,cirrus,debit
+577270,00-99,,US,cirrus,debit
+577271,00-99,,US,ebt,debit
+577272,00-99,,US,ebt,debit
+577273,00-99,,US,ebt,debit
+577274,00-99,,US,ebt,debit
+577275,00-99,,US,ebt,debit
+577276,00-99,,US,cirrus,debit
+577277,00-99,,US,ebt,debit
+577278,00-99,,US,cirrus,debit
+577280,00-99,,US,ebt,debit
+577281,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+577282,00-99,,US,cirrus,debit
+577283,00-99,,US,ebt,debit
+577287,00-99,,US,ebt,debit
+577288,00-99,,US,cirrus,debit
+577289,00-99,,US,cirrus,debit
+577290,00-99,,US,ebt,debit
+577291,00-99,,US,ebt,debit
+577294,00-99,,US,ebt,debit
+577295,00-99,,US,cirrus,debit
+577298,00-99,,US,ebt,debit
+577299,00-99,,US,cirrus,debit
+577300,00-99,,US,cirrus,debit
+577301,00-99,,US,ebt,debit
+577302,00-99,,US,ebt,debit
+577303,00-99,,US,cirrus,debit
+577304,00-99,,US,cirrus,debit
+577305,00-99,,US,cirrus,debit
+577306,00-99,,US,ebt,debit
+577308,00-99,,US,cirrus,debit
+577309,00-99,,US,ebt,debit
+577310,00-99,,US,ebt,debit
+577311,00-99,,US,ebt,debit
+577313,00-99,,US,ebt,debit
+577314,00-99,,US,ebt,debit
+577315,00-99,,US,cirrus,debit
+577316,00-99,,US,ebt,debit
+577317,00-99,,US,cirrus,debit
+577318,00-99,,US,ebt,debit
+577319,00-99,,US,ebt,debit
+577320,00-99,,US,cirrus,debit
+577321,00-99,,US,ebt,debit
+577325,00-99,,US,cirrus,debit
+577327,00-99,,US,ebt,debit
+577328,00-99,,US,cirrus,debit
+577329,00-99,,US,ebt,debit
+577330,00-99,,US,ebt,debit
+577331,00-99,,US,ebt,debit
+577332,00-99,,US,ebt,debit
+577333,00-99,,US,ebt,debit
+577334,00-99,,US,ebt,debit
+577335,00-99,,US,cirrus,debit
+577336,00-99,,US,cirrus,debit
+577337,00-99,,US,ebt,debit
+577339,00-99,,US,cirrus,debit
+577341,00-99,,US,cirrus,debit
+577342,00-99,,US,ebt,debit
+577343,00-99,,US,ebt,debit
+577344,00-99,,US,cirrus,debit
+577345,00-99,,US,cirrus,debit
+577346,00-99,,US,cirrus,debit
+577347,00-99,,US,ebt,debit
+577348,00-99,,US,cirrus,debit
+577349,00-99,,GB,maestro,debit
+577350,00-99,,US,ebt,debit
+577351,00-99,,US,ebt,debit
+577352,00-99,,US,ebt,debit
+577357,00-99,,US,ebt,debit
+577358,00-99,,US,cirrus,debit
+577359,00-99,,US,ebt,debit
+577360,00-99,,US,ebt,debit
+577361,00-99,,US,cirrus,debit
+577364,00-99,,US,cirrus,debit
+577365,00-99,,US,ebt,debit
+577366,00-99,,US,ebt,debit
+577367,00-99,,US,ebt,debit
+577368,00-99,,US,ebt,debit
+577369,00-99,,US,ebt,debit
+577370,00-99,,US,cirrus,debit
+577371,00-99,,US,ebt,debit
+577372,00-99,,US,ebt,debit
+577373,00-99,,US,ebt,debit
+577374,00-99,,US,ebt,debit
+577375,00-99,,US,ebt,debit
+577376,00-99,,US,ebt,debit
+577378,00-99,,US,ebt,debit
+577379,00-99,,US,cirrus,debit
+577380,00-99,,US,ebt,debit
+577381,00-99,,US,ebt,debit
+577384,00-99,,US,ebt,debit
+577385,00-99,,US,ebt,debit
+577386,00-99,,US,cirrus,debit
+577387,00-99,,US,ebt,debit
+577388,00-99,,US,ebt,debit
+577389,00-99,,US,ebt,debit
+577391,00-99,,US,ebt,debit
+577392,00-99,,US,ebt,debit
+577393,00-99,,US,cirrus,debit
+577394,00-99,,US,ebt,debit
+577395,00-99,,US,cirrus,debit
+577397,00-99,,US,ebt,debit
+577399,00-99,,US,ebt,debit
+577401,00-99,,US,ebt,debit
+577402,00-99,,US,ebt,debit
+577404,00-99,,US,cirrus,debit
+577405,00-99,,US,ebt,debit
+577407,00-99,,US,cirrus,debit
+577408,00-99,,US,ebt,debit
+577409,00-99,,US,cirrus,debit
+577410,00-99,,US,cirrus,debit
+577412,00-99,,MX,maestro,debit
+577413,00-99,,US,cirrus,debit
+577414,00-99,,US,ebt,debit
+577416,00-99,,US,ebt,debit
+577417,00-99,,US,ebt,debit
+577419,00-99,,US,ebt,debit
+577420,00-99,,US,cirrus,debit
+577421,00-99,,US,ebt,debit
+577422,00-99,,US,cirrus,debit
+577423,00-99,BMO HARRIS BANK N.A.,US,ebt,debit
+577424,00-99,,US,ebt,debit
+577426,00-99,,US,cirrus,debit
+577427,00-99,,US,cirrus,debit
+577428,00-99,,US,cirrus,debit
+577430,00-99,,US,ebt,debit
+577431,00-99,,US,ebt,debit
+577432,00-99,,US,ebt,debit
+577433,00-99,,US,ebt,debit
+577434,00-99,,US,cirrus,debit
+577435,00-99,,US,ebt,debit
+577436,00-99,,US,ebt,debit
+577437,00-99,,US,cirrus,debit
+577438,00-99,MAESTRO INTERNATIONAL,GM,maestro,debit
+577441,00-99,,US,cirrus,debit
+577442,00-99,BEST BUY,US,cirrus,debit
+577443,00-99,,US,cirrus,debit
+577444,00-99,,US,maestro,debit
+577445,00-99,,US,ebt,debit
+577446,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+577447,00-99,,US,ebt,debit
+577450,00-99,,US,ebt,debit
+577453,00-99,,US,cirrus,debit
+577455,00-99,,US,cirrus,debit
+577456,00-99,,US,ebt,debit
+577459,00-99,,US,ebt,debit
+577460,00-99,,US,ebt,debit
+577462,00-99,,US,cirrus,debit
+577463,00-99,,US,cirrus,debit
+577464,00-99,,US,maestro,debit
+577465,00-99,,US,ebt,debit
+577467,00-99,,US,ebt,debit
+577469,00-99,,US,ebt,debit
+577470,00-99,,US,ebt,debit
+577471,00-99,,US,cirrus,debit
+577472,00-99,,US,cirrus,debit
+577473,00-99,,US,cirrus,debit
+577474,00-99,,US,ebt,debit
+577475,00-99,,US,ebt,debit
+577476,00-99,,US,cirrus,debit
+577477,00-99,,US,ebt,debit
+577478,00-99,,US,ebt,debit
+577480,00-99,,US,cirrus,debit
+577481,00-99,,US,ebt,debit
+577482,00-99,,US,ebt,debit
+577483,00-99,,US,ebt,debit
+577484,00-99,,US,ebt,debit
+577485,00-99,,US,cirrus,debit
+577486,00-99,,US,cirrus,debit
+577488,00-99,,US,ebt,debit
+577489,00-99,,US,ebt,debit
+577490,00-99,,US,ebt,debit
+577491,00-99,,US,ebt,debit
+577492,00-99,,US,ebt,debit
+577494,00-99,,US,ebt,debit
+577495,00-99,,US,ebt,debit
+577496,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+577497,00-99,,US,ebt,debit
+577499,00-99,,US,cirrus,debit
+577500,00-99,,US,cirrus,debit
+577503,00-99,,NL,maestro,debit
+577504,00-99,,US,ebt,debit
+577506,00-99,,US,ebt,debit
+577507,00-99,,US,ebt,debit
+577508,00-99,,US,ebt,debit
+577509,00-99,,US,ebt,debit
+577510,00-99,,US,ebt,debit
+577511,00-99,,US,cirrus,debit
+577512,00-99,,US,ebt,debit
+577513,00-99,,US,ebt,debit
+577514,00-99,,US,cirrus,debit
+577515,00-99,,US,ebt,debit
+577517,00-99,,US,ebt,debit
+577518,00-99,,US,cirrus,debit
+577519,00-99,,US,ebt,debit
+577520,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+577521,00-99,,US,ebt,debit
+577524,00-99,,US,ebt,debit
+577525,00-99,,US,cirrus,debit
+577526,00-99,,US,cirrus,debit
+577527,00-99,,US,ebt,debit
+577528,00-99,,US,ebt,debit
+577529,00-99,,US,ebt,debit
+577530,00-99,,US,cirrus,debit
+577531,00-99,,US,ebt,debit
+577532,00-99,,US,ebt,debit
+577533,00-99,,US,cirrus,debit
+577535,00-99,,US,cirrus,debit
+577536,00-99,,US,ebt,debit
+577537,00-99,,US,ebt,debit
+577539,00-99,,US,cirrus,debit
+577540,00-99,,US,ebt,debit
+577542,00-99,,US,cirrus,debit
+577543,00-99,,US,ebt,debit
+577545,00-99,,US,cirrus,debit
+577547,00-99,,US,ebt,debit
+577548,00-99,,US,cirrus,debit
+577549,00-99,,US,ebt,debit
+577552,00-99,,US,cirrus,debit
+577554,00-99,,US,ebt,debit
+577555,00-99,,US,cirrus,debit
+577556,00-99,,US,cirrus,debit
+577557,00-99,,US,ebt,debit
+577558,00-99,,US,ebt,debit
+577559,00-99,,US,ebt,debit
+577560,00-99,,US,ebt,debit
+577562,00-99,,US,cirrus,debit
+577563,00-99,,US,cirrus,debit
+577564,00-99,,US,cirrus,debit
+577567,00-99,,US,cirrus,debit
+577568,00-99,,US,ebt,debit
+577569,00-99,,US,cirrus,debit
+577570,00-99,,US,cirrus,debit
+577571,00-99,,US,ebt,debit
+577573,00-99,,US,cirrus,debit
+577574,00-99,,US,ebt,debit
+577575,00-99,,US,ebt,debit
+577576,00-99,,US,cirrus,debit
+577578,00-99,,US,ebt,debit
+577579,00-99,,US,cirrus,debit
+577581,00-99,,US,ebt,debit
+577582,00-99,,US,cirrus,debit
+577583,00-99,,US,ebt,debit
+577584,00-99,,US,ebt,debit
+577585,00-99,,US,ebt,debit
+577586,00-99,,US,ebt,debit
+577588,00-99,MAESTRO INTERNATIONAL,IN,maestro,debit
+577590,00-99,,US,ebt,debit
+577592,00-99,,US,ebt,debit
+577593,00-99,,US,cirrus,debit
+577594,00-99,,US,ebt,debit
+577595,00-99,,US,ebt,debit
+577596,00-99,,US,ebt,debit
+577597,00-99,MAESTRO INTERNATIONAL,MA,maestro,debit
+577598,00-99,,US,ebt,debit
+577599,00-99,,US,ebt,debit
+577601,00-99,,US,ebt,debit
+577602,00-99,,US,cirrus,debit
+577604,00-99,,US,cirrus,debit
+577605,00-99,,US,ebt,debit
+577607,00-99,,US,ebt,debit
+577608,00-99,,US,ebt,debit
+577609,00-99,,US,ebt,debit
+577610,00-99,,US,ebt,debit
+577611,00-99,,US,cirrus,debit
+577612,00-99,,US,cirrus,debit
+577613,00-99,,US,cirrus,debit
+577614,00-99,,US,cirrus,debit
+577615,00-99,,US,ebt,debit
+577616,00-99,,US,ebt,debit
+577617,00-99,,US,ebt,debit
+577618,00-99,,US,ebt,debit
+577619,00-99,,US,ebt,debit
+577621,00-99,,US,cirrus,debit
+577622,00-99,,US,ebt,debit
+577623,00-99,,US,cirrus,debit
+577624,00-99,,US,ebt,debit
+577626,00-99,,US,cirrus,debit
+577627,00-99,,US,ebt,debit
+577628,00-99,,US,ebt,debit
+577629,00-99,,US,ebt,debit
+577630,00-99,,US,ebt,debit
+577631,00-99,,US,ebt,debit
+577632,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+577633,00-99,,US,cirrus,debit
+577636,00-99,,US,ebt,debit
+577637,00-99,,US,ebt,debit
+577638,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+577640,00-99,,US,ebt,debit
+577641,00-99,,US,ebt,debit
+577642,00-99,,US,cirrus,debit
+577643,00-99,,US,ebt,debit
+577645,00-99,,US,ebt,debit
+577646,00-99,,US,ebt,debit
+577647,00-99,,US,cirrus,debit
+577648,00-99,,US,cirrus,debit
+577649,00-99,,US,ebt,debit
+577650,00-99,,US,cirrus,debit
+577651,00-99,,US,ebt,debit
+577652,00-99,,US,ebt,debit
+577653,00-99,,US,ebt,debit
+577654,00-99,,US,cirrus,debit
+577655,00-99,,US,ebt,debit
+577656,00-99,,US,ebt,debit
+577657,00-99,,US,ebt,debit
+577658,00-99,,US,cirrus,debit
+577659,00-99,,US,ebt,debit
+577660,00-99,,US,ebt,debit
+577661,00-99,,US,cirrus,debit
+577662,00-99,,US,cirrus,debit
+577663,00-99,,US,ebt,debit
+577665,00-99,,US,ebt,debit
+577666,00-99,,US,cirrus,debit
+577667,00-99,,US,ebt,debit
+577668,00-99,,US,maestro,debit
+577669,00-99,,US,ebt,debit
+577670,00-99,,US,ebt,debit
+577672,00-99,,US,ebt,debit
+577673,00-99,,US,cirrus,debit
+577674,00-99,,US,ebt,debit
+577675,00-99,,US,ebt,debit
+577676,00-99,,US,ebt,debit
+577678,00-99,,US,cirrus,debit
+577680,00-99,,US,ebt,debit
+577681,00-99,,US,cirrus,debit
+577682,00-99,,US,ebt,debit
+577683,00-99,,US,ebt,debit
+577685,00-99,,US,ebt,debit
+577686,00-99,,US,ebt,debit
+577687,00-99,,US,cirrus,debit
+577688,00-99,,US,ebt,debit
+577689,00-99,,US,ebt,debit
+577693,00-99,,US,cirrus,debit
+577694,00-99,,US,maestro,debit
+577695,00-99,,US,ebt,debit
+577696,00-99,,US,cirrus,debit
+577697,00-99,,US,cirrus,debit
+577698,00-99,,US,ebt,debit
+577699,00-99,,US,cirrus,debit
+577700,00-99,,US,ebt,debit
+577701,00-99,,US,cirrus,debit
+577703,00-99,,US,ebt,debit
+577704,00-99,,US,ebt,debit
+577705,00-99,,US,cirrus,debit
+577706,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+577707,00-99,,US,cirrus,debit
+577708,00-99,,US,ebt,debit
+577710,00-99,,TW,maestro,debit
+577711,00-99,,US,ebt,debit
+577712,00-99,,US,ebt,debit
+577714,00-99,,US,ebt,debit
+577715,00-99,,US,ebt,debit
+577716,00-99,,US,ebt,debit
+577718,00-99,,US,ebt,debit
+577722,00-99,,US,ebt,debit
+577723,00-99,,US,ebt,debit
+577724,00-99,,US,ebt,debit
+577727,00-99,,US,cirrus,debit
+577728,00-99,,US,ebt,debit
+577729,00-99,,US,ebt,debit
+577730,00-99,,US,cirrus,debit
+577732,00-99,,US,ebt,debit
+577733,00-99,,US,ebt,debit
+577734,00-99,,US,cirrus,debit
+577735,00-99,,US,ebt,debit
+577736,00-99,,US,ebt,debit
+577737,00-99,,MA,maestro,debit
+577738,00-99,,US,cirrus,debit
+577741,00-99,,US,cirrus,debit
+577742,00-99,,US,ebt,debit
+577743,00-99,,US,ebt,debit
+577744,00-99,,US,ebt,debit
+577745,00-99,,US,ebt,debit
+577747,00-99,,US,ebt,debit
+577748,00-99,,US,cirrus,debit
+577749,00-99,,US,ebt,debit
+577750,00-99,,US,ebt,debit
+577751,00-99,,US,cirrus,debit
+577752,00-99,,US,ebt,debit
+577753,00-99,,US,cirrus,debit
+577754,00-99,,US,ebt,debit
+577756,00-99,,US,ebt,debit
+577757,00-99,,MA,maestro,debit
+577759,00-99,,US,cirrus,debit
+577760,00-99,,US,cirrus,debit
+577761,00-99,,US,ebt,debit
+577762,00-99,,US,ebt,debit
+577763,00-99,,US,ebt,debit
+577764,00-99,,US,cirrus,debit
+577765,00-99,,US,maestro,debit
+577766,00-99,,US,cirrus,debit
+577767,00-99,,US,ebt,debit
+577768,00-99,,US,ebt,debit
+577769,00-99,,US,ebt,debit
+577770,00-99,,JM,maestro,debit
+577771,00-99,,US,cirrus,debit
+577772,00-99,,US,ebt,debit
+577773,00-99,,US,ebt,debit
+577774,00-99,,US,ebt,debit
+577775,00-99,,US,ebt,debit
+577776,00-99,,US,cirrus,debit
+577777,00-99,,US,cirrus,debit
+577778,00-99,,US,cirrus,debit
+577779,00-99,,US,cirrus,debit
+577780,00-99,,US,ebt,debit
+577781,00-99,,US,cirrus,debit
+577783,00-99,,US,maestro,debit
+577784,00-99,,US,ebt,debit
+577785,00-99,U.S. BANK N.A.,US,ebt,debit
+577786,00-99,,US,ebt,debit
+577787,00-99,,US,ebt,debit
+577788,00-99,,US,ebt,debit
+577789,00-99,,US,ebt,debit
+577791,00-99,,US,ebt,debit
+577793,00-99,,US,ebt,debit
+577794,00-99,,US,ebt,debit
+577795,00-99,,US,ebt,debit
+577797,00-99,,US,cirrus,debit
+577799,00-99,,US,cirrus,debit
+577801,00-99,,US,cirrus,debit
+577802,00-99,,US,ebt,debit
+577803,00-99,,US,ebt,debit
+577804,00-99,,US,cirrus,debit
+577805,00-99,,TR,maestro,debit
+577806,00-99,SHAZAM INC.,US,ebt,debit
+577807,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+577808,00-99,,US,cirrus,debit
+577810,00-99,,US,cirrus,debit
+577811,00-99,,US,ebt,debit
+577812,00-99,,US,cirrus,debit
+577813,00-99,,US,cirrus,debit
+577814,00-99,,US,ebt,debit
+577815,00-99,,US,cirrus,debit
+577816,00-99,,US,ebt,debit
+577817,00-99,,US,ebt,debit
+577818,00-99,,US,ebt,debit
+577819,00-99,,US,ebt,debit
+577820,00-99,,US,cirrus,debit
+577821,00-99,,US,cirrus,debit
+577822,00-99,,US,ebt,debit
+577823,00-99,,US,ebt,debit
+577824,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+577825,00-99,,US,cirrus,debit
+577826,00-99,,US,cirrus,debit
+577827,00-99,,US,ebt,debit
+577828,00-99,,US,ebt,debit
+577829,00-99,,US,cirrus,debit
+577830,00-99,,US,cirrus,debit
+577831,00-99,,US,ebt,debit
+577832,00-99,,US,cirrus,debit
+577833,00-99,,US,cirrus,debit
+577834,00-99,,US,ebt,debit
+577835,00-99,,US,cirrus,debit
+577837,00-99,,US,ebt,debit
+577838,00-99,,US,cirrus,debit
+577839,00-99,,US,cirrus,debit
+577840,00-99,,US,ebt,debit
+577841,00-99,,US,ebt,debit
+577842,00-99,,US,ebt,debit
+577843,00-99,,US,cirrus,debit
+577845,00-99,,DE,maestro,debit
+577847,00-99,,US,cirrus,debit
+577848,00-99,,US,ebt,debit
+577849,00-99,,US,ebt,debit
+577850,00-99,,US,ebt,debit
+577852,00-99,,US,ebt,debit
+577853,00-99,,US,ebt,debit
+577854,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+577856,00-99,,US,ebt,debit
+577857,00-99,,US,cirrus,debit
+577859,00-99,,US,ebt,debit
+577860,00-99,,US,ebt,debit
+577863,00-99,,US,cirrus,debit
+577864,00-99,,US,ebt,debit
+577865,00-99,,US,ebt,debit
+577866,00-99,,US,ebt,debit
+577867,00-99,,US,ebt,debit
+577868,00-99,,US,cirrus,debit
+577870,00-99,,US,ebt,debit
+577873,00-99,,US,cirrus,debit
+577874,00-99,,US,ebt,debit
+577875,00-99,,US,cirrus,debit
+577876,00-99,,US,maestro,debit
+577877,00-99,,US,ebt,debit
+577878,00-99,,US,ebt,debit
+577879,00-99,,US,ebt,debit
+577880,00-99,,US,ebt,debit
+577881,00-99,,DO,maestro,debit
+577882,00-99,,US,cirrus,debit
+577883,00-99,,US,cirrus,debit
+577884,00-99,,US,maestro,debit
+577885,00-99,,US,ebt,debit
+577886,00-99,,US,ebt,debit
+577887,00-99,,US,cirrus,debit
+577888,00-99,,US,ebt,debit
+577889,00-99,,US,ebt,debit
+577890,00-99,,US,ebt,debit
+577892,00-99,,US,ebt,debit
+577894,00-99,,US,ebt,debit
+577895,00-99,,US,ebt,debit
+577898,00-99,,US,ebt,debit
+577899,00-99,,US,ebt,debit
+577900,00-99,,US,ebt,debit
+577901,00-99,,US,cirrus,debit
+577903,00-99,,US,ebt,debit
+577904,00-99,,US,ebt,debit
+577905,00-99,,US,cirrus,debit
+577907,00-99,,US,ebt,debit
+577908,00-99,,US,ebt,debit
+577910,00-99,,US,ebt,debit
+577911,00-99,,US,ebt,debit
+577912,00-99,U.S. BANK N.A.,US,ebt,debit
+577913,00-99,,US,cirrus,debit
+577914,00-99,,US,ebt,debit
+577915,00-99,,US,ebt,debit
+577916,00-99,,US,cirrus,debit
+577917,00-99,,US,cirrus,debit
+577919,00-99,,US,ebt,debit
+577920,00-99,MAESTRO INTERNATIONAL,PE,maestro,debit
+577921,00-99,,US,cirrus,debit
+577922,00-99,,US,ebt,debit
+577923,00-99,,US,ebt,debit
+577924,00-99,,US,ebt,debit
+577925,00-99,,US,ebt,debit
+577926,00-99,,US,ebt,debit
+577927,00-99,,US,cirrus,debit
+577928,00-99,,US,ebt,debit
+577929,00-99,,US,cirrus,debit
+577930,00-99,,US,ebt,debit
+577931,00-99,,US,ebt,debit
+577932,00-99,,US,ebt,debit
+577934,00-99,,US,ebt,debit
+577935,00-99,,US,ebt,debit
+577936,00-99,,US,ebt,debit
+577937,00-99,,US,cirrus,debit
+577938,00-99,,US,cirrus,debit
+577939,00-99,,US,ebt,debit
+577940,00-99,,US,ebt,debit
+577942,00-99,,US,ebt,debit
+577943,00-99,,US,cirrus,debit
+577946,00-99,,US,cirrus,debit
+577947,00-99,,US,cirrus,debit
+577948,00-99,,US,ebt,debit
+577949,00-99,,US,ebt,debit
+577950,00-99,,US,ebt,debit
+577951,00-99,,US,cirrus,debit
+577953,00-99,,US,ebt,debit
+577954,00-99,,US,ebt,debit
+577955,00-99,,US,cirrus,debit
+577956,00-99,,US,cirrus,debit
+577957,00-99,,US,ebt,debit
+577958,00-99,,US,cirrus,debit
+577959,00-99,,US,cirrus,debit
+577961,00-99,,US,ebt,debit
+577963,00-99,,US,ebt,debit
+577964,00-99,,US,ebt,debit
+577965,00-99,,US,ebt,debit
+577966,00-99,,US,cirrus,debit
+577967,00-99,,US,ebt,debit
+577968,00-99,,US,cirrus,debit
+577969,00-99,,US,ebt,debit
+577970,00-99,,US,cirrus,debit
+577972,00-99,,US,cirrus,debit
+577976,00-99,,US,ebt,debit
+577977,00-99,,US,ebt,debit
+577978,00-99,,US,ebt,debit
+577983,00-99,,US,ebt,debit
+577984,00-99,,US,ebt,debit
+577985,00-99,,US,ebt,debit
+577986,00-99,,US,ebt,debit
+577987,00-99,,US,ebt,debit
+577988,00-99,,US,ebt,debit
+577989,00-99,,US,cirrus,debit
+577990,00-99,,US,ebt,debit
+577992,00-99,,US,ebt,debit
+577993,00-99,FISERV SOLUTIONS INC.,US,ebt,debit
+577994,00-99,,US,ebt,debit
+577997,00-99,,US,cirrus,debit
+577998,00-99,,US,cirrus,debit
+577999,00-99,,US,ebt,debit
+578000,00-99,,US,ebt,debit
+578001,00-99,,US,ebt,debit
+578002,00-99,,US,ebt,debit
+578003,00-99,,US,ebt,debit
+578004,00-99,,US,ebt,debit
+578005,00-99,,US,ebt,debit
+578006,00-99,,US,ebt,debit
+578007,00-99,,US,ebt,debit
+578008,00-99,,US,cirrus,debit
+578009,00-99,,US,ebt,debit
+578011,00-99,,US,ebt,debit
+578012,00-99,,US,ebt,debit
+578013,00-99,,US,cirrus,debit
+578015,00-99,,US,ebt,debit
+578016,00-99,,US,ebt,debit
+578017,00-99,,US,ebt,debit
+578018,00-99,,US,cirrus,debit
+578019,00-99,,US,cirrus,debit
+578020,00-99,,FR,maestro,debit
+578021,00-99,,US,cirrus,debit
+578023,00-99,,US,cirrus,debit
+578024,00-99,,US,cirrus,debit
+578025,00-99,,US,cirrus,debit
+578026,00-99,,US,cirrus,debit
+578027,00-99,,US,ebt,debit
+578029,00-99,,US,ebt,debit
+578030,00-99,,US,ebt,debit
+578033,00-99,,US,cirrus,debit
+578034,00-99,,US,ebt,debit
+578035,00-99,,US,ebt,debit
+578036,00-99,GUAM EBT ISSUED BY JPMORGAN EFS,US,ebt,debit
+578037,00-99,,US,ebt,debit
+578038,00-99,,US,ebt,debit
+578040,00-99,,US,cirrus,debit
+578041,00-99,,US,cirrus,debit
+578042,00-99,,US,cirrus,debit
+578043,00-99,,US,maestro,debit
+578044,00-99,,US,ebt,debit
+578045,00-99,,US,cirrus,debit
+578046,00-99,,US,ebt,debit
+578047,00-99,,US,ebt,debit
+578048,00-99,,US,ebt,debit
+578050,00-99,,US,ebt,debit
+578051,00-99,,US,ebt,debit
+578052,00-99,,US,ebt,debit
+578053,00-99,,BR,maestro,debit
+578054,00-99,,US,ebt,debit
+578055,00-99,,US,cirrus,debit
+578056,00-99,,US,ebt,debit
+578057,00-99,,US,ebt,debit
+578058,00-99,MAESTRO INTERNATIONAL,PH,maestro,debit
+578059,00-99,,US,ebt,debit
+578060,00-99,,US,ebt,debit
+578061,00-99,U.S. BANK N.A.,US,ebt,debit
+578062,00-99,,US,ebt,debit
+578063,00-99,,US,ebt,debit
+578064,00-99,,US,ebt,debit
+578066,00-99,,US,ebt,debit
+578067,00-99,,US,ebt,debit
+578068,00-99,,US,ebt,debit
+578069,00-99,,US,cirrus,debit
+578070,00-99,,US,cirrus,debit
+578071,00-99,,US,cirrus,debit
+578072,00-99,,US,cirrus,debit
+578073,00-99,,US,ebt,debit
+578074,00-99,,US,ebt,debit
+578075,00-99,,US,ebt,debit
+578076,00-99,,US,cirrus,debit
+578077,00-99,,US,ebt,debit
+578078,00-99,,US,ebt,debit
+578079,00-99,,US,cirrus,debit
+578080,00-99,,US,ebt,debit
+578081,00-99,,US,ebt,debit
+578082,00-99,,US,ebt,debit
+578083,00-99,,US,ebt,debit
+578084,00-99,,US,ebt,debit
+578085,00-99,,US,cirrus,debit
+578086,00-99,,US,cirrus,debit
+578087,00-99,MAESTRO INTERNATIONAL,CA,maestro,debit
+578088,00-99,,US,ebt,debit
+578089,00-99,,US,cirrus,debit
+578090,00-99,,US,cirrus,debit
+578091,00-99,,US,ebt,debit
+578092,00-99,,US,cirrus,debit
+578095,00-99,U.S. BANK N.A.,US,ebt,debit
+578096,00-99,MAESTRO INTERNATIONAL,PH,maestro,debit
+578097,00-99,GREEN DOT BANK,US,ebt,debit
+578098,00-99,,US,ebt,debit
+578099,00-99,,US,ebt,debit
+578100,00-99,,US,ebt,debit
+578101,00-99,,US,cirrus,debit
+578102,00-99,,US,ebt,debit
+578103,00-99,,US,ebt,debit
+578104,00-99,,US,cirrus,debit
+578105,00-99,,US,ebt,debit
+578107,00-99,,US,ebt,debit
+578108,00-99,,US,cirrus,debit
+578109,00-99,,US,ebt,debit
+578110,00-99,,US,ebt,debit
+578111,00-99,,US,cirrus,debit
+578112,00-99,,US,ebt,debit
+578113,00-99,,US,cirrus,debit
+578115,00-99,,US,ebt,debit
+578116,00-99,,US,ebt,debit
+578118,00-99,,US,cirrus,debit
+578119,00-99,,US,ebt,debit
+578120,00-99,,US,ebt,debit
+578121,00-99,,US,cirrus,debit
+578122,00-99,,US,ebt,debit
+578123,00-99,,US,cirrus,debit
+578124,00-99,,US,cirrus,debit
+578126,00-99,,US,ebt,debit
+578127,00-99,,US,cirrus,debit
+578129,00-99,,US,ebt,debit
+578130,00-99,,US,ebt,debit
+578132,00-99,,US,cirrus,debit
+578133,00-99,,US,cirrus,debit
+578134,00-99,,US,ebt,debit
+578135,00-99,,US,ebt,debit
+578136,00-99,,US,ebt,debit
+578137,00-99,,US,ebt,debit
+578138,00-99,,US,ebt,debit
+578139,00-99,,US,ebt,debit
+578140,00-99,,US,ebt,debit
+578141,00-99,,US,cirrus,debit
+578142,00-99,,US,ebt,debit
+578143,00-99,,US,ebt,debit
+578144,00-99,,US,ebt,debit
+578145,00-99,,US,ebt,debit
+578146,00-99,,US,ebt,debit
+578147,00-99,,US,ebt,debit
+578148,00-99,,US,ebt,debit
+578149,00-99,,US,ebt,debit
+578150,00-99,,US,ebt,debit
+578152,00-99,,US,ebt,debit
+578154,00-99,,US,cirrus,debit
+578155,00-99,,US,ebt,debit
+578157,00-99,,US,ebt,debit
+578158,00-99,,US,maestro,debit
+578159,00-99,,US,ebt,debit
+578160,00-99,,US,ebt,debit
+578161,00-99,,US,cirrus,debit
+578162,00-99,,US,cirrus,debit
+578163,00-99,,US,ebt,debit
+578164,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578165,00-99,,US,ebt,debit
+578166,00-99,,US,ebt,debit
+578167,00-99,,US,ebt,debit
+578168,00-99,,US,ebt,debit
+578170,00-99,,US,ebt,debit
+578171,00-99,,US,ebt,debit
+578172,00-99,,US,ebt,debit
+578173,00-99,,US,ebt,debit
+578175,00-99,,US,ebt,debit
+578177,00-99,,US,cirrus,debit
+578178,00-99,,US,ebt,debit
+578179,00-99,,US,ebt,debit
+578180,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578181,00-99,,US,maestro,debit
+578182,00-99,,US,ebt,debit
+578183,00-99,,US,ebt,debit
+578184,00-99,,US,ebt,debit
+578185,00-99,,US,cirrus,debit
+578186,00-99,,US,ebt,debit
+578187,00-99,,US,ebt,debit
+578188,00-99,,US,ebt,debit
+578189,00-99,,US,cirrus,debit
+578190,00-99,,US,ebt,debit
+578191,00-99,,US,ebt,debit
+578192,00-99,,US,cirrus,debit
+578195,00-99,,US,cirrus,debit
+578196,00-99,,US,cirrus,debit
+578197,00-99,,US,ebt,debit
+578199,00-99,,US,ebt,debit
+578200,00-99,,US,cirrus,debit
+578201,00-99,,US,ebt,debit
+578202,00-99,,US,ebt,debit
+578203,00-99,U.S. BANK N.A.,US,ebt,debit
+578205,00-99,,US,ebt,debit
+578206,00-99,,US,ebt,debit
+578208,00-99,,US,cirrus,debit
+578209,00-99,,US,ebt,debit
+578210,00-99,,US,cirrus,debit
+578211,00-99,,US,cirrus,debit
+578212,00-99,,AU,maestro,debit
+578213,00-99,,US,ebt,debit
+578214,00-99,,ZA,maestro,debit
+578215,00-99,,US,cirrus,debit
+578216,00-99,,US,cirrus,debit
+578217,00-99,,US,cirrus,debit
+578219,00-99,,US,cirrus,debit
+578220,00-99,,US,ebt,debit
+578221,00-99,,US,ebt,debit
+578222,00-99,,US,ebt,debit
+578223,00-99,,US,cirrus,debit
+578224,00-99,,US,ebt,debit
+578225,00-99,,US,ebt,debit
+578226,00-99,,US,ebt,debit
+578227,00-99,U.S. BANK N.A.,US,ebt,debit
+578228,00-99,,US,ebt,debit
+578229,00-99,,US,ebt,debit
+578231,00-99,,US,ebt,debit
+578232,00-99,,US,ebt,debit
+578233,00-99,,US,ebt,debit
+578234,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+578236,00-99,,US,ebt,debit
+578237,00-99,,US,cirrus,debit
+578240,00-99,,US,cirrus,debit
+578242,00-99,,US,ebt,debit
+578243,00-99,,US,cirrus,debit
+578244,00-99,,US,ebt,debit
+578245,00-99,,US,ebt,debit
+578247,00-99,,US,cirrus,debit
+578248,00-99,,US,ebt,debit
+578249,00-99,,US,ebt,debit
+578250,00-99,,US,cirrus,debit
+578251,00-99,,US,maestro,debit
+578252,00-99,,US,ebt,debit
+578254,00-99,,US,ebt,debit
+578255,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578256,00-99,,US,ebt,debit
+578257,00-99,U.S. BANK N.A.,US,ebt,debit
+578258,00-99,,US,ebt,debit
+578259,00-99,,US,cirrus,debit
+578260,00-99,,US,ebt,debit
+578261,00-99,,US,ebt,debit
+578262,00-99,,US,ebt,debit
+578264,00-99,,US,ebt,debit
+578265,00-99,,US,ebt,debit
+578266,00-99,,US,ebt,debit
+578267,00-99,,US,cirrus,debit
+578268,00-99,,US,ebt,debit
+578269,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+578270,00-99,,US,ebt,debit
+578271,00-99,,US,ebt,debit
+578273,00-99,,US,ebt,debit
+578274,00-99,,US,cirrus,debit
+578275,00-99,,US,ebt,debit
+578276,00-99,,US,ebt,debit
+578277,00-99,,US,cirrus,debit
+578278,00-99,,US,cirrus,debit
+578279,00-99,U.S. BANK N.A.,US,ebt,debit
+578280,00-99,,US,ebt,debit
+578281,00-99,,US,ebt,debit
+578282,00-99,,US,cirrus,debit
+578283,00-99,,US,cirrus,debit
+578284,00-99,,US,cirrus,debit
+578285,00-99,,US,ebt,debit
+578286,00-99,,US,cirrus,debit
+578287,00-99,,US,ebt,debit
+578288,00-99,,US,cirrus,debit
+578289,00-99,,US,ebt,debit
+578290,00-99,,US,ebt,debit
+578291,00-99,,US,ebt,debit
+578292,00-99,,US,ebt,debit
+578293,00-99,,US,ebt,debit
+578294,00-99,,US,maestro,debit
+578295,00-99,,US,cirrus,debit
+578296,00-99,,US,cirrus,debit
+578297,00-99,,US,cirrus,debit
+578298,00-99,,US,cirrus,debit
+578299,00-99,,US,maestro,debit
+578346,00-99,,US,ebt,debit
+578364,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+578394,00-99,,MX,maestro,debit
+578426,00-99,,CL,maestro,debit
+578433,00-99,,US,ebt,debit
+578434,00-99,MAESTRO INTERNATIONAL,RO,maestro,debit
+578445,00-99,,US,ebt,debit
+578454,00-99,,US,ebt,debit
+578456,00-99,,NA,maestro,debit
+578469,00-99,,US,ebt,debit
+578471,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578496,00-99,MAESTRO INTERNATIONAL,ID,maestro,debit
+578532,00-99,,MA,maestro,debit
+578541,00-99,,PK,maestro,debit
+578568,00-99,,US,ebt,debit
+578573,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578586,00-99,,US,ebt,debit
+578587,00-99,,US,ebt,debit
+578591,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+578600,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578614,00-99,,AR,maestro,debit
+578629,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+578633,00-99,,BR,maestro,debit
+578645,00-99,,GB,maestro,debit
+578654,00-99,,DE,maestro,debit
+578658,00-99,,US,ebt,debit
+578662,00-99,,TR,maestro,debit
+578694,00-99,MAESTRO INTERNATIONAL,PS,maestro,debit
+578710,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+578716,00-99,,US,ebt,debit
+578724,00-99,,BR,maestro,debit
+578748,00-99,,US,ebt,debit
+578750,00-99,,US,ebt,debit
+578761,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+578764,00-99,,US,ebt,debit
+578765,00-99,,PS,maestro,debit
+578767,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+578788,00-99,MAESTRO INTERNATIONAL,TH,maestro,debit
+578790,00-99,,US,ebt,debit
+578791,00-99,,GB,maestro,debit
+578808,00-99,,US,ebt,debit
+578817,00-99,,VE,maestro,debit
+578834,00-99,MAESTRO INTERNATIONAL,MY,maestro,debit
+578853,00-99,MAESTRO INTERNATIONAL,MX,maestro,debit
+578854,00-99,,US,ebt,debit
+578888,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+578890,00-99,,ZA,maestro,debit
+578891,00-99,MAESTRO INTERNATIONAL,ZA,maestro,debit
+578900,00-99,,CH,maestro,debit
+578901,00-99,,ES,maestro,debit
+578909,00-99,,US,ebt,debit
+578919,00-99,,US,ebt,debit
+578920,00-99,,DK,maestro,debit
+578924,00-99,,FR,maestro,debit
+578928,00-99,MAESTRO INTERNATIONAL,DE,maestro,debit
+578930,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+578935,00-99,,GT,maestro,debit
+578937,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+578945,00-99,,US,ebt,debit
+578946,00-99,,SE,maestro,debit
+578953,00-99,,US,ebt,debit
+578954,00-99,,US,ebt,debit
+578958,00-99,,US,ebt,debit
+578964,00-99,,MA,maestro,debit
+578965,00-99,,US,ebt,debit
+578969,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+578974,00-99,,US,ebt,debit
+578978,00-99,,US,ebt,debit
+578980,00-99,,GB,maestro,debit
+578984,00-99,,BR,maestro,debit
+578985,00-99,,US,ebt,debit
+578990,00-99,MAESTRO INTERNATIONAL,CO,maestro,debit
+579002,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579004,00-99,,US,ebt,debit
+579005,00-99,,US,ebt,debit
+579006,00-99,,US,ebt,debit
+579007,00-99,,US,ebt,debit
+579008,00-99,,US,ebt,debit
+579009,00-99,,US,ebt,debit
+579010,00-99,,US,ebt,debit
+579011,00-99,,US,ebt,debit
+579012,00-99,,US,cirrus,debit
+579013,00-99,,US,cirrus,debit
+579014,00-99,,US,ebt,debit
+579016,00-99,,US,cirrus,debit
+579018,00-99,,US,cirrus,debit
+579019,00-99,,US,ebt,debit
+579020,00-99,,US,ebt,debit
+579021,00-99,,US,ebt,debit
+579022,00-99,,US,cirrus,debit
+579024,00-99,,US,ebt,debit
+579025,00-99,,US,ebt,debit
+579026,00-99,,US,ebt,debit
+579027,00-99,,US,maestro,debit
+579028,00-99,,US,cirrus,debit
+579029,00-99,,US,ebt,debit
+579030,00-99,,US,ebt,debit
+579031,00-99,,US,cirrus,debit
+579032,00-99,,US,cirrus,debit
+579035,00-99,,US,ebt,debit
+579036,00-99,,US,ebt,debit
+579037,00-99,,US,cirrus,debit
+579039,00-99,,US,ebt,debit
+579040,00-99,,US,ebt,debit
+579041,00-99,,US,ebt,debit
+579043,00-99,,US,cirrus,debit
+579045,00-99,,US,ebt,debit
+579046,00-99,,US,cirrus,debit
+579047,00-99,,US,ebt,debit
+579049,00-99,,US,cirrus,debit
+579050,00-99,,US,ebt,debit
+579051,00-99,,US,ebt,debit
+579052,00-99,U.S. BANK N.A.,US,ebt,debit
+579053,00-99,,US,ebt,debit
+579055,00-99,,MX,maestro,debit
+579057,00-99,,US,cirrus,debit
+579058,00-99,,US,ebt,debit
+579059,00-99,,US,cirrus,debit
+579060,00-99,TEB J.S.C.,XK,maestro,debit
+579061,00-99,,US,ebt,debit
+579062,00-99,,US,cirrus,debit
+579063,00-99,,US,ebt,debit
+579064,00-99,,US,cirrus,debit
+579067,00-99,,US,cirrus,debit
+579069,00-99,,US,ebt,debit
+579070,00-99,,US,ebt,debit
+579071,00-99,,US,ebt,debit
+579072,00-99,,US,ebt,debit
+579073,00-99,,US,ebt,debit
+579074,00-99,,US,ebt,debit
+579075,00-99,U.S. BANK N.A.,US,ebt,debit
+579076,00-99,,US,maestro,debit
+579077,00-99,,US,ebt,debit
+579078,00-99,,US,ebt,debit
+579079,00-99,,US,ebt,debit
+579080,00-99,,US,ebt,debit
+579082,00-99,,US,ebt,debit
+579083,00-99,,US,ebt,debit
+579084,00-99,,US,ebt,debit
+579085,00-99,,US,ebt,debit
+579086,00-99,,US,ebt,debit
+579087,00-99,,US,cirrus,debit
+579088,00-99,,US,ebt,debit
+579089,00-99,,US,ebt,debit
+579090,00-99,,US,ebt,debit
+579091,00-99,,US,cirrus,debit
+579092,00-99,,US,cirrus,debit
+579094,00-99,,US,cirrus,debit
+579095,00-99,,AE,maestro,debit
+579096,00-99,,US,ebt,debit
+579097,00-99,,US,cirrus,debit
+579098,00-99,,US,ebt,debit
+579099,00-99,,US,cirrus,debit
+579100,00-99,,MX,maestro,debit
+579101,00-99,,US,ebt,debit
+579102,00-99,,US,cirrus,debit
+579103,00-99,,US,ebt,debit
+579104,00-99,,US,ebt,debit
+579106,00-99,,US,ebt,debit
+579107,00-99,,US,cirrus,debit
+579108,00-99,,US,cirrus,debit
+579109,00-99,,US,ebt,debit
+579110,00-99,,US,cirrus,debit
+579111,00-99,,US,ebt,debit
+579112,00-99,,US,cirrus,debit
+579113,00-99,,US,ebt,debit
+579114,00-99,,US,ebt,debit
+579115,00-99,,US,cirrus,debit
+579116,00-99,,US,ebt,debit
+579117,00-99,,US,ebt,debit
+579118,00-99,,US,ebt,debit
+579119,00-99,,US,cirrus,debit
+579120,00-99,,US,ebt,debit
+579121,00-99,,US,ebt,debit
+579122,00-99,,US,cirrus,debit
+579123,00-99,,CA,maestro,debit
+579124,00-99,,US,ebt,debit
+579125,00-99,,US,ebt,debit
+579126,00-99,,US,ebt,debit
+579127,00-99,,US,ebt,debit
+579128,00-99,,US,ebt,debit
+579129,00-99,,US,ebt,debit
+579130,00-99,,US,ebt,debit
+579131,00-99,,US,ebt,debit
+579132,00-99,,US,ebt,debit
+579133,00-99,U.S. BANK N.A.,US,ebt,debit
+579134,00-99,,US,ebt,debit
+579135,00-99,,US,ebt,debit
+579136,00-99,,US,ebt,debit
+579137,00-99,,US,ebt,debit
+579138,00-99,,US,ebt,debit
+579140,00-99,,US,cirrus,debit
+579141,00-99,,US,ebt,debit
+579142,00-99,,US,cirrus,debit
+579143,00-99,,US,ebt,debit
+579144,00-99,,US,ebt,debit
+579145,00-99,,US,ebt,debit
+579146,00-99,,US,ebt,debit
+579147,00-99,,US,ebt,debit
+579148,00-99,,US,cirrus,debit
+579149,00-99,,US,ebt,debit
+579150,00-99,,US,ebt,debit
+579151,00-99,,US,ebt,debit
+579152,00-99,,US,ebt,debit
+579153,00-99,,US,ebt,debit
+579154,00-99,,US,ebt,debit
+579155,00-99,,US,ebt,debit
+579156,00-99,,US,ebt,debit
+579157,00-99,,US,ebt,debit
+579158,00-99,,US,cirrus,debit
+579159,00-99,,US,ebt,debit
+579160,00-99,,US,ebt,debit
+579163,00-99,,US,ebt,debit
+579164,00-99,,US,maestro,debit
+579165,00-99,,US,cirrus,debit
+579166,00-99,,US,cirrus,debit
+579167,00-99,,US,ebt,debit
+579168,00-99,,US,cirrus,debit
+579169,00-99,,US,ebt,debit
+579170,00-99,,US,ebt,debit
+579171,00-99,,US,ebt,debit
+579172,00-99,,US,ebt,debit
+579173,00-99,,US,ebt,debit
+579174,00-99,,US,cirrus,debit
+579175,00-99,,US,cirrus,debit
+579176,00-99,,US,ebt,debit
+579177,00-99,,US,ebt,debit
+579178,00-99,,US,ebt,debit
+579179,00-99,,US,ebt,debit
+579180,00-99,,US,ebt,debit
+579181,00-99,,US,ebt,debit
+579182,00-99,,US,ebt,debit
+579183,00-99,,US,ebt,debit
+579184,00-99,,US,ebt,debit
+579185,00-99,,US,ebt,debit
+579186,00-99,,US,cirrus,debit
+579187,00-99,,US,ebt,debit
+579188,00-99,,US,cirrus,debit
+579189,00-99,,US,ebt,debit
+579190,00-99,,US,ebt,debit
+579191,00-99,,US,cirrus,debit
+579192,00-99,,US,ebt,debit
+579193,00-99,,US,cirrus,debit
+579194,00-99,,US,cirrus,debit
+579195,00-99,,US,ebt,debit
+579196,00-99,,US,ebt,debit
+579197,00-99,,US,ebt,debit
+579198,00-99,,US,ebt,debit
+579199,00-99,,US,cirrus,debit
+579200,00-99,,US,cirrus,debit
+579201,00-99,,US,ebt,debit
+579202,00-99,,US,cirrus,debit
+579205,00-99,,US,ebt,debit
+579206,00-99,,US,ebt,debit
+579207,00-99,,US,ebt,debit
+579208,00-99,,US,ebt,debit
+579209,00-99,,US,ebt,debit
+579210,00-99,,US,ebt,debit
+579211,00-99,,US,cirrus,debit
+579212,00-99,,US,cirrus,debit
+579213,00-99,,US,ebt,debit
+579214,00-99,,US,ebt,debit
+579216,00-99,,US,cirrus,debit
+579217,00-99,,US,cirrus,debit
+579218,00-99,,US,ebt,debit
+579219,00-99,,US,ebt,debit
+579220,00-99,,US,ebt,debit
+579221,00-99,,US,ebt,debit
+579222,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579223,00-99,,US,ebt,debit
+579224,00-99,,US,ebt,debit
+579225,00-99,,US,ebt,debit
+579226,00-99,,US,ebt,debit
+579227,00-99,,US,ebt,debit
+579228,00-99,,US,ebt,debit
+579229,00-99,,US,ebt,debit
+579232,00-99,,US,ebt,debit
+579234,00-99,,US,ebt,debit
+579236,00-99,,US,cirrus,debit
+579237,00-99,,US,cirrus,debit
+579238,00-99,,US,ebt,debit
+579240,00-99,,US,ebt,debit
+579241,00-99,,US,ebt,debit
+579242,00-99,,US,cirrus,debit
+579243,00-99,,US,ebt,debit
+579244,00-99,,US,ebt,debit
+579245,00-99,,US,ebt,debit
+579246,00-99,,US,ebt,debit
+579247,00-99,,US,ebt,debit
+579248,00-99,,US,ebt,debit
+579249,00-99,,US,cirrus,debit
+579250,00-99,,US,cirrus,debit
+579252,00-99,,US,ebt,debit
+579253,00-99,,US,ebt,debit
+579254,00-99,,US,ebt,debit
+579255,00-99,,US,cirrus,debit
+579257,00-99,,US,ebt,debit
+579258,00-99,,US,cirrus,debit
+579259,00-99,,US,ebt,debit
+579260,00-99,,US,ebt,debit
+579261,00-99,,US,ebt,debit
+579262,00-99,,US,ebt,debit
+579263,00-99,,US,ebt,debit
+579264,00-99,,US,ebt,debit
+579265,00-99,,US,ebt,debit
+579266,00-99,,US,cirrus,debit
+579267,00-99,,US,ebt,debit
+579268,00-99,,US,ebt,debit
+579269,00-99,,US,ebt,debit
+579270,00-99,,US,cirrus,debit
+579271,00-99,,US,ebt,debit
+579272,00-99,,US,ebt,debit
+579273,00-99,,US,ebt,debit
+579274,00-99,,US,cirrus,debit
+579275,00-99,,US,ebt,debit
+579276,00-99,,US,ebt,debit
+579278,00-99,,US,cirrus,debit
+579279,00-99,,US,ebt,debit
+579282,00-99,,US,ebt,debit
+579284,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
+579285,00-99,,US,cirrus,debit
+579286,00-99,,US,ebt,debit
+579287,00-99,,US,ebt,debit
+579288,00-99,,US,maestro,debit
+579289,00-99,,US,ebt,debit
+579291,00-99,,US,cirrus,debit
+579292,00-99,,US,cirrus,debit
+579293,00-99,,US,ebt,debit
+579294,00-99,,US,ebt,debit
+579295,00-99,,US,ebt,debit
+579297,00-99,,US,cirrus,debit
+579299,00-99,,US,ebt,debit
+579300,00-99,,US,ebt,debit
+579301,00-99,,US,ebt,debit
+579302,00-99,,US,ebt,debit
+579303,00-99,,US,cirrus,debit
+579304,00-99,,US,cirrus,debit
+579306,00-99,,US,cirrus,debit
+579307,00-99,,US,maestro,debit
+579308,00-99,,US,ebt,debit
+579309,00-99,,US,ebt,debit
+579311,00-99,,US,ebt,debit
+579312,00-99,,US,ebt,debit
+579313,00-99,,US,ebt,debit
+579317,00-99,,US,ebt,debit
+579318,00-99,,US,ebt,debit
+579319,00-99,,US,ebt,debit
+579320,00-99,,US,ebt,debit
+579321,00-99,,US,ebt,debit
+579322,00-99,,US,cirrus,debit
+579323,00-99,,US,ebt,debit
+579324,00-99,,US,ebt,debit
+579325,00-99,,US,ebt,debit
+579326,00-99,,US,ebt,debit
+579327,00-99,,US,ebt,debit
+579328,00-99,,US,cirrus,debit
+579329,00-99,,US,ebt,debit
+579330,00-99,,US,ebt,debit
+579331,00-99,,US,ebt,debit
+579332,00-99,,US,ebt,debit
+579333,00-99,,US,ebt,debit
+579334,00-99,,US,ebt,debit
+579335,00-99,,US,ebt,debit
+579336,00-99,,US,ebt,debit
+579337,00-99,,US,cirrus,debit
+579338,00-99,,US,ebt,debit
+579339,00-99,,US,cirrus,debit
+579340,00-99,,US,ebt,debit
+579341,00-99,,US,ebt,debit
+579342,00-99,,US,ebt,debit
+579343,00-99,,US,ebt,debit
+579344,00-99,,US,ebt,debit
+579345,00-99,,US,ebt,debit
+579346,00-99,,US,ebt,debit
+579349,00-99,,US,ebt,debit
+579351,00-99,,US,cirrus,debit
+579352,00-99,,US,ebt,debit
+579353,00-99,,US,ebt,debit
+579354,00-99,,US,ebt,debit
+579356,00-99,,US,ebt,debit
+579357,00-99,,US,ebt,debit
+579358,00-99,,US,cirrus,debit
+579359,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+579361,00-99,,US,ebt,debit
+579365,00-99,,US,cirrus,debit
+579366,00-99,,US,cirrus,debit
+579367,00-99,,US,ebt,debit
+579368,00-99,,US,cirrus,debit
+579369,00-99,,US,ebt,debit
+579370,00-99,,US,ebt,debit
+579371,00-99,,US,cirrus,debit
+579372,00-99,,US,ebt,debit
+579373,00-99,,US,ebt,debit
+579374,00-99,,US,ebt,debit
+579375,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579376,00-99,,US,cirrus,debit
+579377,00-99,,US,cirrus,debit
+579378,00-99,,US,ebt,debit
+579379,00-99,,US,ebt,debit
+579380,00-99,,US,ebt,debit
+579381,00-99,,US,cirrus,debit
+579382,00-99,,US,ebt,debit
+579383,00-99,,US,cirrus,debit
+579386,00-99,,US,ebt,debit
+579387,00-99,,US,cirrus,debit
+579388,00-99,,US,ebt,debit
+579389,00-99,,US,cirrus,debit
+579390,00-99,,IN,maestro,debit
+579391,00-99,,US,ebt,debit
+579392,00-99,,US,ebt,debit
+579393,00-99,,US,ebt,debit
+579395,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
+579397,00-99,,US,cirrus,debit
+579398,00-99,,PR,local brand,debit
+579399,00-99,,US,ebt,debit
+579400,00-99,,US,cirrus,debit
+579402,00-99,,US,ebt,debit
+579403,00-99,,US,ebt,debit
+579404,00-99,,US,ebt,debit
+579405,00-99,,US,ebt,debit
+579406,00-99,,US,ebt,debit
+579407,00-99,,US,cirrus,debit
+579408,00-99,,US,ebt,debit
+579409,00-99,,US,ebt,debit
+579410,00-99,,US,cirrus,debit
+579411,00-99,,US,ebt,debit
+579412,00-99,,US,ebt,debit
+579413,00-99,,US,ebt,debit
+579414,00-99,,US,maestro,debit
+579415,00-99,,US,ebt,debit
+579417,00-99,,US,cirrus,debit
+579418,00-99,,US,cirrus,debit
+579419,00-99,,US,cirrus,debit
+579421,00-99,,US,ebt,debit
+579422,00-99,,US,ebt,debit
+579423,00-99,,US,cirrus,debit
+579424,00-99,,US,ebt,debit
+579425,00-99,,US,cirrus,debit
+579427,00-99,,US,ebt,debit
+579428,00-99,,US,ebt,debit
+579429,00-99,,US,cirrus,debit
+579430,00-99,,US,ebt,debit
+579431,00-99,,US,cirrus,debit
+579432,00-99,,US,cirrus,debit
+579433,00-99,,US,ebt,debit
+579434,00-99,,US,cirrus,debit
+579435,00-99,,US,cirrus,debit
+579436,00-99,,US,ebt,debit
+579437,00-99,,US,ebt,debit
+579438,00-99,,US,ebt,debit
+579439,00-99,,US,ebt,debit
+579440,00-99,,US,ebt,debit
+579441,00-99,,US,ebt,debit
+579442,00-99,,US,ebt,debit
+579443,00-99,,US,ebt,debit
+579444,00-99,,US,ebt,debit
+579445,00-99,,US,ebt,debit
+579446,00-99,,US,ebt,debit
+579447,00-99,,US,cirrus,debit
+579448,00-99,,US,maestro,debit
+579449,00-99,,US,ebt,debit
+579450,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+579451,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+579452,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+579453,00-99,,US,ebt,debit
+579454,00-99,,US,ebt,debit
+579455,00-99,,US,maestro,debit
+579456,00-99,,US,cirrus,debit
+579457,00-99,,US,ebt,debit
+579458,00-99,,US,cirrus,debit
+579459,00-99,U.S. BANK N.A.,US,cirrus,debit
+579460,00-99,,US,cirrus,debit
+579461,00-99,,US,ebt,debit
+579462,00-99,,US,cirrus,debit
+579463,00-99,,US,ebt,debit
+579465,00-99,,US,cirrus,debit
+579467,00-99,,US,cirrus,debit
+579468,00-99,,US,ebt,debit
+579469,00-99,,US,cirrus,debit
+579471,00-99,,US,ebt,debit
+579472,00-99,,US,cirrus,debit
+579473,00-99,ARVEST BANK,US,ebt,debit
+579475,00-99,,US,cirrus,debit
+579476,00-99,,US,cirrus,debit
+579477,00-99,,US,cirrus,debit
+579478,00-99,,US,cirrus,debit
+579479,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579480,00-99,,US,ebt,debit
+579481,00-99,,US,cirrus,debit
+579482,00-99,,US,cirrus,debit
+579483,00-99,,US,cirrus,debit
+579484,00-99,,US,ebt,debit
+579485,00-99,,US,ebt,debit
+579486,00-99,,US,cirrus,debit
+579487,00-99,,US,ebt,debit
+579488,00-99,,US,ebt,debit
+579489,00-99,,US,ebt,debit
+579490,00-99,,US,cirrus,debit
+579491,00-99,,US,cirrus,debit
+579492,00-99,,US,ebt,debit
+579493,00-99,,US,cirrus,debit
+579494,00-99,,US,maestro,debit
+579495,00-99,,US,cirrus,debit
+579496,00-99,,US,ebt,debit
+579497,00-99,,US,ebt,debit
+579498,00-99,,US,cirrus,debit
+579499,00-99,,US,ebt,debit
+579500,00-99,,US,ebt,debit
+579501,00-99,,US,ebt,debit
+579502,00-99,,US,cirrus,debit
+579503,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+579504,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
+579505,00-99,,US,cirrus,debit
+579508,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579509,00-99,,US,cirrus,debit
+579510,00-99,,US,cirrus,debit
+579511,00-99,,US,ebt,debit
+579512,00-99,,US,ebt,debit
+579513,00-99,,US,cirrus,debit
+579514,00-99,,US,cirrus,debit
+579515,00-99,,US,cirrus,debit
+579516,00-99,,US,cirrus,debit
+579517,00-99,,US,ebt,debit
+579518,00-99,,US,ebt,debit
+579519,00-99,,US,cirrus,debit
+579520,00-99,,US,cirrus,debit
+579521,00-99,,US,cirrus,debit
+579522,00-99,,US,ebt,debit
+579523,00-99,,US,ebt,debit
+579524,00-99,,US,ebt,debit
+579525,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+579526,00-99,,US,ebt,debit
+579527,00-99,,US,ebt,debit
+579528,00-99,,US,cirrus,debit
+579529,00-99,,US,cirrus,debit
+579530,00-99,,US,ebt,debit
+579531,00-99,,US,cirrus,debit
+579532,00-99,,US,ebt,debit
+579533,00-99,,US,ebt,debit
+579534,00-99,,US,cirrus,debit
+579535,00-99,,US,ebt,debit
+579536,00-99,,US,ebt,debit
+579537,00-99,,US,ebt,debit
+579538,00-99,,US,ebt,debit
+579539,00-99,,US,cirrus,debit
+579540,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579541,00-99,,US,ebt,debit
+579542,00-99,,US,ebt,debit
+579543,00-99,,US,maestro,debit
+579544,00-99,,US,cirrus,debit
+579545,00-99,,US,ebt,debit
+579546,00-99,,US,ebt,debit
+579547,00-99,U.S. BANK N.A.,US,ebt,debit
+579548,00-99,,US,cirrus,debit
+579549,00-99,,US,ebt,debit
+579550,00-99,,US,cirrus,debit
+579551,00-99,,US,cirrus,debit
+579552,00-99,,US,cirrus,debit
+579554,00-99,,US,cirrus,debit
+579555,00-99,,US,cirrus,debit
+579556,00-99,,US,cirrus,debit
+579557,00-99,,US,cirrus,debit
+579559,00-99,,US,ebt,debit
+579560,00-99,,US,ebt,debit
+579561,00-99,,US,ebt,debit
+579562,00-99,,US,ebt,debit
+579563,00-99,,US,ebt,debit
+579564,00-99,,US,ebt,debit
+579565,00-99,,US,ebt,debit
+579566,00-99,,US,cirrus,debit
+579567,00-99,,US,ebt,debit
+579568,00-99,,US,ebt,debit
+579569,00-99,,US,cirrus,debit
+579570,00-99,,US,ebt,debit
+579571,00-99,,US,cirrus,debit
+579572,00-99,,US,ebt,debit
+579573,00-99,,US,cirrus,debit
+579575,00-99,,US,ebt,debit
+579576,00-99,,US,ebt,debit
+579577,00-99,,US,cirrus,debit
+579578,00-99,,US,ebt,debit
+579579,00-99,,US,ebt,debit
+579580,00-99,,US,ebt,debit
+579581,00-99,,US,ebt,debit
+579582,00-99,,US,ebt,debit
+579583,00-99,,US,ebt,debit
+579584,00-99,,US,ebt,debit
+579585,00-99,,US,ebt,debit
+579586,00-99,,US,cirrus,debit
+579587,00-99,,US,cirrus,debit
+579588,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579590,00-99,,US,cirrus,debit
+579592,00-99,,US,ebt,debit
+579593,00-99,,US,cirrus,debit
+579594,00-99,,US,ebt,debit
+579595,00-99,,US,cirrus,debit
+579596,00-99,,US,cirrus,debit
+579597,00-99,,US,ebt,debit
+579598,00-99,,US,ebt,debit
+579599,00-99,,US,cirrus,debit
+579600,00-99,,US,cirrus,debit
+579601,00-99,,US,ebt,debit
+579602,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579603,00-99,,US,cirrus,debit
+579604,00-99,,US,cirrus,debit
+579605,00-99,,US,cirrus,debit
+579606,00-99,,US,cirrus,debit
+579607,00-99,,US,cirrus,debit
+579608,00-99,,US,cirrus,debit
+579609,00-99,,US,cirrus,debit
+579610,00-99,,US,cirrus,debit
+579611,00-99,,US,cirrus,debit
+579612,00-99,,US,cirrus,debit
+579613,00-99,,US,cirrus,debit
+579614,00-99,,US,cirrus,debit
+579615,00-99,,US,cirrus,debit
+579616,00-99,,US,cirrus,debit
+579618,00-99,,US,ebt,debit
+579619,00-99,,US,cirrus,debit
+579620,00-99,MAESTRO INTERNATIONAL,IN,maestro,debit
+579621,00-99,,US,cirrus,debit
+579622,00-99,,US,cirrus,debit
+579623,00-99,,US,cirrus,debit
+579624,00-99,,US,cirrus,debit
+579625,00-99,,US,ebt,debit
+579626,00-99,,US,cirrus,debit
+579627,00-99,,US,ebt,debit
+579628,00-99,,US,cirrus,debit
+579629,00-99,,US,cirrus,debit
+579630,00-99,,US,cirrus,debit
+579631,00-99,,US,cirrus,debit
+579632,00-99,,US,cirrus,debit
+579633,00-99,,US,cirrus,debit
+579634,00-99,,US,cirrus,debit
+579635,00-99,,US,ebt,debit
+579637,00-99,,US,cirrus,debit
+579638,00-99,,US,maestro,debit
+579639,00-99,,US,ebt,debit
+579641,00-99,,CO,maestro,debit
+579642,00-99,,US,cirrus,debit
+579643,00-99,,US,cirrus,debit
+579644,00-99,,US,cirrus,debit
+579645,00-99,,US,ebt,debit
+579646,00-99,,US,ebt,debit
+579648,00-99,,US,cirrus,debit
+579649,00-99,,US,cirrus,debit
+579650,00-99,,US,ebt,debit
+579651,00-99,,US,cirrus,debit
+579652,00-99,,US,cirrus,debit
+579654,00-99,,US,ebt,debit
+579655,00-99,,US,cirrus,debit
+579657,00-99,,US,cirrus,debit
+579658,00-99,,US,cirrus,debit
+579659,00-99,,US,cirrus,debit
+579660,00-99,,US,cirrus,debit
+579661,00-99,,US,cirrus,debit
+579662,00-99,,US,cirrus,debit
+579663,00-99,,US,cirrus,debit
+579664,00-99,,US,cirrus,debit
+579665,00-99,,US,cirrus,debit
+579666,00-99,,US,cirrus,debit
+579667,00-99,,US,cirrus,debit
+579668,00-99,,US,maestro,debit
+579671,00-99,,US,cirrus,debit
+579672,00-99,,US,cirrus,debit
+579673,00-99,,US,cirrus,debit
+579674,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579676,00-99,,US,cirrus,debit
+579677,00-99,,US,cirrus,debit
+579678,00-99,,US,cirrus,debit
+579679,00-99,,US,cirrus,debit
+579680,00-99,,US,cirrus,debit
+579681,00-99,,US,cirrus,debit
+579682,00-99,,US,cirrus,debit
+579683,00-99,,US,cirrus,debit
+579684,00-99,,US,cirrus,debit
+579685,00-99,,US,ebt,debit
+579687,00-99,,US,cirrus,debit
+579688,00-99,,US,maestro,debit
+579689,00-99,,NG,maestro,debit
+579690,00-99,,US,cirrus,debit
+579691,00-99,,US,ebt,debit
+579692,00-99,,US,cirrus,debit
+579693,00-99,,US,cirrus,debit
+579694,00-99,,US,cirrus,debit
+579695,00-99,,US,cirrus,debit
+579696,00-99,,US,ebt,debit
+579697,00-99,,US,cirrus,debit
+579698,00-99,,US,ebt,debit
+579700,00-99,,US,cirrus,debit
+579701,00-99,,US,cirrus,debit
+579702,00-99,,US,cirrus,debit
+579703,00-99,,US,cirrus,debit
+579704,00-99,,US,cirrus,debit
+579705,00-99,,US,cirrus,debit
+579707,00-99,,US,maestro,debit
+579708,00-99,,US,cirrus,debit
+579709,00-99,,US,cirrus,debit
+579710,00-99,,US,cirrus,debit
+579711,00-99,,US,cirrus,debit
+579712,00-99,,US,cirrus,debit
+579713,00-99,,US,cirrus,debit
+579714,00-99,,US,cirrus,debit
+579715,00-99,,US,cirrus,debit
+579716,00-99,,US,cirrus,debit
+579717,00-99,,US,cirrus,debit
+579719,00-99,,US,cirrus,debit
+579720,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
+579721,00-99,,US,cirrus,debit
+579722,00-99,,US,cirrus,debit
+579723,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+579724,00-99,,IN,maestro,debit
+579725,00-99,,US,cirrus,debit
+579726,00-99,,NG,maestro,debit
+579727,00-99,,US,cirrus,debit
+579728,00-99,,US,cirrus,debit
+579729,00-99,,US,cirrus,debit
+579730,00-99,,US,maestro,debit
+579731,00-99,,US,cirrus,debit
+579732,00-99,,US,cirrus,debit
+579733,00-99,,US,cirrus,debit
+579734,00-99,,US,cirrus,debit
+579735,00-99,,US,cirrus,debit
+579736,00-99,,US,cirrus,debit
+579737,00-99,,US,cirrus,debit
+579738,00-99,,US,cirrus,debit
+579739,00-99,,US,cirrus,debit
+579740,00-99,,US,cirrus,debit
+579741,00-99,,US,cirrus,debit
+579742,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
+579743,00-99,,US,cirrus,debit
+579744,00-99,,US,cirrus,debit
+579745,00-99,MAESTRO INTERNATIONAL,US,maestro,debit
+579746,00-99,,US,cirrus,debit
+579747,00-99,,US,maestro,debit
+579748,00-99,,US,cirrus,debit
+579749,00-99,,US,cirrus,debit
+579750,00-99,,US,cirrus,debit
+579751,00-99,,US,cirrus,debit
+579752,00-99,,US,cirrus,debit
+579753,00-99,,US,cirrus,debit
+579754,00-99,,US,cirrus,debit
+579755,00-99,,US,cirrus,debit
+579756,00-99,,US,cirrus,debit
+579757,00-99,,US,cirrus,debit
+579758,00-99,,US,cirrus,debit
+579759,00-99,,US,cirrus,debit
+579760,00-99,,US,cirrus,debit
+579761,00-99,,US,cirrus,debit
+579762,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
+579763,00-99,,US,maestro,debit
+579764,00-99,,US,cirrus,debit
+579765,00-99,,US,maestro,debit
+579766,00-99,,US,maestro,debit
+579767,00-99,,US,cirrus,debit
+579768,00-99,,US,cirrus,debit
+579769,00-99,,US,cirrus,debit
+579770,00-99,,US,maestro,debit
+579772,00-99,,RU,maestro,debit
+579790,00-99,,US,cirrus,debit
+579792,00-99,,US,cirrus,debit
+579793,00-99,,US,cirrus,debit
+579794,00-99,,US,cirrus,debit
+579796,00-99,,US,cirrus,debit
+579797,00-99,,US,cirrus,debit
+579799,00-99,,US,cirrus,debit
+579800,00-99,,US,cirrus,debit
+579801,00-99,,US,cirrus,debit
+579802,00-99,,US,cirrus,debit
+579803,00-99,MAESTRO INTERNATIONAL,KH,maestro,debit
+579804,00-99,,US,cirrus,debit
+579805,00-99,,US,ebt,debit
+579810,00-99,,US,cirrus,debit
+579813,00-99,,MX,maestro,debit
+579820,00-99,,US,cirrus,debit
+579821,00-99,,GB,maestro,debit
+579830,00-99,,US,cirrus,debit
+579840,00-99,,US,cirrus,debit
+579851,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
+579860,00-99,,US,cirrus,debit
+579861,00-99,,US,cirrus,debit
+579862,00-99,,US,cirrus,debit
+579863,00-99,,US,cirrus,debit
+579864,00-99,,US,cirrus,debit
+579865,00-99,,US,cirrus,debit
+579866,00-99,,US,cirrus,debit
+579867,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+579876,00-99,MAESTRO INTERNATIONAL,NG,maestro,debit
+579877,00-99,,US,ebt,debit
+579878,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
+579883,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579886,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579889,00-99,BANANACOAST COMMUNITY CREDIT UNION LTD.,AU,local brand,debit
+579890,00-99,,US,ebt,debit
+579891,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579894,00-99,HERITAGE BANK LTD.,AU,maestro,debit
+579895,00-99,HERITAGE BANK LTD.,AU,maestro,debit
+579900,00-99,MAITLAND MUTUAL BUILDING SOCIETY,AU,local brand,debit
+579903,00-99,GREATER BUILDING SOCIETY,AU,maestro,debit
+579905,00-99,ARMIDAL BUILDING SOCIETY,AU,local brand,debit
+579912,00-99,B & E LTD.,AU,local brand,debit
+579923,00-99,,AU,maestro,debit
+579928,00-99,ADELAIDE BANK,AU,maestro,debit
+579931,00-99,AUSWIDE BANK LTD.,AU,local brand,debit
+579932,00-99,AUSWIDE BANK LTD.,AU,maestro,debit
+579934,00-99,HERITAGE BANK LTD.,AU,maestro,debit
+579935,00-99,SUNCORP,AU,maestro,debit
+579937,00-99,,AU,maestro,debit
+579938,00-99,,AU,maestro,debit
+579939,00-99,PIONEER BUILDING SOCIETY,AU,local brand,debit
+579942,00-99,SUNCORP-METWAY LTD.,AU,maestro,debit
+579944,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579954,00-99,,AU,maestro,debit
+579961,00-99,,CL,maestro,debit
+579969,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579972,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579973,00-99,BENDIGO AND ADELAIDE BANK LTD.,AU,local brand,debit
+579974,00-99,BENDIGO AND ADELAIDE BANK LTD.,AU,maestro,debit
+579981,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579982,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579983,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579984,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579985,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579986,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579987,00-99,MAESTRO INTERNATIONAL,SA,maestro,debit
+579988,00-99,NEWCASTLE PERMANENT BUILDING SOCIETY,AU,maestro,debit
+579989,00-99,IMB,AU,local brand,debit
+579990,00-99,HUME BANK LTD.,AU,maestro,debit
+579993,00-99,COMMUNITY MUTUAL LTD.,AU,maestro,debit
+579994,00-99,MAESTRO INTERNATIONAL,AU,maestro,debit
+579995,00-99,COMMUNITY MUTUAL LTD.,AU,maestro,debit
+579997,00-99,,AU,maestro,debit
+579999,00-99,IMB,AU,maestro,debit

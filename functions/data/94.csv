@@ -1,0 +1,1704 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+940001,00-99,XINJIANG URUMQI CITY COMMERCIAL BANK,CN,local,debit
+940002,00-99,ANSHAN CITY COMMERCIAL BANK,CN,private label,debit
+940003,00-99,BANK OF JINZHOU CO. LTD.,CN,local,debit
+940006,00-99,NANCHANG BANK,CN,local,debit
+940008,00-99,QILU BANK CO. LTD.,CN,local,debit
+940010,00-99,CITI BANK,KR,local brand,credit
+940011,00-99,BC CARD,KR,local brand,debit
+940012,00-99,BC CARD,KR,local brand,debit
+940013,00-99,SHANGHAI RURAL CREDIT COOPERATIVE UNION,CN,local,debit
+940015,00-99,TIANJING COMMERCIAL BANK (DEBIT CARD),CN,local,debit
+940016,00-99,BANK OF GUANGZHOU CO. LTD.,CN,local,debit
+940017,00-99,HANMI BANK,KR,private label,debit
+940018,00-99,CHONGQING CITY COMMERCIAL BANK,CN,local,debit
+940020,00-99,CITI BANK,KR,local brand,credit
+940021,00-99,BANK OF SHANGHAI DEBIT CARD CENTER,CN,local,debit
+940022,00-99,BANK OF NINGBO,CN,local,debit
+940023,00-99,XIAMEN BANK CO. LTD.,CN,local,debit
+940025,00-99,ZHENJIANG CITY COMMERCIAL BANK,CN,local,debit
+940026,00-99,,US,private label,debit
+940027,00-99,CHENGDU CITY COMMERCIAL BANK,CN,local,debit
+940028,00-99,YANTAI COMMERCIAL BANK,CN,local,debit
+940029,00-99,KUNSHAN RURAL CREDIT COOPERATIVE,CN,local,debit
+940030,00-99,CITI BANK,KR,local brand,credit
+940031,00-99,TAIYUAN CITY COMMERCIAL BANK,CN,local,debit
+940032,00-99,JIAOZUO CITY COMMERCIAL BANK,CN,private label,debit
+940033,00-99,,US,private label,debit
+940034,00-99,EVERGROWING BANK,CN,local,debit
+940035,00-99,RCCUG,CN,local,debit
+940037,00-99,FOUSHAN NANHAI RURAL CREDIT COOPERATIVE UNION,CN,local,debit
+940038,00-99,FOSHAN SHUNDE RURAL COMMERCIAL BANK,CN,local,debit
+940039,00-99,SHENYANG CITY COMMERCIAL BANK,CN,local,debit
+940040,00-99,CITI BANK,KR,local brand,credit
+940041,00-99,BANK OF LUOYANG,CN,local,debit
+940042,00-99,KUNMING AGRICULTURAL COOPERATIVE,CN,local,debit
+940043,00-99,BANK OF LIAOYANG CO. LTD.,CN,local,debit
+940044,00-99,WUHAN RURAL CREDIT UNION,CN,local,debit
+940046,00-99,BANK OF HEBEI CO. LTD.,CN,local,debit
+940047,00-99,JILIN CITY COMMERCIAL BANK WUSONG CARD DEPT.,CN,local,debit
+940048,00-99,ZHUHAI CITY COMMERCIAL BANK,CN,local,debit
+940049,00-99,HAERBIN BANK,CN,local,debit
+940050,00-99,CITIBANK,CN,local,debit
+940051,00-99,JINHUA BANK CO. LTD.,CN,local,debit
+940053,00-99,BANK OF FUSHUN CO. LTD.,CN,local,debit
+940054,00-99,HULUDAO CITY COMMERCIAL BANK,CN,local,debit
+940055,00-99,YICHANG CITY COMMERCIAL BANK,CN,local,debit
+940056,00-99,BANK OF ZHENGZHOU CO. LTD.,CN,local,debit
+940057,00-99,QISHANG BANK,CN,local,debit
+940058,00-99,JIANGYIN RURAL COMMERCIAL BANK,CN,local,debit
+940060,00-99,CITIBANK,KR,local brand,debit
+940061,00-99,QINGDAO BANK,CN,local,debit
+940062,00-99,DONGGUAN RCU,CN,local,debit
+940063,00-99,ZHANGJIANGGANG RCB,CN,local,debit
+940065,00-99,RIZHAO CITY COMMERCIAL BANK,CN,local,debit
+940066,00-99,LINYI COMMERCIAL BANK,CN,local,debit
+940068,00-99,XINING CITY COMMERCIAL BANK GOLD CARD AGENT,CN,local,debit
+940069,00-99,BANK OF TAIZHOU,CN,local,debit
+940070,00-99,JEONBUK BANK,KR,private label,debit
+940071,00-99,CHANGSHA BANK,CN,private label,debit
+940072,00-99,BANK OF WEIFANG,CN,local,debit
+940073,00-99,GANZHOU CITY COMMERCIAL BANK,CN,local,debit
+940074,00-99,QUANZHOU CITY COMMERCIAL BANK,CN,local,debit
+940075,00-99,YINGKOU COMMERCIAL BANK,CN,local,debit
+940076,00-99,BANK OF JIANGSU,CN,local,debit
+940080,00-99,CITI CARD,KR,local brand,credit
+940081,00-99,QINGDAO BANK,CN,private label,debit
+940090,00-99,CITI CARD,KR,local brand,credit
+940117,00-99,,KR,local brand,debit
+940131,00-99,ICICI BANK LTD.,IN,private label,debit
+940134,00-99,ICICI BANK LTD.,IN,private label,debit
+940327,00-99,CITI CARDS,KR,local brand,debit
+940388,00-99,CITIBANK,KR,local brand,debit
+940701,00-99,SUHYUP BANK,KR,local brand,credit
+940702,00-99,SUHYUP BANK,KR,local brand,debit
+940703,00-99,SUHYUP BANK,KR,local brand,debit
+940704,00-99,SUHYUP BANK,KR,local brand,credit
+940706,00-99,SUHYUP BANK,KR,local brand,credit
+940707,00-99,SUHYUP BANK,KR,local brand,debit
+940708,00-99,SUHYUP,KR,local brand,debit
+940910,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940911,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940912,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940913,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940914,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940915,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940916,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940917,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940918,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940919,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940920,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940921,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940922,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940923,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940924,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940925,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940926,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940927,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940928,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940929,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940930,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940931,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940932,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940933,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940934,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940935,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940936,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940937,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940938,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940939,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940940,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940941,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940942,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940943,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940945,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940947,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940948,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940949,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940951,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940952,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940953,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940954,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940955,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940956,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940957,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940958,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940960,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940961,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940962,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940963,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940964,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940965,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940966,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940967,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940968,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940969,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940970,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940971,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940972,00-99,LOTTE CARD,KR,local brand,credit
+940973,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940974,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940975,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940976,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940977,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940978,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940979,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940980,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940981,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940982,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940983,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+940984,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940985,00-99,LOTTE CARD,KR,local brand,credit
+940986,00-99,LOTTE CARD,KR,local brand,debit
+940991,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+940999,00-99,LOTTE CARD CO. LTD.,KR,local brand,credit
+941000,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941001,00-99,KEB HANA BANK CO. LTD.,KR,private label,credit
+941002,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941003,00-99,BC CARD,KR,local brand,credit
+941004,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941005,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941006,00-99,BC CARD,KR,local brand,credit
+941007,00-99,,KR,local brand,debit
+941008,00-99,SUHYUP BANK,KR,local brand,debit
+941009,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941010,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941011,00-99,BC CARD,KR,local brand,credit
+941012,00-99,BC CARD,KR,local brand,credit
+941013,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941014,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941015,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941016,00-99,,KR,local brand,debit
+941017,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941018,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941019,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941020,00-99,BC CARD,KR,local brand,credit
+941021,00-99,BC CARD,KR,local brand,credit
+941022,00-99,BC CARD,KR,local brand,credit
+941023,00-99,BC CARD,KR,local brand,credit
+941024,00-99,BC CARD,KR,local brand,credit
+941025,00-99,BC CARD,KR,local brand,credit
+941026,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941027,00-99,BC CARD,KR,local brand,credit
+941028,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941029,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941030,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941031,00-99,BC CARD,KR,local brand,credit
+941032,00-99,BC CARD,KR,local brand,credit
+941033,00-99,BC CARD,KR,local brand,credit
+941034,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941035,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941036,00-99,BC CARD,KR,local brand,credit
+941037,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941038,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941039,00-99,BC CARD,KR,local brand,credit
+941040,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941041,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941042,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941043,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941044,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941045,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941046,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941047,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941048,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941049,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+941050,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941051,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+941052,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
+941053,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+941054,00-99,,KR,local brand,debit
+941055,00-99,,KR,local brand,debit
+941056,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941057,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941058,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941059,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941060,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+941061,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941062,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941063,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941064,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941065,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+941066,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941067,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941068,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941069,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941070,00-99,,KR,local brand,debit
+941071,00-99,SHINHAN CARD CO. LTD.,KR,private label,credit
+941072,00-99,,KR,local brand,debit
+941073,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941074,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941075,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941076,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941077,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
+941078,00-99,BC CARD,KR,local brand,credit
+941079,00-99,,KR,local brand,debit
+941080,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941081,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941082,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941083,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941084,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941085,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941086,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941087,00-99,SAMSUNG CARD,KR,local brand,credit
+941088,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941089,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941090,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941091,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941092,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941093,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+941094,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+941095,00-99,SHINHAN CARD CO. LTD.,KR,private label,credit
+941096,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941097,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941098,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941099,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941111,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941112,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941116,00-99,NONGHYUP BANK,KR,local brand,credit
+941117,00-99,NONGHYUP BANK,KR,local brand,credit
+941120,00-99,BC CARD,KR,local brand,debit
+941122,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941124,00-99,BC CARD,KR,local brand,credit
+941150,00-99,BC CARD,KR,local brand,credit
+941161,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941163,00-99,BC CARD,KR,local brand,debit
+941177,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941178,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941179,00-99,SHINHAN,KR,local brand,debit
+941180,00-99,SHINHAN CARD,KR,local brand,debit
+941181,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941183,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941184,00-99,SINHAN CARDS CO. LTD.,KR,local brand,credit
+941185,00-99,SHINHAN CARD,KR,local brand,debit
+941186,00-99,SHINHAN CARD,KR,local brand,debit
+941187,00-99,SHINHAN CARD,KR,local brand,credit
+941188,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941189,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+941190,00-99,SHINHAN CARD,KR,local brand,debit
+941191,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941192,00-99,SHINHAN CARD,KR,local brand,debit
+941194,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941195,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+941199,00-99,NH COOPERATIVES CARD,KR,local brand,credit
+941216,00-99,NH CARD,KR,local brand,credit
+941217,00-99,NH CARD,KR,local brand,credit
+941222,00-99,BC CARD,KR,local brand,credit
+941224,00-99,BC CARD,KR,local brand,credit
+941281,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941316,00-99,NH CARD,KR,local brand,credit
+941317,00-99,NH CARD,KR,local brand,credit
+941381,00-99,ONE CARD,KR,local brand,debit
+941450,00-99,BC CARD CO. LTD.,KR,local brand,credit
+941481,00-99,ONE CARD,KR,local brand,debit
+941500,00-99,,KR,local brand,debit
+941501,00-99,,KR,local brand,debit
+941502,00-99,,KR,local brand,debit
+941503,00-99,,KR,local brand,debit
+941504,00-99,,KR,local brand,debit
+941505,00-99,,KR,local brand,debit
+941506,00-99,,KR,local brand,debit
+941507,00-99,,KR,local brand,debit
+941508,00-99,,KR,local brand,debit
+941509,00-99,,KR,local brand,debit
+941510,00-99,,KR,local brand,debit
+941511,00-99,,KR,local brand,debit
+941512,00-99,,KR,local brand,debit
+941513,00-99,,KR,local brand,debit
+941514,00-99,,KR,local brand,debit
+941515,00-99,,KR,local brand,debit
+941516,00-99,,KR,local brand,debit
+941517,00-99,,KR,local brand,debit
+941518,00-99,,KR,local brand,debit
+941519,00-99,,KR,local brand,debit
+941520,00-99,BC CARD,KR,local brand,credit
+941521,00-99,,KR,local brand,debit
+941522,00-99,,KR,local brand,debit
+941523,00-99,,KR,local brand,debit
+941524,00-99,,KR,local brand,debit
+941525,00-99,,KR,local brand,debit
+941526,00-99,,KR,local brand,debit
+941527,00-99,,KR,local brand,debit
+941528,00-99,,KR,local brand,debit
+941529,00-99,,KR,local brand,debit
+941530,00-99,,KR,local brand,debit
+941531,00-99,,KR,local brand,debit
+941532,00-99,,KR,local brand,debit
+941533,00-99,,KR,local brand,debit
+941534,00-99,,KR,local brand,debit
+941535,00-99,,KR,local brand,debit
+941536,00-99,,KR,local brand,debit
+941537,00-99,,KR,local brand,debit
+941538,00-99,,KR,local brand,debit
+941539,00-99,,KR,local brand,debit
+941540,00-99,,KR,local brand,debit
+941541,00-99,,KR,local brand,debit
+941542,00-99,,KR,local brand,debit
+941543,00-99,,KR,local brand,debit
+941544,00-99,,KR,local brand,debit
+941545,00-99,,KR,local brand,debit
+941546,00-99,,KR,local brand,debit
+941547,00-99,,KR,local brand,debit
+941548,00-99,,KR,local brand,debit
+941549,00-99,,KR,local brand,debit
+941550,00-99,,KR,local brand,debit
+941551,00-99,,KR,local brand,debit
+941552,00-99,,KR,local brand,debit
+941553,00-99,,KR,local brand,debit
+941554,00-99,,KR,local brand,debit
+941555,00-99,,KR,local brand,debit
+941556,00-99,,KR,local brand,debit
+941557,00-99,,KR,local brand,debit
+941558,00-99,,KR,local brand,debit
+941559,00-99,,KR,local brand,debit
+941560,00-99,,KR,local brand,debit
+941561,00-99,,KR,local brand,debit
+941562,00-99,,KR,local brand,debit
+941563,00-99,,KR,local brand,debit
+941564,00-99,,KR,local brand,debit
+941565,00-99,,KR,local brand,debit
+941566,00-99,,KR,local brand,debit
+941567,00-99,,KR,local brand,debit
+941568,00-99,,KR,local brand,debit
+941569,00-99,,KR,local brand,debit
+941570,00-99,,KR,local brand,debit
+941571,00-99,,KR,local brand,debit
+941572,00-99,,KR,local brand,debit
+941573,00-99,,KR,local brand,debit
+941574,00-99,,KR,local brand,debit
+941575,00-99,,KR,local brand,debit
+941576,00-99,,KR,local brand,debit
+941577,00-99,,KR,local brand,debit
+941578,00-99,,KR,local brand,debit
+941579,00-99,,KR,local brand,debit
+941580,00-99,,KR,local brand,debit
+941581,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941582,00-99,,KR,local brand,debit
+941583,00-99,,KR,local brand,debit
+941584,00-99,,KR,local brand,debit
+941585,00-99,,KR,local brand,debit
+941586,00-99,,KR,local brand,debit
+941587,00-99,,KR,local brand,debit
+941588,00-99,,KR,local brand,debit
+941589,00-99,,KR,local brand,debit
+941590,00-99,,KR,local brand,debit
+941591,00-99,,KR,local brand,debit
+941592,00-99,,KR,local brand,debit
+941593,00-99,,KR,local brand,debit
+941594,00-99,,KR,local brand,debit
+941595,00-99,,KR,local brand,debit
+941596,00-99,,KR,local brand,debit
+941597,00-99,,KR,local brand,debit
+941598,00-99,,KR,local brand,debit
+941599,00-99,,KR,local brand,debit
+941607,00-99,SUHYUP BANK,KR,local brand,debit
+941618,00-99,BC CARD,KR,local brand,debit
+941620,00-99,BC CARD,KR,local brand,debit
+941623,00-99,BC CARD,KR,local brand,debit
+941631,00-99,BC CARD,KR,local brand,debit
+941632,00-99,BC CARD,KR,local brand,debit
+941634,00-99,KWANGJU BANK,KR,local brand,debit
+941635,00-99,JEJU BANK,KR,local brand,debit
+941636,00-99,BC CARD,KR,local brand,debit
+941637,00-99,JEONBUK BANK,KR,local brand,debit
+941639,00-99,BC CARD,KR,local brand,debit
+941642,00-99,BC,KR,local brand,debit
+941643,00-99,KOREA INVESTMENT & SECURITIES CO. LTD.,KR,local brand,debit
+941645,00-99,BC CARD,KR,local brand,debit
+941648,00-99,BC CARD,KR,local brand,debit
+941650,00-99,BC CARD,KR,local brand,debit
+941671,00-99,BC CARD,KR,local brand,debit
+941681,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941691,00-99,NH INVESTMENT & SECURITIES,KR,local brand,debit
+941696,00-99,KBANK,KR,local brand,debit
+941707,00-99,SUHYUP BANK,KR,local brand,credit
+941711,00-99,NONGHYUP BANK,KR,local brand,credit
+941712,00-99,NONGHYUP BANK,KR,local brand,credit
+941722,00-99,BC,KR,local brand,credit
+941723,00-99,BC CARD,KR,local brand,credit
+941724,00-99,BC,KR,local brand,credit
+941725,00-99,BC CARD CO. LTD.,KR,local brand,credit
+941731,00-99,DAEGU BANK,KR,local brand,credit
+941732,00-99,BUSAN BANK,KR,local brand,credit
+941734,00-99,KWANGJU BANK,KR,local brand,credit
+941735,00-99,JEJU BANK,KR,local brand,credit
+941736,00-99,BC CARD,KR,local brand,credit
+941737,00-99,JEONBUK BANK,KR,local brand,credit
+941739,00-99,GYEONGNAM BANK,KR,local brand,credit
+941750,00-99,BC CARD,KR,local brand,credit
+941754,00-99,OJSC BAKAI BANK,KG,local brand,debit
+941781,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+941807,00-99,SUHYUP BANK,KR,local brand,debit
+941881,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+941907,00-99,SUHYUP CARD,KR,local brand,credit
+941934,00-99,GWANGJU,KR,local brand,credit
+941981,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+942000,00-99,,KR,local brand,debit
+942001,00-99,,KR,local brand,debit
+942002,00-99,,KR,local brand,debit
+942003,00-99,BC CARD,KR,local brand,credit
+942004,00-99,,KR,local brand,debit
+942005,00-99,,KR,local brand,debit
+942006,00-99,BC CARD,KR,local brand,credit
+942007,00-99,,KR,local brand,debit
+942008,00-99,,KR,local brand,debit
+942009,00-99,,KR,local brand,debit
+942010,00-99,,KR,local brand,debit
+942011,00-99,BC CARD,KR,local brand,credit
+942012,00-99,BC CARD,KR,local brand,credit
+942013,00-99,,KR,local brand,debit
+942014,00-99,,KR,local brand,debit
+942015,00-99,,KR,local brand,debit
+942016,00-99,,KR,local brand,debit
+942017,00-99,,KR,local brand,debit
+942018,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+942019,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+942020,00-99,BC CARD,KR,local brand,credit
+942021,00-99,BC CARD,KR,local brand,credit
+942022,00-99,BC CARD,KR,local brand,credit
+942023,00-99,BC CARD,KR,local brand,credit
+942024,00-99,BC CARD,KR,local brand,credit
+942025,00-99,BC CARD,KR,local brand,credit
+942026,00-99,,KR,local brand,debit
+942027,00-99,BC CARD,KR,local brand,credit
+942028,00-99,,KR,local brand,debit
+942029,00-99,,KR,local brand,debit
+942030,00-99,,KR,local brand,debit
+942031,00-99,BC CARD,KR,local brand,credit
+942032,00-99,BC CARD,KR,local brand,credit
+942033,00-99,BC CARD,KR,local brand,credit
+942034,00-99,GWANGJU,KR,local brand,credit
+942035,00-99,JEJU,KR,local brand,credit
+942036,00-99,BC CARD,KR,local brand,credit
+942037,00-99,,KR,local brand,debit
+942038,00-99,,KR,local brand,debit
+942039,00-99,BC CARD,KR,local brand,credit
+942040,00-99,,KR,local brand,debit
+942041,00-99,,KR,local brand,debit
+942042,00-99,,KR,local brand,debit
+942043,00-99,,KR,local brand,debit
+942044,00-99,,KR,local brand,debit
+942045,00-99,,KR,local brand,debit
+942046,00-99,,KR,local brand,debit
+942047,00-99,,KR,local brand,debit
+942048,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,credit
+942049,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,debit
+942050,00-99,,KR,local brand,debit
+942051,00-99,,KR,local brand,debit
+942052,00-99,,KR,local brand,debit
+942053,00-99,,KR,local brand,debit
+942054,00-99,,KR,local brand,debit
+942055,00-99,,KR,local brand,debit
+942056,00-99,,KR,local brand,debit
+942057,00-99,,KR,local brand,debit
+942058,00-99,,KR,local brand,debit
+942059,00-99,,KR,local brand,debit
+942060,00-99,,KR,local brand,debit
+942061,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942062,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942063,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942064,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942065,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942066,00-99,,KR,local brand,debit
+942067,00-99,,KR,local brand,debit
+942068,00-99,,KR,local brand,debit
+942069,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942070,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+942071,00-99,,KR,local brand,debit
+942072,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+942073,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942074,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942075,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+942076,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942077,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+942078,00-99,BC CARD,KR,local brand,credit
+942079,00-99,,KR,local brand,debit
+942080,00-99,,KR,local brand,debit
+942081,00-99,KEB HANA CARD CO. LTD.,KR,private label,debit
+942082,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+942083,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+942084,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+942085,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+942086,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942087,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942088,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
+942089,00-99,SAMSUNG CARD,KR,local brand,credit
+942090,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942091,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942092,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942093,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942094,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942095,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942096,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,debit
+942097,00-99,,KR,local brand,debit
+942098,00-99,,KR,local brand,debit
+942099,00-99,SAMSUNG CARD,KR,local brand,credit
+942101,00-99,SAMSUNG CORPORATION GASOLINE ONLY,KR,local brand,credit
+942102,00-99,SAMSUNG CARD,KR,local brand,credit
+942103,00-99,SAMSUNG CARD,KR,local brand,credit
+942104,00-99,SAMSUNG CARD,KR,local brand,debit
+942105,00-99,SAMSUNG CARD,KR,local brand,credit
+942106,00-99,SAMSUNG CARD,KR,local brand,credit
+942107,00-99,SAMSUNG CARD,KR,local brand,credit
+942120,00-99,BC,KR,local brand,credit
+942122,00-99,BC,KR,local brand,credit
+942123,00-99,BC CARD,KR,local brand,credit
+942124,00-99,WOORICARD CO. LTD,KR,local brand,credit
+942132,00-99,BC CARD,KR,local brand,credit
+942150,00-99,BC,KR,local brand,credit
+942199,00-99,BC CARD,KR,local brand,credit
+942203,00-99,IBK,KR,local brand,credit
+942220,00-99,WOORICARD CO. LTD,KR,local brand,credit
+942222,00-99,BC CARD CO. LTD.,KR,local brand,credit
+942224,00-99,BC CARD CO. LTD.,KR,local brand,credit
+942231,00-99,DAEGU BANK,KR,local brand,credit
+942232,00-99,BC,KR,local brand,credit
+942239,00-99,KYOUNGNAM BANK,KR,local brand,credit
+942520,00-99,BC CARD,KR,local brand,credit
+942522,00-99,BC,KR,local brand,credit
+942524,00-99,BC CARD,KR,local brand,credit
+942545,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,credit
+942546,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,credit
+942547,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,credit
+942548,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,credit
+942620,00-99,BC CARD,KR,local brand,credit
+942622,00-99,BC CARD CO. LTD.,KR,local brand,credit
+942624,00-99,WOORI CARD,KR,local brand,credit
+942720,00-99,BC CARD,KR,local brand,credit
+942820,00-99,BC CARD,KR,local brand,credit
+942822,00-99,BC CARD CO. LTD.,KR,local brand,credit
+943000,00-99,,KR,local brand,debit
+943001,00-99,,KR,local brand,debit
+943002,00-99,,KR,local brand,debit
+943003,00-99,BC CARD,KR,local brand,credit
+943004,00-99,,KR,local brand,debit
+943005,00-99,,KR,local brand,debit
+943006,00-99,BC CARD,KR,local brand,credit
+943007,00-99,,KR,local brand,debit
+943008,00-99,,KR,local brand,debit
+943009,00-99,,KR,local brand,debit
+943010,00-99,,KR,local brand,debit
+943011,00-99,NONGHYUP BANK,KR,local brand,credit
+943012,00-99,NONGHYUP BANK,KR,local brand,credit
+943013,00-99,,KR,local brand,debit
+943014,00-99,,KR,local brand,debit
+943015,00-99,,KR,local brand,debit
+943016,00-99,NONGHYUP BANK,KR,local brand,credit
+943017,00-99,NONGHYUP BANK,KR,local brand,credit
+943018,00-99,,KR,local brand,debit
+943019,00-99,,KR,local brand,debit
+943020,00-99,BC CARD,KR,local brand,credit
+943021,00-99,BC CARD,KR,local brand,credit
+943022,00-99,BC CARD,KR,local brand,credit
+943023,00-99,BC CARD,KR,local brand,credit
+943024,00-99,BC CARD,KR,local brand,credit
+943025,00-99,BC CARD,KR,local brand,credit
+943026,00-99,,KR,local brand,debit
+943027,00-99,BC CARD,KR,local brand,credit
+943028,00-99,,KR,local brand,debit
+943029,00-99,,KR,local brand,debit
+943030,00-99,,KR,local brand,debit
+943031,00-99,BC CARD,KR,local brand,credit
+943032,00-99,BC CARD,KR,local brand,credit
+943033,00-99,BC CARD,KR,local brand,credit
+943034,00-99,GWANGJU,KR,local brand,credit
+943035,00-99,,KR,local brand,debit
+943036,00-99,BC CARD,KR,local brand,credit
+943037,00-99,,KR,local brand,debit
+943038,00-99,,KR,local brand,debit
+943039,00-99,BC CARD,KR,local brand,credit
+943040,00-99,,KR,local brand,debit
+943041,00-99,,KR,local brand,debit
+943042,00-99,,KR,local brand,debit
+943043,00-99,,KR,local brand,debit
+943044,00-99,,KR,local brand,debit
+943045,00-99,,KR,local brand,debit
+943046,00-99,,KR,local brand,debit
+943047,00-99,,KR,local brand,debit
+943048,00-99,,KR,local brand,debit
+943049,00-99,,KR,local brand,debit
+943050,00-99,BC,KR,local brand,credit
+943051,00-99,,KR,local brand,debit
+943052,00-99,,KR,local brand,debit
+943053,00-99,,KR,local brand,debit
+943054,00-99,,KR,local brand,debit
+943055,00-99,,KR,local brand,debit
+943056,00-99,,KR,local brand,debit
+943057,00-99,,KR,local brand,debit
+943058,00-99,,KR,local brand,debit
+943059,00-99,,KR,local brand,debit
+943060,00-99,,KR,local brand,debit
+943061,00-99,,KR,local brand,debit
+943062,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+943063,00-99,,KR,local brand,debit
+943064,00-99,,KR,local brand,debit
+943065,00-99,,KR,local brand,debit
+943066,00-99,,KR,local brand,debit
+943067,00-99,,KR,local brand,debit
+943068,00-99,,KR,local brand,debit
+943069,00-99,,KR,local brand,debit
+943070,00-99,,KR,local brand,debit
+943071,00-99,,KR,local brand,debit
+943072,00-99,,KR,local brand,debit
+943073,00-99,,KR,local brand,debit
+943074,00-99,,KR,local brand,debit
+943075,00-99,,KR,local brand,debit
+943076,00-99,,KR,local brand,debit
+943077,00-99,,KR,local brand,debit
+943078,00-99,BC CARD,KR,local brand,credit
+943079,00-99,,KR,local brand,debit
+943080,00-99,,KR,local brand,debit
+943081,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943082,00-99,,KR,local brand,debit
+943083,00-99,,KR,local brand,debit
+943084,00-99,,KR,local brand,debit
+943085,00-99,,KR,local brand,debit
+943086,00-99,,KR,local brand,debit
+943087,00-99,,KR,local brand,debit
+943088,00-99,,KR,local brand,debit
+943089,00-99,,KR,local brand,debit
+943090,00-99,,KR,local brand,debit
+943091,00-99,,KR,local brand,debit
+943092,00-99,,KR,local brand,debit
+943093,00-99,,KR,local brand,debit
+943094,00-99,,KR,local brand,debit
+943095,00-99,,KR,local brand,debit
+943096,00-99,,KR,local brand,debit
+943097,00-99,,KR,local brand,debit
+943098,00-99,,KR,local brand,debit
+943099,00-99,,KR,local brand,debit
+943116,00-99,NONGHYUP BANK,KR,local brand,debit
+943117,00-99,NONGHYUP BANK,KR,local brand,debit
+943132,00-99,BC CARD,KR,local brand,credit
+943133,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943134,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943135,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+943136,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943137,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+943138,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943139,00-99,BAE MIN HYUNDAI CARD,KR,local brand,debit
+943140,00-99,HYUINDAI CARD,KR,local brand,credit
+943141,00-99,HYUINDAI CARD,KR,local brand,credit
+943142,00-99,HYUINDAI CARD,KR,local brand,credit
+943143,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943144,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943145,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943146,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943147,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+943148,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+943149,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+943150,00-99,BC,KR,local brand,credit
+943151,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+943152,00-99,HYUINDAI CARD,KR,local brand,credit
+943153,00-99,HYUINDAI CARD,KR,local brand,credit
+943154,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943155,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943156,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943157,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943158,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943159,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943160,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+943161,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+943163,00-99,HYUNDAI CARD,KR,local brand,credit
+943164,00-99,HYUNDAI CARD,KR,local brand,credit
+943165,00-99,HYUNDAI CARD,KR,local brand,credit
+943166,00-99,HYUNDAI CARD,KR,local brand,credit
+943167,00-99,HYUNDAI CARD,KR,local brand,credit
+943168,00-99,HYUNDAI CARD,KR,local brand,credit
+943169,00-99,HYUNDAI CARD,KR,local brand,credit
+943170,00-99,HYUNDAI CARD,KR,local brand,credit
+943171,00-99,HYUNDAI CARD,KR,local brand,credit
+943172,00-99,HYUNDAI CARD,KR,local brand,credit
+943173,00-99,HYUNDAI CARD,KR,local brand,credit
+943181,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943210,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943211,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943212,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943213,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943214,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+943215,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
+943216,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
+943281,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943316,00-99,NH CARD,KR,local brand,credit
+943317,00-99,NH CARD,KR,local brand,credit
+943381,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
+943416,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+943417,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+943481,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943500,00-99,,KR,local brand,debit
+943501,00-99,,KR,local brand,debit
+943502,00-99,,KR,local brand,debit
+943503,00-99,,KR,local brand,debit
+943504,00-99,,KR,local brand,debit
+943505,00-99,,KR,local brand,debit
+943506,00-99,,KR,local brand,debit
+943507,00-99,,KR,local brand,debit
+943508,00-99,,KR,local brand,debit
+943509,00-99,,KR,local brand,debit
+943510,00-99,,KR,local brand,debit
+943511,00-99,,KR,local brand,debit
+943512,00-99,,KR,local brand,debit
+943513,00-99,,KR,local brand,debit
+943514,00-99,,KR,local brand,debit
+943515,00-99,,KR,local brand,debit
+943516,00-99,,KR,local brand,debit
+943517,00-99,,KR,local brand,debit
+943518,00-99,,KR,local brand,debit
+943519,00-99,,KR,local brand,debit
+943520,00-99,BC CARD,KR,local brand,credit
+943521,00-99,,KR,local brand,debit
+943522,00-99,,KR,local brand,debit
+943523,00-99,,KR,local brand,debit
+943524,00-99,,KR,local brand,debit
+943525,00-99,,KR,local brand,debit
+943526,00-99,,KR,local brand,debit
+943527,00-99,,KR,local brand,debit
+943528,00-99,,KR,local brand,debit
+943529,00-99,,KR,local brand,debit
+943530,00-99,,KR,local brand,debit
+943531,00-99,,KR,local brand,debit
+943532,00-99,,KR,local brand,debit
+943533,00-99,,KR,local brand,debit
+943534,00-99,,KR,local brand,debit
+943535,00-99,,KR,local brand,debit
+943536,00-99,,KR,local brand,debit
+943537,00-99,,KR,local brand,debit
+943538,00-99,,KR,local brand,debit
+943539,00-99,,KR,local brand,debit
+943540,00-99,,KR,local brand,debit
+943541,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943542,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943543,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943544,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943545,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,debit
+943546,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,debit
+943547,00-99,,KR,local brand,debit
+943548,00-99,,KR,local brand,debit
+943549,00-99,KB KOOKMIN CARD CO. LTD.,KR,private label,debit
+943550,00-99,,KR,local brand,debit
+943551,00-99,,KR,local brand,debit
+943552,00-99,,KR,local brand,debit
+943553,00-99,,KR,local brand,debit
+943554,00-99,,KR,local brand,debit
+943555,00-99,,KR,local brand,debit
+943556,00-99,,KR,local brand,debit
+943557,00-99,,KR,local brand,debit
+943558,00-99,,KR,local brand,debit
+943559,00-99,,KR,local brand,debit
+943560,00-99,,KR,local brand,debit
+943561,00-99,,KR,local brand,debit
+943562,00-99,,KR,local brand,debit
+943563,00-99,,KR,local brand,debit
+943564,00-99,,KR,local brand,debit
+943565,00-99,,KR,local brand,debit
+943566,00-99,,KR,local brand,debit
+943567,00-99,,KR,local brand,debit
+943568,00-99,,KR,local brand,debit
+943569,00-99,,KR,local brand,debit
+943570,00-99,,KR,local brand,debit
+943571,00-99,,KR,local brand,debit
+943572,00-99,,KR,local brand,debit
+943573,00-99,,KR,local brand,debit
+943574,00-99,,KR,local brand,debit
+943575,00-99,,KR,local brand,debit
+943576,00-99,,KR,local brand,debit
+943577,00-99,,KR,local brand,debit
+943578,00-99,,KR,local brand,debit
+943579,00-99,,KR,local brand,debit
+943580,00-99,,KR,local brand,debit
+943581,00-99,NATIONAL FORESTRY COOPERATIVE,KR,local brand,debit
+943582,00-99,,KR,local brand,debit
+943583,00-99,,KR,local brand,debit
+943584,00-99,,KR,local brand,debit
+943585,00-99,,KR,local brand,debit
+943586,00-99,,KR,local brand,debit
+943587,00-99,,KR,local brand,debit
+943588,00-99,,KR,local brand,debit
+943589,00-99,,KR,local brand,debit
+943590,00-99,,KR,local brand,debit
+943591,00-99,,KR,local brand,debit
+943592,00-99,,KR,local brand,debit
+943593,00-99,,KR,local brand,debit
+943594,00-99,,KR,local brand,debit
+943595,00-99,,KR,local brand,debit
+943596,00-99,,KR,local brand,debit
+943597,00-99,,KR,local brand,debit
+943598,00-99,,KR,local brand,debit
+943599,00-99,,KR,local brand,debit
+943600,00-99,,KR,local brand,debit
+943601,00-99,,KR,local brand,debit
+943602,00-99,,KR,local brand,debit
+943603,00-99,,KR,local brand,debit
+943604,00-99,,KR,local brand,debit
+943605,00-99,,KR,local brand,debit
+943606,00-99,,KR,local brand,debit
+943607,00-99,,KR,local brand,debit
+943608,00-99,,KR,local brand,debit
+943609,00-99,,KR,local brand,debit
+943610,00-99,,KR,local brand,debit
+943611,00-99,,KR,local brand,debit
+943612,00-99,,KR,local brand,debit
+943613,00-99,,KR,local brand,debit
+943614,00-99,,KR,local brand,debit
+943615,00-99,,KR,local brand,debit
+943616,00-99,,KR,local brand,debit
+943617,00-99,,KR,local brand,debit
+943618,00-99,,KR,local brand,debit
+943619,00-99,,KR,local brand,debit
+943620,00-99,,KR,local brand,debit
+943621,00-99,,KR,local brand,debit
+943622,00-99,,KR,local brand,debit
+943623,00-99,,KR,local brand,debit
+943624,00-99,,KR,local brand,debit
+943625,00-99,,KR,local brand,debit
+943626,00-99,,KR,local brand,debit
+943627,00-99,,KR,local brand,debit
+943628,00-99,,KR,local brand,debit
+943629,00-99,,KR,local brand,debit
+943630,00-99,,KR,local brand,debit
+943631,00-99,,KR,local brand,debit
+943632,00-99,,KR,local brand,debit
+943633,00-99,,KR,local brand,debit
+943634,00-99,,KR,local brand,debit
+943635,00-99,,KR,local brand,debit
+943636,00-99,,KR,local brand,debit
+943637,00-99,,KR,local brand,debit
+943638,00-99,,KR,local brand,debit
+943639,00-99,,KR,local brand,debit
+943640,00-99,,KR,local brand,debit
+943641,00-99,,KR,local brand,debit
+943642,00-99,,KR,local brand,debit
+943643,00-99,,KR,local brand,debit
+943644,00-99,,KR,local brand,debit
+943645,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943646,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943647,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943648,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943649,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943650,00-99,,KR,local brand,debit
+943651,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943652,00-99,,KR,local brand,debit
+943653,00-99,,KR,local brand,debit
+943654,00-99,,KR,local brand,debit
+943655,00-99,,KR,local brand,debit
+943656,00-99,,KR,local brand,debit
+943657,00-99,,KR,local brand,debit
+943658,00-99,,KR,local brand,debit
+943659,00-99,,KR,local brand,debit
+943660,00-99,,KR,local brand,debit
+943661,00-99,KB KOOKMIN CARD CO. LTD.,KR,local brand,debit
+943662,00-99,,KR,local brand,debit
+943663,00-99,,KR,local brand,debit
+943664,00-99,,KR,local brand,debit
+943665,00-99,,KR,local brand,debit
+943666,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+943667,00-99,,KR,local brand,debit
+943668,00-99,,KR,local brand,debit
+943669,00-99,,KR,local brand,debit
+943670,00-99,,KR,local brand,debit
+943671,00-99,,KR,local brand,debit
+943672,00-99,,KR,local brand,debit
+943673,00-99,,KR,local brand,debit
+943674,00-99,,KR,local brand,debit
+943675,00-99,,KR,local brand,debit
+943676,00-99,,KR,local brand,debit
+943677,00-99,,KR,local brand,debit
+943678,00-99,,KR,local brand,debit
+943679,00-99,,KR,local brand,debit
+943680,00-99,,KR,local brand,debit
+943681,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943682,00-99,,KR,local brand,debit
+943683,00-99,,KR,local brand,debit
+943684,00-99,,KR,local brand,debit
+943685,00-99,,KR,local brand,debit
+943686,00-99,,KR,local brand,debit
+943687,00-99,,KR,local brand,debit
+943688,00-99,,KR,local brand,debit
+943689,00-99,,KR,local brand,debit
+943690,00-99,,KR,local brand,debit
+943691,00-99,,KR,local brand,debit
+943692,00-99,,KR,local brand,debit
+943693,00-99,,KR,local brand,debit
+943694,00-99,,KR,local brand,debit
+943695,00-99,,KR,local brand,debit
+943696,00-99,,KR,local brand,debit
+943697,00-99,,KR,local brand,debit
+943698,00-99,,KR,local brand,debit
+943699,00-99,,KR,local brand,debit
+943711,00-99,JEONBUK BANK,KR,local brand,debit
+943712,00-99,JEONBUK BANK,KR,local brand,debit
+943713,00-99,JEONBUK BANK,KR,local brand,debit
+943714,00-99,JEONBUK BANK,KR,local brand,debit
+943715,00-99,JEONBUK BANK,KR,local brand,debit
+943721,00-99,JEONBUK BANK,KR,local brand,credit
+943722,00-99,JEONBUK BANK,KR,local brand,credit
+943723,00-99,JEONBUK BANK,KR,local brand,credit
+943724,00-99,JEONBUK BANK,KR,local brand,credit
+943725,00-99,JEONBUK BANK,KR,local brand,credit
+943726,00-99,JEONBUK CARD,KR,local brand,credit
+943727,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+943731,00-99,JEONBUK BANK,KR,local brand,debit
+943740,00-99,JEONBUK BANK,KR,local brand,credit
+943741,00-99,JEONBUK BANK,KR,local brand,debit
+943742,00-99,JEONBUK CARD,KR,local brand,credit
+943743,00-99,JEONBUK CHECK,KR,local brand,debit
+943744,00-99,JEONBUK BANK,KR,local brand,debit
+943745,00-99,JEONBUK BANK,KR,local brand,debit
+943746,00-99,JEONBUK BANK,KR,local brand,debit
+943747,00-99,JEONBUK BANK,KR,local brand,debit
+943748,00-99,KB CARD,KR,local brand,debit
+943781,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943881,00-99,KEB HANA BANK CO. LTD.,KR,local brand,credit
+943900,00-99,,KR,local brand,debit
+943901,00-99,,KR,local brand,debit
+943902,00-99,,KR,local brand,debit
+943903,00-99,,KR,local brand,debit
+943904,00-99,,KR,local brand,debit
+943905,00-99,,KR,local brand,debit
+943906,00-99,,KR,local brand,debit
+943907,00-99,WATER SUPPLIER,KR,local brand,credit
+943908,00-99,,KR,local brand,debit
+943909,00-99,,KR,local brand,debit
+943910,00-99,,KR,local brand,debit
+943911,00-99,,KR,local brand,debit
+943912,00-99,,KR,local brand,debit
+943913,00-99,,KR,local brand,debit
+943914,00-99,,KR,local brand,debit
+943915,00-99,,KR,local brand,debit
+943916,00-99,,KR,local brand,debit
+943917,00-99,,KR,local brand,debit
+943918,00-99,,KR,local brand,debit
+943919,00-99,,KR,local brand,debit
+943920,00-99,BC CARD,KR,local brand,credit
+943921,00-99,BC CARD,KR,local brand,credit
+943922,00-99,,KR,local brand,debit
+943923,00-99,,KR,local brand,debit
+943924,00-99,BC,KR,local brand,credit
+943925,00-99,BC CARD,KR,local brand,credit
+943926,00-99,,KR,local brand,debit
+943927,00-99,,KR,local brand,debit
+943928,00-99,,KR,local brand,debit
+943929,00-99,,KR,local brand,debit
+943930,00-99,,KR,local brand,debit
+943931,00-99,,KR,local brand,debit
+943932,00-99,,KR,local brand,debit
+943933,00-99,,KR,local brand,debit
+943934,00-99,,KR,local brand,debit
+943935,00-99,,KR,local brand,debit
+943936,00-99,,KR,local brand,debit
+943937,00-99,,KR,local brand,debit
+943938,00-99,,KR,local brand,debit
+943939,00-99,,KR,local brand,debit
+943940,00-99,,KR,local brand,debit
+943941,00-99,,KR,local brand,debit
+943942,00-99,,KR,local brand,debit
+943943,00-99,,KR,local brand,debit
+943944,00-99,,KR,local brand,debit
+943945,00-99,,KR,local brand,debit
+943946,00-99,,KR,local brand,debit
+943947,00-99,,KR,local brand,debit
+943948,00-99,,KR,local brand,debit
+943949,00-99,,KR,local brand,debit
+943950,00-99,BC CARD,KR,local brand,credit
+943951,00-99,,KR,local brand,debit
+943952,00-99,,KR,local brand,debit
+943953,00-99,,KR,local brand,debit
+943954,00-99,,KR,local brand,debit
+943955,00-99,,KR,local brand,debit
+943956,00-99,,KR,local brand,debit
+943957,00-99,,KR,local brand,debit
+943958,00-99,,KR,local brand,debit
+943959,00-99,,KR,local brand,debit
+943960,00-99,,KR,local brand,debit
+943961,00-99,,KR,local brand,debit
+943962,00-99,,KR,local brand,debit
+943963,00-99,,KR,local brand,debit
+943964,00-99,,KR,local brand,debit
+943965,00-99,,KR,local brand,debit
+943966,00-99,,KR,local brand,debit
+943967,00-99,,KR,local brand,debit
+943968,00-99,,KR,local brand,debit
+943969,00-99,,KR,local brand,debit
+943970,00-99,,KR,local brand,debit
+943971,00-99,,KR,local brand,debit
+943972,00-99,,KR,local brand,debit
+943973,00-99,,KR,local brand,debit
+943974,00-99,,KR,local brand,debit
+943975,00-99,,KR,local brand,debit
+943976,00-99,,KR,local brand,debit
+943977,00-99,,KR,local brand,debit
+943978,00-99,BC CARD,KR,local brand,credit
+943979,00-99,,KR,local brand,debit
+943980,00-99,,KR,local brand,debit
+943981,00-99,,KR,local brand,debit
+943982,00-99,,KR,local brand,debit
+943983,00-99,,KR,local brand,debit
+943984,00-99,,KR,local brand,debit
+943985,00-99,,KR,local brand,debit
+943986,00-99,,KR,local brand,debit
+943987,00-99,,KR,local brand,debit
+943988,00-99,,KR,local brand,debit
+943989,00-99,,KR,local brand,debit
+943990,00-99,,KR,local brand,debit
+943991,00-99,,KR,local brand,debit
+943992,00-99,,KR,local brand,debit
+943993,00-99,,KR,local brand,debit
+943994,00-99,,KR,local brand,debit
+943995,00-99,,KR,local brand,debit
+943996,00-99,,KR,local brand,debit
+943997,00-99,,KR,local brand,debit
+943998,00-99,,KR,local brand,debit
+943999,00-99,,KR,local brand,debit
+944002,00-99,BC CARD,KR,local brand,debit
+944003,00-99,BC CARD,KR,local brand,debit
+944006,00-99,BC CARD,KR,local brand,debit
+944007,00-99,WATER SUPPLIER,KR,local brand,debit
+944009,00-99,BC CARD,KR,local brand,debit
+944011,00-99,BC CARD,KR,local brand,debit
+944012,00-99,BC CARD,KR,local brand,debit
+944018,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+944020,00-99,BC CARD,KR,local brand,debit
+944021,00-99,BC CARD,KR,local brand,debit
+944022,00-99,BC CARD CO. LTD.,KR,local brand,debit
+944023,00-99,BC CARD,KR,local brand,debit
+944024,00-99,BC CARD,KR,local brand,debit
+944025,00-99,BC CARD,KR,local brand,debit
+944027,00-99,BC CARD,KR,local brand,debit
+944030,00-99,MIRAE ASSET,KR,local brand,debit
+944031,00-99,BC CARD,KR,local brand,debit
+944032,00-99,BC CARD,KR,local brand,debit
+944033,00-99,BC CARD,KR,local brand,debit
+944034,00-99,GWANGJU CHECK,KR,local brand,debit
+944039,00-99,BC CARD,KR,local brand,debit
+944042,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+944043,00-99,BC CARD,KR,local brand,debit
+944044,00-99,KONA CARD,KR,local brand,debit
+944045,00-99,BC CARD,KR,local brand,debit
+944048,00-99,BC,KR,local brand,debit
+944055,00-99,BC CARD,KR,local brand,debit
+944061,00-99,BC CARD,KR,local brand,debit
+944063,00-99,BC CARD,KR,local brand,debit
+944064,00-99,BC,KR,local brand,debit
+944071,00-99,BC CARD,KR,local brand,debit
+944078,00-99,BC CARD,KR,local brand,debit
+944079,00-99,BC CARD,KR,local brand,debit
+944080,00-99,EUGENE INVESTMENT,KR,local brand,debit
+944081,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+944095,00-99,BC CARD,KR,local brand,debit
+944096,00-99,KBANK,KR,local brand,debit
+944100,00-99,BC CARD,KR,local brand,debit
+944101,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+944103,00-99,IBK,KR,local brand,debit
+944104,00-99,JEONBUK BANK,KR,local brand,debit
+944105,00-99,JEONBUK BANK,KR,local brand,debit
+944106,00-99,POST OFFICE,KR,local brand,debit
+944108,00-99,BC CARD,KR,local brand,debit
+944109,00-99,BC CARD,KR,local brand,debit
+944110,00-99,BC CARD,KR,local brand,debit
+944111,00-99,NONGHYUP,KR,local brand,debit
+944112,00-99,NONGHYUP,KR,local brand,debit
+944113,00-99,BC CARD,KR,local brand,debit
+944114,00-99,BC CARD,KR,local brand,debit
+944115,00-99,BC CARD,KR,local brand,debit
+944116,00-99,NONGHYUP BANK,KR,local brand,debit
+944117,00-99,NONGHYUP BANK,KR,local brand,debit
+944118,00-99,BC CARD,KR,local brand,debit
+944119,00-99,BC CARD,KR,local brand,debit
+944120,00-99,BC,KR,local brand,debit
+944122,00-99,BC,KR,local brand,debit
+944124,00-99,BC,KR,local brand,debit
+944126,00-99,POST OFFICE,KR,local brand,debit
+944127,00-99,POST OFFICE,KR,local brand,debit
+944128,00-99,JEONBUK BANK,KR,local brand,debit
+944129,00-99,POST OFFICE,KR,local brand,debit
+944130,00-99,POST OFFICE,KR,local brand,debit
+944131,00-99,BC CARD,KR,local brand,debit
+944132,00-99,BC CARD,KR,local brand,debit
+944133,00-99,BC POST OFFICE,KR,local brand,debit
+944134,00-99,BC POST OFFICE,KR,local brand,debit
+944135,00-99,JEJU BANK CHECK,KR,local brand,debit
+944137,00-99,JEONBUK,KR,local brand,debit
+944138,00-99,POST OFFICE,KR,local brand,debit
+944139,00-99,BC CARD,KR,local brand,debit
+944140,00-99,BC POST OFFICE,KR,local brand,debit
+944143,00-99,POST OFFICE,KR,local brand,debit
+944144,00-99,KONA CARD,KR,local brand,debit
+944145,00-99,SAEMAUL,KR,local brand,debit
+944146,00-99,POST OFFICE,KR,local brand,debit
+944147,00-99,POST OFFICE,KR,local brand,debit
+944148,00-99,CREDIT UNION,KR,local brand,debit
+944149,00-99,POST OFFICE,KR,local brand,debit
+944150,00-99,POST OFFICE,KR,local brand,debit
+944151,00-99,BC POST OFFICE,KR,local brand,debit
+944152,00-99,POST OFFICE,KR,local brand,debit
+944153,00-99,BC POST OFFICE,KR,local brand,debit
+944154,00-99,BC CARD CO. LTD.,KR,local brand,debit
+944155,00-99,BC CARD CO. LTD.,KR,local brand,debit
+944161,00-99,BC CARD,KR,local brand,debit
+944171,00-99,BC CARD CO. LTD.,KR,local brand,debit
+944181,00-99,ONE CARD,KR,local brand,debit
+944182,00-99,BC FINT,KR,local brand,debit
+944187,00-99,BC CARD,KR,local brand,debit
+944189,00-99,BC CARD,KR,local brand,debit
+944192,00-99,CACAO BANK,KR,local brand,debit
+944193,00-99,GMONEY,KR,local brand,debit
+944194,00-99,BC CARD CO. LTD. MOBILE,KR,local brand,debit
+944195,00-99,BC CARD,KR,local brand,debit
+944196,00-99,BC CARD,KR,local brand,debit
+944203,00-99,BC CARD,KR,local brand,debit
+944211,00-99,NH NONGHYUP,KR,local brand,debit
+944212,00-99,NH UNIT COOPERATIVES,KR,local brand,debit
+944216,00-99,NH CARD,KR,local brand,debit
+944217,00-99,NH CARD,KR,local brand,debit
+944222,00-99,BC,KR,local brand,debit
+944224,00-99,BC,KR,local brand,debit
+944234,00-99,KWANGJU BANK,KR,local brand,debit
+944243,00-99,BC CARD,KR,local brand,debit
+944281,00-99,KEB HANA CARD,KR,local brand,debit
+944303,00-99,BC CARD,KR,local brand,debit
+944306,00-99,BC,KR,local brand,debit
+944307,00-99,WATER SUPPLIER,KR,local brand,debit
+944311,00-99,BC CARD,KR,local brand,debit
+944312,00-99,BC CARD,KR,local brand,debit
+944320,00-99,BC CARD,KR,local brand,debit
+944322,00-99,BC CARD,KR,local brand,debit
+944324,00-99,BC,KR,local brand,debit
+944325,00-99,BC CARD,KR,local brand,debit
+944331,00-99,BC CARD,KR,local brand,credit
+944334,00-99,GWANGJU,KR,local brand,debit
+944337,00-99,JEONBUK BANK,KR,local brand,debit
+944350,00-99,BC CARD,KR,local brand,debit
+944386,00-99,BC CARD,KR,local brand,debit
+944403,00-99,BC CARD,KR,local brand,debit
+944411,00-99,NH NONGHYUP,KR,local brand,debit
+944412,00-99,NH UNIT COOPERATIVES,KR,local brand,debit
+944420,00-99,BC CARD,KR,local brand,debit
+944422,00-99,BC CARD,KR,local brand,debit
+944431,00-99,DAEGU BANK,KR,local brand,debit
+944443,00-99,BC,KR,local brand,debit
+944520,00-99,BC CARD,KR,local brand,debit
+944522,00-99,BC,KR,local brand,debit
+944524,00-99,BC,KR,local brand,debit
+944541,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944542,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944543,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944545,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+944546,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+944547,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+944548,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944549,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+944550,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944551,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944552,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944554,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944555,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944556,00-99,KB CARD,KR,local brand,credit
+944557,00-99,KB CARD,KR,local brand,credit
+944558,00-99,KB CARD,KR,local brand,credit
+944559,00-99,KB CARD,KR,local brand,credit
+944560,00-99,KB CARD,KR,local brand,credit
+944561,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+944601,00-99,,US,private label,debit
+944602,00-99,,US,private label,debit
+944603,00-99,BC CARD,KR,local brand,debit
+944604,00-99,,US,private label,debit
+944605,00-99,,US,private label,debit
+944606,00-99,,US,private label,debit
+944607,00-99,,US,private label,debit
+944608,00-99,,US,private label,debit
+944609,00-99,,US,private label,debit
+944620,00-99,BC CARD,KR,local brand,debit
+944622,00-99,BC CARD,KR,local brand,debit
+944624,00-99,BC,KR,local brand,debit
+944631,00-99,DAEGU BANK,KR,local brand,debit
+944664,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
+944691,00-99,NH INVESTMENT & SECURITIES,KR,local brand,debit
+944696,00-99,KBANK,KR,local brand,debit
+944703,00-99,BC CARD,KR,local brand,debit
+944707,00-99,SUHYUP,KR,local brand,debit
+944711,00-99,NH NONGHYUP,KR,local brand,debit
+944720,00-99,BC CARD,KR,local brand,debit
+944722,00-99,OUR DEBIT CARD,KR,local brand,debit
+944732,00-99,BUSAN BANK,KR,local brand,debit
+944912,00-99,NH UNIT NONGHYUP,KR,local brand,debit
+944920,00-99,BC CARD,KR,local brand,credit
+944934,00-99,KWANGJU BANK,KR,local brand,credit
+944948,00-99,BC CARD,KR,local brand,debit
+944949,00-99,BC CARD,KR,local brand,debit
+944950,00-99,BC CARD,KR,local brand,credit
+945003,00-99,BC CARD,KR,local brand,credit
+945006,00-99,BC CARD,KR,local brand,credit
+945007,00-99,SUHYUP BANK,KR,local brand,credit
+945011,00-99,BC CARD,KR,local brand,credit
+945012,00-99,BC CARD,KR,local brand,credit
+945020,00-99,BC CARD,KR,local brand,credit
+945021,00-99,BC CARD,KR,local brand,credit
+945023,00-99,BC CARD,KR,local brand,credit
+945025,00-99,BC CARD,KR,local brand,credit
+945027,00-99,BC CARD,KR,local brand,credit
+945031,00-99,BC CARD,KR,local brand,credit
+945032,00-99,BC CARD,KR,local brand,credit
+945033,00-99,BC CARD CO. LTD.,KR,private label,debit
+945034,00-99,HANMI BANK,KR,private label,credit
+945035,00-99,JEJU BANK,KR,local brand,credit
+945037,00-99,JEONBUK BANK,KR,local brand,debit
+945039,00-99,BC CARD,KR,local brand,credit
+945078,00-99,BC CARD,KR,local brand,credit
+945080,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+945081,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+945103,00-99,IBK,KR,local brand,credit
+945107,00-99,WATER SUPPLIER,KR,local brand,credit
+945111,00-99,NH NONGHYUP,KR,local brand,credit
+945112,00-99,BC CARD,KR,local brand,credit
+945120,00-99,BC CARD,KR,local brand,credit
+945122,00-99,BC CARD,KR,local brand,credit
+945124,00-99,BC CARD,KR,local brand,credit
+945131,00-99,DAEGU BANK,KR,local brand,credit
+945132,00-99,BC,KR,local brand,credit
+945139,00-99,VOLKSBANK MITTELHESSEN EG,DE,vpay,debit
+945150,00-99,BC,KR,local brand,credit
+945161,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945162,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945203,00-99,IBK,KR,local brand,debit
+945211,00-99,NH NONGHYUP,KR,local brand,debit
+945212,00-99,NH NONGHYUP,KR,local brand,debit
+945220,00-99,BC CARD,KR,local brand,credit
+945224,00-99,BC,KR,local brand,credit
+945303,00-99,BC CARD,KR,local brand,credit
+945320,00-99,BC,KR,local brand,credit
+945324,00-99,BC,KR,local brand,credit
+945420,00-99,BC CARD,KR,local brand,credit
+945511,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945520,00-99,BC CARD,KR,local brand,credit
+945620,00-99,BC CARD,KR,local brand,credit
+945720,00-99,BC CARD,KR,local brand,credit
+945810,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945811,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945812,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945813,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945814,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945815,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945816,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945817,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945818,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945819,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945820,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945821,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945822,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
+945823,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945824,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945825,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
+945903,00-99,BC CARD CO. LTD.,KR,local brand,credit
+945920,00-99,BC CARD,KR,local brand,credit
+945934,00-99,KWANGJU BANK,KR,local brand,debit
+945937,00-99,JEONBUK BANK,KR,local brand,debit
+946000,00-99,,KR,local brand,debit
+946001,00-99,,KR,local brand,debit
+946002,00-99,,KR,local brand,debit
+946003,00-99,BC CARD,KR,local brand,debit
+946004,00-99,,KR,local brand,debit
+946005,00-99,,KR,local brand,debit
+946006,00-99,BC CARD CO. LTD.,KR,private label,debit
+946007,00-99,WATER SUPPLIER,KR,local brand,debit
+946008,00-99,,KR,local brand,debit
+946009,00-99,,KR,local brand,debit
+946010,00-99,,KR,local brand,debit
+946011,00-99,BC CARD,KR,local brand,debit
+946012,00-99,BC CARD,KR,local brand,debit
+946013,00-99,,KR,local brand,debit
+946014,00-99,,KR,local brand,debit
+946015,00-99,,KR,local brand,debit
+946016,00-99,NONGHYUP BANK,KR,local brand,debit
+946017,00-99,NONGHYUP BANK,KR,local brand,debit
+946018,00-99,,KR,local brand,debit
+946019,00-99,,KR,local brand,debit
+946020,00-99,BC CARD,KR,local brand,debit
+946021,00-99,BC CARD,KR,local brand,debit
+946022,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+946023,00-99,BC CARD,KR,local brand,debit
+946024,00-99,BC CARD,KR,local brand,debit
+946025,00-99,BC CARD,KR,local brand,debit
+946026,00-99,,KR,local brand,debit
+946027,00-99,BC CARD,KR,local brand,debit
+946028,00-99,,KR,local brand,debit
+946029,00-99,,KR,local brand,debit
+946030,00-99,,KR,local brand,debit
+946031,00-99,BC CARD,KR,local brand,debit
+946032,00-99,BC CARD,KR,local brand,debit
+946033,00-99,BC CARD CO. LTD.,KR,private label,debit
+946034,00-99,KWANGJU BANK,KR,local brand,debit
+946035,00-99,,KR,local brand,debit
+946036,00-99,,KR,local brand,debit
+946037,00-99,,KR,local brand,debit
+946038,00-99,,KR,local brand,debit
+946039,00-99,BC CARD,KR,local brand,debit
+946040,00-99,,KR,local brand,debit
+946041,00-99,,KR,local brand,debit
+946042,00-99,,KR,local brand,debit
+946043,00-99,,KR,local brand,debit
+946044,00-99,KONA CARD,KR,local brand,debit
+946045,00-99,,KR,local brand,debit
+946046,00-99,BC CARD,KR,local brand,debit
+946047,00-99,,KR,local brand,debit
+946048,00-99,,KR,local brand,debit
+946049,00-99,,KR,local brand,debit
+946050,00-99,BC,KR,local brand,debit
+946051,00-99,,KR,local brand,debit
+946052,00-99,,KR,local brand,debit
+946053,00-99,,KR,local brand,debit
+946054,00-99,,KR,local brand,debit
+946055,00-99,,KR,local brand,debit
+946056,00-99,,KR,local brand,debit
+946057,00-99,,KR,local brand,debit
+946058,00-99,,KR,local brand,debit
+946059,00-99,,KR,local brand,debit
+946060,00-99,,KR,local brand,debit
+946061,00-99,,KR,local brand,debit
+946062,00-99,,KR,local brand,debit
+946063,00-99,,KR,local brand,debit
+946064,00-99,,KR,local brand,debit
+946065,00-99,,KR,local brand,debit
+946066,00-99,,KR,local brand,debit
+946067,00-99,,KR,local brand,debit
+946068,00-99,,KR,local brand,debit
+946069,00-99,,KR,local brand,debit
+946070,00-99,,KR,local brand,debit
+946071,00-99,,KR,local brand,debit
+946072,00-99,,KR,local brand,debit
+946073,00-99,,KR,local brand,debit
+946074,00-99,,KR,local brand,debit
+946075,00-99,,KR,local brand,debit
+946076,00-99,,KR,local brand,debit
+946077,00-99,,KR,local brand,debit
+946078,00-99,BC CARD CO. LTD.,KR,private label,debit
+946079,00-99,,KR,local brand,debit
+946080,00-99,,KR,local brand,debit
+946081,00-99,HANASK CARD CO. LTD.,KR,private label,debit
+946082,00-99,,KR,local brand,debit
+946083,00-99,,KR,local brand,debit
+946084,00-99,,KR,local brand,debit
+946085,00-99,,KR,local brand,debit
+946086,00-99,,KR,local brand,debit
+946087,00-99,,KR,local brand,debit
+946088,00-99,,KR,local brand,debit
+946089,00-99,,KR,local brand,debit
+946090,00-99,,KR,local brand,debit
+946091,00-99,,KR,local brand,debit
+946092,00-99,,KR,local brand,debit
+946093,00-99,,KR,local brand,debit
+946094,00-99,,KR,local brand,debit
+946095,00-99,,KR,local brand,debit
+946096,00-99,,KR,local brand,debit
+946097,00-99,,KR,local brand,debit
+946098,00-99,,KR,local brand,debit
+946099,00-99,,KR,local brand,debit
+946103,00-99,BC CARD,KR,local brand,debit
+946106,00-99,BC CARD,KR,local brand,debit
+946111,00-99,BC CARD,KR,local brand,debit
+946112,00-99,BC CARD,KR,local brand,debit
+946116,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946117,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946120,00-99,BC CARD,KR,local brand,debit
+946121,00-99,BC CARD CO. LTD.,KR,private label,debit
+946123,00-99,BC CARD CO. LTD.,KR,private label,debit
+946124,00-99,BC,KR,local brand,debit
+946125,00-99,BC CARD,KR,local brand,debit
+946127,00-99,BC CARD,KR,local brand,debit
+946131,00-99,BC CARD,KR,local brand,debit
+946132,00-99,BC CARD,KR,local brand,debit
+946134,00-99,GWANGJU BANK,KR,local brand,debit
+946137,00-99,JEONBUK,KR,local brand,debit
+946139,00-99,BC CARD,KR,local brand,debit
+946144,00-99,BC,KR,local brand,debit
+946150,00-99,BC,KR,local brand,credit
+946178,00-99,BC CARD,KR,local brand,debit
+946181,00-99,ONE,KR,local brand,debit
+946216,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946217,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946220,00-99,BC CARD,KR,local brand,debit
+946222,00-99,OUR DEBIT CARD,KR,local brand,debit
+946224,00-99,OUR DEBIT CARD,KR,local brand,debit
+946225,00-99,BC CARD,KR,local brand,debit
+946234,00-99,KWANGJU BANK,KR,local brand,debit
+946235,00-99,KWANGJU BANK,KR,local brand,debit
+946236,00-99,KWANGJU BANK,KR,local brand,debit
+946250,00-99,BC,KR,local brand,debit
+946253,00-99,GWANGJU BANK,KR,local brand,debit
+946260,00-99,GWANGJU BANK,KR,local brand,debit
+946272,00-99,GWANGJU BANK,KR,local brand,debit
+946285,00-99,GWANGJU BANK,KR,local brand,debit
+946304,00-99,GWANGJU BANK,KR,local brand,debit
+946309,00-99,GWANGJU BANK,KR,local brand,debit
+946316,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946317,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+946320,00-99,BC CARD,KR,local brand,debit
+946332,00-99,BUSAN BANK PREPAID,KR,local brand,debit
+946334,00-99,KWANGJU BANK,KR,local brand,debit
+946348,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+946349,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+946350,00-99,BC,KR,local brand,debit
+946352,00-99,GWANGJU BANK,KR,local brand,debit
+946361,00-99,GWANGJU BANK,KR,local brand,debit
+946365,00-99,GWANGJU BANK,KR,local brand,debit
+946370,00-99,GWANGJU BANK,KR,local brand,debit
+946372,00-99,GWANGJU BANK,KR,local brand,debit
+946403,00-99,BC CARD,KR,local brand,debit
+946406,00-99,BC CARD,KR,local brand,debit
+946411,00-99,BC CARD,KR,local brand,debit
+946412,00-99,BC CARD,KR,local brand,debit
+946420,00-99,BC CARD,KR,local brand,debit
+946422,00-99,OUR PREPAID CARD,KR,local brand,debit
+946423,00-99,BC CARD,KR,local brand,debit
+946424,00-99,OUR PREPAID CARD,KR,local brand,debit
+946425,00-99,BC CARD,KR,local brand,debit
+946427,00-99,BC CARD,KR,local brand,debit
+946431,00-99,BC CARD,KR,local brand,debit
+946432,00-99,BC CARD,KR,local brand,debit
+946439,00-99,BC CARD,KR,local brand,debit
+946450,00-99,BC CARD,KR,local brand,debit
+946478,00-99,BC CARD,KR,local brand,debit
+946503,00-99,BC CARD,KR,local brand,debit
+946511,00-99,BC CARD,KR,local brand,debit
+946512,00-99,BC CARD,KR,local brand,debit
+946513,00-99,BC CARD,KR,local brand,debit
+946514,00-99,BC CARD,KR,local brand,debit
+946520,00-99,BC CARD,KR,local brand,debit
+946531,00-99,BC CARD,KR,local brand,debit
+946532,00-99,BC CARD,KR,local brand,debit
+946539,00-99,BC CARD,KR,local brand,debit
+946544,00-99,BC,KR,local brand,debit
+946545,00-99,BC CARD,KR,local brand,debit
+946550,00-99,BC CARD,KR,local brand,debit
+946620,00-99,BC CARD,KR,local brand,debit
+946631,00-99,BC CARD,KR,local brand,debit
+946632,00-99,BC CARD,KR,local brand,debit
+946644,00-99,BC,KR,local brand,debit
+946650,00-99,BC CARD,KR,local brand,debit
+946720,00-99,BC CARD,KR,local brand,debit
+946731,00-99,BC CARD,KR,local brand,debit
+946732,00-99,BC CARD,KR,local brand,debit
+946750,00-99,BC CARD,KR,local brand,debit
+946803,00-99,BC CARD,KR,local brand,debit
+946820,00-99,BC CARD,KR,local brand,debit
+946831,00-99,BC CARD,KR,local brand,debit
+946832,00-99,BC CARD,KR,local brand,debit
+946850,00-99,BC CARD,KR,local brand,debit
+946904,00-99,GWANGJU BANK,KR,local brand,debit
+946908,00-99,GWANGJU BANK,KR,local brand,debit
+946920,00-99,BC CARD CO. LTD.,KR,local brand,debit
+946950,00-99,BC CARD,KR,local brand,debit
+946952,00-99,BC CARD,KR,local brand,debit
+946961,00-99,GWANGJU BANK,KR,local brand,debit
+947003,00-99,BC CARD,KR,local brand,credit
+947006,00-99,BC CARD,KR,local brand,credit
+947011,00-99,NH NONGHYUP,KR,local brand,credit
+947012,00-99,BC CARD,KR,local brand,credit
+947020,00-99,BC CARD,KR,local brand,credit
+947021,00-99,BC CARD,KR,local brand,credit
+947023,00-99,BC CARD,KR,local brand,credit
+947025,00-99,BC CARD,KR,local brand,credit
+947027,00-99,BC CARD,KR,local brand,credit
+947031,00-99,BC CARD,KR,local brand,credit
+947032,00-99,BC CARD,KR,local brand,credit
+947033,00-99,BC CARD,KR,local brand,credit
+947039,00-99,BC CARD,KR,local brand,credit
+947044,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+947050,00-99,BC CARD,KR,local brand,debit
+947078,00-99,SHINHAN BC CARD,KR,local brand,credit
+947081,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+947119,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+947120,00-99,BC CARD,KR,local brand,credit
+947124,00-99,BC CARD,KR,local brand,credit
+947134,00-99,GWANGJU,KR,local brand,credit
+947137,00-99,JEONBUK BANK,KR,local brand,credit
+947150,00-99,BC,KR,local brand,credit
+947181,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
+947203,00-99,IBK BANK,KR,local brand,debit
+947206,00-99,KB BANK,KR,local brand,debit
+947211,00-99,NONGHYUP BANK,KR,local brand,debit
+947221,00-99,SHINHAN,KR,local brand,debit
+947225,00-99,BC,KR,local brand,debit
+947232,00-99,BUSAN BANK,KR,local brand,debit
+947239,00-99,GYEONGNAM,KR,local brand,debit
+947271,00-99,POST OFFICE,KR,local brand,debit
+947471,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+947508,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+947520,00-99,BC CARD,KR,local brand,credit
+947920,00-99,BC,KR,local brand,credit
+947934,00-99,KWANGJU BANK,KR,local brand,credit
+947950,00-99,BC,KR,local brand,credit
+948001,00-99,GWANGJU,KR,local brand,credit
+948002,00-99,WOORI CARD,KR,local brand,credit
+948003,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
+948020,00-99,BC,KR,local brand,credit
+948022,00-99,BC CARD,KR,local brand,credit
+948031,00-99,HANASK CARD CO. LTD.,KR,private label,debit
+948034,00-99,KWANGJU BANK,KR,local brand,credit
+948050,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+948051,00-99,BC CARD,KR,local brand,credit
+948120,00-99,BC,KR,local brand,credit
+948122,00-99,WOORICARD CO. LTD,KR,local brand,credit
+948124,00-99,BC,KR,local brand,credit
+948125,00-99,HANABI CARD,KR,local brand,credit
+948134,00-99,KWANGJU BANK,KR,local brand,credit
+948135,00-99,JEJU,KR,local brand,credit
+948150,00-99,BC,KR,local brand,credit
+948151,00-99,BC CARD CO. LTD.,KR,local brand,credit
+948220,00-99,BC,KR,local brand,credit
+948222,00-99,BC,KR,local brand,credit
+948224,00-99,WOORICARD CO. LTD,KR,local brand,credit
+948234,00-99,KWANGJU BANK,KR,local brand,credit
+948250,00-99,BC CARD,KR,local brand,credit
+948251,00-99,BC CARD,KR,local brand,credit
+948521,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+948816,00-99,NONGHYUP BANK,KR,local brand,credit
+948817,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+948934,00-99,KWANGJU BANK,KR,local brand,debit
+949001,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949002,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949003,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949004,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949005,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949008,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949009,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949010,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949011,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949012,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949013,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949014,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949015,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949016,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949017,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949018,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949019,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949020,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949021,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949022,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949023,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949024,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949025,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949026,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949027,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949028,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949029,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949030,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949031,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949032,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949033,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949034,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949035,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949036,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949037,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949038,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949039,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949040,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949041,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949042,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949043,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949044,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949045,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949046,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949047,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949048,00-99,BC CARD,KR,local brand,debit
+949049,00-99,BC CARD,KR,local brand,debit
+949050,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949051,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949052,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949053,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949054,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949055,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949056,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949057,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949058,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949059,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949060,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949061,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949062,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949063,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949064,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949065,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949066,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949067,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949068,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949069,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949070,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949071,00-99,JEONBUK BANK,KR,local brand,credit
+949072,00-99,JEONBUK BANK,KR,local brand,credit
+949073,00-99,JEONBUK BANK,KR,local brand,credit
+949074,00-99,JEONBUK BANK,KR,local brand,credit
+949075,00-99,JEONBUK BANK,KR,local brand,credit
+949077,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949078,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949079,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949080,00-99,JEONBUK BANK,KR,local brand,debit
+949081,00-99,JEONBUK BANK,KR,local brand,debit
+949082,00-99,JEONBUK BANK,KR,local brand,debit
+949084,00-99,HYUNDAICARD CO. LTD.,KR,local brand,debit
+949085,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949086,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949087,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949088,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949089,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949090,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+949091,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+949092,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+949093,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949094,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949095,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949096,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+949097,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
+949098,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,credit
+949099,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949100,00-99,NATION,KR,local brand,debit
+949101,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949102,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949103,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949104,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949105,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949106,00-99,HANA CHECK CARD,KR,local brand,debit
+949107,00-99,KB KOOKMIN PAYCO,KR,local brand,debit
+949108,00-99,KB KOOKMIN PAYCO,KR,local brand,debit
+949109,00-99,KEB HANA CARD,KR,local brand,debit
+949110,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949111,00-99,AGRICULTURAL TRUE LOVE CARDS,KR,local brand,credit
+949112,00-99,HANWHA INVESTMENT & SECURITIES,KR,local brand,debit
+949113,00-99,KONA CARD,KR,local brand,debit
+949120,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949121,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949122,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949123,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949124,00-99,KB PAY,KR,local brand,debit
+949125,00-99,KB PAY,KR,local brand,debit
+949126,00-99,KB PAY,KR,local brand,debit
+949127,00-99,KB PAY,KR,local brand,debit
+949128,00-99,KB PAY,KR,local brand,debit
+949129,00-99,KB PAY,KR,local brand,debit
+949130,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949131,00-99,KB CARD,KR,local brand,debit
+949132,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949133,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949134,00-99,KB KOOKMIN CARD CO. LTD,KR,local brand,debit
+949135,00-99,KAKAO BANK,KR,local brand,debit
+949136,00-99,TOSS CARD,KR,local brand,debit
+949137,00-99,NONGHYUP BANK,KR,local brand,debit
+949138,00-99,KB CARD,KR,local brand,debit
+949139,00-99,KB CARD,KR,local brand,debit
+949211,00-99,AGRICULTURAL TRUE LOVE CARDS,KR,local brand,credit
+949311,00-99,AGRICULTURAL TRUE LOVE CARDS,KR,local brand,credit
+949411,00-99,AGRICULTURAL TRUE LOVE CARDS,KR,local brand,credit
+949447,00-99,NONGHYUP VOUCHER PREPAID,KR,local brand,debit
+949511,00-99,AGRICULTURAL TRUE LOVE,KR,local brand,credit
+949533,00-99,NONGHYUP VOUCHER PREPAID,KR,local brand,debit
+949545,00-99,NONGHYUP,KR,local brand,debit
+949547,00-99,NONGHYUP VOUCHER PREPAID,KR,local brand,debit
+949551,00-99,BC CARD,KR,local brand,debit
+949552,00-99,BC CARD,KR,local brand,debit
+949553,00-99,BC CARD,KR,local brand,debit
+949554,00-99,BC CARD,KR,local brand,debit
+949596,00-99,SHINHAN CARD,KR,local brand,credit
+949611,00-99,AGRICULTURAL TRUE LOVE,KR,local brand,credit
+949612,00-99,TERIYN BANK,MN,local brand,debit
+949618,00-99,KHAAN BANK,MN,local brand,debit
+949622,00-99,TERIYN BANK,MN,local brand,debit
+949711,00-99,AGRICULTURAL TRUE LOVE,KR,local brand,credit
+949811,00-99,NONGHYUP BANK,KR,local brand,debit
+949911,00-99,AGRICULTURAL TRUE LOVE,KR,local brand,credit

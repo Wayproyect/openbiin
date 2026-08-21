@@ -1,0 +1,640 @@
+BIN6,Ranges,Issuer,Country,Brand,Type
+700000,00-99,ETC CARD,JP,local brand,debit
+700004,00-99,JETCARD,GB,uk fuel card,debit
+700006,00-99,,US,private label,debit
+700011,00-99,,US,private label,debit
+700013,00-99,SAMSUNG CARD,KR,global bc,credit
+700025,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+700035,00-99,UK FUELS,GB,uk fuel card,debit
+700042,00-99,,US,private label,debit
+700045,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+700047,00-99,MORGAN,GB,chjones fuel card,debit
+700048,00-99,MORGAN,GB,chjones fuel card,debit
+700052,00-99,,US,private label,debit
+700054,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+700064,00-99,UK FUELS,GB,uk fuel card,debit
+700083,00-99,,US,private label,debit
+700084,00-99,,US,private label,debit
+700099,00-99,FLEET ONE,GB,uk fuel card,debit
+700100,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700101,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700105,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700106,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700107,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700109,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700116,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700117,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700119,00-99,CITIBANK / BESTBUY,US,private label,credit
+700126,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700127,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
+700134,00-99,,US,private label,debit
+700181,00-99,,US,private label,debit
+700205,00-99,,GB,euroshell fuel card,debit
+700236,00-99,,US,private label,debit
+700238,00-99,,US,private label,debit
+700247,00-99,PRIORITY PASS,GB,loyalty card,debit
+700250,00-99,,US,private label,debit
+700253,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+700254,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700255,00-99,,US,private label,credit
+700256,00-99,,US,private label,debit
+700271,00-99,,US,private label,debit
+700272,00-99,,US,private label,debit
+700325,00-99,,US,private label,debit
+700336,00-99,,US,private label,debit
+700338,00-99,,US,private label,debit
+700346,00-99,,US,private label,credit
+700364,00-99,,US,private label,credit
+700403,00-99,,US,private label,debit
+700422,00-99,,US,private label,credit
+700423,00-99,,US,private label,debit
+700425,00-99,,US,private label,debit
+700429,00-99,,US,private label,debit
+700430,00-99,,US,private label,debit
+700431,00-99,,US,private label,debit
+700432,00-99,,US,private label,debit
+700433,00-99,,US,private label,debit
+700434,00-99,,US,private label,debit
+700435,00-99,,US,private label,debit
+700436,00-99,,US,private label,debit
+700438,00-99,,US,private label,credit
+700448,00-99,,US,private label,debit
+700450,00-99,,US,private label,debit
+700460,00-99,,US,private label,debit
+700477,00-99,,US,private label,credit
+700501,00-99,,US,private label,debit
+700508,00-99,,US,private label,debit
+700516,00-99,,GB,uk fuel card,debit
+700517,00-99,UK FUELS D CARD,GB,uk fuel card,debit
+700518,00-99,,GB,uk fuel card,debit
+700526,00-99,,US,private label,credit
+700536,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,local brand,credit
+700548,00-99,,US,private label,debit
+700550,00-99,,US,private label,debit
+700555,00-99,,US,private label,debit
+700560,00-99,,US,private label,debit
+700567,00-99,,US,private label,debit
+700568,00-99,,US,private label,debit
+700574,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700580,00-99,,US,private label,debit
+700588,00-99,,US,private label,debit
+700594,00-99,,US,private label,debit
+700598,00-99,,US,private label,debit
+700600,00-99,SYNCHRONY BANK,US,ebt,debit
+700601,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700602,00-99,,US,private label,debit
+700608,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700609,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700610,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+700617,00-99,,US,private label,debit
+700625,00-99,,US,private label,debit
+700638,00-99,,US,private label,debit
+700671,00-99,,US,private label,debit
+700675,00-99,,US,private label,debit
+700676,00-99,,GB,bp fuel card,debit
+700701,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,private label,debit
+700773,00-99,,US,private label,debit
+700781,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,private label,debit
+700791,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,private label,debit
+700831,00-99,,US,private label,debit
+700832,00-99,,US,private label,debit
+700833,00-99,,US,private label,debit
+700834,00-99,,US,private label,debit
+700835,00-99,,US,private label,debit
+700836,00-99,,US,private label,debit
+700837,00-99,,US,private label,debit
+700838,00-99,,US,private label,debit
+700839,00-99,,US,private label,debit
+700887,00-99,,US,private label,debit
+700901,00-99,BANGLADESH POST,BD,private label,debit
+700902,00-99,BANGLADESH POST OFFICE,BD,private label,debit
+700903,00-99,BANGLADESH POST OFFICE,BD,private label,debit
+700945,00-99,,US,private label,debit
+700949,00-99,,US,private label,debit
+700973,00-99,,US,private label,debit
+700974,00-99,,US,private label,debit
+700984,00-99,PRIORITY PASS,RU,private label,debit
+700998,00-99,,US,private label,debit
+701220,00-99,JANATA BANK LTD.,BD,private label,debit
+701292,00-99,JANATA BANK LTD.,BD,private label,credit
+701310,00-99,CHINA CONSTRUCTION BANK,CN,private label,debit
+701500,00-99,SONALI BANK LTD.,BD,private label,debit
+701501,00-99,SONALI BANK LTD.,BD,private label,debit
+701502,00-99,SONALI BANK LTD.,BD,private label,debit
+701503,00-99,SONALI BANK LTD.,BD,private label,debit
+701570,00-99,SONALI BANK LTD.,BD,private label,credit
+701590,00-99,SONALI BANK LTD.,BD,private label,debit
+703316,00-99,UNICREDIT S.P.A.,IT,local brand,credit
+703500,00-99,BASIC BANK LTD.,BD,private label,debit
+703900,00-99,SYNCHRONY BANK,US,private label,credit
+703901,00-99,,US,private label,credit
+703902,00-99,,US,private label,credit
+703903,00-99,,US,private label,credit
+703904,00-99,,US,private label,credit
+703905,00-99,,US,private label,credit
+703906,00-99,,US,private label,credit
+703907,00-99,,US,private label,credit
+703908,00-99,,US,private label,credit
+703909,00-99,,US,private label,credit
+703988,00-99,,US,local brand,credit
+704200,00-99,,CA,private label,debit
+704310,00-99,,MK,private label,debit
+704700,00-99,PUBALI BANK LTD.,BD,private label,debit
+704810,00-99,UTTARA BANK LTD.,BD,private label,debit
+704811,00-99,UTTARA BANK LTD.,BD,private label,debit
+704904,00-99,ICB ISLAMIC BANK LTD.,BD,private label,debit
+705310,00-99,NCC BANK LTD.,BD,private label,debit
+705554,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+705803,00-99,SOCIAL ISLAMI BANK LTD.,BD,private label,debit
+705806,00-99,,US,private label,debit
+706021,00-99,LIFE ETC CARD,JP,local brand,debit
+706080,00-99,JACCS ETC CARD,JP,local brand,debit
+706159,00-99,SYNCHRONY BANK,US,private label,debit
+706180,00-99,GE CARD ETC,JP,local brand,debit
+706600,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706601,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706602,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706603,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706604,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706605,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706606,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706607,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706608,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706609,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706610,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706611,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706612,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706613,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706614,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706615,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706616,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706617,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706618,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706619,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706620,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706621,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706622,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706623,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706624,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706625,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706626,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706627,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706628,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706629,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706630,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706631,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706632,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706633,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706634,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706635,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706636,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706637,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706638,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706639,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706640,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706641,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706642,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706643,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706644,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706645,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706646,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706647,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706648,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706649,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706650,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706651,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706652,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706653,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706654,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706655,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706656,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706657,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706658,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706659,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706660,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706661,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706662,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706663,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706664,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706665,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706666,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706667,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706668,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706669,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706670,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706671,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706672,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706673,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706674,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706675,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706676,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706677,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706678,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706679,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706680,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706681,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706682,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706683,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706684,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706685,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706686,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706687,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706688,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706689,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706690,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706691,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706692,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706693,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706694,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706695,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706696,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706697,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706698,00-99,BPSUPERCHARGE,GB,phh fuel card,debit
+706699,00-99,ARVALSTATOIL,GB,phh fuel card,debit
+706710,00-99,FIRST SECURITY ISLAMIC BANK LTD.,BD,private label,debit
+706890,00-99,BANK ASIA LTD.,BD,private label,debit
+706937,00-99,TRUST BANK LTD.,BD,private label,debit
+706980,00-99,PETRO-CANADA CITIBANK,CA,maestro,debit
+707000,00-99,,US,ebt,debit
+707020,00-99,POCKET CARD ETC,JP,local brand,debit
+707070,00-99,EXIMBANK,VN,private label,debit
+707100,00-99,WEX INC.,US,wexcard,credit
+707101,00-99,WEX INC.,US,wexcard,credit
+707102,00-99,WEX INC.,US,wexcard,credit
+707103,00-99,WEX INC.,US,wexcard,credit
+707104,00-99,WEX INC.,US,wexcard,credit
+707105,00-99,WEX INC.,US,wexcard,credit
+707106,00-99,WEX INC.,US,wexcard,credit
+707107,00-99,WEX INC.,US,wexcard,credit
+707108,00-99,WEX INC.,US,wexcard,credit
+707109,00-99,WEX INC.,US,wexcard,credit
+707110,00-99,WEX INC.,US,wexcard,credit
+707111,00-99,WEX INC.,US,wexcard,credit
+707112,00-99,WEX INC.,US,wexcard,credit
+707113,00-99,WEX INC.,US,wexcard,credit
+707114,00-99,WEX INC.,US,wexcard,credit
+707115,00-99,WEX INC.,US,wexcard,credit
+707116,00-99,WEX INC.,US,wexcard,credit
+707117,00-99,WEX INC.,US,wexcard,credit
+707118,00-99,WEX INC.,US,wexcard,credit
+707119,00-99,WEX INC.,US,wexcard,credit
+707120,00-99,WEX INC.,US,wexcard,credit
+707121,00-99,WEX INC.,US,wexcard,credit
+707122,00-99,WEX INC.,US,wexcard,credit
+707123,00-99,WEX INC.,US,wexcard,credit
+707124,00-99,OVERDRIVE/DIALCARD,GB,phh fuel card,debit
+707125,00-99,WEX INC.,US,wexcard,credit
+707126,00-99,WEX INC.,US,wexcard,credit
+707127,00-99,WEX INC.,US,wexcard,credit
+707128,00-99,WEX INC.,US,wexcard,credit
+707129,00-99,WEX INC.,US,wexcard,credit
+707130,00-99,WEX INC.,US,wexcard,credit
+707131,00-99,WEX INC.,US,wexcard,credit
+707132,00-99,WEX INC.,US,wexcard,credit
+707133,00-99,WEX INC.,US,wexcard,credit
+707134,00-99,WEX INC.,US,wexcard,credit
+707135,00-99,WEX INC.,US,wexcard,credit
+707136,00-99,WEX INC.,US,wexcard,credit
+707137,00-99,WEX INC.,US,wexcard,credit
+707138,00-99,WEX INC.,US,wexcard,credit
+707139,00-99,KEYFUELS,GB,chjones fuel card,debit
+707140,00-99,WEX INC.,US,wexcard,credit
+707141,00-99,WEX INC.,US,wexcard,credit
+707142,00-99,WEX INC.,US,wexcard,credit
+707143,00-99,WEX INC.,US,wexcard,credit
+707144,00-99,WEX INC.,US,wexcard,credit
+707145,00-99,WEX INC.,US,wexcard,credit
+707146,00-99,WEX INC.,US,wexcard,credit
+707147,00-99,WEX INC.,US,wexcard,credit
+707148,00-99,WEX INC.,US,wexcard,credit
+707149,00-99,WEX INC.,US,wexcard,credit
+707150,00-99,WEX INC.,US,wexcard,credit
+707151,00-99,WEX INC.,US,wexcard,credit
+707152,00-99,WEX INC.,US,wexcard,credit
+707153,00-99,WEX INC.,US,wexcard,credit
+707154,00-99,WEX INC.,US,wexcard,credit
+707155,00-99,WEX INC.,US,wexcard,credit
+707156,00-99,WEX INC.,US,wexcard,credit
+707157,00-99,WEX INC.,US,wexcard,credit
+707158,00-99,WEX INC.,US,wexcard,credit
+707159,00-99,WEX INC.,US,wexcard,credit
+707160,00-99,WEX INC.,US,wexcard,credit
+707161,00-99,WEX INC.,US,wexcard,credit
+707162,00-99,WEX INC.,US,wexcard,credit
+707163,00-99,WEX INC.,US,wexcard,credit
+707164,00-99,WEX INC.,US,wexcard,credit
+707165,00-99,WEX INC.,US,wexcard,credit
+707166,00-99,WEX INC.,US,wexcard,credit
+707167,00-99,WEX INC.,US,wexcard,credit
+707168,00-99,WEX INC.,US,wexcard,credit
+707169,00-99,FUELCHECK,GB,phh fuel card,debit
+707170,00-99,WEX INC.,US,wexcard,credit
+707171,00-99,WEX INC.,US,wexcard,credit
+707172,00-99,WEX INC.,US,wexcard,credit
+707173,00-99,WEX INC.,US,wexcard,credit
+707174,00-99,WEX INC.,US,wexcard,credit
+707175,00-99,WEX INC.,US,wexcard,credit
+707176,00-99,WEX INC.,US,wexcard,credit
+707177,00-99,WEX INC.,US,wexcard,credit
+707178,00-99,WEX INC.,US,wexcard,credit
+707179,00-99,WEX INC.,US,wexcard,credit
+707180,00-99,WEX INC.,US,wexcard,credit
+707181,00-99,WEX INC.,US,wexcard,credit
+707182,00-99,WEX INC.,US,wexcard,credit
+707183,00-99,WEX INC.,US,wexcard,credit
+707184,00-99,WEX INC.,US,wexcard,credit
+707185,00-99,WEX INC.,US,wexcard,credit
+707186,00-99,WEX INC.,US,wexcard,credit
+707187,00-99,WEX INC.,US,wexcard,credit
+707188,00-99,WEX INC.,US,wexcard,credit
+707189,00-99,WEX INC.,US,wexcard,credit
+707190,00-99,WEX INC.,US,wexcard,credit
+707191,00-99,WEX INC.,US,wexcard,credit
+707192,00-99,WEX INC.,US,wexcard,credit
+707193,00-99,WEX INC.,US,wexcard,credit
+707194,00-99,WEX INC.,US,wexcard,credit
+707195,00-99,WEX INC.,US,wexcard,credit
+707196,00-99,WEX INC.,US,wexcard,credit
+707197,00-99,WEX INC.,US,wexcard,credit
+707198,00-99,WEX INC.,US,wexcard,credit
+707199,00-99,WEX INC.,US,wexcard,credit
+707200,00-99,ALLSTAR,GB,phh fuel card,debit
+707201,00-99,ALLSTAR,GB,phh fuel card,debit
+707202,00-99,ALLSTAR,GB,phh fuel card,debit
+707203,00-99,ALLSTAR,GB,phh fuel card,debit
+707204,00-99,ALLSTAR,GB,phh fuel card,debit
+707205,00-99,ALLSTAR,GB,phh fuel card,debit
+707206,00-99,ALLSTAR,GB,phh fuel card,debit
+707207,00-99,ALLSTAR,GB,phh fuel card,debit
+707208,00-99,ALLSTAR,GB,phh fuel card,debit
+707209,00-99,ALLSTAR,GB,phh fuel card,debit
+707210,00-99,MURCO BUSINESS PLUS,GB,phh fuel card,debit
+707211,00-99,ARVAL COMMERCIAL FUEL,GB,phh fuel card,debit
+707212,00-99,ALLSTAR,GB,phh fuel card,debit
+707213,00-99,ALLSTAR,GB,phh fuel card,debit
+707214,00-99,ALLSTAR,GB,phh fuel card,debit
+707215,00-99,ALLSTAR,GB,phh fuel card,debit
+707216,00-99,ALLSTAR,GB,phh fuel card,debit
+707217,00-99,ALLSTAR,GB,phh fuel card,debit
+707218,00-99,ALLSTAR,GB,phh fuel card,debit
+707219,00-99,ALLSTAR,GB,phh fuel card,debit
+707220,00-99,ALLSTAR,GB,phh fuel card,debit
+707221,00-99,ALLSTAR,GB,phh fuel card,debit
+707222,00-99,ALLSTAR,GB,phh fuel card,debit
+707223,00-99,ALLSTAR,GB,phh fuel card,debit
+707224,00-99,ALLSTAR,GB,phh fuel card,debit
+707225,00-99,ALLSTAR,GB,phh fuel card,debit
+707226,00-99,ALLSTAR,GB,phh fuel card,debit
+707227,00-99,ALLSTAR,GB,phh fuel card,debit
+707228,00-99,ALLSTAR,GB,phh fuel card,debit
+707229,00-99,ALLSTAR,GB,phh fuel card,debit
+707230,00-99,ALLSTAR,GB,phh fuel card,debit
+707231,00-99,ALLSTAR,GB,phh fuel card,debit
+707232,00-99,ALLSTAR,GB,phh fuel card,debit
+707233,00-99,ALLSTAR,GB,phh fuel card,debit
+707234,00-99,ALLSTAR,GB,phh fuel card,debit
+707235,00-99,ALLSTAR,GB,phh fuel card,debit
+707236,00-99,ALLSTAR,GB,phh fuel card,debit
+707237,00-99,ALLSTAR,GB,phh fuel card,debit
+707238,00-99,ALLSTAR,GB,phh fuel card,debit
+707239,00-99,ALLSTAR,GB,phh fuel card,debit
+707240,00-99,ALLSTAR,GB,phh fuel card,debit
+707241,00-99,ALLSTAR,GB,phh fuel card,debit
+707242,00-99,ALLSTAR,GB,phh fuel card,debit
+707243,00-99,ALLSTAR,GB,phh fuel card,debit
+707244,00-99,ALLSTAR,GB,phh fuel card,debit
+707245,00-99,ALLSTAR,GB,phh fuel card,debit
+707246,00-99,ALLSTAR,GB,phh fuel card,debit
+707247,00-99,ALLSTAR,GB,phh fuel card,debit
+707248,00-99,ALLSTAR,GB,phh fuel card,debit
+707249,00-99,ALLSTAR,GB,phh fuel card,debit
+707250,00-99,ALLSTAR,GB,phh fuel card,debit
+707251,00-99,ALLSTAR,GB,phh fuel card,debit
+707252,00-99,ALLSTAR,GB,phh fuel card,debit
+707253,00-99,ALLSTAR,GB,phh fuel card,debit
+707254,00-99,ALLSTAR,GB,phh fuel card,debit
+707255,00-99,ALLSTAR,GB,phh fuel card,debit
+707256,00-99,ALLSTAR,GB,phh fuel card,debit
+707257,00-99,ALLSTAR,GB,phh fuel card,debit
+707258,00-99,ALLSTAR,GB,phh fuel card,debit
+707259,00-99,ALLSTAR,GB,phh fuel card,debit
+707260,00-99,ALLSTAR,GB,phh fuel card,debit
+707261,00-99,ARVALFUELANDJETWASH,GB,phh fuel card,debit
+707262,00-99,ALLSTAR,GB,phh fuel card,debit
+707263,00-99,ALLSTAR,GB,phh fuel card,debit
+707264,00-99,ALLSTAR,GB,phh fuel card,debit
+707265,00-99,ALLSTAR,GB,phh fuel card,debit
+707266,00-99,ALLSTAR,GB,phh fuel card,debit
+707267,00-99,ALLSTAR,GB,phh fuel card,debit
+707268,00-99,ALLSTAR,GB,phh fuel card,debit
+707269,00-99,ALLSTAR,GB,phh fuel card,debit
+707270,00-99,ARVALLOCALACCOUNT,GB,phh fuel card,debit
+707271,00-99,ARVALDART,GB,phh fuel card,debit
+707272,00-99,MURCOCARD,GB,phh fuel card,debit
+707275,00-99,SAVEBUSINESSACCOUNT,GB,phh fuel card,debit
+707276,00-99,CONOCOJET,GB,phh fuel card,debit
+707278,00-99,ASDAFUEL,GB,phh fuel card,debit
+707280,00-99,ALLSTAR,GB,phh fuel card,debit
+707281,00-99,ALLSTAR,GB,phh fuel card,debit
+707282,00-99,ALLSTAR,GB,phh fuel card,debit
+707283,00-99,ALLSTAR,GB,phh fuel card,debit
+707284,00-99,ALLSTAR,GB,phh fuel card,debit
+707285,00-99,ALLSTAR,GB,phh fuel card,debit
+707286,00-99,ALLSTAR,GB,phh fuel card,debit
+707287,00-99,ALLSTAR,GB,phh fuel card,debit
+707288,00-99,ALLSTAR,GB,phh fuel card,debit
+707289,00-99,ALLSTAR,GB,phh fuel card,debit
+707290,00-99,ALLSTAR,GB,phh fuel card,debit
+707291,00-99,ALLSTAR,GB,phh fuel card,debit
+707292,00-99,ALLSTAR,GB,phh fuel card,debit
+707293,00-99,ALLSTAR,GB,phh fuel card,debit
+707294,00-99,ALLSTAR,GB,phh fuel card,debit
+707295,00-99,ALLSTAR,GB,phh fuel card,debit
+707296,00-99,ALLSTAR,GB,phh fuel card,debit
+707297,00-99,ALLSTAR,GB,phh fuel card,debit
+707298,00-99,ALLSTAR,GB,phh fuel card,debit
+707299,00-99,ALLSTAR,GB,phh fuel card,debit
+707622,00-99,SYNCHRONY BANK,US,private label,debit
+707630,00-99,KEY FUELS BUNKER+,GB,chjones fuel card,debit
+707640,00-99,,US,private label,debit
+707641,00-99,,US,private label,debit
+707642,00-99,,US,private label,debit
+707643,00-99,,US,private label,debit
+707644,00-99,,US,private label,debit
+707645,00-99,,US,private label,debit
+707646,00-99,,US,private label,debit
+707647,00-99,,US,private label,debit
+707648,00-99,,US,private label,debit
+707649,00-99,FLEETCOR FUELMAN PLUS CARD,US,fuel card,credit
+707650,00-99,,US,private label,debit
+707651,00-99,,US,private label,debit
+707652,00-99,,US,private label,debit
+707653,00-99,,US,private label,debit
+707655,00-99,,GB,star rewards,debit
+707656,00-99,,US,private label,debit
+707657,00-99,,US,private label,debit
+707658,00-99,,US,private label,debit
+707659,00-99,,US,private label,debit
+707665,00-99,LIQUIDCARD,GB,red liquid fuel card,debit
+707666,00-99,TEXACO FUEL CARD,GB,uk fuel card,debit
+707679,00-99,DK-BENZIN,DK,fuel card,debit
+707680,00-99,,US,private label,debit
+707681,00-99,,US,private label,debit
+707682,00-99,,US,private label,debit
+707683,00-99,,US,private label,debit
+707684,00-99,,US,private label,debit
+707685,00-99,FLEETCOR GASCARD/FLEETWIDE CARD,US,fuel card,credit
+707686,00-99,,US,private label,debit
+707687,00-99,,US,private label,debit
+707688,00-99,,US,private label,debit
+707689,00-99,,US,private label,debit
+707753,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+707807,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+707821,00-99,KEYFUELS,GB,chjones fuel card,debit
+707830,00-99,KEY FUELS BUNKER+,GB,chjones fuel card,debit
+707855,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+707865,00-99,UK FUELS,GB,uk fuel card,debit
+707867,00-99,UK FUELS,GB,uk fuel card,debit
+707871,00-99,,GB,red fuel card,debit
+707880,00-99,KEYFUELS,GB,chjones fuel card,debit
+707887,00-99,SILVEY OILS,GB,chjones fuel card,debit
+707899,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+707915,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+707922,00-99,UK FUELS,GB,uk fuel card,debit
+707944,00-99,UK FUELS,GB,uk fuel card,debit
+707953,00-99,UK FUELS,GB,uk fuel card,debit
+707954,00-99,UK FUELS,GB,uk fuel card,debit
+708007,00-99,UK FUELS,GB,uk fuel card,debit
+708013,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+708032,00-99,UK FUELS,GB,uk fuel card,debit
+708044,00-99,INVESTEC BANK LTD.,ZA,local brand,credit
+708048,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+708050,00-99,,GB,red fuel card,debit
+708141,00-99,,DE,private label,debit
+708166,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+708173,00-99,UK FUELS,GB,uk fuel card,debit
+708176,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+708177,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+708186,00-99,NEDBANK LTD.,ZA,local brand,credit
+708188,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,local brand,credit
+708211,00-99,PACIFIC PREMIER BANK,US,private label,debit
+708218,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+708224,00-99,UK FUELS,GB,uk fuel card,debit
+708227,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
+708230,00-99,UK FUELS,GB,uk fuel card,debit
+708237,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708251,00-99,FASTFUEL,GB,uk fuel card,debit
+708252,00-99,OLCO PARTNERS CARD,CA,maestro,debit
+708283,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+708284,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708305,00-99,,US,private label,debit
+708306,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708307,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708317,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708318,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
+708337,00-99,,RU,lukoil fuel card,debit
+708352,00-99,TEXACO THE BUSINESS,GB,uk fuel card,debit
+708362,00-99,,GB,uk fuel card,debit
+708424,00-99,ABSA GROUP LTD.,ZA,local brand,credit
+708800,00-99,,US,voyager,credit
+708801,00-99,,US,voyager,credit
+708802,00-99,,US,voyager,credit
+708803,00-99,,US,voyager,credit
+708804,00-99,,US,voyager,credit
+708805,00-99,,US,voyager,credit
+708806,00-99,,US,voyager,credit
+708807,00-99,,US,voyager,credit
+708808,00-99,,US,voyager,credit
+708809,00-99,,US,voyager,credit
+708810,00-99,,US,voyager,credit
+708811,00-99,,US,voyager,credit
+708812,00-99,,US,voyager,credit
+708813,00-99,,US,voyager,credit
+708814,00-99,,US,voyager,credit
+708815,00-99,,US,voyager,credit
+708816,00-99,,US,voyager,credit
+708817,00-99,,US,voyager,credit
+708818,00-99,,US,voyager,credit
+708819,00-99,,US,voyager,credit
+708820,00-99,,US,voyager,credit
+708821,00-99,,US,voyager,credit
+708822,00-99,,US,voyager,credit
+708823,00-99,,US,voyager,credit
+708824,00-99,,US,voyager,credit
+708825,00-99,,US,voyager,credit
+708826,00-99,,US,voyager,credit
+708827,00-99,,US,voyager,credit
+708828,00-99,,US,voyager,credit
+708829,00-99,,US,voyager,credit
+708830,00-99,,US,voyager,credit
+708831,00-99,,US,voyager,credit
+708832,00-99,,US,voyager,credit
+708833,00-99,,US,voyager,credit
+708834,00-99,,US,voyager,credit
+708835,00-99,,US,voyager,credit
+708836,00-99,,US,voyager,credit
+708837,00-99,,US,voyager,credit
+708838,00-99,,US,voyager,credit
+708839,00-99,,US,voyager,credit
+708840,00-99,,US,voyager,credit
+708841,00-99,,US,voyager,credit
+708842,00-99,,US,voyager,credit
+708843,00-99,,US,voyager,credit
+708844,00-99,,US,voyager,credit
+708845,00-99,,US,voyager,credit
+708846,00-99,,US,voyager,credit
+708847,00-99,,US,voyager,credit
+708848,00-99,,US,voyager,credit
+708849,00-99,,US,voyager,credit
+708850,00-99,,US,voyager,credit
+708851,00-99,,US,voyager,credit
+708852,00-99,,US,voyager,credit
+708853,00-99,,US,voyager,credit
+708854,00-99,,US,voyager,credit
+708855,00-99,,US,voyager,credit
+708856,00-99,,US,voyager,credit
+708857,00-99,,US,voyager,credit
+708858,00-99,,US,voyager,credit
+708859,00-99,,US,voyager,credit
+708860,00-99,,US,voyager,credit
+708861,00-99,,US,voyager,credit
+708862,00-99,,US,voyager,credit
+708863,00-99,,US,voyager,credit
+708864,00-99,,US,voyager,credit
+708865,00-99,,US,voyager,credit
+708866,00-99,,US,voyager,credit
+708867,00-99,,US,voyager,credit
+708868,00-99,,US,voyager,credit
+708869,00-99,,US,voyager,credit
+708870,00-99,,US,voyager,credit
+708871,00-99,,US,voyager,credit
+708872,00-99,,US,voyager,credit
+708873,00-99,,US,voyager,credit
+708874,00-99,,US,voyager,credit
+708875,00-99,,US,voyager,credit
+708876,00-99,,US,voyager,credit
+708877,00-99,,US,voyager,credit
+708878,00-99,,US,voyager,credit
+708879,00-99,,US,voyager,credit
+708880,00-99,,US,voyager,credit
+708881,00-99,,US,voyager,credit
+708882,00-99,,US,voyager,credit
+708883,00-99,,US,voyager,credit
+708884,00-99,,US,voyager,credit
+708885,00-99,,US,voyager,credit
+708886,00-99,,US,voyager,credit
+708887,00-99,,US,voyager,credit
+708888,00-99,,US,voyager,credit
+708889,00-99,,US,voyager,credit
+708890,00-99,,US,voyager,credit
+708891,00-99,,US,voyager,credit
+708892,00-99,,US,voyager,credit
+708893,00-99,,US,voyager,credit
+708894,00-99,,US,voyager,credit
+708895,00-99,,US,voyager,credit
+708896,00-99,,US,voyager,credit
+708897,00-99,,US,voyager,credit
+708898,00-99,,US,voyager,credit
+708899,00-99,,US,voyager,credit
+708918,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,local brand,credit
+709900,00-99,SYNCHRONY BANK,US,ebt,debit
