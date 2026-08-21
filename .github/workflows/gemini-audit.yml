@@ -30,6 +30,7 @@ jobs:
         run: node scripts/gemini_audit.js
 
       - name: Create Pull Request for audited data
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -45,3 +46,9 @@ jobs:
           branch: "gemini-auto-audit"
           labels: "automerge"
           delete-branch: true
+
+      - name: Auto-Merge Pull Request
+        if: steps.cpr.outputs.pull-request-number
+        run: gh pr merge --merge --admin "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
