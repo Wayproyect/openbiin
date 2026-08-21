@@ -399,14 +399,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 670397,00-99,ARGENTA SPAARBANK,BE,maestro,debit
 670398,00-99,ING BELGIUM,BE,maestro/bancontact,debit
 670399,00-99,EUROPAY BELGIUM S.C.R.L.,BE,maestro/bancontact,debit
-670400,00-99,,IT,maestro,debit
-670401,00-99,,DE,maestro,debit
-670402,00-99,,IT,maestro,debit
-670405,00-99,,ES,maestro,debit
-670410,00-99,,DE,maestro,debit
-670413,00-99,,RU,maestro,debit
-670434,00-99,,GB,maestro,debit
-670496,00-99,,AT,maestro,debit
+670400,00-99,Nexi Payments,IT,maestro,debit
+670401,00-99,Deutsche Bank,DE,maestro,debit
+670402,00-99,Nexi Payments,IT,maestro,debit
+670405,00-99,CaixaBank,ES,maestro,debit
+670410,00-99,Deutsche Bank,DE,maestro,debit
+670413,00-99,Sberbank,RU,maestro,debit
+670434,00-99,Clydesdale Bank,GB,maestro,debit
+670496,00-99,Erste Bank,AT,maestro,debit
 670500,00-99,BROADCASTLE BANK LTD.,GB,maestro,debit
 670501,00-99,DSK BANK PLC,BG,maestro,debit
 670502,00-99,BARCLAYS BANK PLC,GB,maestro,debit
@@ -420,7 +420,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 670510,00-99,PREPAY TECHNOLOGIES LTD.,RO,maestro,debit
 670511,00-99,PREPAY TECHNOLOGIES LTD.,NL,maestro,debit
 670512,00-99,BANK ZENIT,RU,maestro,debit
-670513,00-99,,RU,maestro,debit
+670513,00-99,Sberbank,RU,maestro,debit
 670514,00-99,AGROINDUSTRIJSKO KOMERCIJALNA BANKA AIK BANKA AKCIONARSKO DRUSTVO BEOG,RS,maestro,debit
 670515,00-99,WORLDLINE FINANCIAL SERVICES (EUROPE) SA,LU,maestro,debit
 670516,00-99,PUBLIC JOINT STOCK COMPANY ALFA-BANK,UA,maestro,debit
@@ -454,7 +454,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 670546,00-99,JOINT STOCK BANK UKRGASBANK,UA,maestro,debit
 670547,00-99,CITFIN SPORITELNI DRUZSTVO,CZ,maestro,debit
 670548,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,maestro,debit
-670549,00-99,,RU,maestro,debit
+670549,00-99,Sberbank,RU,maestro,debit
 670550,00-99,PJSC ROSBANK,RU,maestro,debit
 670551,00-99,NEXI PAYMENTS SPA,IT,maestro,debit
 670553,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,maestro,debit
