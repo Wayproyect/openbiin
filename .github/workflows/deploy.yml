@@ -1,0 +1,36 @@
+name: Deploy to Firebase
+
+on:
+  schedule:
+    - cron: '0 15 * * 2'
+  workflow_dispatch:
+
+jobs:
+  build_and_deploy:
+    name: Build & Deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      - name: Install Frontend Dependencies
+        run: npm ci
+
+      - name: Build Frontend
+        run: npm run build
+
+      - name: Install Functions Dependencies
+        run: npm ci
+        working-directory: ./functions
+
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Deploy to Firebase
+        run: firebase deploy --non-interactive --token "${{ secrets.FIREBASE_TOKEN }}"
