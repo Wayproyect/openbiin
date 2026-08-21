@@ -1,7 +1,7 @@
 name: Auto Merge
 
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - synchronize
@@ -9,14 +9,51 @@ on:
       - ready_for_review
 
 jobs:
-  enable-automerge:
+  auto-merge:
     runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Verify Only CSVs Modified
+        id: verify
+        run: |
+          echo "Checking modified files in PR #${{ github.event.pull_request.number }}..."
+          FILES=$(gh pr view ${{ github.event.pull_request.number }} --json files --jq '.files[].path' --repo ${{ github.repository }})
+          
+          ONLY_CSV=true
+          for file in $FILES; do
+            if [[ "$file" != functions/data/*.csv ]]; then
+              echo "Non-CSV file modified: $file"
+              ONLY_CSV=false
+              break
+            fi
+          done
+          
+          if [ "$ONLY_CSV" = false ]; then
+            echo "Non-CSV file found. Adding comment."
+            gh pr comment ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --body "👋 Hello and thank you for your contribution! 
+            
+            This Pull Request cannot be automatically processed because it contains modifications to system or code files.
+            
+            🤖 To maintain project security, this bot **only auto-merges** Pull Requests that **exclusively** edit database files (\`*.csv\`) inside the \`functions/data/\` directory.
+            
+            If your intention was only to update the BIN database, please discard the changes in the other files so your PR can be approved and merged instantly."
+            exit 1
+          fi
+          
+          echo "Verification passed. Only CSVs in functions/data/ were modified."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Enable Auto-Merge via GitHub CLI
-        run: gh pr merge --auto --merge "$PR_URL"
+        run: gh pr merge --merge --admin "$PR_URL"
         env:
           PR_URL: ${{github.event.pull_request.html_url}}
           GH_TOKEN: ${{secrets.GITHUB_TOKEN}}
