@@ -15,23 +15,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 610098,00-99,TEXAS EBT ISSUED BY AFFILIATED COMPUTER SERVICES,US,ebt,debit
 610099,00-99,Fiserv,US,ebt,debit
 610131,00-99,MKB,HU,private label,debit
-610157,00-99,,BR,private label,debit
+610157,00-99,Banco Bradesco,BR,elo,debit
 610190,00-99,JTB CORP.,JP,local brand,credit
-610192,00-99,,US,ebt,debit
-610210,00-99,,US,private label,debit
-610220,00-99,,US,private label,debit
-610239,00-99,,US,private label,debit
+610192,00-99,Jpmorgan Chase Bank,US,ebt,debit
+610210,00-99,Fiserv Solutions,US,private label,debit
+610220,00-99,Fiserv Solutions,US,private label,debit
+610239,00-99,Fiserv Solutions,US,private label,debit
 610287,00-99,OREGON WIC,US,ebt,debit
 610296,00-99,EWIC,US,ebt,debit
 610320,00-99,MASSACHUSETTS EBT,US,ebt,debit
-610411,00-99,,DK,maestro,debit
-610415,00-99,,US,private label,debit
-610420,00-99,,US,ebt,debit
+610411,00-99,Danske Bank,DK,maestro,debit
+610415,00-99,Fiserv Solutions,US,private label,debit
+610420,00-99,Jpmorgan Chase Bank,US,ebt,debit
 610422,00-99,AMAGERKORT AMAGER-KORT,DK,maestro,debit
 610423,00-99,MINNESOTA EBT,US,ebt,debit
 610424,00-99,FIRST NATIONAL BANK ALASKA,US,private label,credit
-610425,00-99,,US,ebt,debit
-610426,00-99,,US,ebt,debit
+610425,00-99,Jpmorgan Chase Bank,US,ebt,debit
+610426,00-99,Jpmorgan Chase Bank,US,ebt,debit
 610427,00-99,,US,ebt,debit
 610428,00-99,,US,ebt,debit
 610429,00-99,,US,ebt,debit
