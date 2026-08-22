@@ -1,7 +1,7 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 130564,00-99,TD CANADA TRUST / THE TORONTO DOMINION BANK,CA,private label,debit
-131000,00-99,,US,private label,debit
-131840,00-99,,US,ebt,debit
+131000,00-99,First Data,US,private label,debit
+131840,00-99,Ebt Card,US,ebt,debit
 132100,00-99,AMERICAN AIRLINES (AA),US,uatp,credit
 132101,00-99,AMERICAN AIRLINES (AA),US,uatp,credit
 132102,00-99,AMERICAN AIRLINES (AA),US,uatp,credit
@@ -203,4 +203,4 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 133398,00-99,MONETA,US,uatp,credit
 133399,00-99,MONETA,US,uatp,credit
 134000,00-99,ODEON,GB,private label,debit
-137972,00-99,,US,ebt,debit
+137972,00-99,Ebt Card,US,ebt,debit
