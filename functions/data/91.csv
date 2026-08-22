@@ -133,7 +133,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 911212,00-99,ALFA BANK,BY,belkart,debit
 911213,00-99,BELGAZPROMBANK,BY,belkart,debit
 911222,00-99,BPS-SBERBANK,BY,belkart,debit
-911231,00-99,,BY,belkart,debit
+911231,00-99,Belagroprombank,BY,belkart,debit
 911233,00-99,BELINVESTBANK,BY,belkart,debit
 911235,00-99,EVROTORGINVESTBANK,BY,belkart,debit
 911236,00-99,STATUSBANK,BY,belkart,credit
@@ -148,15 +148,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 913086,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 913501,00-99,JANATA BANK LTD.,BD,local brand,debit
 913502,00-99,JANATA BANK LTD.,BD,local brand,credit
-914101,00-99,,US,private label,debit
-914102,00-99,,US,private label,debit
-914103,00-99,,US,private label,debit
-914104,00-99,,US,private label,debit
-914105,00-99,,US,private label,debit
-914106,00-99,,US,private label,debit
-914107,00-99,,US,private label,debit
-914108,00-99,,US,private label,debit
-914109,00-99,,US,private label,debit
+914101,00-99,Synchrony Bank,US,private label,credit
+914102,00-99,Synchrony Bank,US,private label,credit
+914103,00-99,Synchrony Bank,US,private label,credit
+914104,00-99,Synchrony Bank,US,private label,credit
+914105,00-99,Synchrony Bank,US,private label,credit
+914106,00-99,Synchrony Bank,US,private label,credit
+914107,00-99,Synchrony Bank,US,private label,credit
+914108,00-99,Synchrony Bank,US,private label,credit
+914109,00-99,Synchrony Bank,US,private label,credit
 914401,00-99,,US,private label,debit
 914402,00-99,,US,private label,debit
 914403,00-99,,US,private label,debit
