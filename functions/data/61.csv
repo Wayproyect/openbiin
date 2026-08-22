@@ -1,19 +1,19 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-610001,00-99,,US,private label,debit
-610009,00-99,,CR,private label,debit
+610001,00-99,Discover,US,discover,credit
+610009,00-99,Banco Nacional De Costa Rica,CR,visa,debit
 610014,00-99,MEDCO HEALTH,US,private label,debit
-610053,00-99,,CO,private label,debit
+610053,00-99,Bancolombia,CO,visa,debit
 610084,00-99,FIRST HEALTH SERVICES CORPORATION,US,private label,debit
 610090,00-99,PITNEY BOWES,CA,private label,credit
-610091,00-99,,US,ebt,debit
-610092,00-99,,US,ebt,debit
+610091,00-99,Fiserv,US,ebt,debit
+610092,00-99,Fiserv,US,ebt,debit
 610093,00-99,ARKANSAS EBT,US,ebt,debit
-610094,00-99,,US,ebt,debit
-610095,00-99,,US,ebt,debit
-610096,00-99,,US,ebt,debit
-610097,00-99,,US,private label,debit
+610094,00-99,Fiserv,US,ebt,debit
+610095,00-99,Fiserv,US,ebt,debit
+610096,00-99,Fiserv,US,ebt,debit
+610097,00-99,Fiserv,US,ebt,debit
 610098,00-99,TEXAS EBT ISSUED BY AFFILIATED COMPUTER SERVICES,US,ebt,debit
-610099,00-99,,US,ebt,debit
+610099,00-99,Fiserv,US,ebt,debit
 610131,00-99,MKB,HU,private label,debit
 610157,00-99,,BR,private label,debit
 610190,00-99,JTB CORP.,JP,local brand,credit
