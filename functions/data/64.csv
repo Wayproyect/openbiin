@@ -298,7 +298,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 640336,00-99,U.S. BANK N.A.,US,ebt,debit
 640337,00-99,,US,cirrus,debit
 640338,00-99,,US,ebt,debit
-640339,00-99,,US,cirrus,debit
+640339,00-99,Bancorp Bank,US,cirrus,debit
 640340,00-99,,US,cirrus,debit
 640341,00-99,,US,cirrus,debit
 640342,00-99,,US,ebt,debit
