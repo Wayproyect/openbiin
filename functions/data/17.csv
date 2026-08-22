@@ -1,10 +1,10 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-170019,00-99,MELLI BANK,IR,local brand,debit
+170019,00-99,Bank Melli Iran,IR,shetab,debit
 170852,00-99,OUROCARD,BR,ourocard,credit
 178100,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178101,00-99,China Eastern Airlines,CN,uatp,credit
 178102,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178103,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178103,00-99,China Eastern Airlines,CN,uatp,credit
 178104,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178105,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178106,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
@@ -22,7 +22,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 178118,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178119,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178120,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178121,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178121,00-99,China Eastern Airlines,CN,uatp,credit
 178122,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178123,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178124,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
@@ -36,7 +36,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 178132,00-99,China Eastern Airlines,CN,uatp,credit
 178133,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178134,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178135,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178135,00-99,China Eastern Airlines,CN,uatp,credit
 178136,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178137,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178138,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
@@ -45,13 +45,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 178141,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178142,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178143,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178144,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178144,00-99,China Eastern Airlines,CN,uatp,credit
 178145,00-99,China Eastern Airlines,CN,uatp,credit
 178146,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178147,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178148,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178149,00-99,China Eastern Airlines,CN,uatp,credit
-178150,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178150,00-99,China Eastern Airlines,CN,uatp,credit
 178151,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178152,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178153,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
@@ -63,7 +63,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 178159,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178160,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178161,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178162,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178162,00-99,China Eastern Airlines,CN,uatp,credit
 178163,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178164,00-99,China Eastern Airlines,CN,uatp,credit
 178165,00-99,China Eastern Airlines,CN,uatp,credit
@@ -73,13 +73,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 178169,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178170,00-99,China Eastern Airlines,CN,uatp,credit
 178171,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178172,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178172,00-99,China Eastern Airlines,CN,uatp,credit
 178173,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178174,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178175,00-99,China Eastern Airlines,CN,uatp,credit
 178176,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178177,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
-178178,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
+178178,00-99,China Eastern Airlines,CN,uatp,credit
 178179,00-99,China Eastern Airlines,CN,uatp,credit
 178180,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
 178181,00-99,CHINA EASTERN AIRLINES (MU),CN,uatp,credit
