@@ -71,7 +71,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 923001,00-99,ICB ISLAMIC BANK LTD.,BD,local brand,debit
 923301,00-99,EESTI SOTSIAALPANK,EE,private label,debit
 923362,00-99,SWEDBANK A.S.,EE,private label,debit
-923456,00-99,,UA,private label,debit
+923456,00-99,Privatbank,UA,visa,debit
 923909,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 924001,00-99,TRUST BANK LTD.,BD,local brand,debit
 924518,00-99,ABSA GROUP LTD.,ZA,local brand,credit
@@ -82,16 +82,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 925703,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 926089,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 926366,00-99,KAUBAMAJA/SELVER PARTNERKAART,EE,private label,debit
-927000,00-99,,US,private label,debit
+927000,00-99,Jpmorgan Chase Bank,US,visa,debit
 927001,00-99,VISA DPS,US,ebt,debit
-927002,00-99,,US,private label,debit
-927003,00-99,,US,private label,debit
-927004,00-99,,US,private label,debit
-927005,00-99,,US,private label,debit
-927006,00-99,,US,private label,debit
-927007,00-99,,US,private label,debit
-927008,00-99,,US,private label,debit
-927009,00-99,,US,private label,debit
+927002,00-99,Jpmorgan Chase Bank,US,visa,debit
+927003,00-99,Jpmorgan Chase Bank,US,visa,debit
+927004,00-99,Jpmorgan Chase Bank,US,visa,debit
+927005,00-99,Jpmorgan Chase Bank,US,visa,debit
+927006,00-99,Jpmorgan Chase Bank,US,visa,debit
+927007,00-99,Jpmorgan Chase Bank,US,visa,debit
+927008,00-99,Jpmorgan Chase Bank,US,visa,debit
+927009,00-99,Jpmorgan Chase Bank,US,visa,debit
 928000,00-99,BSW BONUS,DE,local brand,debit
 928625,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 929292,00-99,UNIBANK,AZ,private label,debit
