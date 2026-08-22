@@ -30,7 +30,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510029,00-99,INTERNATIONAL CARD SERVICES B.V.,NL,mastercard,credit
 510030,00-99,PAYSAFE FINANCIAL SERVICES LTD.,GG,mastercard,debit
 510031,00-99,NORDEA BANK AB (PUBL),SE,mastercard,credit
-510032,00-99,,SI,mastercard,credit
+510032,00-99,Nova Ljubljanska Banka,SI,mastercard,credit
 510033,00-99,BANCO CETELEM S.A.,ES,mastercard,credit
 510034,00-99,BANCO CETELEM S.A.,ES,mastercard,credit
 510035,00-99,JOINT STOCK COMMERCIAL BANK - TBC BANK,GE,mastercard,credit
@@ -46,7 +46,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510045,00-99,ERSTE BANK DER OSTERREICHISCHEN SPARKASSEN AG,AT,mastercard,credit
 510046,00-99,ISRAEL CREDIT CARDS LTD.,IL,mastercard,credit
 510047,00-99,JOINT STOCK COMPANY RUSSIAN STANDARD BANK,RU,mastercard,credit
-510048,00-99,,PL,mastercard,credit
+510048,00-99,Bank Pekao Sa,PL,mastercard,credit
 510049,00-99,MAX IT FINANCE LTD.,IL,mastercard,credit
 510050,00-99,MUNICIPAL BANK PLC.,BG,mastercard,credit
 510051,00-99,CAIXABANK S.A.,ES,mastercard,credit
@@ -273,7 +273,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510278,00-99,BANCO BRADESCO S.A.,BR,mastercard,credit
 510279,00-99,CITIBANK KOREA INC.,KR,mastercard,credit
 510280,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-510281,00-99,,US,mastercard,debit
+510281,00-99,Jpmorgan Chase Bank Na,US,mastercard,debit
 510282,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,mastercard,debit
 510283,00-99,FIRST NATIONAL BANK ALASKA,US,mastercard,debit
 510284,00-99,ALIOR BANK SPOLKA AKCYJNA,PL,mastercard,debit
@@ -292,7 +292,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510297,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 510298,00-99,LINEAGE BANK,US,mastercard,credit
 510299,00-99,GLOBAL COLOMBIA 81 SA,CO,mastercard,debit
-510300,00-99,,HU,mastercard,credit
+510300,00-99,Otp Bank Nyrt,HU,mastercard,credit
 510301,00-99,RENASANT BANK,US,mastercard,debit
 510302,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 510303,00-99,DESCO FEDERAL CREDIT UNION,US,mastercard,debit
@@ -405,26 +405,26 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510413,00-99,JORDANIAN ELAF FOR INTEGRATED SOLUTIONS,JO,mastercard,debit
 510414,00-99,SUEZ CANAL BANK S.A.E.,EG,mastercard,debit
 510415,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
-510416,00-99,,US,mastercard,credit
+510416,00-99,Jpmorgan Chase Bank Na,US,mastercard,credit
 510417,00-99,ASIA COMMERCIAL BANK,VN,mastercard,debit
-510418,00-99,,US,mastercard,credit
+510418,00-99,Jpmorgan Chase Bank Na,US,mastercard,credit
 510419,00-99,BANCO INTERNACIONAL,CL,mastercard,debit
 510420,00-99,INDUSTRIAL BANK CO. LTD,CN,mastercard,credit
 510421,00-99,BANK OF BARODA,IN,mastercard,debit
 510422,00-99,COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.,EG,mastercard,debit
 510423,00-99,SIAPAY SRL,IT,mastercard,credit
-510425,00-99,,IN,mastercard,credit
+510425,00-99,Hdfc Bank Ltd,IN,mastercard,credit
 510426,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 510427,00-99,COLLABRIA FINANCIAL SERVICES,CA,mastercard,credit
 510428,00-99,ZB BANK LTD.,ZW,mastercard,debit
 510429,00-99,PSCU INCORPORATED,US,mastercard,debit
 510430,00-99,CREDIT URAL BANK,RU,mastercard,debit
-510431,00-99,,US,mastercard,credit
+510431,00-99,Jpmorgan Chase Bank Na,US,mastercard,credit
 510432,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,mastercard,credit
 510433,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,mastercard,credit
 510435,00-99,NATIONAL BANK OF EGYPT,EG,mastercard,credit
 510436,00-99,PUBLIC JOINT STOCK COMPANY BANK URALSIB,RU,mastercard,debit
-510437,00-99,,IN,mastercard,credit
+510437,00-99,Hdfc Bank Ltd,IN,mastercard,credit
 510438,00-99,FIFTH THIRD BANK,US,mastercard,credit
 510440,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,debit
 510441,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
@@ -441,7 +441,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510452,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,credit
 510453,00-99,PJSC ROSBANK,RU,mastercard,debit
 510454,00-99,MOBIASBANCA - OTP GRUP SA,MD,mastercard,credit
-510456,00-99,,ZA,mastercard,debit
+510456,00-99,Standard Bank Of South Africa,ZA,mastercard,debit
 510457,00-99,STANDARD CHARTERED BANK,ID,mastercard,debit
 510458,00-99,BANCO DE LOS TRABAJADORES,HN,mastercard,credit
 510459,00-99,FRANSABANK SAL,LB,mastercard,debit
