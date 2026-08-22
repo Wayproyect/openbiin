@@ -6,18 +6,18 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 980456,00-99,RAIFFEISEN BANK AVAL,UA,prostir,debit
 980462,00-99,REGION-BANK,UA,prostir,debit
 980470,00-99,OSCHADBANK,UA,prostir,debit
-980614,00-99,Unknown,US,private label,debit
-981601,00-99,Unknown,US,private label,debit
+980614,00-99,National Bank Of Canada,CA,private label,debit
+981601,00-99,National Bank Of Canada,CA,private label,debit
 981870,00-99,Banque Misr,EG,meeza,debit
 981957,00-99,COMMERCIAL JOINTSTOCK FOR PRIVATE ENTERPRISES BANK,VN,private label,debit
 982004,00-99,COMDIRECT BANK,DE,vpay,debit
 982613,00-99,ROYAL BANK OF SCOTLAND PLC,GB,local brand,debit
 982615,00-99,WATERSTONES,GB,private label,debit
-982616,00-99,Unknown,GB,private label,debit
+982616,00-99,National Bank Of Canada,CA,private label,debit
 982620,00-99,ROYAL BANK OF SCOTLAND PLC,GB,local brand,debit
-982630,00-99,Unknown,GB,private label,debit
-983508,00-99,Unknown,US,private label,debit
-984000,00-99,Unknown,US,private label,debit
+982630,00-99,National Bank Of Canada,CA,private label,debit
+983508,00-99,National Bank Of Canada,CA,private label,debit
+984000,00-99,National Bank Of Canada,CA,private label,debit
 984300,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,debit
 984301,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,debit
 984302,00-99,SHANGHAI PUDONG DEVELOPMENT BANK CO,CN,local,credit
@@ -54,14 +54,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 986033,00-99,Ipak Yuli Bank,UZ,humocard,debit
 986034,00-99,Ipak Yuli Bank,UZ,humocard,debit
 986035,00-99,Ipak Yuli Bank,UZ,uzcard,debit
-987654,00-99,,US,private label,debit
+987654,00-99,Unknown,US,private label,debit
 988388,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,HK,local brand,credit
 988704,00-99,COMMERZBANK,DE,vpay,debit
 989009,00-99,PUBLIC JSC RAIFFEISEN BANK AVAL,UA,private label,debit
-989100,00-99,,RS,dinacard,debit
+989100,00-99,Postanska Stedionica,RS,dinacard,debit
 989101,00-99,BANKA POSTANSKA STEDIONICA,RS,dinacard,debit
-989102,00-99,,RS,dinacard,debit
-989103,00-99,,RS,dinacard,debit
+989102,00-99,Postanska Stedionica,RS,dinacard,debit
+989103,00-99,Postanska Stedionica,RS,dinacard,debit
 989104,00-99,,RS,dinacard,debit
 989105,00-99,,RS,dinacard,debit
 989106,00-99,SRPSKA BANKA A.D. BEOGRAD,RS,dinacard,debit
