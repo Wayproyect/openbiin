@@ -402,14 +402,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520403,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520404,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520405,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-520406,00-99,,US,mastercard,credit
-520407,00-99,,NL,mastercard,credit
-520408,00-99,,US,mastercard,credit
-520409,00-99,,BR,mastercard,credit
-520410,00-99,,CL,mastercard,debit
-520411,00-99,,US,mastercard,credit
-520412,00-99,,VN,mastercard,credit
-520413,00-99,,DE,mastercard,credit
+520406,00-99,Mastercard,US,mastercard,credit
+520407,00-99,Mastercard,NL,mastercard,credit
+520408,00-99,Mastercard,US,mastercard,credit
+520409,00-99,Mastercard,BR,mastercard,credit
+520410,00-99,Mastercard,CL,mastercard,debit
+520411,00-99,Mastercard,US,mastercard,credit
+520412,00-99,Mastercard,VN,mastercard,credit
+520413,00-99,Mastercard,DE,mastercard,credit
 520414,00-99,DOHA BANK Q.S.C,QA,mastercard,credit
 520415,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 520416,00-99,BANAMEX,MX,mastercard,debit
@@ -419,8 +419,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520420,00-99,UNITED BANK FOR AFRICA PLC,KE,mastercard,debit
 520421,00-99,ST. ANNES CREDIT UNION,US,mastercard,credit
 520422,00-99,SALAAM AFRICAN BANK,SO,mastercard,debit
-520423,00-99,,NZ,mastercard,credit
-520426,00-99,,GB,mastercard,credit
+520423,00-99,Mastercard,NZ,mastercard,credit
+520426,00-99,Mastercard,GB,mastercard,credit
 520430,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520431,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520432,00-99,FIRST INTERSTATE BANK,US,mastercard,credit
