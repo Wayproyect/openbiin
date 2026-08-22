@@ -1,14 +1,14 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-300001,00-99,,HU,diners club international,credit
-300002,00-99,,AU,diners club international,credit
-300003,00-99,,US,diners club international,credit
-300004,00-99,,US,diners club international,credit
-300005,00-99,,US,diners club international,credit
-300006,00-99,,GB,diners club international,credit
-300007,00-99,,US,diners club international,credit
-300008,00-99,,US,diners club international,credit
-300009,00-99,,US,diners club international,credit
-300010,00-99,,ES,diners club international,credit
+300001,00-99,Diners Club Hungary,HU,diners club international,credit
+300002,00-99,Diners Club Australia,AU,diners club international,credit
+300003,00-99,Diners Club International,US,diners club international,credit
+300004,00-99,Diners Club International,US,diners club international,credit
+300005,00-99,Diners Club International,US,diners club international,credit
+300006,00-99,Diners Club United Kingdom,GB,diners club international,credit
+300007,00-99,Diners Club International,US,diners club international,credit
+300008,00-99,Diners Club International,US,diners club international,credit
+300009,00-99,Diners Club International,US,diners club international,credit
+300010,00-99,Diners Club Spain,ES,diners club international,credit
 300011,00-99,,TN,diners club international,credit
 300012,00-99,,US,diners club international,credit
 300013,00-99,,US,diners club international,credit
