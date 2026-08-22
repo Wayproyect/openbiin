@@ -1,15 +1,15 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 500000,00-99,FRANK CHRISTMAS BANK,US,ebt,debit
-500001,00-99,,US,ebt,debit
-500002,00-99,,US,ebt,debit
-500003,00-99,,US,ebt,debit
-500004,00-99,,US,cirrus,debit
-500005,00-99,,DO,maestro,debit
-500006,00-99,,US,ebt,debit
-500007,00-99,,US,ebt,debit
-500008,00-99,,BR,maestro,debit
-500009,00-99,,BD,maestro,debit
-500010,00-99,,US,ebt,debit
+500001,00-99,Midland Bank,GB,maestro,debit
+500002,00-99,Midland Bank,GB,maestro,debit
+500003,00-99,Midland Bank,GB,maestro,debit
+500004,00-99,Midland Bank,GB,maestro,debit
+500005,00-99,Banco Popular Dominicano,DO,maestro,debit
+500006,00-99,Midland Bank,GB,maestro,debit
+500007,00-99,Midland Bank,GB,maestro,debit
+500008,00-99,Banco Do Brasil,BR,maestro,debit
+500009,00-99,Dutch Bangla Bank,BD,maestro,debit
+500010,00-99,Midland Bank,GB,maestro,debit
 500011,00-99,,US,ebt,debit
 500012,00-99,,US,cirrus,debit
 500013,00-99,,US,ebt,debit
