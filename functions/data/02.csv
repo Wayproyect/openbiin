@@ -1,11 +1,11 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 020010,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
-020083,00-99,,IT,pagobancomat,debit
-020084,00-99,,IT,pagobancomat,debit
-020085,00-99,,IT,pagobancomat,debit
-020089,00-99,,IT,pagobancomat,debit
+020083,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
+020084,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
+020085,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
+020089,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
 020202,00-99,CHINA CONSTRUCTION BANK,CN,private label,debit
 021080,00-99,BANCO PICHINCHA,EC,private label,debit
-021502,00-99,,PR,local brand,debit
+021502,00-99,Banco Popular De Puerto Rico,PR,ath,debit
 022004,00-99,TBI BANK,BG,private label,debit
 026688,00-99,SHIFT4 PAYMENTS,US,private label,debit
