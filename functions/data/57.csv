@@ -970,7 +970,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 574128,00-99,,GB,maestro,debit
 574129,00-99,,US,ebt,debit
 574130,00-99,,US,cirrus,debit
-574131,00-99,,MX,maestro,debit
+574131,00-99,Santander,MX,maestro,debit
 574135,00-99,,US,ebt,debit
 574140,00-99,,US,cirrus,debit
 574143,00-99,MAESTRO INTERNATIONAL,RU,maestro,debit
