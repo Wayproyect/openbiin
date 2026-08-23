@@ -1,14 +1,14 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-710001,00-99,,US,private label,debit
-710010,00-99,,US,private label,debit
-710027,00-99,,US,private label,debit
-710034,00-99,,US,private label,debit
-710037,00-99,,US,private label,debit
-710042,00-99,,US,private label,debit
-710050,00-99,,US,private label,debit
-710063,00-99,,US,private label,debit
-710066,00-99,,US,private label,debit
-710067,00-99,,US,private label,debit
+710001,00-99,Synchrony Bank,US,private label,credit
+710010,00-99,Synchrony Bank,US,private label,credit
+710027,00-99,Synchrony Bank,US,private label,credit
+710034,00-99,Synchrony Bank,US,private label,credit
+710037,00-99,Synchrony Bank,US,private label,credit
+710042,00-99,Synchrony Bank,US,private label,credit
+710050,00-99,Synchrony Bank,US,private label,credit
+710063,00-99,Synchrony Bank,US,private label,credit
+710066,00-99,Synchrony Bank,US,private label,credit
+710067,00-99,Synchrony Bank,US,private label,credit
 710075,00-99,,US,private label,debit
 710076,00-99,,US,private label,debit
 710077,00-99,,US,private label,debit
