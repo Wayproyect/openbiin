@@ -32,20 +32,20 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 610424,00-99,FIRST NATIONAL BANK ALASKA,US,private label,credit
 610425,00-99,Jpmorgan Chase Bank,US,ebt,debit
 610426,00-99,Jpmorgan Chase Bank,US,ebt,debit
-610427,00-99,,US,ebt,debit
-610428,00-99,,US,ebt,debit
-610429,00-99,,US,ebt,debit
-610430,00-99,,US,ebt,debit
+610427,00-99,Fidelity National Information Services,US,ebt,debit
+610428,00-99,Fidelity National Information Services,US,ebt,debit
+610429,00-99,Fidelity National Information Services,US,ebt,debit
+610430,00-99,Fidelity National Information Services,US,ebt,debit
 610432,00-99,HABIB BANK LTD.,AE,local brand,debit
 610433,00-99,BANK MELLAT,IR,private label,debit
 610434,00-99,NEW JERSEY EBT,US,ebt,debit
-610435,00-99,,US,ebt,debit
-610436,00-99,,US,ebt,debit
-610437,00-99,,US,ebt,debit
-610438,00-99,,US,ebt,debit
-610439,00-99,,US,ebt,debit
+610435,00-99,Fidelity National Information Services,US,ebt,debit
+610436,00-99,Fidelity National Information Services,US,ebt,debit
+610437,00-99,Fidelity National Information Services,US,ebt,debit
+610438,00-99,Fidelity National Information Services,US,ebt,debit
+610439,00-99,Fidelity National Information Services,US,ebt,debit
 610460,00-99,FIRST NATIONAL BANK ALASKA,US,ebt,debit
-610464,00-99,,SG,private label,debit
+610464,00-99,Dbs Bank,SG,private label,debit
 610470,00-99,COUTH CAROLINA EBT,US,ebt,debit
 610471,00-99,,US,ebt,debit
 610472,00-99,,US,ebt,debit
