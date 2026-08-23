@@ -1,5 +1,5 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-360000,00-99,,CO,diners club international,credit
+360000,00-99,Diners Club International,CO,diners club,credit
 360001,00-99,DC NICARAGUA,NI,diners club international,credit
 360002,00-99,DC SINGAPORE,SG,diners club international,credit
 360003,00-99,DC SINGAPORE,SG,diners club international,credit
@@ -11,15 +11,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 360009,00-99,DC SINGAPORE,SG,diners club international,credit
 360010,00-99,DC SINGAPORE,SG,diners club international,credit
 360011,00-99,DC SINGAPORE,SG,diners club international,credit
-360012,00-99,,HK,diners club international,credit
-360013,00-99,,HK,diners club international,credit
-360014,00-99,,HK,diners club international,credit
-360015,00-99,,HK,diners club international,credit
-360016,00-99,,MY,diners club international,credit
-360017,00-99,,MY,diners club international,credit
-360018,00-99,,MY,diners club international,credit
-360019,00-99,,MY,diners club international,credit
-360020,00-99,,US,diners club international,credit
+360012,00-99,Diners Club International,HK,diners club,credit
+360013,00-99,Diners Club International,HK,diners club,credit
+360014,00-99,Diners Club International,HK,diners club,credit
+360015,00-99,Diners Club International,HK,diners club,credit
+360016,00-99,Diners Club International,MY,diners club,credit
+360017,00-99,Diners Club International,MY,diners club,credit
+360018,00-99,Diners Club International,MY,diners club,credit
+360019,00-99,Diners Club International,MY,diners club,credit
+360020,00-99,Diners Club International,US,diners club,credit
 360021,00-99,DC SINGAPORE,SG,diners club international,credit
 360022,00-99,DC SINGAPORE,SG,diners club international,credit
 360023,00-99,DC SINGAPORE,SG,diners club international,credit
