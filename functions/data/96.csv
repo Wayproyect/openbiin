@@ -3,16 +3,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 960167,00-99,GWANGJU BANK,KR,local brand,debit
 960171,00-99,GWANGJU BANK,KR,local brand,debit
 960172,00-99,GWANGJU BANK,KR,local brand,debit
-960410,00-99,,PE,private label,debit
-960800,00-99,,PH,private label,debit
-960801,00-99,,US,private label,debit
-960802,00-99,,US,private label,debit
-960803,00-99,,US,private label,debit
-960804,00-99,,US,private label,debit
-960805,00-99,,US,private label,debit
-960806,00-99,,US,private label,debit
-960807,00-99,,US,private label,debit
-960808,00-99,,US,private label,debit
+960410,00-99,Banco De Credito Del Peru,PE,private label,debit
+960800,00-99,Bdo Unibank,PH,private label,debit
+960801,00-99,Jpmorgan Chase Bank,US,private label,debit
+960802,00-99,Jpmorgan Chase Bank,US,private label,debit
+960803,00-99,Jpmorgan Chase Bank,US,private label,debit
+960804,00-99,Jpmorgan Chase Bank,US,private label,debit
+960805,00-99,Jpmorgan Chase Bank,US,private label,debit
+960806,00-99,Jpmorgan Chase Bank,US,private label,debit
+960807,00-99,Jpmorgan Chase Bank,US,private label,debit
+960808,00-99,Jpmorgan Chase Bank,US,private label,debit
 960809,00-99,,US,private label,debit
 961100,00-99,BANK OF CYPRUS PUBLIC COMPANY LTD.,CY,private label,debit
 963400,00-99,,QA,private label,debit
