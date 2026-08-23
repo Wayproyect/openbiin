@@ -70,14 +70,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 470068,00-99,BANCO AFINZ S.A. BANCO MULTIPLO,BR,visa,debit
 470069,00-99,JPMorgan Chase Bank,US,visa,credit
 470070,00-99,BANCO DO BRASIL S.A.,BR,visa,debit
-470071,00-99,,IN,visa,credit
-470072,00-99,,US,visa,credit
-470073,00-99,,US,visa,credit
-470074,00-99,,US,visa,credit
+470071,00-99,Hdfc Bank,IN,visa,credit
+470072,00-99,Jpmorgan Chase Bank,US,visa,credit
+470073,00-99,Jpmorgan Chase Bank,US,visa,credit
+470074,00-99,Jpmorgan Chase Bank,US,visa,credit
 470075,00-99,BANCO DA AMAZONIA S.A.,BR,visa,debit
 470076,00-99,BANCO SANTANDER S.A.,BR,visa,debit
-470077,00-99,,US,visa,credit
-470078,00-99,,US,visa,credit
+470077,00-99,Jpmorgan Chase Bank,US,visa,credit
+470078,00-99,Jpmorgan Chase Bank,US,visa,credit
 470079,00-99,BANCO BRADESCARD S.A.,BR,visa,credit
 470080,00-99,DOCK INSTITUICAO DE PAGAMENTO S.A.,BR,visa,debit
 470081,00-99,BANCO DO BRASIL S.A.,BR,visa,debit
@@ -89,15 +89,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 470087,00-99,ALELO S.A.,BR,visa,debit
 470088,00-99,OMNI BANCO S.A.,BR,visa,debit
 470089,00-99,BANCO BRADESCO S.A.,BR,visa,debit
-470090,00-99,,IN,visa,credit
+470090,00-99,Hdfc Bank,IN,visa,credit
 470091,00-99,HONDA FEDERAL CREDIT UNION,US,visa,debit
 470092,00-99,SHAZAM INC.,US,visa,debit
 470093,00-99,SHAZAM INC.,US,visa,debit
 470094,00-99,SHAZAM INC.,US,visa,debit
 470095,00-99,UNIFY FINANCIAL CREDIT UNION,US,visa,debit
-470096,00-99,,US,visa,debit
+470096,00-99,Jpmorgan Chase Bank,US,visa,debit
 470097,00-99,BANCO MULTIPLE ADEMI S.A.,DO,visa,debit
-470098,00-99,,US,visa,debit
+470098,00-99,Jpmorgan Chase Bank,US,visa,debit
 470099,00-99,TYNDALL FEDERAL CREDIT UNION,US,visa,credit
 470100,00-99,UNION BANK OF INDIA,IN,visa,debit
 470101,00-99,PROVIDENT CREDIT UNION,US,visa,credit
@@ -180,7 +180,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 470178,00-99,FIRST NATIONAL BANK OF OMAHA,US,visa,credit
 470179,00-99,FIRST NATIONAL BANK OF OMAHA,US,visa,credit
 470180,00-99,FIRST NATIONAL BANK OF OMAHA,US,visa,credit
-470181,00-99,,US,visa,credit
+470181,00-99,Jpmorgan Chase Bank,US,visa,credit
 470182,00-99,OREGON COMMUNITY CREDIT UNION,US,visa,credit
 470183,00-99,OREGON COMMUNITY CREDIT UNION,US,visa,credit
 470184,00-99,OREGON COMMUNITY CREDIT UNION,US,visa,credit
