@@ -9,7 +9,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 160707,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160708,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160709,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
-160710,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
+160710,00-99,Etihad Airways,AE,uatp,credit
 160711,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160712,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160713,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
@@ -18,11 +18,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 160716,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160717,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160718,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
-160719,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
+160719,00-99,Etihad Airways,AE,uatp,credit
 160720,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160721,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160722,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
-160723,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
+160723,00-99,Etihad Airways,AE,uatp,credit
 160724,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160725,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160726,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
@@ -88,7 +88,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 160786,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160787,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160788,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
-160789,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
+160789,00-99,Etihad Airways,AE,uatp,credit
 160790,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160791,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
 160792,00-99,ETIHAD AIRWAYS (EY),AE,uatp,credit
@@ -135,7 +135,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 161132,00-99,EASYPAY,US,uatp,credit
 161133,00-99,EASYPAY,US,uatp,credit
 161134,00-99,EASYPAY,US,uatp,credit
-161135,00-99,EASYPAY,US,uatp,credit
+161135,00-99,Easypay,US,uatp,credit
 161136,00-99,EASYPAY,US,uatp,credit
 161137,00-99,EASYPAY,US,uatp,credit
 161138,00-99,EASYPAY,US,uatp,credit
@@ -169,7 +169,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 161166,00-99,EASYPAY,US,uatp,credit
 161167,00-99,EASYPAY,US,uatp,credit
 161168,00-99,EASYPAY,US,uatp,credit
-161169,00-99,EASYPAY,US,uatp,credit
+161169,00-99,Easypay,US,uatp,credit
 161170,00-99,EASYPAY,US,uatp,credit
 161171,00-99,EASYPAY,US,uatp,credit
 161172,00-99,EASYPAY,US,uatp,credit
@@ -179,7 +179,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 161176,00-99,EASYPAY,US,uatp,credit
 161177,00-99,EASYPAY,US,uatp,credit
 161178,00-99,EASYPAY,US,uatp,credit
-161179,00-99,EASYPAY,US,uatp,credit
+161179,00-99,Easypay,US,uatp,credit
 161180,00-99,EASYPAY,US,uatp,credit
 161181,00-99,EASYPAY,US,uatp,credit
 161182,00-99,EASYPAY,US,uatp,credit
@@ -209,11 +209,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 161706,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161707,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161708,00-99,TUIFLY GMBH (HF),GB,uatp,credit
-161709,00-99,TUIFLY GMBH (HF),GB,uatp,credit
+161709,00-99,Tuifly Gmbh,DE,uatp,credit
 161710,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161711,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161712,00-99,TUIFLY GMBH (HF),GB,uatp,credit
-161713,00-99,TUIFLY GMBH (HF),GB,uatp,credit
+161713,00-99,Tuifly Gmbh,DE,uatp,credit
 161714,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161715,00-99,TUIFLY GMBH (HF),GB,uatp,credit
 161716,00-99,TUIFLY GMBH (HF),GB,uatp,credit
@@ -448,7 +448,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 169542,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
 169543,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
 169544,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
-169545,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
+169545,00-99,Eva Airways Corporation,TW,uatp,credit
 169546,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
 169547,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
 169548,00-99,EVA AIRWAYS CORPORATION,TW,uatp,credit
