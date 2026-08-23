@@ -286,7 +286,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 352931,00-99,,JP,jcb,credit
 352932,00-99,,JP,jcb,credit
 352933,00-99,,JP,jcb,credit
-352934,00-99,,JP,jcb,credit
+352934,00-99,Jcb International Credit Card Co. Ltd.,US,jcb,credit
 352935,00-99,,JP,jcb,credit
 352936,00-99,,JP,jcb,credit
 352937,00-99,,JP,jcb,credit
@@ -599,7 +599,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 353244,00-99,,JP,jcb,credit
 353245,00-99,,JP,jcb,credit
 353246,00-99,,JP,jcb,credit
-353247,00-99,,JP,jcb,credit
+353247,00-99,Jcb International Credit Card Co. Ltd.,US,jcb,credit
 353248,00-99,,JP,jcb,credit
 353249,00-99,,JP,jcb,credit
 353250,00-99,,JP,jcb,credit

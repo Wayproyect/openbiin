@@ -7884,7 +7884,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 657882,00-99,,US,discover,debit
 657883,00-99,,US,discover,debit
 657884,00-99,,US,discover,debit
-657885,00-99,,US,discover,debit
+657885,00-99,Bank Of America,US,discover,credit
 657886,00-99,,US,discover,debit
 657887,00-99,,US,discover,debit
 657888,00-99,,US,discover,debit
@@ -8378,7 +8378,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 658376,00-99,,US,discover,credit
 658377,00-99,,US,discover,credit
 658378,00-99,,US,discover,credit
-658379,00-99,,US,discover,credit
+658379,00-99,Bank Of America,US,discover,credit
 658380,00-99,,US,discover,credit
 658381,00-99,,US,discover,credit
 658382,00-99,,US,discover,credit
@@ -9419,7 +9419,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 659417,00-99,,US,discover,credit
 659418,00-99,,US,discover,credit
 659419,00-99,,US,discover,credit
-659420,00-99,,US,discover,credit
+659420,00-99,Bank Of America,US,discover,credit
 659421,00-99,,US,discover,credit
 659422,00-99,,US,discover,credit
 659423,00-99,,US,discover,credit
