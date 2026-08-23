@@ -2,7 +2,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 780001,00-99,SUMITOMO MITSUI CARD ETC CARD,JP,local brand,debit
 780016,00-99,RESONA CARD ETC,JP,local brand,debit
 780901,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
-780902,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
+780902,00-99,Carecredit Ge Money Rsf,US,private label,credit
 780903,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
 780904,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
 780905,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
@@ -10,13 +10,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 780907,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
 780908,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
 780909,00-99,CARECREDIT - GE MONEY RSF,CA,private label,debit
-781411,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
+781411,00-99,Firstrand Bank Ltd,ZA,local brand,credit
 782401,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782402,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782403,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782404,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782405,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782406,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782406,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782407,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782408,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782409,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
@@ -29,7 +29,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 782416,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782417,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782418,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782419,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782419,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782420,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782421,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782422,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
@@ -46,26 +46,26 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 782433,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782434,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782435,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782436,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782436,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782437,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782438,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782439,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782440,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782441,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782442,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782442,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782443,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782444,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782445,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782445,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782446,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782447,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782448,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782449,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782449,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782450,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782451,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782451,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782452,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782453,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782454,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
-782455,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
+782455,00-99,Cnh Capital Revolving Account,CA,private label,credit
 782456,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782457,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
 782458,00-99,CNH CAPITAL REVOLVING ACCOUNT,CA,private label,debit
