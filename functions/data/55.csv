@@ -6028,7 +6028,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 556141,00-99,,US,mastercard,credit
 556142,00-99,,US,mastercard,credit
 556143,00-99,,IN,mastercard,credit
-556144,00-99,,US,mastercard,credit
+556144,00-99,Yes Bank Ltd.,IN,mastercard,credit
 556145,00-99,,IN,mastercard,credit
 556146,00-99,,IN,mastercard,credit
 556147,00-99,REGIONS BANK,US,mastercard,credit
