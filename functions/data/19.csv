@@ -301,7 +301,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 195797,00-99,AUSTRALIAN AIRLINES (OS),AU,uatp,credit
 195798,00-99,AUSTRALIAN AIRLINES (OS),AU,uatp,credit
 195799,00-99,AUSTRALIAN AIRLINES (OS),AU,uatp,credit
-198801,00-99,,US,private label,debit
+198801,00-99,Synchrony Bank,US,private label,credit
 199800,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,credit
 199900,00-99,AIR CHINA,CN,uatp,credit
 199901,00-99,AIR CHINA,CN,uatp,credit
