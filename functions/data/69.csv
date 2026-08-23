@@ -1,14 +1,14 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-690000,00-99,,JP,maestro,debit
+690000,00-99,Jcb International,JP,jcb,credit
 690001,00-99,WEX INC.,US,wexcard,credit
-690002,00-99,,TR,maestro,debit
+690002,00-99,Turkiye Is Bankasi,TR,maestro,debit
 690003,00-99,WEX INC.,US,wexcard,credit
 690004,00-99,WEX INC.,US,wexcard,credit
 690005,00-99,WEX INC.,US,wexcard,credit
 690006,00-99,WEX INC.,US,wexcard,credit
 690007,00-99,PITAPA BASIC,JP,local brand,debit
 690008,00-99,WEX INC.,US,wexcard,credit
-690009,00-99,,RO,maestro,debit
+690009,00-99,Banca Comerciala Romana,RO,maestro,debit
 690010,00-99,WEX INC.,US,wexcard,credit
 690011,00-99,WEX INC.,US,wexcard,credit
 690012,00-99,WEX INC.,US,wexcard,credit
@@ -16,7 +16,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690014,00-99,WEX INC.,US,wexcard,credit
 690015,00-99,WEX INC.,US,wexcard,credit
 690016,00-99,WEX INC.,US,wexcard,credit
-690017,00-99,,JP,maestro,debit
+690017,00-99,Jcb International,JP,jcb,credit
 690018,00-99,WEX INC.,US,wexcard,credit
 690019,00-99,WEX INC.,US,wexcard,credit
 690020,00-99,WEX INC.,US,wexcard,credit
@@ -24,14 +24,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690022,00-99,WEX INC.,US,wexcard,credit
 690023,00-99,WEX INC.,US,wexcard,credit
 690024,00-99,WEX INC.,US,wexcard,credit
-690025,00-99,,JM,maestro,debit
+690025,00-99,National Commercial Bank Jamaica,JM,maestro,debit
 690026,00-99,WEX INC.,US,wexcard,credit
 690027,00-99,WEX INC.,US,wexcard,credit
 690028,00-99,WEX INC.,US,wexcard,credit
 690029,00-99,WEX INC.,US,wexcard,credit
 690030,00-99,WEX INC.,US,wexcard,credit
 690031,00-99,WEX INC.,US,wexcard,credit
-690032,00-99,,AR,maestro,debit
+690032,00-99,Banco De La Nacion Argentina,AR,maestro,debit
 690033,00-99,WEX INC.,US,wexcard,credit
 690034,00-99,WEX INC.,US,wexcard,credit
 690035,00-99,WEX INC.,US,wexcard,credit
@@ -53,7 +53,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690051,00-99,WEX INC.,US,wexcard,credit
 690052,00-99,WEX INC.,US,wexcard,credit
 690053,00-99,WEX INC.,US,wexcard,credit
-690054,00-99,,RU,maestro,debit
+690054,00-99,Sberbank,RU,maestro,debit
 690055,00-99,WEX INC.,US,wexcard,credit
 690056,00-99,WEX INC.,US,wexcard,credit
 690057,00-99,WEX INC.,US,wexcard,credit
@@ -81,7 +81,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690079,00-99,WEX INC.,US,wexcard,credit
 690080,00-99,WEX INC.,US,wexcard,credit
 690081,00-99,WEX INC.,US,wexcard,credit
-690082,00-99,,US,ebt,debit
+690082,00-99,Jpmorgan Chase Bank,US,ebt,debit
 690083,00-99,WEX INC.,US,wexcard,credit
 690084,00-99,WEX INC.,US,wexcard,credit
 690085,00-99,WEX INC.,US,wexcard,credit
@@ -98,10 +98,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690096,00-99,WEX INC.,US,wexcard,credit
 690097,00-99,WEX INC.,US,wexcard,credit
 690098,00-99,WEX INC.,US,wexcard,credit
-690099,00-99,,JP,maestro,debit
+690099,00-99,Jcb International,JP,jcb,credit
 690101,00-99,MARUI'S RED,JP,local brand,debit
 690149,00-99,IAPA FREQUENT FLYERS,GB,maestro,debit
-690172,00-99,,BR,maestro,debit
+690172,00-99,Banco Bradesco,BR,maestro,debit
 690231,00-99,,GE,maestro,debit
 690413,00-99,,EC,maestro,debit
 690465,00-99,,US,ebt,debit
