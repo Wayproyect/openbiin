@@ -10,16 +10,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 500008,00-99,Banco Do Brasil,BR,maestro,debit
 500009,00-99,Dutch Bangla Bank,BD,maestro,debit
 500010,00-99,Midland Bank,GB,maestro,debit
-500011,00-99,,US,ebt,debit
-500012,00-99,,US,cirrus,debit
-500013,00-99,,US,ebt,debit
-500014,00-99,,GB,maestro,debit
-500015,00-99,,US,ebt,debit
-500016,00-99,,US,ebt,debit
-500018,00-99,,US,cirrus,debit
-500019,00-99,,US,ebt,debit
-500020,00-99,,GB,maestro,debit
-500021,00-99,,US,ebt,debit
+500011,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500012,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500013,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500014,00-99,Royal Bank Of Scotland,GB,maestro,debit
+500015,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500016,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500018,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500019,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500020,00-99,Royal Bank Of Scotland,GB,maestro,debit
+500021,00-99,JPMorgan Chase Bank,US,mastercard,debit
 500022,00-99,,BD,maestro,debit
 500023,00-99,,US,ebt,debit
 500024,00-99,,US,ebt,debit
