@@ -8,7 +8,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 990008,00-99,THE PONDICHERRY STATE CO-OP BANK LTD.,IN,local brand,debit
 990009,00-99,THE PALAKKAD DISTRICT CO OP BANK LTD.,IN,local brand,debit
 990010,00-99,STERLING URBAN CO OPERATIVE BANK LTD.,IN,local brand,debit
-990011,00-99,,US,private label,debit
+990011,00-99,Internal Use,US,private label,debit
 990012,00-99,THE KUKARWADA NAGARIK SAHAKARI BANK LTD.,IN,local brand,debit
 990013,00-99,THE MAHUDHA NAGARIK SAHAKARI BANK LTD.,IN,local brand,debit
 990014,00-99,THE NAVNIRMAN CO-OPERATIVE BANK LTD.,IN,local brand,debit
@@ -45,7 +45,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 990049,00-99,THE UNITED CO OPERATIVE BANK LTD.,IN,local brand,debit
 990050,00-99,THE SINGHBHUM DISTRICT CENTRAL CO-OPERATIVE BANK,IN,local brand,debit
 990051,00-99,SIHOR MERCANTILE CO-OPERATIVE BANK LTD.,IN,local brand,debit
-990052,00-99,,US,private label,debit
+990052,00-99,Internal Use,US,private label,debit
 990053,00-99,THE PANCHMAHAL DISTRICT CO OPERATIVE BANK LTD.,IN,local brand,debit
 990056,00-99,DISTRICT CO OPERATIVE BANK LTD SAHARANPUR,IN,local brand,debit
 990057,00-99,BHATPARA NAIHATI CO OPERATIVE BANK LTD.,IN,local brand,debit
@@ -241,20 +241,20 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 990289,00-99,UNITED INDIA CO OPERATIVE BANK LTD NAGINA,IN,local brand,debit
 990871,00-99,KUNMING COMMERCIAL BANK,CN,local,debit
 991975,00-99,MELLAT BANK,IR,local brand,debit
-992003,00-99,,IT,private label,debit
-992004,00-99,,SG,private label,debit
+992003,00-99,Internal Use,IT,private label,debit
+992004,00-99,Internal Use,SG,private label,debit
 992064,00-99,ABANCA CORPORACION BANCARIA S.A.,ES,private label,credit
 995300,00-99,NCC BANK LTD.,BD,private label,debit
-996651,00-99,,US,private label,debit
+996651,00-99,Internal Use,US,private label,debit
 998800,00-99,SZDB (DEBIT CARD),CN,local,debit
 998801,00-99,SZDB (CREDIT CARD),CN,local,credit
 998802,00-99,SZDB (CREDIT CARD),CN,local,credit
 999009,00-99,CAIXABANK S.A.,ES,private label,credit
-999111,00-99,,TR,private label,debit
-999800,00-99,,US,private label,debit
-999818,00-99,,US,private label,debit
-999850,00-99,,RU,private label,debit
-999901,00-99,,US,private label,debit
+999111,00-99,Internal Use,TR,private label,debit
+999800,00-99,Internal Use,US,private label,debit
+999818,00-99,Internal Use,US,private label,debit
+999850,00-99,Internal Use,RU,private label,debit
+999901,00-99,Internal Use,US,private label,debit
 999914,00-99,,US,private label,debit
 999950,00-99,BC CARD,KR,local brand,credit
 999960,00-99,BC CARD,KR,local brand,debit
