@@ -41,7 +41,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530039,00-99,PAYONEER EUROPE LTD.,IE,mastercard,debit
 530040,00-99,FIFTH THIRD BANK,US,mastercard,debit
 530041,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-530042,00-99,,CR,mastercard,debit
+530042,00-99,Banco Nacional De Costa Rica,CR,mastercard,debit
 530043,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,debit
 530044,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 530045,00-99,BANCO PROMERICA DE COSTA RICA S.A.,CR,mastercard,credit
@@ -56,7 +56,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530054,00-99,BANCO DE LA PRODUCCION S.A. (PRODUBANCO),EC,mastercard,credit
 530055,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 530056,00-99,BANAMEX,MX,mastercard,credit
-530057,00-99,,GB,mastercard,credit
+530057,00-99,Capital One Bank,GB,mastercard,credit
 530058,00-99,BANCO SANTANDER RIO SA,AR,mastercard,credit
 530059,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 530060,00-99,FIRST ABU DHABI BANK PJSC,SA,mastercard,debit
@@ -115,7 +115,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530113,00-99,BANCO INBURSA S.A.,MX,mastercard,debit
 530114,00-99,GAZPROMBANK (JOINT STOCK COMPANY),RU,mastercard,debit
 530115,00-99,BUY WAY PERSONAL FINANCE SA,BE,mastercard,debit
-530116,00-99,,PR,mastercard,credit
+530116,00-99,Banco Popular De Puerto Rico,PR,mastercard,credit
 530117,00-99,YES BANK LTD.,IN,mastercard,debit
 530118,00-99,DEUTSCHER SPARKASSEN- UND GIROVERBAND,DE,mastercard,debit
 530119,00-99,WIRECARD CARD SOLUTIONS LTD.,DE,mastercard,debit
@@ -196,8 +196,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530198,00-99,77 CARD CO. LTD.,JP,mastercard,credit
 530199,00-99,THE KYUSHU CARD CO. LTD.,JP,mastercard,credit
 530200,00-99,TOM PAY ELEKTRONIK PARA VE ODEME HIZMETLERI AS,TR,mastercard,debit
-530201,00-99,,DE,mastercard,credit
-530202,00-99,,US,mastercard,debit
+530201,00-99,Advanzia Bank,DE,mastercard,credit
+530202,00-99,First National Bank Of Omaha,US,mastercard,debit
 530203,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 530204,00-99,CAPITEC BANK LTD.,ZA,mastercard,debit
 530205,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
@@ -251,7 +251,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530254,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 530255,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 530256,00-99,CHASE BANK USA N.A.,US,mastercard,credit
-530257,00-99,,US,mastercard,credit
+530257,00-99,First National Bank Of Omaha,US,mastercard,credit
 530258,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 530259,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 530260,00-99,BANNER BANK,US,mastercard,debit
@@ -265,7 +265,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530268,00-99,NEWDAY LTD.,GB,mastercard,credit
 530269,00-99,PREPAID FINANCIAL SERVICES LTD.,GB,mastercard,debit
 530270,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
-530271,00-99,,CA,mastercard,credit
+530271,00-99,Bmo Bank,CA,mastercard,credit
 530272,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 530273,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 530274,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
@@ -533,8 +533,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530538,00-99,BANCA SELLA SPA,IT,mastercard,debit
 530539,00-99,SUTTON BANK,US,mastercard,debit
 530540,00-99,BANQUE LIBANO - FRANCAISE SAL,LB,mastercard,debit
-530541,00-99,,ES,mastercard,debit
-530542,00-99,,CA,mastercard,debit
+530541,00-99,Banco Santander,ES,mastercard,debit
+530542,00-99,Bmo Bank,CA,mastercard,debit
 530543,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,debit
 530544,00-99,JAMMU & KASHMIR BANK LTD.,IN,mastercard,debit
 530545,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
@@ -604,7 +604,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 530609,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 530610,00-99,TOHOKU SHINKIN BANK CARD CO. LTD.,JP,mastercard,credit
 530611,00-99,BANK OF WESTERN AUSTRALIA LTD.,AU,mastercard,credit
-530612,00-99,,BR,mastercard,credit
+530612,00-99,Banco Itau,BR,mastercard,credit
 530613,00-99,REVOLUT TECHNOLOGIES SINGAPORE PTE. LTD.,SG,mastercard,debit
 530614,00-99,BANCORPSOUTH BANK,US,mastercard,credit
 530615,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
