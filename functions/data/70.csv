@@ -1,20 +1,20 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 700000,00-99,ETC CARD,JP,local brand,debit
 700004,00-99,JETCARD,GB,uk fuel card,debit
-700006,00-99,,US,private label,debit
-700011,00-99,,US,private label,debit
+700006,00-99,First Data,US,private label,debit
+700011,00-99,First Data,US,private label,debit
 700013,00-99,SAMSUNG CARD,KR,global bc,credit
 700025,00-99,REDFUEL(EUROPE),GB,chjones fuel card,debit
 700035,00-99,UK FUELS,GB,uk fuel card,debit
-700042,00-99,,US,private label,debit
+700042,00-99,First Data,US,private label,debit
 700045,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
 700047,00-99,MORGAN,GB,chjones fuel card,debit
 700048,00-99,MORGAN,GB,chjones fuel card,debit
-700052,00-99,,US,private label,debit
+700052,00-99,First Data,US,private label,debit
 700054,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
 700064,00-99,UK FUELS,GB,uk fuel card,debit
-700083,00-99,,US,private label,debit
-700084,00-99,,US,private label,debit
+700083,00-99,First Data,US,private label,debit
+700084,00-99,First Data,US,private label,debit
 700099,00-99,FLEET ONE,GB,uk fuel card,debit
 700100,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
 700101,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
@@ -27,10 +27,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 700119,00-99,CITIBANK / BESTBUY,US,private label,credit
 700126,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
 700127,00-99,LOTTE CARD CO. LTD.,KR,private label,credit
-700134,00-99,,US,private label,debit
-700181,00-99,,US,private label,debit
-700205,00-99,,GB,euroshell fuel card,debit
-700236,00-99,,US,private label,debit
+700134,00-99,First Data,US,private label,debit
+700181,00-99,First Data,US,private label,debit
+700205,00-99,Shell,GB,euroshell,debit
+700236,00-99,First Data,US,private label,debit
 700238,00-99,,US,private label,debit
 700247,00-99,PRIORITY PASS,GB,loyalty card,debit
 700250,00-99,,US,private label,debit
