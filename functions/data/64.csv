@@ -9,16 +9,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 640012,00-99,Discover Bank,US,discover,credit
 640013,00-99,Discover Bank,US,discover,credit
 640014,00-99,Discover Bank,US,discover,credit
-640015,00-99,,US,cirrus,debit
-640016,00-99,,US,ebt,debit
-640017,00-99,,US,ebt,debit
-640018,00-99,,US,ebt,debit
-640019,00-99,,US,ebt,debit
-640020,00-99,,US,ebt,debit
-640021,00-99,,US,ebt,debit
-640022,00-99,,US,ebt,debit
-640023,00-99,,US,cirrus,debit
-640024,00-99,,US,ebt,debit
+640015,00-99,Discover Financial Services,US,discover,debit
+640016,00-99,Discover Financial Services,US,discover,debit
+640017,00-99,Discover Financial Services,US,discover,debit
+640018,00-99,Discover Financial Services,US,discover,debit
+640019,00-99,Discover Financial Services,US,discover,debit
+640020,00-99,Discover Financial Services,US,discover,debit
+640021,00-99,Discover Financial Services,US,discover,debit
+640022,00-99,Discover Financial Services,US,discover,debit
+640023,00-99,Discover Financial Services,US,discover,debit
+640024,00-99,Discover Financial Services,US,discover,debit
 640025,00-99,,US,ebt,debit
 640026,00-99,,US,ebt,debit
 640027,00-99,,US,ebt,debit
