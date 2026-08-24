@@ -22,16 +22,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 310020,00-99,Jcb Co Ltd,JP,jcb,credit
 310021,00-99,MIZUHO,JP,jcb,debit
 310022,00-99,Jcb Co Ltd,JP,jcb,credit
-310023,00-99,,JP,jcb,debit
-310024,00-99,,JP,jcb,debit
-310025,00-99,,JP,jcb,debit
-310026,00-99,,JP,jcb,debit
-310027,00-99,,JP,jcb,debit
-310028,00-99,,JP,jcb,debit
-310029,00-99,,JP,jcb,credit
-310030,00-99,,JP,jcb,debit
-310031,00-99,,JP,jcb,debit
-310032,00-99,,JP,jcb,debit
+310023,00-99,Jcb Co Ltd,JP,jcb,credit
+310024,00-99,Jcb Co Ltd,JP,jcb,credit
+310025,00-99,Jcb Co Ltd,JP,jcb,credit
+310026,00-99,Jcb Co Ltd,JP,jcb,credit
+310027,00-99,Jcb Co Ltd,JP,jcb,credit
+310028,00-99,Jcb Co Ltd,JP,jcb,credit
+310029,00-99,Jcb Co Ltd,JP,jcb,credit
+310030,00-99,Jcb Co Ltd,JP,jcb,credit
+310031,00-99,Jcb Co Ltd,JP,jcb,credit
+310032,00-99,Jcb Co Ltd,JP,jcb,credit
 310033,00-99,,JP,jcb,debit
 310034,00-99,,JP,jcb,debit
 310035,00-99,,JP,jcb,debit
