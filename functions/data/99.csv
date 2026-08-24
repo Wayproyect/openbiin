@@ -255,9 +255,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 999818,00-99,Internal Use,US,private label,debit
 999850,00-99,Internal Use,RU,private label,debit
 999901,00-99,Internal Use,US,private label,debit
-999914,00-99,,US,private label,debit
+999914,00-99,American Express,US,amex,credit
 999950,00-99,BC CARD,KR,local brand,credit
 999960,00-99,BC CARD,KR,local brand,debit
 999977,00-99,BC CARD,KR,local brand,debit
 999988,00-99,EFG EUROBANK ERGASIAS S.A.,GR,local brand,debit
-999999,00-99,,IN,rupay,debit
+999999,00-99,State Bank Of India,IN,rupay,debit
