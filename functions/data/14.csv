@@ -1,5 +1,5 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-140000,00-99,RUPALI BANK LTD.,BD,local brand,debit
+140000,00-99,Rupali Bank Ltd,BD,visa,debit
 140210,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 140300,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140301,00-99,YATRA ONLINE LTD.,IN,uatp,credit
@@ -54,11 +54,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140350,00-99,Yatra Online Ltd,IN,uatp,credit
 140351,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140352,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140353,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140353,00-99,Yatra Online Ltd,IN,uatp,credit
 140354,00-99,Yatra Online Ltd,IN,uatp,credit
 140355,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140356,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140357,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140357,00-99,Yatra Online Ltd,IN,uatp,credit
 140358,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140359,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140360,00-99,Yatra Online Ltd,IN,uatp,credit
@@ -73,24 +73,24 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140369,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140370,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140371,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140372,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140372,00-99,Yatra Online Ltd,IN,uatp,credit
 140373,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140374,00-99,Yatra Online Ltd,IN,uatp,credit
 140375,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140376,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140377,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140378,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140378,00-99,Yatra Online Ltd,IN,uatp,credit
 140379,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140380,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140381,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140382,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140382,00-99,Yatra Online Ltd,IN,uatp,credit
 140383,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140384,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140385,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140386,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140387,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140388,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140389,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140389,00-99,Yatra Online Ltd,IN,uatp,credit
 140390,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140391,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140392,00-99,YATRA ONLINE LTD.,IN,uatp,credit
@@ -98,7 +98,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140394,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140395,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140396,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140397,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140397,00-99,Yatra Online Ltd,IN,uatp,credit
 140398,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140399,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140399,00-99,Yatra Online Ltd,IN,uatp,credit
 147062,00-99,MUSLIM COMMERCIAL BANK LTD.,PK,local brand,debit
