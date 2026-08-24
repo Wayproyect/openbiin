@@ -1500,7 +1500,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 531505,00-99,THE SAUDI NATIONAL BANK,SA,mastercard,credit
 531506,00-99,CHASE BANK (KENYA) LTD.,KE,mastercard,credit
 531507,00-99,EQUATORIAL COMMERCIAL BANK LTD.,KE,mastercard,credit
-531508,00-99,,ZW,mastercard,debit
+531508,00-99,Stanbic Bank Zimbabwe,ZW,mastercard,debit
 531509,00-99,FIRST CITIZENS BANK LTD.,TT,mastercard,debit
 531510,00-99,COMENITY CANADA L.P.,CA,mastercard,credit
 531511,00-99,GLENS FALLS NATIONAL BANK AND TRUST COMPANY,US,mastercard,credit
@@ -1529,7 +1529,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 531535,00-99,PASHA BANK,AZ,mastercard,credit
 531536,00-99,JOINT STOCK COMPANY UKRSOTSBANK,UA,mastercard,credit
 531537,00-99,SIGNET BANK AS,LV,mastercard,credit
-531538,00-99,,RU,mastercard,credit
+531538,00-99,Sberbank,RU,mastercard,credit
 531539,00-99,ISTITUTO DI PAGAMENTO SAMMARINESE T.P@Y SPA,SM,mastercard,credit
 531540,00-99,RAIFFEISENBANK A.S.,CZ,mastercard,credit
 531541,00-99,OCEAN BANK,US,mastercard,debit
@@ -1663,7 +1663,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 531673,00-99,JSC <<COMINBANK>>,UA,mastercard,credit
 531674,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,credit
 531675,00-99,AHLI BANK Q.S.C.,QA,mastercard,credit
-531676,00-99,,CA,mastercard,credit
+531676,00-99,Bmo Bank Of Montreal,CA,mastercard,credit
 531677,00-99,ABU DHABI ISLAMIC BANK,EG,mastercard,credit
 531678,00-99,NORWEST BANK IOWA N.A.,US,mastercard,credit
 531679,00-99,CREDIT UNION OF TEXAS,US,mastercard,credit
@@ -1782,7 +1782,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 531792,00-99,SOCIETE GENERALE MAROCAINE DE BANQUES,MA,mastercard,debit
 531793,00-99,MBNA CANADA BANK,CA,mastercard,credit
 531794,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
-531795,00-99,,QA,mastercard,debit
+531795,00-99,Qatar National Bank,QA,mastercard,debit
 531796,00-99,CUETS FINANCIAL,CA,mastercard,debit
 531797,00-99,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
 531798,00-99,MUTUAL CARTAGO DE AHORRO Y PRESTAMO,CR,mastercard,credit
@@ -2011,7 +2011,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532022,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 532023,00-99,BANCO PROMERICA DE COSTA RICA S.A.,CR,mastercard,debit
 532024,00-99,OKLAHOMA EMPLOYEES CREDIT UNION,US,mastercard,credit
-532025,00-99,,DE,mastercard,credit
+532025,00-99,Advanzia Bank,DE,mastercard,credit
 532026,00-99,STEWARD BANK LTD.,ZW,mastercard,credit
 532027,00-99,STANDARD CHARTERED BANK ZAMBIA PLC,ZM,mastercard,credit
 532028,00-99,EECU,US,mastercard,credit
@@ -2033,7 +2033,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532044,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
 532046,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 532047,00-99,AXIS BANK LTD.,IN,mastercard,debit
-532048,00-99,,US,mastercard,credit
+532048,00-99,Capital One Bank,US,mastercard,credit
 532049,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 532050,00-99,R. RAPHAEL & SONS PLC,GB,mastercard,debit
 532051,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
@@ -2044,7 +2044,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532056,00-99,UAB SILVERGATE LT,LT,mastercard,debit
 532058,00-99,POMELO TECH SA DE CV,MX,mastercard,credit
 532059,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
-532060,00-99,,US,mastercard,credit
+532060,00-99,Capital One Bank,US,mastercard,credit
 532061,00-99,FIO BANKA A.S.,SK,mastercard,credit
 532063,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,credit
 532064,00-99,METABANK NATIONAL ASSOCIATION,US,mastercard,debit
@@ -2079,7 +2079,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532094,00-99,CRNOGORSKA KOMERCIJALNA BANKA A.D. PODGORICA,ME,mastercard,debit
 532095,00-99,ULSTER SAVINGS BANK,US,mastercard,debit
 532096,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-532097,00-99,,US,mastercard,credit
+532097,00-99,Capital One Bank,US,mastercard,credit
 532098,00-99,UNITED COMMUNITY BANK,US,mastercard,debit
 532099,00-99,JOINT-STOCK BANK PIVDENNYI (JSB PIVDENNYI),UA,mastercard,credit
 532100,00-99,ITHMAAR BANK B.S.C.,BH,mastercard,debit
@@ -2088,7 +2088,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532104,00-99,COMENITY CAPITAL BANK,US,mastercard,credit
 532105,00-99,SHINHAN CARD CO. LTD.,KR,mastercard,credit
 532106,00-99,CSCBANK SAL,KE,mastercard,credit
-532107,00-99,,US,mastercard,credit
+532107,00-99,Capital One Bank,US,mastercard,credit
 532108,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 532109,00-99,BANCO ATLANTIDA S.A.,HN,mastercard,debit
 532110,00-99,CSCBANK SAL,DJ,mastercard,debit
@@ -2113,7 +2113,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 532130,00-99,QIWI BANK (JOINT STOCK COMPANY),RU,mastercard,debit
 532131,00-99,NEXI PAYMENTS SPA,IT,mastercard,debit
 532132,00-99,NORTH INTERNATIONAL BANK LTD.,AG,mastercard,debit
-532133,00-99,,OM,mastercard,credit
+532133,00-99,Bank Muscat,OM,mastercard,credit
 532134,00-99,SUNRISE BANKS NATIONAL ASSOCIATION,US,mastercard,debit
 532135,00-99,HDFC BANK LTD.,IN,mastercard,credit
 532136,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,debit
