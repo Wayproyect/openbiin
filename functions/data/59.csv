@@ -1996,7 +1996,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 591994,00-99,,AR,maestro,debit
 591995,00-99,,BR,maestro,debit
 591996,00-99,,UA,maestro,debit
-591997,00-99,,CN,maestro,debit
+591997,00-99,MASTERCARD - INTERNAL ICAS,US,maestro,debit
 591998,00-99,,CN,maestro,debit
 591999,00-99,,UA,maestro,debit
 592000,00-99,,LU,maestro,debit

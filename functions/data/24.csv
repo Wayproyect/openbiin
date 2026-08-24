@@ -4005,11 +4005,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 244003,00-99,,,mastercard,debit
 244004,00-99,BANCO MUNDO MUJER S.A.,CO,mastercard,debit
 244005,00-99,CARDNPAY LTD.,TC,mastercard,debit
-244006,00-99,,US,mastercard,debit
-244007,00-99,,US,mastercard,debit
-244008,00-99,,US,mastercard,debit
-244009,00-99,,US,mastercard,debit
-244010,00-99,,US,mastercard,debit
+244006,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
+244007,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
+244008,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
+244009,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
+244010,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
 244011,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
 244012,00-99,CARDNPAY LTD.,TC,mastercard,credit
 244013,00-99,,,mastercard,debit

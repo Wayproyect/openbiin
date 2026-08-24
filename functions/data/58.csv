@@ -1052,7 +1052,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 582406,00-99,,US,cirrus,debit
 582407,00-99,,US,ebt,debit
 582409,00-99,,US,cirrus,debit
-582411,00-99,,US,local brand,debit
+582411,00-99,STAR ONE CREDIT UNION,US,local brand,debit
 582412,00-99,,US,ebt,debit
 582413,00-99,,US,ebt,debit
 582415,00-99,,US,cirrus,debit
@@ -3050,7 +3050,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 585632,00-99,,US,cirrus,debit
 585635,00-99,,US,ebt,debit
 585637,00-99,PNC BANK,US,ebt,debit
-585639,00-99,U.S. BANK N.A.,US,ebt,debit
+585639,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 585641,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
 585642,00-99,,US,ebt,debit
 585648,00-99,,US,ebt,debit
@@ -3074,7 +3074,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 585689,00-99,,US,ebt,debit
 585690,00-99,,US,ebt,debit
 585691,00-99,,US,ebt,debit
-585693,00-99,U.S. BANK N.A.,US,ebt,debit
+585693,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 585695,00-99,,US,maestro,debit
 585697,00-99,,AR,maestro,debit
 585700,00-99,HOUSEHOLDBANK,US,ebt,debit
@@ -3278,7 +3278,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 586175,00-99,,US,ebt,debit
 586177,00-99,,US,cirrus,debit
 586178,00-99,,US,cirrus,debit
-586184,00-99,,US,maestro,debit
+586184,00-99,SANTANDER BANK NA,US,maestro,debit
 586186,00-99,,US,ebt,debit
 586187,00-99,,US,ebt,debit
 586189,00-99,CITIZENS BANK N.A.,US,maestro,debit
@@ -3635,7 +3635,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 586912,00-99,MAESTRO INTERNATIONAL,ES,maestro,debit
 586913,00-99,,US,cirrus,debit
 586914,00-99,,US,cirrus,debit
-586919,00-99,,US,ebt,debit
+586919,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 586923,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
 586924,00-99,,US,ebt,debit
 586926,00-99,,US,ebt,debit
@@ -3849,8 +3849,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 587299,00-99,,US,cirrus,debit
 587300,00-99,,US,ebt,debit
 587301,00-99,,US,ebt,debit
-587302,00-99,,US,ebt,debit
-587305,00-99,,US,cirrus,debit
+587302,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+587305,00-99,SANTANDER BANK NA,US,cirrus,debit
 587306,00-99,,US,cirrus,debit
 587308,00-99,,US,ebt,debit
 587309,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
@@ -4199,7 +4199,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 587851,00-99,,US,ebt,debit
 587852,00-99,,US,ebt,debit
 587853,00-99,,US,cirrus,debit
-587854,00-99,U.S. BANK N.A.,US,ebt,debit
+587854,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 587855,00-99,,US,ebt,debit
 587856,00-99,,US,cirrus,debit
 587857,00-99,,US,ebt,debit
@@ -5218,7 +5218,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 589692,00-99,,US,ebt,debit
 589693,00-99,,US,maestro,debit
 589695,00-99,,US,ebt,debit
-589696,00-99,,US,ebt,debit
+589696,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 589697,00-99,,US,cirrus,debit
 589698,00-99,,US,cirrus,debit
 589700,00-99,,DE,maestro,debit

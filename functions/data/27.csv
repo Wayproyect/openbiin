@@ -873,7 +873,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 270885,00-99,,,mastercard,debit
 270886,00-99,,,mastercard,debit
 270887,00-99,,,mastercard,debit
-270888,00-99,,,mastercard,debit
+270888,00-99,MASTERCARD - MDES,US,mastercard,debit
 270889,00-99,,,mastercard,debit
 270890,00-99,,,mastercard,debit
 270891,00-99,,,mastercard,debit
@@ -1640,7 +1640,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 271652,00-99,,,mastercard,debit
 271653,00-99,,,mastercard,debit
 271654,00-99,,,mastercard,debit
-271655,00-99,,,mastercard,debit
+271655,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
 271656,00-99,,,mastercard,debit
 271657,00-99,,,mastercard,debit
 271658,00-99,,,mastercard,debit
@@ -2027,13 +2027,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 272095,00-99,,,mastercard,debit
 272096,00-99,SWAP MEIOS DE PAGAMENTOS SA,BR,mastercard,debit
 272097,00-99,,,mastercard,debit
-272098,00-99,,,mastercard,debit
+272098,00-99,FLORIDA CAPITAL BANK N.A.,US,mastercard,debit
 272099,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 272476,00-99,,US,private label,debit
 272477,00-99,,US,private label,debit
 272479,00-99,,US,private label,debit
 272480,00-99,,US,private label,debit
-272481,00-99,,US,cirrus,debit
+272481,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,cirrus,debit
 272484,00-99,,US,private label,debit
 272485,00-99,,US,private label,debit
 272486,00-99,,US,private label,debit

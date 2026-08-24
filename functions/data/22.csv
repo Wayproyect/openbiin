@@ -1234,7 +1234,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 222955,00-99,THE COSMOS COOPERATIVE BANK LTD.,IN,mastercard,debit
 222956,00-99,IDBI BANK LTD.,IN,mastercard,debit
 222957,00-99,IDBI BANK LTD.,IN,mastercard,debit
-222958,00-99,,US,mastercard,credit
+222958,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,credit
 222959,00-99,,,mastercard,debit
 222960,00-99,,,mastercard,debit
 222961,00-99,,,mastercard,debit
@@ -7497,7 +7497,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 229219,00-99,,,mastercard,debit
 229220,00-99,,,mastercard,debit
 229221,00-99,,,mastercard,debit
-229222,00-99,,US,mastercard,debit
+229222,00-99,MASTERCARD - INTERNAL ICAS,US,mastercard,debit
 229223,00-99,REGIONS BANK,US,mastercard,credit
 229224,00-99,GREEN DOT BANK,US,mastercard,debit
 229225,00-99,,,mastercard,debit

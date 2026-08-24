@@ -74,7 +74,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 570248,00-99,,US,ebt,debit
 570255,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
 570280,00-99,,US,ebt,debit
-570281,00-99,U.S. BANK N.A.,US,ebt,debit
+570281,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 570284,00-99,,US,ebt,debit
 570286,00-99,,US,cirrus,debit
 570287,00-99,,IT,maestro,debit
@@ -637,7 +637,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 572611,00-99,,US,ebt,debit
 572612,00-99,,US,cirrus,debit
 572618,00-99,,US,ebt,debit
-572622,00-99,,US,cirrus,debit
+572622,00-99,SANTANDER BANK NA,US,cirrus,debit
 572623,00-99,,US,cirrus,debit
 572625,00-99,,MX,maestro,debit
 572626,00-99,MAESTRO INTERNATIONAL,AR,maestro,debit
@@ -2630,6 +2630,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 578297,00-99,,US,cirrus,debit
 578298,00-99,,US,cirrus,debit
 578299,00-99,,US,maestro,debit
+578301,,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
 578346,00-99,,US,ebt,debit
 578364,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
 578394,00-99,,MX,maestro,debit
@@ -2644,6 +2645,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 578496,00-99,MAESTRO INTERNATIONAL,ID,maestro,debit
 578532,00-99,,MA,maestro,debit
 578541,00-99,,PK,maestro,debit
+578558,,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
 578568,00-99,,US,ebt,debit
 578573,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
 578586,00-99,,US,ebt,debit

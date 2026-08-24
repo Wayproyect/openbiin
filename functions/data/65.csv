@@ -158,7 +158,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 650156,00-99,DISCOVER ISSUER,CN,discover,credit
 650157,00-99,DISCOVER ISSUER,CN,discover,credit
 650158,00-99,DISCOVER ISSUER,CN,discover,credit
-650159,00-99,DISCOVER ISSUER,US,discover,credit
+650159,00-99,SYNCHRONY BANK,US,discover,credit
 650160,00-99,DISCOVER ISSUER,US,discover,credit
 650161,00-99,DC BKM - YAPI KREDI BANK,TR,discover,credit
 650162,00-99,DISCOVER ECUADOR,EC,discover,credit
@@ -171,7 +171,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 650169,00-99,MERCURY,AE,discover,debit
 650170,00-99,T. VAKIFLAR BANKASI T.A.O,TR,troy,credit
 650171,00-99,DISCOVER ISSUER,US,discover,credit
-650172,00-99,DISCOVER ISSUER,US,discover,credit
+650172,00-99,SYNCHRONY BANK,US,discover,credit
 650173,00-99,DC BKM - ISBANK - USD,TR,discover,credit
 650174,00-99,DISCOVER ISSUER,US,discover,credit
 650175,00-99,DC BKM - SEKERBANK,TR,discover,credit
@@ -269,7 +269,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 650267,00-99,DISCOVER ISSUER,US,discover,debit
 650268,00-99,DC BKM - ZIRAATBANK,TR,discover,credit
 650269,00-99,DC BKM - ISBANK - USD,TR,discover,credit
-650270,00-99,DISCOVER ISSUER,US,discover,credit
+650270,00-99,SYNCHRONY BANK,US,discover,credit
 650271,00-99,BKM - ABANK,TR,discover,credit
 650272,00-99,CABAL - ISSUER,AR,discover,credit
 650273,00-99,DC BKM - ZIRAATBANK,TR,discover,credit
@@ -1620,7 +1620,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 651618,00-99,DISCOVER ISSUER,US,discover,credit
 651619,00-99,DISCOVER ISSUER,US,discover,credit
 651620,00-99,DISCOVER ISSUER,US,discover,credit
-651621,00-99,DISCOVER,US,discover,credit
+651621,00-99,DISCOVER ISSUER,US,discover,credit
 651622,00-99,DISCOVER ISSUER,US,discover,credit
 651623,00-99,DISCOVER ISSUER,US,discover,credit
 651624,00-99,DISCOVER ISSUER,US,discover,credit
@@ -5065,7 +5065,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 655063,00-99,DISCOVER ISSUER,US,discover,credit
 655064,00-99,DISCOVER ISSUER,US,discover,credit
 655065,00-99,DISCOVER ISSUER,US,discover,credit
-655066,00-99,DISCOVER,US,discover,credit
+655066,00-99,DISCOVER ISSUER,US,discover,credit
 655067,00-99,DISCOVER ISSUER,US,discover,credit
 655068,00-99,DISCOVER ISSUER,US,discover,credit
 655069,00-99,DISCOVER ISSUER,US,discover,credit

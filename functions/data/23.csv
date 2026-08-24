@@ -80,9 +80,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 230126,00-99,,,mastercard,debit
 230127,00-99,,,mastercard,debit
 230129,00-99,,,mastercard,debit
-230133,00-99,MASTERCARD - OPERATIONS TEAM AND TECHNOLOGIES - BUSINESS OPERATIONS,US,mastercard,credit
+230133,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,credit
 230134,00-99,,,mastercard,debit
-230135,00-99,MASTERCARD - OPERATIONS TEAM AND TECHNOLOGIES - BUSINESS OPERATIONS,US,mastercard,debit
+230135,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
 230142,00-99,,,mastercard,debit
 230144,00-99,,,mastercard,debit
 230151,00-99,,,mastercard,debit
@@ -195,7 +195,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 230372,00-99,,,mastercard,debit
 230373,00-99,,,mastercard,debit
 230376,00-99,,,mastercard,debit
-230377,00-99,MASTERCARD - OPERATIONS TEAM AND TECHNOLOGIES - BUSINESS OPERATIONS,US,mastercard,debit
+230377,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,debit
 230379,00-99,,,mastercard,debit
 230380,00-99,,,mastercard,debit
 230382,00-99,,,mastercard,debit
@@ -2626,7 +2626,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 233023,00-99,CF TECH COLOMBIA SAS,CO,mastercard,credit
 233024,00-99,COMPANIA DE FINANCIAMIENTO TUYA S.A.,CO,mastercard,credit
 233025,00-99,PAGSEGURO INTERNET LTDA,BR,mastercard,credit
-233026,00-99,SWAP MEIOS DE PAGAMENTOS SA,BR,mastercard,credit
+233026,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,mastercard,credit
 233027,00-99,SWAP MEIOS DE PAGAMENTOS SA,BR,mastercard,debit
 233028,00-99,,,mastercard,debit
 233029,00-99,CREDENCIAL ARGENTINA SA,AR,mastercard,credit
@@ -2678,9 +2678,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 233075,00-99,,,mastercard,debit
 233076,00-99,,,mastercard,debit
 233077,00-99,,,mastercard,debit
-233078,00-99,,,mastercard,debit
-233079,00-99,,,mastercard,debit
-233080,00-99,,,mastercard,debit
+233078,00-99,WEX BANK,US,mastercard,debit
+233079,00-99,WEX BANK,US,mastercard,debit
+233080,00-99,WEX BANK,US,mastercard,debit
 233081,00-99,,,mastercard,debit
 233082,00-99,,,mastercard,debit
 233083,00-99,,,mastercard,debit

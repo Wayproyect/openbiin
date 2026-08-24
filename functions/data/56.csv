@@ -1122,7 +1122,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 562995,00-99,,US,ebt,debit
 562999,00-99,,US,cirrus,debit
 563000,00-99,,US,ebt,debit
-563001,00-99,,US,ebt,debit
+563001,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 563002,00-99,,US,ebt,debit
 563003,00-99,,US,ebt,debit
 563005,00-99,,US,ebt,debit
@@ -1194,8 +1194,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 563177,00-99,,US,ebt,debit
 563181,00-99,,US,ebt,debit
 563185,00-99,,US,ebt,debit
-563189,00-99,,US,ebt,debit
-563196,00-99,U.S. BANK N.A.,US,ebt,debit
+563189,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+563196,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 563197,00-99,,US,cirrus,debit
 563198,00-99,,US,ebt,debit
 563201,00-99,,US,ebt,debit
@@ -1560,6 +1560,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 564444,00-99,,US,ebt,debit
 564447,00-99,,PS,maestro,debit
 564460,00-99,,FR,maestro,debit
+564463,,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
 564464,00-99,,BR,maestro,debit
 564476,00-99,,SG,maestro,debit
 564485,00-99,,BG,maestro,debit
@@ -1890,12 +1891,12 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 566350,00-99,,US,ebt,debit
 566351,00-99,,US,ebt,debit
 566353,00-99,,US,ebt,debit
-566354,00-99,U.S. BANK N.A.,US,ebt,debit
-566355,00-99,U.S. BANK N.A.,US,ebt,debit
-566356,00-99,,US,ebt,debit
-566357,00-99,U.S. BANK N.A.,US,ebt,debit
-566358,00-99,U.S. BANK N.A.,US,ebt,debit
-566359,00-99,U.S. BANK N.A.,US,ebt,debit
+566354,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+566355,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+566356,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+566357,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+566358,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+566359,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 566360,00-99,,US,ebt,debit
 566361,00-99,,US,ebt,debit
 566362,00-99,,US,ebt,debit
@@ -2247,7 +2248,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 566916,00-99,,US,ebt,debit
 566918,00-99,,US,ebt,debit
 566919,00-99,,US,ebt,debit
-566920,00-99,UMB BANK N.A.,US,private label,debit
+566920,00-99,UMB BANK NATIONAL ASSOCIATION,US,private label,debit
 566921,00-99,,US,ebt,debit
 566925,00-99,,US,cirrus,debit
 566926,00-99,,US,ebt,debit
@@ -3330,7 +3331,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 568553,00-99,,US,cirrus,debit
 568555,00-99,,US,ebt,debit
 568556,00-99,,US,ebt,debit
-568557,00-99,,US,ebt,debit
+568557,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 568558,00-99,,US,cirrus,debit
 568559,00-99,,US,ebt,debit
 568560,00-99,,US,cirrus,debit
@@ -3366,9 +3367,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 568603,00-99,,US,ebt,debit
 568604,00-99,,US,ebt,debit
 568605,00-99,,US,ebt,debit
-568606,00-99,,US,ebt,debit
-568607,00-99,,US,ebt,debit
-568608,00-99,,US,ebt,debit
+568606,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+568607,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
+568608,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 568609,00-99,,US,ebt,debit
 568610,00-99,,US,cirrus,debit
 568611,00-99,,US,cirrus,debit

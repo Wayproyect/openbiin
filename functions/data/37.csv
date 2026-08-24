@@ -265,7 +265,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 370263,00-99,AXP PCMC,US,american express,debit
 370264,00-99,AE - US STORED VALUE,US,american express,debit
 370265,00-99,AE - US STORED VALUE,US,american express,debit
-370266,00-99,AMERICAN EXPRESS,US,amex,credit
+370266,00-99,TRS GLOBAL PREPAID,US,amex,credit
 370267,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,american express,credit
 370268,00-99,AMEX GCS US,US,american express,credit
 370269,00-99,AMEX GCS WACHOVIA,US,american express,credit
@@ -2740,7 +2740,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 372738, 00-99, AMERICAN EXPRESS US CONSUMER, US, amex, credit
 372739,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 372740,00-99,AXP PCMC,US,american express,debit
-372741,00-99,AMERICAN EXPRESS,US,amex,credit
+372741,00-99,SERVE VIRTUAL ENTERPRISE INC.,US,amex,credit
 372742,00-99,SERVE VIRTUAL ENTERPRISE INC.,US,american express,debit
 372743,00-99,AMEX CANADA GLOBESTAR,CA,american express,credit
 372744,00-99,AMEX CANADA GLOBESTAR,CA,american express,credit
@@ -4354,7 +4354,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 374352,00-99,AMERICAN EXPRESS COMPANY,US,american express,credit
 374353,00-99,AMERICAN EXPRESS COMPANY,US,american express,credit
 374354,00-99,WELLS FARGO,US,american express,credit
-374355,00-99,USAA,US,amex,credit
+374355,00-99,USAA SAVINGS BANK,US,amex,credit
 374356,00-99,USAA SAVINGS BANK,US,american express,credit
 374357,00-99,USAA SAVINGS BANK,US,american express,credit
 374358,00-99,AMERICAN EXPRESS COMPANY,US,american express,credit
@@ -4715,7 +4715,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 374713,00-99,BANK OF AMERICA,US,american express,credit
 374714,00-99,BANK OF AMERICA,US,american express,credit
 374715,00-99,BANK OF AMERICA,US,american express,credit
-374716,00-99,FIDELITY,US,amex,credit
+374716,00-99,FIA CARD SERVICES,US,amex,credit
 374717,00-99,BANK OF AMERICA,US,american express,credit
 374718,00-99,BANK OF AMERICA,US,american express,credit
 374719,00-99,BANK OF AMERICA,US,american express,credit
@@ -6642,7 +6642,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 376640,00-99,,MX,american express,credit
 376641,00-99,,MX,american express,credit
 376642,00-99,SANTANDER,CL,american express,credit
-376643,00-99,,MX,american express,credit
+376643,00-99,PROJECT MACK,US,american express,credit
 376644,00-99,,MX,american express,credit
 376645,00-99,SANTANDER,CL,american express,credit
 376646,00-99,,MX,american express,credit

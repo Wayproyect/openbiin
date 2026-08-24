@@ -924,7 +924,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 621973,00-99,,US,ebt,debit
 621974,00-99,,US,ebt,debit
 621975,00-99,,US,ebt,debit
-621976,00-99,U.S. BANK N.A.,US,ebt,debit
+621976,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 621977,00-99,WENZHOU CITY COMMERCIAL BANK,CN,local,debit
 621978,00-99,,US,ebt,debit
 621979,00-99,,RU,local,debit
@@ -933,6 +933,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 621984,00-99,BANCO VENEZOLANO DE CREDITO,VE,maestro,debit
 621986,00-99,BANK SAMAN,IR,maestro,debit
 621992,00-99,,US,maestro,debit
+621993,,SYNCHRONY BANK,US,private label,debit
 621996,00-99,,CL,private label,debit
 621999,00-99,,US,maestro,debit
 622000,00-99,,US,ebt,debit
@@ -952,7 +953,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 622014,00-99,,US,ebt,debit
 622015,00-99,,US,ebt,debit
 622016,00-99,BANK SADERAT IRAN,QA,local brand,debit
-622017,00-99,U.S. BANK N.A.,US,ebt,debit
+622017,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 622018,00-99,STATE BANK OF INDIA,IN,maestro,debit
 622019,00-99,,US,ebt,debit
 622020,00-99,,US,ebt,debit
@@ -974,9 +975,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 622077,00-99,,US,ebt,debit
 622078,00-99,ME BANK,AU,local brand,debit
 622079,00-99,,US,ebt,debit
-622090,00-99,U.S. BANK N.A.,US,ebt,debit
+622090,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 622091,00-99,,US,ebt,debit
-622092,00-99,U.S. BANK N.A.,US,maestro,debit
+622092,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 622093,00-99,,US,ebt,debit
 622094,00-99,,US,ebt,debit
 622095,00-99,,US,ebt,debit
@@ -990,7 +991,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 622104,00-99,CN ICBC PEONY MONEY LINK CARD,CN,local,debit
 622105,00-99,CN ICBC PEONY MONEY LINK CARD,CN,local,debit
 622106,00-99,PARSIAN BANK,IR,maestro,credit
-622110,00-99,U.S. BANK N.A.,US,maestro,debit
+622110,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 622111,00-99,,US,ebt,debit
 622112,00-99,,US,ebt,debit
 622113,00-99,,US,ebt,debit
@@ -1004,7 +1005,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 622121,00-99,,US,ebt,debit
 622122,00-99,,US,maestro,debit
 622123,00-99,,US,ebt,debit
-622125,00-99,U.S. BANK N.A.,US,ebt,debit
+622125,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 622126,00-99,FUXIN CITY COMMERCIAL BANK,CN,local,debit
 622127,00-99,FUJIAN RCB,CN,local,debit
 622128,00-99,SHENZHEN RURAL CREDIT COOPERATIVE UNION,CN,local,debit
@@ -5754,7 +5755,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627170,00-99,CABAL CARTAO,AR,cabal,credit
 627171,00-99,,US,ebt,debit
 627172,00-99,,US,ebt,debit
-627173,00-99,U.S. BANK N.A.,US,maestro,debit
+627173,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 627174,00-99,,US,ebt,debit
 627175,00-99,,US,ebt,debit
 627176,00-99,,US,ebt,debit
@@ -5832,7 +5833,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627348,00-99,,KE,local,debit
 627350,00-99,,US,ebt,debit
 627351,00-99,,US,ebt,debit
-627352,00-99,U.S. BANK N.A.,US,maestro,debit
+627352,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 627353,00-99,,IT,local,debit
 627354,00-99,,US,ebt,debit
 627355,00-99,BANK OF AMERICA N.A.,US,maestro,debit
@@ -5840,7 +5841,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627357,00-99,,US,ebt,debit
 627358,00-99,,CH,maestro,debit
 627359,00-99,,US,ebt,debit
-627360,00-99,U.S. BANK N.A.,US,ebt,debit
+627360,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 627361,00-99,,US,ebt,debit
 627362,00-99,,US,ebt,debit
 627363,00-99,,US,ebt,debit
@@ -5871,7 +5872,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627404,00-99,,US,ebt,debit
 627405,00-99,,US,ebt,debit
 627406,00-99,,US,ebt,debit
-627407,00-99,U.S. BANK N.A.,US,ebt,debit
+627407,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 627408,00-99,,US,ebt,debit
 627409,00-99,,US,ebt,debit
 627412,00-99,EGHTESAD NOVIN BANK,IR,local brand,debit
@@ -5913,7 +5914,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627496,00-99,,US,ebt,debit
 627497,00-99,,US,ebt,debit
 627498,00-99,,US,ebt,debit
-627499,00-99,U.S. BANK N.A.,US,ebt,debit
+627499,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 627500,00-99,,US,ebt,debit
 627501,00-99,,US,ebt,debit
 627502,00-99,,US,ebt,debit
@@ -5979,7 +5980,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627570,00-99,,US,ebt,debit
 627571,00-99,CAPITAL ONE BANK (USA) N.A.,US,ebt,debit
 627572,00-99,,US,ebt,debit
-627574,00-99,U.S. BANK N.A.,US,maestro,debit
+627574,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 627575,00-99,,US,ebt,debit
 627576,00-99,,US,ebt,debit
 627577,00-99,,US,ebt,debit
@@ -6011,7 +6012,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 627603,00-99,,US,ebt,debit
 627604,00-99,,US,ebt,debit
 627605,00-99,,US,ebt,debit
-627606,00-99,U.S. BANK N.A.,US,ebt,debit
+627606,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 627607,00-99,,US,ebt,debit
 627608,00-99,,US,ebt,debit
 627609,00-99,,US,maestro,debit
@@ -6293,7 +6294,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 628010,00-99,,US,ebt,debit
 628011,00-99,,US,ebt,debit
 628012,00-99,,US,ebt,debit
-628013,00-99,U.S. BANK N.A.,US,ebt,debit
+628013,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 628014,00-99,,US,ebt,debit
 628015,00-99,,US,ebt,debit
 628016,00-99,,US,ebt,debit
@@ -6348,7 +6349,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 628093,00-99,,BR,local,debit
 628095,00-99,,US,maestro,debit
 628106,00-99,,ID,local,debit
-628110,00-99,U.S. BANK N.A.,US,maestro,debit
+628110,00-99,U.S. BANK NATIONAL ASSOCIATION,US,maestro,debit
 628111,00-99,,US,ebt,debit
 628112,00-99,,US,ebt,debit
 628113,00-99,,US,ebt,debit
@@ -7254,7 +7255,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 629857,00-99,,US,ebt,debit
 629858,00-99,,US,ebt,debit
 629859,00-99,,US,ebt,debit
-629860,00-99,U.S. BANK N.A.,US,ebt,debit
+629860,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
 629861,00-99,,US,ebt,debit
 629862,00-99,,US,ebt,debit
 629863,00-99,,US,ebt,debit

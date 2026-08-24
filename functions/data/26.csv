@@ -4474,6 +4474,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 264490,00-99,,,mastercard,debit
 264491,00-99,,,mastercard,debit
 264492,00-99,,,mastercard,debit
+264493,,WELLS FARGO BANK N.A.,US,mastercard,credit
 264494,00-99,,,mastercard,debit
 264495,00-99,,,mastercard,debit
 264496,00-99,,,mastercard,debit
@@ -9033,6 +9034,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 269111,00-99,,,mastercard,debit
 269112,00-99,,,mastercard,debit
 269113,00-99,,,mastercard,debit
+269114,,WELLS FARGO BANK N.A.,US,mastercard,credit
 269115,00-99,,,mastercard,debit
 269116,00-99,,,mastercard,debit
 269118,00-99,,,mastercard,debit
@@ -9094,6 +9096,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 269212,00-99,,,mastercard,debit
 269213,00-99,,,mastercard,debit
 269214,00-99,,,mastercard,debit
+269216,,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,US,mastercard,credit
 269217,00-99,,,mastercard,debit
 269222,00-99,,,mastercard,debit
 269224,00-99,,,mastercard,debit
