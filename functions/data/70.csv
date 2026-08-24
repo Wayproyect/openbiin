@@ -31,19 +31,19 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 700181,00-99,First Data,US,private label,debit
 700205,00-99,Shell,GB,euroshell,debit
 700236,00-99,First Data,US,private label,debit
-700238,00-99,,US,private label,debit
+700238,00-99,Synchrony Bank,US,private label,credit
 700247,00-99,PRIORITY PASS,GB,loyalty card,debit
-700250,00-99,,US,private label,debit
+700250,00-99,Synchrony Bank,US,private label,credit
 700253,00-99,FIRSTRAND BANK LTD.,ZA,local brand,credit
 700254,00-99,ABSA GROUP LTD.,ZA,local brand,credit
-700255,00-99,,US,private label,credit
-700256,00-99,,US,private label,debit
-700271,00-99,,US,private label,debit
-700272,00-99,,US,private label,debit
-700325,00-99,,US,private label,debit
-700336,00-99,,US,private label,debit
-700338,00-99,,US,private label,debit
-700346,00-99,,US,private label,credit
+700255,00-99,Synchrony Bank,US,private label,credit
+700256,00-99,Synchrony Bank,US,private label,credit
+700271,00-99,Synchrony Bank,US,private label,credit
+700272,00-99,Synchrony Bank,US,private label,credit
+700325,00-99,Synchrony Bank,US,private label,credit
+700336,00-99,Synchrony Bank,US,private label,credit
+700338,00-99,Synchrony Bank,US,private label,credit
+700346,00-99,Synchrony Bank,US,private label,credit
 700364,00-99,,US,private label,credit
 700403,00-99,,US,private label,debit
 700422,00-99,,US,private label,credit
