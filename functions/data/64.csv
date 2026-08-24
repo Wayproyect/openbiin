@@ -1,14 +1,14 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-640001,00-99,,US,maestro,debit
-640002,00-99,,US,ebt,debit
-640003,00-99,,US,cirrus,debit
-640005,00-99,,US,maestro,debit
-640006,00-99,,US,ebt,debit
-640010,00-99,,US,cirrus,debit
-640011,00-99,,US,ebt,debit
-640012,00-99,,US,ebt,debit
-640013,00-99,,US,ebt,debit
-640014,00-99,,US,ebt,debit
+640001,00-99,Discover Bank,US,discover,credit
+640002,00-99,Discover Bank,US,discover,credit
+640003,00-99,Discover Bank,US,discover,credit
+640005,00-99,Discover Bank,US,discover,credit
+640006,00-99,Discover Bank,US,discover,credit
+640010,00-99,Discover Bank,US,discover,credit
+640011,00-99,Discover Bank,US,discover,credit
+640012,00-99,Discover Bank,US,discover,credit
+640013,00-99,Discover Bank,US,discover,credit
+640014,00-99,Discover Bank,US,discover,credit
 640015,00-99,,US,cirrus,debit
 640016,00-99,,US,ebt,debit
 640017,00-99,,US,ebt,debit
