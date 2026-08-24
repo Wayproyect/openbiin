@@ -13,17 +13,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 960806,00-99,Jpmorgan Chase Bank,US,private label,debit
 960807,00-99,Jpmorgan Chase Bank,US,private label,debit
 960808,00-99,Jpmorgan Chase Bank,US,private label,debit
-960809,00-99,,US,private label,debit
+960809,00-99,Ebt,US,private label,debit
 961100,00-99,BANK OF CYPRUS PUBLIC COMPANY LTD.,CY,private label,debit
-963400,00-99,,QA,private label,debit
-963401,00-99,,US,private label,debit
-963402,00-99,,US,private label,debit
-963403,00-99,,US,private label,debit
-963404,00-99,,US,private label,debit
-963405,00-99,,US,private label,debit
-963406,00-99,,US,private label,debit
-963407,00-99,,US,private label,debit
-963408,00-99,,US,private label,debit
+963400,00-99,Qatar National Bank,QA,private label,debit
+963401,00-99,Ebt,US,private label,debit
+963402,00-99,Ebt,US,private label,debit
+963403,00-99,Ebt,US,private label,debit
+963404,00-99,Ebt,US,private label,debit
+963405,00-99,Ebt,US,private label,debit
+963406,00-99,Ebt,US,private label,debit
+963407,00-99,Ebt,US,private label,debit
+963408,00-99,Ebt,US,private label,debit
 963409,00-99,,US,private label,debit
 964300,00-99,SBERBANK OF RUSSIA,RU,sbercard,debit
 964301,00-99,SBERBANK OF RUSSIA,RU,sbercard,debit
