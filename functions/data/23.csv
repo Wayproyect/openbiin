@@ -2671,7 +2671,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 233068,00-99,WEX BANK,US,mastercard,credit
 233069,00-99,,,mastercard,debit
 233070,00-99,GUYANA BANK FOR TRADE AND INDUSTRY LTD.,GY,mastercard,credit
-233071, 00-99, CREDOMATIC DE EL SALVADOR S.A., SV, mastercard, debit
+233071,00-99,CREDITO S.A.,NI,mastercard,debit
 233072,00-99,,,mastercard,debit
 233073,00-99,,,mastercard,debit
 233074,00-99,,,mastercard,debit
