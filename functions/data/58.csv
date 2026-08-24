@@ -573,9 +573,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 581618,00-99,,US,ebt,debit
 581620,00-99,,US,cirrus,debit
 581621,00-99,,US,ebt,debit
-581626,00-99,,US,cirrus,debit
+581626,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,cirrus,debit
 581627,00-99,,US,maestro,debit
-581628,00-99,,US,cirrus,debit
+581628,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,cirrus,debit
 581629,00-99,,CA,maestro,debit
 581631,00-99,,US,ebt,debit
 581632,00-99,U.S. BANK N.A.,US,cirrus,debit
@@ -717,7 +717,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 581804,00-99,MAESTRO INTERNATIONAL,PS,maestro,debit
 581805,00-99,,BG,maestro,debit
 581806,00-99,MAESTRO INTERNATIONAL,PS,maestro,debit
-581809,00-99,,US,cirrus,debit
+581809,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,cirrus,debit
 581810,00-99,MECU BANK,AU,eftpos,debit
 581811,00-99,GOULBURN MURRAY CREDIT UNION CO-OPERATIVE LTD.,AU,eftpos,debit
 581812,00-99,PULSE CREDIT UNION,AU,eftpos,debit
@@ -726,7 +726,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 581816,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
 581818,00-99,,US,maestro,debit
 581826,00-99,,US,maestro,debit
-581828,00-99,CREDIT UNION (ONTARIO),CA,maestro,debit
+581828,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 581837,00-99,,US,cirrus,debit
 581840,00-99,,LK,maestro,debit
 581847,00-99,,GB,maestro,debit
@@ -899,7 +899,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 582156,00-99,,US,ebt,debit
 582161,00-99,,US,ebt,debit
 582162,00-99,,US,ebt,debit
-582163,00-99,,US,maestro,debit
+582163,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 582166,00-99,,US,ebt,debit
 582168,00-99,,US,maestro,debit
 582170,00-99,,US,ebt,debit
@@ -1664,7 +1664,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 583355,00-99,,US,ebt,debit
 583356,00-99,,US,cirrus,debit
 583358,00-99,,US,ebt,debit
-583359,00-99,,US,maestro,debit
+583359,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 583360,00-99,,US,cirrus,debit
 583362,00-99,,US,ebt,debit
 583363,00-99,,US,maestro,debit
@@ -3121,7 +3121,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 585827,00-99,,US,ebt,debit
 585829,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,local brand,credit
 585830,00-99,,GB,maestro,debit
-585831,00-99,,US,maestro,debit
+585831,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 585832,00-99,,US,ebt,debit
 585833,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
 585835,00-99,,US,ebt,debit
@@ -4759,7 +4759,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 588829,00-99,,FR,maestro,debit
 588830,00-99,,MY,maestro,debit
 588832,00-99,,ID,maestro,debit
-588833,00-99,,US,cirrus,debit
+588833,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,cirrus,debit
 588836,00-99,,IL,maestro,debit
 588837,00-99,,US,ebt,debit
 588838,00-99,CITIBANK,AE,local brand,debit
@@ -5134,7 +5134,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 589536,00-99,,US,maestro,debit
 589540,00-99,,US,cirrus,debit
 589541,00-99,FIFTH THIRD BANK,US,cirrus,debit
-589542,00-99,,US,maestro,debit
+589542,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 589545,00-99,,US,cirrus,debit
 589546,00-99,U.S. BANK N.A.,US,ebt,debit
 589548,00-99,,VE,maestro,debit
@@ -5235,7 +5235,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 589715,00-99,,US,cirrus,debit
 589716,00-99,,US,cirrus,debit
 589717,00-99,,US,ebt,debit
-589718,00-99,CITIBANK USA N.A.,US,private label,debit
+589718,00-99,CITIBANK N.A.,US,private label,debit
 589719,00-99,,DE,maestro,debit
 589721,00-99,UNION BANK OF THE PHILIPPINES,PH,maestro,debit
 589722,00-99,,US,ebt,debit
@@ -5272,7 +5272,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 589775,00-99,,US,ebt,debit
 589776,00-99,,KR,maestro,debit
 589779,00-99,,KR,maestro,debit
-589781,00-99,,US,maestro,debit
+589781,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,CA,maestro,debit
 589783,00-99,,KR,maestro,debit
 589785,00-99,,ZA,maestro,debit
 589786,00-99,,KR,maestro,debit

@@ -1668,10 +1668,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 223389,00-99,,,mastercard,debit
 223390,00-99,EDENRED SOLUCOES DE PAGAMENTOS HYLA S.A.,BR,mastercard,credit
 223391,00-99,MONAVATE LTD.,GB,mastercard,credit
-223392,00-99,,ZA,mastercard,credit
+223392, 00-99, MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS, MX, mastercard, credit
 223393,00-99,99PAY INSTITUICAO DE PAGAMENTO SA,BR,mastercard,debit
-223394,00-99,,ZA,mastercard,debit
-223395,00-99,,ZA,mastercard,debit
+223394, 00-99, MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS, MX, mastercard, debit
+223395, 00-99, MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS, MX, mastercard, debit
 223396,00-99,FIRST ELECTRONIC BANK,US,mastercard,debit
 223397,00-99,ACESSO SOLUCOES DE PAGAMENTO S.A.,BR,mastercard,debit
 223398,00-99,THE SAUDI NATIONAL BANK,SA,mastercard,credit
@@ -1847,7 +1847,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 223568,00-99,BANCO DO BRASIL S.A.,BR,mastercard,credit
 223569,00-99,COMENITY CAPITAL BANK,US,mastercard,debit
 223570,00-99,PINBANK BRASIL INSTITUICAO DE PAGAMENTO SA,BR,mastercard,credit
-223571,00-99,DIPOCKET UAB,DE,mastercard,debit
+223571, 00-99, CREDOMATIC DE EL SALVADOR S.A., SV, mastercard, debit
 223572,00-99,BANCO DO BRASIL S.A.,BR,mastercard,credit
 223573,00-99,OPTAL FINANCIAL EUROPE LTD.,NL,mastercard,credit
 223574,00-99,WEX BANK,NZ,mastercard,credit
@@ -3376,7 +3376,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 225097,00-99,,,mastercard,debit
 225098,00-99,,,mastercard,debit
 225099,00-99,,,mastercard,debit
-225100,00-99,CF TECH S.A. DE C.V. S.O.F.O.M.E.N.R.,MX,mastercard,credit
+225100, 00-99, CF TECH SA DE CV, MX, mastercard, credit
 225101,00-99,,,mastercard,debit
 225102,00-99,,,mastercard,debit
 225103,00-99,,,mastercard,debit
@@ -6276,8 +6276,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 227998,00-99,,,mastercard,debit
 227999,00-99,,,mastercard,debit
 228000,00-99,,,mastercard,debit
-228001,00-99,"WOTRANSFER PTE, LTD.",SG,mastercard,debit
-228002,00-99,"SUNRATE SOLUTIONS, LTD.",HK,mastercard,credit
+228001,00-99,WOTRANSFER PTE LTD.,SG,mastercard,debit
+228002,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
 228003,00-99,,,mastercard,debit
 228004,00-99,,,mastercard,debit
 228005,00-99,,,mastercard,debit
@@ -7276,7 +7276,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 228998,00-99,,,mastercard,debit
 228999,00-99,,,mastercard,debit
 229000,00-99,,,mastercard,debit
-229001,00-99,"SUNRATE SOLUTIONS, LTD.",HK,mastercard,credit
+229001,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
 229002,00-99,,,mastercard,debit
 229003,00-99,,,mastercard,debit
 229004,00-99,,,mastercard,debit
@@ -7511,7 +7511,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 229233,00-99,,,mastercard,debit
 229234,00-99,,,mastercard,debit
 229235,00-99,,,mastercard,debit
-229236,00-99,"CONSORCIO CREDICARD, C.A.",VE,mastercard,credit
+229236,00-99,CONSORCIO CREDICARD C.A.,VE,mastercard,credit
 229237,00-99,MFS SERVICOS DE MEIOS DE PAGAMENTO LTDA,BR,maestro,debit
 229238,00-99,MFS SERVICOS DE MEIOS DE PAGAMENTO LTDA,BR,maestro,debit
 229239,00-99,MFS SERVICOS DE MEIOS DE PAGAMENTO LTDA,BR,maestro,debit
@@ -7520,14 +7520,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 229242,00-99,FIFTH THIRD BANK,US,mastercard,debit
 229243,00-99,,,mastercard,debit
 229244,00-99,CENTRAL TRUST BANK,US,mastercard,credit
-229245,00-99,"OVERSEA-CHINESE BANKING CORPORATION, LTD.",SG,mastercard,credit
-229246,00-99,"OVERSEA-CHINESE BANKING CORPORATION, LTD.",SG,mastercard,debit
+229245,00-99,OVERSEA-CHINESE BANKING CORPORATION LTD.,SG,mastercard,credit
+229246,00-99,OVERSEA-CHINESE BANKING CORPORATION LTD.,SG,mastercard,debit
 229247,00-99,ATTIJARIWAFA BANK,MA,mastercard,debit
 229248,00-99,HUB INSTITUICAO DE PAGAMENTO SA,BR,mastercard,debit
 229249,00-99,,,mastercard,debit
 229250,00-99,,,mastercard,debit
 229251,00-99,,,mastercard,debit
-229252,00-99,"FISERV TRANSACTION SERVICES, LLC",US,mastercard,debit
+229252,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
 229253,00-99,,,mastercard,debit
 229254,00-99,,,mastercard,debit
 229255,00-99,,,mastercard,debit
@@ -8030,7 +8030,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 229753,00-99,,,mastercard,debit
 229754,00-99,,,mastercard,debit
 229755,00-99,,,mastercard,debit
-229756,00-99,"QINGDAO JIMO HUIMIN VILLAGE BANK CO.,LTD.",CN,mastercard,debit
+229756,00-99,QINGDAO JIMO HUIMIN VILLAGE BANK CO.LTD.,CN,mastercard,debit
 229757,00-99,,,mastercard,debit
 229758,00-99,,,mastercard,debit
 229759,00-99,,,mastercard,debit
