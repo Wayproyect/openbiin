@@ -11,17 +11,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 240009,00-99,ORBITALL SERVICOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA,BR,mastercard,debit
 240010,00-99,ORBITALL SERVICOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA,BR,mastercard,debit
 240011,00-99,BANCO GENIAL SA,BR,mastercard,credit
-240012,00-99,,,mastercard,debit
+240012,00-99,Mastercard,BR,mastercard,debit
 240013,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
-240014,00-99,,,mastercard,debit
-240015,00-99,,,mastercard,debit
-240016,00-99,,,mastercard,debit
-240017,00-99,,,mastercard,debit
-240018,00-99,,,mastercard,debit
-240019,00-99,,,mastercard,debit
-240020,00-99,,,mastercard,debit
-240021,00-99,,,mastercard,debit
-240022,00-99,,,mastercard,debit
+240014,00-99,Mastercard,BR,mastercard,debit
+240015,00-99,Mastercard,BR,mastercard,debit
+240016,00-99,Mastercard,BR,mastercard,debit
+240017,00-99,Mastercard,BR,mastercard,debit
+240018,00-99,Mastercard,BR,mastercard,debit
+240019,00-99,Mastercard,BR,mastercard,debit
+240020,00-99,Mastercard,BR,mastercard,debit
+240021,00-99,Mastercard,BR,mastercard,debit
+240022,00-99,Mastercard,BR,mastercard,debit
 240023,00-99,,,mastercard,debit
 240024,00-99,,,mastercard,debit
 240025,00-99,,,mastercard,debit

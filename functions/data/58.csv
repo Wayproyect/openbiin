@@ -1,19 +1,19 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-580000,00-99,,US,ebt,debit
+580000,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580001,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
 580002,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
-580003,00-99,,US,ebt,debit
+580003,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580004,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580007,00-99,,US,cirrus,debit
-580008,00-99,,US,ebt,debit
-580009,00-99,,US,cirrus,debit
-580010,00-99,,US,cirrus,debit
+580007,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580008,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580009,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580010,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580012,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580015,00-99,,US,ebt,debit
+580015,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580016,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
-580019,00-99,,CW,maestro,debit
-580021,00-99,,US,ebt,debit
-580022,00-99,,US,cirrus,debit
+580019,00-99,Maduro And Curiels Bank,CW,maestro,debit
+580021,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580022,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580023,00-99,MAESTRO INTERNATIONAL,AT,maestro,debit
 580025,00-99,,US,cirrus,debit
 580028,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit

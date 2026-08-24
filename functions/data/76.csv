@@ -100,16 +100,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 760698,00-99,MBNA CANADACONSUMER FINANCE,CA,private label,debit
 760699,00-99,MBNA CANADACONSUMER FINANCE,CA,private label,debit
 761127,00-99,AEON ETC CARD,JP,local brand,debit
-761960,00-99,,RU,private label,debit
-762063,00-99,,US,private label,debit
-762090,00-99,,US,private label,debit
-762194,00-99,,US,private label,debit
-762211,00-99,,US,private label,debit
-762212,00-99,,US,private label,debit
-762213,00-99,,US,private label,debit
-762227,00-99,,US,private label,debit
-762233,00-99,,US,private label,debit
-762250,00-99,,US,private label,credit
+761960,00-99,Jsc Tinkoff Bank,RU,mastercard,debit
+762063,00-99,Synchrony Bank,US,mastercard,credit
+762090,00-99,Synchrony Bank,US,mastercard,credit
+762194,00-99,Synchrony Bank,US,mastercard,credit
+762211,00-99,Synchrony Bank,US,mastercard,credit
+762212,00-99,Synchrony Bank,US,mastercard,credit
+762213,00-99,Synchrony Bank,US,mastercard,credit
+762227,00-99,Synchrony Bank,US,mastercard,credit
+762233,00-99,Synchrony Bank,US,mastercard,credit
+762250,00-99,Synchrony Bank,US,mastercard,credit
 762264,00-99,,US,private label,debit
 762294,00-99,,US,private label,debit
 762308,00-99,,US,private label,debit

@@ -133,7 +133,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 911212,00-99,ALFA BANK,BY,belkart,debit
 911213,00-99,BELGAZPROMBANK,BY,belkart,debit
 911222,00-99,BPS-SBERBANK,BY,belkart,debit
-911231,00-99,,BY,belkart,debit
+911231,00-99,Belagroprombank,BY,belkart,debit
 911233,00-99,BELINVESTBANK,BY,belkart,debit
 911235,00-99,EVROTORGINVESTBANK,BY,belkart,debit
 911236,00-99,STATUSBANK,BY,belkart,credit
@@ -148,24 +148,24 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 913086,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 913501,00-99,JANATA BANK LTD.,BD,local brand,debit
 913502,00-99,JANATA BANK LTD.,BD,local brand,credit
-914101,00-99,,US,private label,debit
-914102,00-99,,US,private label,debit
-914103,00-99,,US,private label,debit
-914104,00-99,,US,private label,debit
-914105,00-99,,US,private label,debit
-914106,00-99,,US,private label,debit
-914107,00-99,,US,private label,debit
-914108,00-99,,US,private label,debit
-914109,00-99,,US,private label,debit
-914401,00-99,,US,private label,debit
-914402,00-99,,US,private label,debit
-914403,00-99,,US,private label,debit
-914404,00-99,,US,private label,debit
-914405,00-99,,US,private label,debit
-914406,00-99,,US,private label,debit
-914407,00-99,,US,private label,debit
-914408,00-99,,US,private label,debit
-914409,00-99,,US,private label,debit
+914101,00-99,Synchrony Bank,US,private label,credit
+914102,00-99,Synchrony Bank,US,private label,credit
+914103,00-99,Synchrony Bank,US,private label,credit
+914104,00-99,Synchrony Bank,US,private label,credit
+914105,00-99,Synchrony Bank,US,private label,credit
+914106,00-99,Synchrony Bank,US,private label,credit
+914107,00-99,Synchrony Bank,US,private label,credit
+914108,00-99,Synchrony Bank,US,private label,credit
+914109,00-99,Synchrony Bank,US,private label,credit
+914401,00-99,Synchrony Bank,US,private label,credit
+914402,00-99,Synchrony Bank,US,private label,credit
+914403,00-99,Synchrony Bank,US,private label,credit
+914404,00-99,Synchrony Bank,US,private label,credit
+914405,00-99,Synchrony Bank,US,private label,credit
+914406,00-99,Synchrony Bank,US,private label,credit
+914407,00-99,Synchrony Bank,US,private label,credit
+914408,00-99,Synchrony Bank,US,private label,credit
+914409,00-99,Synchrony Bank,US,private label,credit
 915200,00-99,BANCO BHIF,CL,private label,debit
 916001,00-99,NCC BANK LTD.,BD,local brand,debit
 916002,00-99,NCC BANK LTD.,BD,local brand,debit
@@ -179,6 +179,6 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 919001,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,local brand,debit
 919002,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,local brand,debit
 919003,00-99,SHAHJALAL ISLAMI BANK LTD.,BD,local brand,debit
-919191,00-99,,US,private label,debit
+919191,00-99,Synchrony Bank,US,private label,credit
 919212,00-99,BANCO FINANCIERO INTERNACIONAL,CU,private label,debit
 919501,00-99,SOCIAL ISLAMI BANK LTD.,BD,local brand,debit

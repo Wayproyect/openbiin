@@ -14,8 +14,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 420012,00-99,HELLENIC BANK PUBLIC COMPANY LTD.,CY,visa,debit
 420013,00-99,FINANCIERA EFECTIVA S.A.,PE,visa,debit
 420014,00-99,WELLS FARGO BANK N.A.,US,visa,credit
-420015,00-99,,US,visa,debit
-420016,00-99,CADENCE BANK,US,visa,debit
+420015,00-99,JPMorgan Chase Bank,US,visa,debit
+420016,00-99,FIRST CHATHAM BANK,US,visa,debit
 420017,00-99,GUARANTY BANK & TRUST COMPANY,US,visa,debit
 420018,00-99,FARMERS STATE BANK OF CALHAN,US,visa,credit
 420019,00-99,SECURITY SAVINGS BANK,US,visa,credit
@@ -36,9 +36,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 420034,00-99,VISA U.S.A. INC.,DE,visa,credit
 420035,00-99,WUESTENROT BANK AG PFANDBRIEBANK,DE,visa,credit
 420036,00-99,AURORA FEDERAL CREDIT UNION,US,visa,debit
-420037,00-99,,US,visa,credit
-420038,00-99,,US,visa,credit
-420039,00-99,,US,visa,credit
+420037,00-99,JPMorgan Chase Bank,US,visa,credit
+420038,00-99,JPMorgan Chase Bank,US,visa,credit
+420039,00-99,JPMorgan Chase Bank,US,visa,credit
 420040,00-99,FIBRE FEDERAL CREDIT UNION,US,visa,debit
 420041,00-99,CENTURY BANK,US,visa,debit
 420042,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,visa,credit
@@ -65,9 +65,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 420063,00-99,REGIONS BANK,US,visa,credit
 420064,00-99,NUSENDA FEDERAL CREDIT UNION,US,visa,debit
 420065,00-99,GREAT WESTERN BANK,US,visa,debit
-420066,00-99,,US,visa,credit
-420067,00-99,,US,visa,credit
-420068,00-99,,US,visa,credit
+420066,00-99,JPMorgan Chase Bank,US,visa,credit
+420067,00-99,JPMorgan Chase Bank,US,visa,credit
+420068,00-99,JPMorgan Chase Bank,US,visa,credit
 420069,00-99,CATHAY BANK,US,visa,credit
 420070,00-99,SEYCHELLES CREDIT UNION,SC,visa,debit
 420071,00-99,DACOTAH BANK,US,visa,debit
@@ -139,10 +139,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 420137,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit
 420138,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit
 420139,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit
-420140,00-99,,RU,visa,credit
+420140,00-99,Sberbank,RU,visa,credit
 420141,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit
-420142,00-99,,SE,visa,credit
-420143,00-99,,FR,visa,credit
+420142,00-99,Skandinaviska Enskilda Banken,SE,visa,credit
+420143,00-99,Credit Agricole,FR,visa,credit
 420144,00-99,CARD COMPLETE SERVICE BANK AG,AT,visa,credit
 420145,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit
 420146,00-99,JPMORGAN CHASE BANK N.A.,US,visa,credit

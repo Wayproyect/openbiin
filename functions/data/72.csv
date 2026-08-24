@@ -1,17 +1,17 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 720000,00-99,REDFUEL(EUROPE),GB,red fuel card,debit
-720001,00-99,,US,private label,debit
+720001,00-99,Synchrony Bank,US,private label,credit
 720002,00-99,BC CARD CO. LTD.,KR,private label,credit
-720003,00-99,,US,private label,debit
-720004,00-99,,US,private label,debit
-720005,00-99,,US,private label,debit
-720006,00-99,,US,private label,debit
-720008,00-99,,US,private label,debit
-720009,00-99,,US,private label,debit
+720003,00-99,Synchrony Bank,US,private label,credit
+720004,00-99,Synchrony Bank,US,private label,credit
+720005,00-99,Synchrony Bank,US,private label,credit
+720006,00-99,Synchrony Bank,US,private label,credit
+720008,00-99,Synchrony Bank,US,private label,credit
+720009,00-99,Synchrony Bank,US,private label,credit
 720011,00-99,NICOS ETC-PLUS,JP,local brand,debit
-720015,00-99,,US,private label,debit
-720018,00-99,,US,private label,debit
-720029,00-99,,US,private label,debit
+720015,00-99,Synchrony Bank,US,private label,credit
+720018,00-99,Synchrony Bank,US,private label,credit
+720029,00-99,Synchrony Bank,US,private label,credit
 720031,00-99,BC CARD CO. LTD.,KR,private label,credit
 720032,00-99,BC CARD CO. LTD.,KR,private label,credit
 720033,00-99,BC CARD CO. LTD.,KR,private label,credit

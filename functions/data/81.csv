@@ -2026,7 +2026,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 812024,00-99,,CN,local,debit
 812025,00-99,,CN,local,debit
 812026,00-99,,CN,local,debit
-812027,00-99,,CN,local,debit
+812027,00-99,Bank Of China,CN,local,debit
 812028,00-99,,CN,local,debit
 812029,00-99,,CN,local,debit
 812030,00-99,,CN,local,debit

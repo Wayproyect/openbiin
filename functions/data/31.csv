@@ -11,17 +11,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 310009,00-99,Jcb Co Ltd,JP,jcb,credit
 310010,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,jcb,debit
 310011,00-99,Jcb Co Ltd,JP,jcb,credit
-310012,00-99,,JP,jcb,debit
-310013,00-99,,JP,jcb,debit
-310014,00-99,,JP,jcb,debit
-310015,00-99,,JP,jcb,debit
-310016,00-99,,JP,jcb,debit
-310017,00-99,,JP,jcb,debit
-310018,00-99,,JP,jcb,debit
-310019,00-99,,JP,jcb,debit
-310020,00-99,,JP,jcb,debit
+310012,00-99,Jcb Co Ltd,JP,jcb,credit
+310013,00-99,Jcb Co Ltd,JP,jcb,credit
+310014,00-99,Jcb Co Ltd,JP,jcb,credit
+310015,00-99,Jcb Co Ltd,JP,jcb,credit
+310016,00-99,Jcb Co Ltd,JP,jcb,credit
+310017,00-99,Jcb Co Ltd,JP,jcb,credit
+310018,00-99,Jcb Co Ltd,JP,jcb,credit
+310019,00-99,Jcb Co Ltd,JP,jcb,credit
+310020,00-99,Jcb Co Ltd,JP,jcb,credit
 310021,00-99,MIZUHO,JP,jcb,debit
-310022,00-99,,JP,jcb,debit
+310022,00-99,Jcb Co Ltd,JP,jcb,credit
 310023,00-99,,JP,jcb,debit
 310024,00-99,,JP,jcb,debit
 310025,00-99,,JP,jcb,debit

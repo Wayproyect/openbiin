@@ -1,24 +1,24 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-710001,00-99,,US,private label,debit
-710010,00-99,,US,private label,debit
-710027,00-99,,US,private label,debit
-710034,00-99,,US,private label,debit
-710037,00-99,,US,private label,debit
-710042,00-99,,US,private label,debit
-710050,00-99,,US,private label,debit
-710063,00-99,,US,private label,debit
-710066,00-99,,US,private label,debit
-710067,00-99,,US,private label,debit
-710075,00-99,,US,private label,debit
-710076,00-99,,US,private label,debit
-710077,00-99,,US,private label,debit
-710085,00-99,,US,private label,debit
-710088,00-99,,US,private label,debit
-710102,00-99,,US,private label,debit
-710103,00-99,,US,private label,debit
-710105,00-99,,US,private label,debit
-710107,00-99,,US,private label,debit
-710108,00-99,,US,private label,debit
+710001,00-99,Synchrony Bank,US,private label,credit
+710010,00-99,Synchrony Bank,US,private label,credit
+710027,00-99,Synchrony Bank,US,private label,credit
+710034,00-99,Synchrony Bank,US,private label,credit
+710037,00-99,Synchrony Bank,US,private label,credit
+710042,00-99,Synchrony Bank,US,private label,credit
+710050,00-99,Synchrony Bank,US,private label,credit
+710063,00-99,Synchrony Bank,US,private label,credit
+710066,00-99,Synchrony Bank,US,private label,credit
+710067,00-99,Synchrony Bank,US,private label,credit
+710075,00-99,Synchrony Bank,US,private label,credit
+710076,00-99,Synchrony Bank,US,private label,credit
+710077,00-99,Synchrony Bank,US,private label,credit
+710085,00-99,Synchrony Bank,US,private label,credit
+710088,00-99,Synchrony Bank,US,private label,credit
+710102,00-99,Synchrony Bank,US,private label,credit
+710103,00-99,Synchrony Bank,US,private label,credit
+710105,00-99,Synchrony Bank,US,private label,credit
+710107,00-99,Synchrony Bank,US,private label,credit
+710108,00-99,Synchrony Bank,US,private label,credit
 710109,00-99,,US,private label,debit
 710110,00-99,,US,private label,debit
 710111,00-99,,US,private label,debit

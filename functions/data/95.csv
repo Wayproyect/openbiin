@@ -34,16 +34,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 951001,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
 951002,00-99,HYUNDAICARD CO. LTD.,KR,local brand,credit
 951200,00-99,HSBC,OM,private label,debit
-951201,00-99,,US,private label,debit
-951202,00-99,,US,private label,debit
-951203,00-99,,US,private label,debit
-951204,00-99,,US,private label,debit
-951205,00-99,,US,private label,debit
-951206,00-99,,US,private label,debit
-951207,00-99,,US,private label,debit
-951208,00-99,,US,private label,debit
-951209,00-99,,US,private label,debit
-951220,00-99,,US,private label,debit
+951201,00-99,Ebt,US,private label,debit
+951202,00-99,Ebt,US,private label,debit
+951203,00-99,Ebt,US,private label,debit
+951204,00-99,Ebt,US,private label,debit
+951205,00-99,Ebt,US,private label,debit
+951206,00-99,Ebt,US,private label,debit
+951207,00-99,Ebt,US,private label,debit
+951208,00-99,Ebt,US,private label,debit
+951209,00-99,Ebt,US,private label,debit
+951220,00-99,Ebt,US,private label,debit
 951221,00-99,,US,private label,debit
 951222,00-99,,US,private label,debit
 951223,00-99,,US,private label,debit

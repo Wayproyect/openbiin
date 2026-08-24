@@ -402,14 +402,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520403,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520404,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520405,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-520406,00-99,,US,mastercard,credit
-520407,00-99,,NL,mastercard,credit
-520408,00-99,,US,mastercard,credit
-520409,00-99,,BR,mastercard,credit
-520410,00-99,,CL,mastercard,debit
-520411,00-99,,US,mastercard,credit
-520412,00-99,,VN,mastercard,credit
-520413,00-99,,DE,mastercard,credit
+520406,00-99,Mastercard,US,mastercard,credit
+520407,00-99,Mastercard,NL,mastercard,credit
+520408,00-99,Mastercard,US,mastercard,credit
+520409,00-99,Mastercard,BR,mastercard,credit
+520410,00-99,Mastercard,CL,mastercard,debit
+520411,00-99,Mastercard,US,mastercard,credit
+520412,00-99,Mastercard,VN,mastercard,credit
+520413,00-99,Mastercard,DE,mastercard,credit
 520414,00-99,DOHA BANK Q.S.C,QA,mastercard,credit
 520415,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 520416,00-99,BANCO NACIONAL DE MEXICO S.A.,MX,mastercard,debit
@@ -419,24 +419,24 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520420,00-99,UNITED BANK FOR AFRICA PLC,KE,mastercard,debit
 520421,00-99,ST. ANNES CREDIT UNION,US,mastercard,credit
 520422,00-99,SALAAM AFRICAN BANK,SO,mastercard,debit
-520423,00-99,,NZ,mastercard,credit
-520426,00-99,,GB,mastercard,credit
+520423,00-99,Mastercard,NZ,mastercard,credit
+520426,00-99,Mastercard,GB,mastercard,credit
 520430,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520431,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520432,00-99,FIRST INTERSTATE BANK,US,mastercard,credit
 520433,00-99,BANK OF BEIRUT S.A.L.,LB,mastercard,credit
 520453,00-99,RABOBANK,NL,mastercard,credit
-520455,00-99,,US,mastercard,credit
-520456,00-99,,MX,mastercard,credit
-520461,00-99,,HK,mastercard,credit
-520465,00-99,,TW,mastercard,credit
-520466,00-99,,FR,mastercard,credit
+520455,00-99,Mastercard,US,mastercard,credit
+520456,00-99,Mastercard,MX,mastercard,credit
+520461,00-99,Mastercard,HK,mastercard,credit
+520465,00-99,Mastercard,TW,mastercard,credit
+520466,00-99,Mastercard,FR,mastercard,credit
 520467,00-99,HEARTLAND BANK,US,mastercard,credit
 520470,00-99,NORTHERN BANK & TRUST COMPANY,US,mastercard,debit
 520471,00-99,J P MORGAN EUROPE LTD.,GB,mastercard,credit
 520472,00-99,J P MORGAN EUROPE LTD.,GB,mastercard,credit
 520473,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
-520474,00-99,,BE,mastercard,credit
+520474,00-99,Mastercard,BE,mastercard,credit
 520475,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520476,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520477,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
@@ -444,10 +444,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520479,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520480,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520481,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
-520482,00-99,,US,mastercard,credit
-520484,00-99,,US,mastercard,credit
-520486,00-99,,NA,mastercard,debit
-520487,00-99,,HK,mastercard,credit
+520482,00-99,Mastercard,US,mastercard,credit
+520484,00-99,Mastercard,US,mastercard,credit
+520486,00-99,Mastercard,NA,mastercard,debit
+520487,00-99,Mastercard,HK,mastercard,credit
 520491,00-99,,TW,mastercard,credit
 520495,00-99,,MX,mastercard,credit
 520499,00-99,SCOTIABANK INVERLAT S.A.,MX,mastercard,credit

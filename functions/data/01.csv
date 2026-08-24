@@ -1,11 +1,11 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-010051,00-99,,IT,pagobancomat,debit
-010053,00-99,,IT,pagobancomat,debit
-010108,00-99,,IT,pagobancomat,debit
-010150,00-99,,IT,pagobancomat,debit
-010258,00-99,,IT,pagobancomat,debit
-010300,00-99,,IT,pagobancomat,debit
-010309,00-99,,IT,pagobancomat,debit
+010051,00-99,Banca Nazionale Del Lavoro,IT,pagobancomat,debit
+010053,00-99,Banca Nazionale Del Lavoro,IT,pagobancomat,debit
+010108,00-99,Banca Monte Dei Paschi Di Siena,IT,pagobancomat,debit
+010150,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
+010258,00-99,Banca Sella,IT,pagobancomat,debit
+010300,00-99,Banca Intesa Sanpaolo,IT,pagobancomat,debit
+010309,00-99,Banca Intesa Sanpaolo,IT,pagobancomat,debit
 011300,00-99,BDO UNIBANK INC.,PH,local brand,debit
 011301,00-99,BDO UNIBANK INC.,PH,local brand,debit
 011302,00-99,BDO UNIBANK INC.,PH,local brand,debit

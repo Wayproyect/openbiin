@@ -13,7 +13,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 920013,00-99,NH NONGHYUP,KR,local brand,debit
 920014,00-99,NH NONGHYUP,KR,local brand,debit
 920018,00-99,BC CARD,KR,local brand,debit
-920020,00-99,BC CARD,KR,local brand,debit
+920020,00-99,Bc Card,KR,local,debit
 920021,00-99,BC CARD,KR,local brand,debit
 920023,00-99,BC CARD,KR,local brand,debit
 920025,00-99,BC CARD,KR,local brand,debit
@@ -34,7 +34,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 920049,00-99,BC CARD,KR,local brand,debit
 920050,00-99,BC CARD,KR,local brand,debit
 920051,00-99,BANK OF CHINA,KR,local brand,debit
-920055,00-99,BC CARD,KR,local brand,debit
+920055,00-99,Bc Card,KR,local,debit
 920058,00-99,BC CARD,KR,local brand,debit
 920059,00-99,KOREA INVESTMENT & SECURITIES CO. LTD.,KR,local brand,debit
 920061,00-99,BC CARD,KR,local brand,debit
@@ -47,8 +47,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 920080,00-99,BC CARD,KR,local brand,debit
 920082,00-99,BC FINT,KR,local brand,debit
 920085,00-99,BC CARD,KR,local brand,debit
-920086,00-99,BC CARD,KR,local brand,debit
-920087,00-99,BC CARD,KR,local brand,debit
+920086,00-99,Bc Card,KR,local,debit
+920087,00-99,Bc Card,KR,local,debit
 920089,00-99,BC CARD,KR,local brand,debit
 920091,00-99,NH INVESTMENT & SECURITIES,KR,local brand,debit
 920092,00-99,CACAO BANK,KR,local brand,debit
@@ -60,38 +60,38 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 920215,00-99,NACF,KR,local brand,debit
 920232,00-99,BUSAN BANK,KR,local brand,debit
 920239,00-99,KYONGNAM BANK CO. LTD.,KR,local brand,debit
-920315,00-99,NACF,KR,local brand,debit
+920315,00-99,Nacf,KR,local,debit
 920432,00-99,BUSAN BANK,KR,local brand,debit
 920439,00-99,KYONGNAM BANK CO. LTD.,KR,local brand,debit
 920501,00-99,SOUTH EAST BANK LTD.,BD,local brand,debit
 921000,00-99,BANK OF CHINA PAY,CN,local,debit
-921001,00-99,BANK OF CHINA BUSINESS PAYMENT CO. LTD.,CN,local,debit
+921001,00-99,Bank Of China Business Payment Co Ltd,CN,local,debit
 921002,00-99,BANK OF CHINA BUSINESS PAYMENT CO. LTD.,CN,local,debit
 922220,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,local,debit
 923001,00-99,ICB ISLAMIC BANK LTD.,BD,local brand,debit
 923301,00-99,EESTI SOTSIAALPANK,EE,private label,debit
 923362,00-99,SWEDBANK A.S.,EE,private label,debit
-923456,00-99,,UA,private label,debit
+923456,00-99,Privatbank,UA,visa,debit
 923909,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 924001,00-99,TRUST BANK LTD.,BD,local brand,debit
 924518,00-99,ABSA GROUP LTD.,ZA,local brand,credit
-924610,00-99,IKANO BANK FINLAND,FI,private label,debit
+924610,00-99,Ikano Bank Finland,FI,private label,debit
 925000,00-99,LA BANQUE POSTALE,FR,private label,debit
 925001,00-99,UTTARA BANK LTD.,BD,local brand,debit
 925002,00-99,UTTARA BANK LTD.,BD,local brand,debit
 925703,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 926089,00-99,ABSA GROUP LTD.,ZA,local brand,credit
-926366,00-99,KAUBAMAJA/SELVER PARTNERKAART,EE,private label,debit
-927000,00-99,,US,private label,debit
+926366,00-99,Kaubamaja Selver Partnerkaart,EE,private label,debit
+927000,00-99,Jpmorgan Chase Bank,US,visa,debit
 927001,00-99,VISA DPS,US,ebt,debit
-927002,00-99,,US,private label,debit
-927003,00-99,,US,private label,debit
-927004,00-99,,US,private label,debit
-927005,00-99,,US,private label,debit
-927006,00-99,,US,private label,debit
-927007,00-99,,US,private label,debit
-927008,00-99,,US,private label,debit
-927009,00-99,,US,private label,debit
-928000,00-99,BSW BONUS,DE,local brand,debit
+927002,00-99,Jpmorgan Chase Bank,US,visa,debit
+927003,00-99,Jpmorgan Chase Bank,US,visa,debit
+927004,00-99,Jpmorgan Chase Bank,US,visa,debit
+927005,00-99,Jpmorgan Chase Bank,US,visa,debit
+927006,00-99,Jpmorgan Chase Bank,US,visa,debit
+927007,00-99,Jpmorgan Chase Bank,US,visa,debit
+927008,00-99,Jpmorgan Chase Bank,US,visa,debit
+927009,00-99,Jpmorgan Chase Bank,US,visa,debit
+928000,00-99,Bsw Bonus,DE,local,debit
 928625,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 929292,00-99,UNIBANK,AZ,private label,debit

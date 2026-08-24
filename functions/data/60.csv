@@ -3,19 +3,19 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 600004,00-99,GE CAPITAL,GB,newday,debit
 600005,00-99,GE CAPITAL,GB,newday,debit
 600007,00-99,GE CAPITAL,GB,newday,debit
-600008,00-99,,GB,newday,debit
+600008,00-99,Newday Ltd,GB,visa,credit
 600053,00-99,JTB CORP.,JP,local brand,debit
-600054,00-99,,FR,maestro,debit
-600082,00-99,,US,ebt,debit
+600054,00-99,Credit Agricole,FR,visa,debit
+600082,00-99,Jpmorgan Chase Bank,US,visa,debit
 600098,00-99,LONE STAR CARD TEXAS EBT,US,ebt,debit
-600102,00-99,,IT,maestro,debit
-600110,00-99,,US,ebt,debit
-600120,00-99,,US,ebt,debit
-600123,00-99,,DE,maestro,debit
-600141,00-99,,US,local brand,credit
+600102,00-99,Banca Nazionale Del Lavoro,IT,visa,debit
+600110,00-99,Jpmorgan Chase Bank,US,visa,debit
+600120,00-99,Jpmorgan Chase Bank,US,visa,debit
+600123,00-99,Deutsche Bank Ag,DE,visa,debit
+600141,00-99,Jpmorgan Chase Bank,US,visa,credit
 600150,00-99,HERITAGE BANK LTD.,AU,local brand,debit
-600176,00-99,,DE,maestro,debit
-600200,00-99,,SE,local brand,debit
+600176,00-99,Deutsche Bank Ag,DE,visa,debit
+600200,00-99,Svenska Handelsbanken,SE,visa,debit
 600203,00-99,,CZ,maestro,debit
 600206,00-99,,IN,maestro,debit
 600208,00-99,TURKIYE GARANTI BANKASI A.S.,TR,maestro,debit

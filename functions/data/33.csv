@@ -1,20 +1,20 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-330000,00-99,,MX,private label,debit
+330000,00-99,American Express,MX,amex,credit
 330102,00-99,ICBC HANGZHOU,CN,atm card,debit
 330103,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 333330,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 333331,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 333333,00-99,ANDHRA BANK,IN,local brand,debit
 333336,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
-333700,00-99,,JP,jcb,debit
-333701,00-99,,JP,jcb,debit
-333702,00-99,,JP,jcb,debit
-333703,00-99,,JP,jcb,debit
-333704,00-99,,JP,jcb,debit
-333705,00-99,,JP,jcb,debit
-333706,00-99,,JP,jcb,debit
-333707,00-99,,JP,jcb,debit
-333708,00-99,,JP,jcb,debit
+333700,00-99,Jcb International,JP,jcb,credit
+333701,00-99,Jcb International,JP,jcb,credit
+333702,00-99,Jcb International,JP,jcb,credit
+333703,00-99,Jcb International,JP,jcb,credit
+333704,00-99,Jcb International,JP,jcb,credit
+333705,00-99,Jcb International,JP,jcb,credit
+333706,00-99,Jcb International,JP,jcb,credit
+333707,00-99,Jcb International,JP,jcb,credit
+333708,00-99,Jcb International,JP,jcb,credit
 333709,00-99,,JP,jcb,debit
 333710,00-99,,JP,jcb,debit
 333711,00-99,,JP,jcb,debit

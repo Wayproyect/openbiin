@@ -1,20 +1,20 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-620003,00-99,,CN,local,debit
+620003,00-99,China Unionpay,CN,unionpay,debit
 620009,00-99,SAIGON THUONG TIN COMMERCIAL JSB,VN,local,debit
 620010,00-99,SHENZHEN DEVELOPMENT BANK-DEBIT CARD,CN,local,debit
 620011,00-99,BC CARD,KR,local,debit
 620013,00-99,BANK OF COMMUNICATIONS HONG KONG BRANCH,HK,local,debit
 620015,00-99,SINGAPORE STARNET ELECTRONIC PAYMENT PTE LTD.,CN,local,debit
-620016,00-99,,CN,local,debit
-620017,00-99,,CN,local,debit
+620016,00-99,China Unionpay,CN,unionpay,debit
+620017,00-99,China Unionpay,CN,unionpay,debit
 620019,00-99,BANK OF CHINA MALAYSIA BRANCH,MY,local,debit
 620021,00-99,BANK OF COMMUNICATIONS,CN,local,debit
 620024,00-99,ROYAL BANK OPEN STOCK COMPANY,AZ,local,debit
 620025,00-99,BANK OF CHINA AUSTRALIA,AU,local,debit
 620026,00-99,BANK OF CHINA (AUSTRALIA) LTD.,AU,local,debit
 620027,00-99,BC CARD,KR,local,debit
-620028,00-99,,CN,local,debit
-620029,00-99,,CN,local,debit
+620028,00-99,China Unionpay,CN,unionpay,debit
+620029,00-99,China Unionpay,CN,unionpay,debit
 620030,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA,CN,local,debit
 620031,00-99,BC CARD,KR,local,debit
 620033,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
@@ -23,16 +23,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620038,00-99,BANK OF CHINA COMMERCIAL PAYMENT CO. LTD.,CN,local,debit
 620039,00-99,BC CARD,KR,local,debit
 620040,00-99,BANK OF CHINA-GREAT WALL SOCIAL SECURITY CARD-PREPAID CARD,CN,local,debit
-620041,00-99,,CN,local,debit
+620041,00-99,China Unionpay,CN,unionpay,debit
 620043,00-99,FUJIAN STRAIT BANK CO. LTD.-FUZHOU CITIZEN CARD-PREPAID CARD,CN,local,debit
 620046,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA HANOI,VN,local,debit
 620048,00-99,BOC EXPRESSPA CARD,CN,local,debit
 620050,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA ASIA,CN,local,debit
-620051,00-99,,CN,local,debit
-620052,00-99,,CN,local,debit
-620053,00-99,,CN,local,debit
+620051,00-99,China Unionpay,CN,unionpay,debit
+620052,00-99,China Unionpay,CN,unionpay,debit
+620053,00-99,China Unionpay,CN,unionpay,debit
 620054,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA BRUSSELS BRANC,BE,local,debit
-620055,00-99,,CN,local,debit
+620055,00-99,China Unionpay,CN,unionpay,debit
 620056,00-99,CREDIT SAISON,JP,local,debit
 620058,00-99,COMMERCIAL BANK OF CHINA,CN,local,debit
 620059,00-99,AGRICULTURAL BANK OF CHINA,CN,local,debit
@@ -45,23 +45,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620068,00-99,CHINA YINSHENG FINNANCE (HOLDING) LTD.,CN,local,debit
 620070,00-99,CHINA YINSHENG,CN,local,debit
 620072,00-99,DAFENG BANK CO. LTD.,MO,local,debit
-620073,00-99,,CN,local,debit
-620076,00-99,,CN,local,debit
-620077,00-99,,CN,local,debit
+620073,00-99,China Unionpay,CN,unionpay,debit
+620076,00-99,China Unionpay,CN,unionpay,debit
+620077,00-99,China Unionpay,CN,unionpay,debit
 620079,00-99,COMMERCIAL BANK OF DUBAI,AE,local,debit
-620081,00-99,,CN,local,debit
+620081,00-99,China Unionpay,CN,unionpay,debit
 620082,00-99,CITIC BANK-CHINA TRAVEL CARD,CN,local,debit
-620084,00-99,,US,cirrus,debit
+620084,00-99,China Unionpay,CN,unionpay,debit
 620085,00-99,EBANK,CN,local,debit
 620086,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,local,debit
-620087,00-99,,CN,local,debit
+620087,00-99,China Unionpay,CN,unionpay,debit
 620088,00-99,BEIJING RURAL CREDIT COOPERATIVE UNION,CN,local,debit
-620089,00-99,,CN,local,debit
-620090,00-99,,CN,local,debit
+620089,00-99,China Unionpay,CN,unionpay,debit
+620090,00-99,China Unionpay,CN,unionpay,debit
 620091,00-99,COMMERCIAL BANK OF DUBAI,AE,local,debit
-620093,00-99,,CN,local,debit
+620093,00-99,China Unionpay,CN,unionpay,debit
 620094,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA SINGAPORE,SG,local,debit
-620096,00-99,,CN,local,debit
+620096,00-99,China Unionpay,CN,unionpay,debit
 620101,00-99,ICBC,CN,local,debit
 620103,00-99,BC CARD,KR,local,debit
 620105,00-99,INN-U,CN,local,debit
@@ -2569,7 +2569,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 623687,00-99,HULUDAO GUOXIN RURAL BANK,CN,local,debit
 623688,00-99,GUANGDONG HUAXING BANK-HUAXING JOINT IC CARD,CN,local,debit
 623689,00-99,,CN,local,debit
-623690,00-99,,CN,local,debit
+623690,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 623691,00-99,,CN,local,debit
 623692,00-99,,CN,local,debit
 623693,00-99,,CN,local,debit

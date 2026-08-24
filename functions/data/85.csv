@@ -1000,7 +1000,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850998,00-99,BEST BUY - HSBC,CA,private label,debit
 850999,00-99,BEST BUY - HSBC,CA,private label,debit
 852909,00-99,BANK OF CHINA,CN,private label,credit
-853417,00-99,,BR,private label,debit
+853417,00-99,Banco Bradesco,BR,elo,debit
 853419,00-99,DACASA FINANCEIRA S/A,BR,private label,credit
 854809,00-99,BANAMEX,MX,private label,debit
 854819,00-99,BANAMEX,MX,private label,debit
