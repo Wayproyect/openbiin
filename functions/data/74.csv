@@ -9,16 +9,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 740014,00-99,Discover,US,discover,credit
 740101,00-99,Discover,US,discover,credit
 740102,00-99,Discover,US,discover,credit
-740113,00-99,,US,private label,debit
-740118,00-99,,US,private label,debit
-740124,00-99,,US,private label,debit
-740126,00-99,,US,private label,debit
-740130,00-99,,US,private label,debit
-740132,00-99,,US,private label,debit
-740137,00-99,,US,private label,debit
-740138,00-99,,US,private label,debit
-740147,00-99,,US,private label,debit
-740148,00-99,,US,private label,debit
+740113,00-99,Synchrony Bank,US,private label,credit
+740118,00-99,Synchrony Bank,US,private label,credit
+740124,00-99,Synchrony Bank,US,private label,credit
+740126,00-99,Synchrony Bank,US,private label,credit
+740130,00-99,Synchrony Bank,US,private label,credit
+740132,00-99,Synchrony Bank,US,private label,credit
+740137,00-99,Synchrony Bank,US,private label,credit
+740138,00-99,Synchrony Bank,US,private label,credit
+740147,00-99,Synchrony Bank,US,private label,credit
+740148,00-99,Synchrony Bank,US,private label,credit
 740156,00-99,,US,private label,debit
 740158,00-99,,US,private label,debit
 740160,00-99,,US,private label,debit
