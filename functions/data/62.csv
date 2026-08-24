@@ -91,17 +91,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620144,00-99,Bank Of China,CN,unionpay,debit
 620146,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA FRANKFURT,DE,local,debit
 620147,00-99,Bank Of China,CN,unionpay,debit
-620148,00-99,,ES,local,debit
+620148,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620149,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA MILAN BRANCH,IT,local,debit
-620150,00-99,,CN,local,debit
+620150,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620152,00-99,TRAVELEX JAPAN KK,CN,local,debit
 620153,00-99,TRAVELEX JAPAN KK,CN,local,debit
-620155,00-99,,CN,local,debit
-620156,00-99,,CN,local,debit
-620158,00-99,,CN,local,debit
-620159,00-99,,CN,local,debit
+620155,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620156,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620158,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620159,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620160,00-99,VIETINBANK,VN,local,debit
-620161,00-99,,CN,local,debit
+620161,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620162,00-99,VIETINBANK,VN,local,debit
 620163,00-99,VIETINBANK,VN,local,debit
 620164,00-99,VIETINBANK,VN,local,debit
@@ -109,9 +109,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620166,00-99,VIETINBANK,VN,local,debit
 620168,00-99,VIETINBANK,VN,local,debit
 620169,00-99,VIETINBANK,VN,local,debit
-620175,00-99,,CN,local,debit
-620180,00-99,,CN,local,debit
-620181,00-99,,CN,local,debit
+620175,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620180,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620181,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620183,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA MO,MO,local,debit
 620184,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CA,local,debit
 620185,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA MADRID,ES,local,debit
