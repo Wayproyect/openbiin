@@ -102,10 +102,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690101,00-99,MARUI'S RED,JP,local brand,debit
 690149,00-99,IAPA FREQUENT FLYERS,GB,maestro,debit
 690172,00-99,Banco Bradesco,BR,maestro,debit
-690231,00-99,,GE,maestro,debit
-690413,00-99,,EC,maestro,debit
-690465,00-99,,US,ebt,debit
-690527,00-99,,US,ebt,debit
+690231,00-99,Bank Of Georgia,GE,maestro,debit
+690413,00-99,Banco Pichincha,EC,maestro,debit
+690465,00-99,Jpmorgan Chase Bank,US,ebt,debit
+690527,00-99,Jpmorgan Chase Bank,US,ebt,debit
 690750,00-99,CHINA MERCHANTS BANK,CN,local,debit
 690751,00-99,CHINA MERCHANTS BANK,CN,local,debit
 690752,00-99,CHINA MERCHANTS BANK,CN,local,debit
@@ -116,14 +116,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 690757,00-99,CHINA MERCHANTS BANK,CN,local,debit
 690758,00-99,CHINA MERCHANTS BANK,CN,local,debit
 690759,00-99,CHINA MERCHANTS BANK,CN,local,debit
-690970,00-99,,DE,maestro,debit
-691026,00-99,,US,ebt,debit
+690970,00-99,Deutsche Bank,DE,maestro,debit
+691026,00-99,Jpmorgan Chase Bank,US,ebt,debit
 691100,00-99,ISETAN EYE,JP,local brand,debit
-691106,00-99,,IN,maestro,debit
+691106,00-99,State Bank Of India,IN,maestro,debit
 691131,00-99,TAKASHIMAYA,JP,local brand,debit
-691134,00-99,,US,ebt,debit
-691141,00-99,,RU,maestro,debit
-691313,00-99,,RU,maestro,debit
+691134,00-99,Jpmorgan Chase Bank,US,ebt,debit
+691141,00-99,Sberbank,RU,maestro,debit
+691313,00-99,Sberbank,RU,maestro,debit
 691339,00-99,,BR,maestro,debit
 691401,00-99,,FR,maestro,debit
 691510,00-99,,VE,maestro,debit
