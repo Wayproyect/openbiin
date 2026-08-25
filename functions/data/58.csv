@@ -27,20 +27,20 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 580042,00-99,Jpmorgan Chase Bank,US,mastercard,debit
 580043,00-99,Jpmorgan Chase Bank,US,mastercard,debit
 580046,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580048,00-99,,US,cirrus,debit
-580049,00-99,,US,ebt,debit
+580048,00-99,JPMorgan Chase Bank,US,maestro,debit
+580049,00-99,JPMorgan Chase Bank,US,maestro,debit
 580051,00-99,CITIZENS BANK N.A.,US,maestro,debit
-580054,00-99,,US,ebt,debit
-580056,00-99,,US,cirrus,debit
-580057,00-99,,US,ebt,debit
+580054,00-99,JPMorgan Chase Bank,US,maestro,debit
+580056,00-99,JPMorgan Chase Bank,US,maestro,debit
+580057,00-99,JPMorgan Chase Bank,US,maestro,debit
 580059,00-99,CITIZENS BANK N.A.,US,maestro,debit
-580060,00-99,,US,ebt,debit
+580060,00-99,JPMorgan Chase Bank,US,maestro,debit
 580063,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
-580065,00-99,,US,cirrus,debit
+580065,00-99,JPMorgan Chase Bank,US,maestro,debit
 580070,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580071,00-99,,US,ebt,debit
-580072,00-99,,US,cirrus,debit
-580073,00-99,,AU,maestro,debit
+580071,00-99,JPMorgan Chase Bank,US,maestro,debit
+580072,00-99,JPMorgan Chase Bank,US,maestro,debit
+580073,00-99,National Australia Bank,AU,maestro,debit
 580075,00-99,U.S. BANK N.A.,US,cirrus,debit
 580076,00-99,U.S. BANK N.A.,US,ebt,debit
 580080,00-99,,US,cirrus,debit
