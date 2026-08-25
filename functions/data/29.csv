@@ -1,5 +1,5 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 290000,00-99,BANK OF SHANGHAI,CN,private label,debit
-296025,00-99,,RU,private label,debit
-298936,00-99,,RU,private label,debit
-298939,00-99,,RU,private label,debit
+296025,00-99,Jsc Tinkoff Bank,RU,mir,debit
+298936,00-99,Jsc Tinkoff Bank,RU,mir,debit
+298939,00-99,Jsc Tinkoff Bank,RU,mir,debit
