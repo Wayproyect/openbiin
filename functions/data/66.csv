@@ -1,16 +1,16 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 660000,00-99,CRDB BANK PLC,TZ,maestro,debit
-660006,00-99,,RU,maestro,debit
-660011,00-99,,RU,maestro,debit
-660099,00-99,,PA,maestro,debit
+660006,00-99,Sberbank,RU,maestro,debit
+660011,00-99,Sberbank,RU,maestro,debit
+660099,00-99,Banco General,PA,maestro,debit
 660100,00-99,POSTBANK,DE,maestro,debit
-660110,00-99,,US,ebt,debit
-660191,00-99,,PE,maestro,debit
-660215,00-99,,BR,maestro,debit
-660271,00-99,,US,private label,debit
-660294,00-99,,CA,maestro,debit
-660383,00-99,,VE,maestro,debit
-660408,00-99,,FR,maestro,debit
+660110,00-99,Jpmorgan Chase Bank,US,visa,debit
+660191,00-99,Banco De Credito Del Peru,PE,maestro,debit
+660215,00-99,Banco Bradesco,BR,maestro,debit
+660271,00-99,Synchrony Bank,US,visa,credit
+660294,00-99,Royal Bank Of Canada,CA,maestro,debit
+660383,00-99,Banco Mercantil,VE,maestro,debit
+660408,00-99,Credit Agricole,FR,maestro,debit
 660414,00-99,,GB,private label,debit
 660650,00-99,,FR,maestro,debit
 660651,00-99,,EG,maestro,debit

@@ -15,18 +15,18 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 580021,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580022,00-99,Jpmorgan Chase Bank,US,maestro,debit
 580023,00-99,MAESTRO INTERNATIONAL,AT,maestro,debit
-580025,00-99,,US,cirrus,debit
+580025,00-99,Jpmorgan Chase Bank,US,mastercard,debit
 580028,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
-580030,00-99,,IL,maestro,debit
-580031,00-99,,IL,maestro,debit
-580033,00-99,,US,ebt,debit
+580030,00-99,Bank Hapoalim,IL,maestro,debit
+580031,00-99,Bank Hapoalim,IL,maestro,debit
+580033,00-99,Jpmorgan Chase Bank,US,mastercard,debit
 580034,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
-580038,00-99,,US,cirrus,debit
-580039,00-99,,US,ebt,debit
-580040,00-99,,US,ebt,debit
-580042,00-99,,US,ebt,debit
-580043,00-99,,US,cirrus,debit
-580046,00-99,,US,ebt,debit
+580038,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580039,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580040,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580042,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580043,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580046,00-99,Jpmorgan Chase Bank,US,mastercard,debit
 580048,00-99,,US,cirrus,debit
 580049,00-99,,US,ebt,debit
 580051,00-99,CITIZENS BANK N.A.,US,maestro,debit

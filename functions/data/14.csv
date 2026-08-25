@@ -2,15 +2,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140000,00-99,Rupali Bank Ltd,BD,visa,debit
 140210,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 140300,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140301,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140301,00-99,Yatra Online Ltd,IN,uatp,credit
 140302,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140303,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140304,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140305,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140305,00-99,Yatra Online Ltd,IN,uatp,credit
 140306,00-99,Yatra Online Ltd,IN,uatp,credit
 140307,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140308,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140309,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140309,00-99,Yatra Online Ltd,IN,uatp,credit
 140310,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140311,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140312,00-99,YATRA ONLINE LTD.,IN,uatp,credit
@@ -20,11 +20,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140316,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140317,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140318,00-99,Yatra Online Ltd,IN,uatp,credit
-140319,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140319,00-99,Yatra Online Ltd,IN,uatp,credit
 140320,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140321,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140322,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140323,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140323,00-99,Yatra Online Ltd,IN,uatp,credit
 140324,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140325,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140326,00-99,Yatra Online Ltd,IN,uatp,credit
@@ -70,7 +70,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140366,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140367,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140368,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140369,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140369,00-99,Yatra Online Ltd,IN,uatp,credit
 140370,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140371,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140372,00-99,Yatra Online Ltd,IN,uatp,credit
@@ -92,7 +92,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 140388,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140389,00-99,Yatra Online Ltd,IN,uatp,credit
 140390,00-99,YATRA ONLINE LTD.,IN,uatp,credit
-140391,00-99,YATRA ONLINE LTD.,IN,uatp,credit
+140391,00-99,Yatra Online Ltd,IN,uatp,credit
 140392,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140393,00-99,YATRA ONLINE LTD.,IN,uatp,credit
 140394,00-99,YATRA ONLINE LTD.,IN,uatp,credit
