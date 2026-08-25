@@ -19,16 +19,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 640022,00-99,Discover Financial Services,US,discover,debit
 640023,00-99,Discover Financial Services,US,discover,debit
 640024,00-99,Discover Financial Services,US,discover,debit
-640025,00-99,,US,ebt,debit
-640026,00-99,,US,ebt,debit
-640027,00-99,,US,ebt,debit
-640028,00-99,,US,ebt,debit
-640029,00-99,,US,ebt,debit
-640030,00-99,,US,cirrus,debit
-640031,00-99,,US,ebt,debit
-640032,00-99,,US,ebt,debit
-640033,00-99,,US,ebt,debit
-640034,00-99,,US,ebt,debit
+640025,00-99,Fidelity National Information Services,US,ebt,debit
+640026,00-99,Fidelity National Information Services,US,ebt,debit
+640027,00-99,Fidelity National Information Services,US,ebt,debit
+640028,00-99,Fidelity National Information Services,US,ebt,debit
+640029,00-99,Fidelity National Information Services,US,ebt,debit
+640030,00-99,Mastercard,US,mastercard,debit
+640031,00-99,Fidelity National Information Services,US,ebt,debit
+640032,00-99,Fidelity National Information Services,US,ebt,debit
+640033,00-99,Fidelity National Information Services,US,ebt,debit
+640034,00-99,Fidelity National Information Services,US,ebt,debit
 640035,00-99,,US,ebt,debit
 640036,00-99,,US,cirrus,debit
 640037,00-99,,US,ebt,debit
