@@ -448,23 +448,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520484,00-99,Mastercard,US,mastercard,credit
 520486,00-99,Mastercard,NA,mastercard,debit
 520487,00-99,Mastercard,HK,mastercard,credit
-520491,00-99,,TW,mastercard,credit
-520495,00-99,,MX,mastercard,credit
+520491,00-99,Cathay United Bank,TW,mastercard,credit
+520495,00-99,Banco Santander Mexico,MX,mastercard,credit
 520499,00-99,SCOTIABANK INVERLAT S.A.,MX,mastercard,credit
 520500,00-99,COMENITY BANK,US,mastercard,credit
-520501,00-99,,GB,mastercard,credit
+520501,00-99,Clydesdale Bank,GB,mastercard,credit
 520502,00-99,EQUITY BANK,US,mastercard,credit
 520504,00-99,KB KOOKMIN CARD CO. LTD,KR,mastercard,debit
 520505,00-99,LINCOLN SAVINGS BANK,US,mastercard,credit
 520507,00-99,WELLS FARGO FINANCIAL CORPORATION CANADA,CA,mastercard,credit
 520508,00-99,WELLS FARGO FINANCIAL CORPORATION CANADA,CA,mastercard,credit
-520509,00-99,,US,mastercard,credit
+520509,00-99,Capital One Bank,US,mastercard,credit
 520510,00-99,ABA CARD SOLUTIONS INC.,US,mastercard,debit
 520511,00-99,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
 520512,00-99,FIRST COMMONWEALTH BANK,US,mastercard,debit
 520513,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 520514,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-520515,00-99,,US,mastercard,credit
+520515,00-99,Capital One Bank,US,mastercard,credit
 520516,00-99,BERKSHIRE BANK,US,mastercard,debit
 520517,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 520518,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
@@ -618,7 +618,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520667,00-99,WOORICARD CO. LTD,KR,mastercard,credit
 520668,00-99,CENTRAL-EUROPEAN INTERNATIONAL BANK (CIB BANK) RT.,HU,mastercard,credit
 520669,00-99,FINDOMESTIC BANCA S.P.A.,IT,mastercard,credit
-520670,00-99,,RU,mastercard,credit
+520670,00-99,Sberbank,RU,mastercard,credit
 520671,00-99,HERITAGE BANK INC.,US,mastercard,debit
 520672,00-99,ST. ANNES CREDIT UNION,US,mastercard,credit
 520673,00-99,EASYCASH GMBH,DE,mastercard,credit
@@ -664,11 +664,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520714,00-99,ABN AMRO BANK,DE,mastercard,credit
 520715,00-99,BBVA USA,US,mastercard,credit
 520716,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
-520717,00-99,,US,mastercard,credit
+520717,00-99,Capital One Bank,US,mastercard,credit
 520718,00-99,SANTANDER BANK POLSKA S.A.,PL,mastercard,credit
 520719,00-99,PRIMAX,US,mastercard,credit
 520720,00-99,ABN AMRO BANK N.V.,HK,mastercard,credit
-520721,00-99,,CN,mastercard,credit
+520721,00-99,Bank of China,CN,mastercard,credit
 520723,00-99,ABN AMRO BANK N.V.,SG,mastercard,credit
 520724,00-99,STARLING BANK LTD.,IE,mastercard,debit
 520725,00-99,FIRST CITY MONUMENT BANK PLC,NG,mastercard,debit
@@ -687,7 +687,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520740,00-99,UNITED BANK FOR AFRICA PLC,KE,mastercard,debit
 520741,00-99,BLOM BANK SAL,JO,mastercard,debit
 520742,00-99,MASHREQ BANK,EG,mastercard,debit
-520743,00-99,,US,mastercard,credit
+520743,00-99,Capital One Bank,US,mastercard,credit
 520744,00-99,FINABANK NV,SR,mastercard,credit
 520745,00-99,FIBABANKA A.S.,TR,mastercard,debit
 520746,00-99,RBTT BANK LTD.,CW,mastercard,credit
@@ -712,7 +712,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520767,00-99,HSBC BANK MIDDLE EAST,EG,mastercard,credit
 520768,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 520769,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-520770,00-99,,US,mastercard,debit
+520770,00-99,Capital One Bank,US,mastercard,debit
 520771,00-99,BLOM BANK S.A.L.,LB,mastercard,credit
 520772,00-99,CLEAR MOUNTAIN BANK,US,mastercard,debit
 520773,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
