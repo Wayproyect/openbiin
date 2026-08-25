@@ -74,20 +74,20 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 989113,00-99,Banka Postanska Stedionica,RS,dinacard,debit
 989114,00-99,Banka Postanska Stedionica,RS,dinacard,debit
 989115,00-99,Banka Postanska Stedionica,RS,dinacard,debit
-989116,00-99,,RS,dinacard,debit
-989117,00-99,,RS,dinacard,debit
-989118,00-99,,RS,dinacard,debit
-989119,00-99,,RS,dinacard,debit
-989120,00-99,,RS,dinacard,debit
-989121,00-99,,RS,dinacard,debit
-989122,00-99,,RS,dinacard,debit
+989116,00-99,Postanska Stedionica,RS,dinacard,debit
+989117,00-99,Postanska Stedionica,RS,dinacard,debit
+989118,00-99,Postanska Stedionica,RS,dinacard,debit
+989119,00-99,Postanska Stedionica,RS,dinacard,debit
+989120,00-99,Postanska Stedionica,RS,dinacard,debit
+989121,00-99,Postanska Stedionica,RS,dinacard,debit
+989122,00-99,Postanska Stedionica,RS,dinacard,debit
 989123,00-99,PROCREDIT BANK,RS,dinacard,debit
 989124,00-99,AIK BANKA,RS,dinacard,debit
 989125,00-99,KBC BANKA,RS,dinacard,debit
-989126,00-99,,RS,dinacard,debit
+989126,00-99,Postanska Stedionica,RS,dinacard,debit
 989127,00-99,PIERUS BANK,RS,dinacard,debit
 989128,00-99,UNIVERZAL BANKA,RS,dinacard,debit
-989129,00-99,,RS,dinacard,debit
+989129,00-99,Postanska Stedionica,RS,dinacard,debit
 989130,00-99,,RS,dinacard,debit
 989131,00-99,ALPHA BANK,RS,dinacard,credit
 989132,00-99,,RS,dinacard,debit
