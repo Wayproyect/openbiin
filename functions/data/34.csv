@@ -60,7 +60,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 340058,00-99,ALPHA CARD S.C.R.L BELGIUM,BE,american express,credit
 340059,00-99,,US,american express,credit
 340060,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
-340061, 00-99, BREAD FINANCIAL, US, american express, credit
+340061,00-99,BREAD FINANCIAL,US,american express,credit
 340062,00-99,NEDBANK,ZA,american express,debit
 340063,00-99,JSC BANK OF GEORGIA,GE,american express,debit
 340064,00-99,ACBA-CREDIT AGRICOLE BANK CJSC,AM,american express,credit
@@ -2561,7 +2561,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 342559,00-99,,US,american express,credit
 342560,00-99,NEDBANK LTD.,ZA,american express,credit
 342561,00-99,,US,american express,credit
-342562, 00-99, AMERICAN EXPRESS COMPANY US, US, amex, credit
+342562,00-99,AMERICAN EXPRESS COMPANY US,US,amex,credit
 342563,00-99,AMERICAN EXPRESS SERVICES EUROPE LTD.,NL,american express,credit
 342564,00-99,CAPITAL ONE N.A.,US,american express,credit
 342565,00-99,AMERICAN EXPRESS COMPANY US,US,american express,credit
