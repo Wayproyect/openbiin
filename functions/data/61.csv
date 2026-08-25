@@ -47,17 +47,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 610460,00-99,FIRST NATIONAL BANK ALASKA,US,ebt,debit
 610464,00-99,Dbs Bank,SG,private label,debit
 610470,00-99,COUTH CAROLINA EBT,US,ebt,debit
-610471,00-99,,US,ebt,debit
-610472,00-99,,US,ebt,debit
-610473,00-99,,US,ebt,debit
-610474,00-99,,US,ebt,debit
-610475,00-99,,US,ebt,debit
-610476,00-99,,US,ebt,debit
-610477,00-99,,US,ebt,debit
-610478,00-99,,US,ebt,debit
-610479,00-99,,US,ebt,debit
+610471,00-99,Fidelity National Information Services,US,ebt,debit
+610472,00-99,Fidelity National Information Services,US,ebt,debit
+610473,00-99,Fidelity National Information Services,US,ebt,debit
+610474,00-99,Fidelity National Information Services,US,ebt,debit
+610475,00-99,Fidelity National Information Services,US,ebt,debit
+610476,00-99,Fidelity National Information Services,US,ebt,debit
+610477,00-99,Fidelity National Information Services,US,ebt,debit
+610478,00-99,Fidelity National Information Services,US,ebt,debit
+610479,00-99,Fidelity National Information Services,US,ebt,debit
 610481,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,private label,debit
-610494,00-99,,US,private label,debit
+610494,00-99,Fidelity National Information Services,US,private label,debit
 610500,00-99,,US,private label,debit
 610502,00-99,,US,private label,debit
 610520,00-99,,US,ebt,debit
