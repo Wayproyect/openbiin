@@ -12,7 +12,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888002,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888003,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888004,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888005,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888005,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888006,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888007,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888008,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -102,7 +102,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888092,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888093,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888094,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888095,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888095,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888096,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888097,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888098,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -175,7 +175,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888165,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888166,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888167,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888168,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888168,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888169,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888170,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888171,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -350,7 +350,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888340,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888341,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888342,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888343,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888343,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888344,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888345,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888346,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -442,7 +442,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888432,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888433,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888434,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888435,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888435,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888436,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888437,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888438,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -567,7 +567,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888557,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888558,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888559,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888560,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888560,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888561,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888562,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888563,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -624,7 +624,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888614,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888615,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888616,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888617,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888617,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888618,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888619,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888620,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -691,7 +691,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888681,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888682,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888683,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888684,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888684,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888685,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888686,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888687,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -806,7 +806,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888796,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888797,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888798,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888799,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888799,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888800,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888801,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888802,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
@@ -823,7 +823,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 888813,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888814,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888815,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
-888816,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
+888816,00-99,Bank Of Guiyang Co Ltd,CN,unionpay,debit
 888817,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888818,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
 888819,00-99,BANK OF GUIYANG CO. LTD.,CN,private label,debit
