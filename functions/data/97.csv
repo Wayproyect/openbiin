@@ -149,8 +149,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 978874,00-99,BANQUE DE TUNISIE ET DES EMIRATS,TN,cmi,debit
 978880,00-99,LA POSTE TUNISIENNE,TN,cmi,debit
 979036,00-99,ABSA GROUP LTD.,ZA,local brand,credit
-979200,00-99,,TR,troy,debit
-979201,00-99,,TR,troy,debit
+979200,00-99,Ziraat Bankasi,TR,troy,debit
+979201,00-99,Ziraat Bankasi,TR,troy,debit
 979202,00-99,FINANSBANK A.S.,TR,troy,debit
 979203,00-99,FINANSBANK A.S.,TR,troy,credit
 979204,00-99,T. IS BANKASI A.S.,TR,troy,credit
@@ -171,19 +171,19 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 979219,00-99,ODEA BANK A.S.,TR,troy,credit
 979220,00-99,DENIZ BANK A.S.,TR,troy,credit
 979221,00-99,ZIRAAT KATILIM BANKASI A.S.,TR,troy,credit
-979222,00-99,,TR,troy,debit
+979222,00-99,Turkiye Is Bankasi,TR,troy,debit
 979223,00-99,TURK EKONOMI BANKASI A.S.,TR,troy,credit
 979224,00-99,ING BANK A.S.,TR,troy,credit
 979225,00-99,FIBABANKA,TR,troy,credit
 979226,00-99,ALBARAKA TURK,TR,troy,credit
 979227,00-99,ALBARAKA TURK,TR,troy,debit
 979228,00-99,ALTERNATIF BANK A.S.,TR,troy,credit
-979229,00-99,,TR,troy,debit
+979229,00-99,Turkiye Is Bankasi,TR,troy,debit
 979230,00-99,VAKIF KATILIM BANKASI A.S,TR,troy,credit
 979231,00-99,TURKLAND BANK,TR,troy,debit
 979232,00-99,ASYA KATILIM BANKASI,TR,troy,debit
 979233,00-99,T. IS BANKASI A.S.,TR,troy,debit
-979234,00-99,,TR,troy,debit
+979234,00-99,Yapi Ve Kredi Bankasi,TR,troy,debit
 979235,00-99,TURK ELEKTRONIK A.S,TR,troy,debit
 979236,00-99,T. GARANTI BANKASI A.S.,TR,troy,debit
 979237,00-99,DENIZ BANK A.S.,TR,troy,credit
@@ -194,17 +194,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 979242,00-99,ING BANK A.S.,TR,troy,debit
 979243,00-99,DENIZ BANK A.S.,TR,troy,credit
 979244,00-99,T. HALK BANKASI A.S.,TR,troy,credit
-979245,00-99,,TR,troy,debit
+979245,00-99,Akbank,TR,troy,debit
 979246,00-99,AKTIF YATIRIM BANKASI,TR,troy,debit
-979247,00-99,,TR,troy,debit
+979247,00-99,Akbank,TR,troy,debit
 979248,00-99,TURK ELEKTRONIK A.S,TR,troy,credit
 979249,00-99,POSTAL AND TELEGRAPH CORPORATION,TR,troy,debit
 979250,00-99,VAKIF KATILIM BANKASI A.S,TR,troy,debit
-979251,00-99,,TR,troy,debit
+979251,00-99,Turk Ekonomi Bankasi,TR,troy,debit
 979252,00-99,ANADOLU BANK A.S.,TR,troy,credit
-979253,00-99,,TR,troy,debit
+979253,00-99,Turk Ekonomi Bankasi,TR,troy,debit
 979254,00-99,POSTAL AND TELEGRAPH CORPORATION,TR,troy,debit
-979255,00-99,,TR,troy,debit
+979255,00-99,Denizbank,TR,troy,debit
 979256,00-99,T. VAKIFLAR BANKASI T.A.O,TR,troy,debit
 979257,00-99,TURK ELEKTRONIK A.S,TR,troy,credit
 979258,00-99,,TR,troy,debit
