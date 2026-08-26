@@ -2,13 +2,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 370000,00-99,ACME,US,american express,credit
 370001,00-99,AMERICAN EXPRESS COMPANY,IN,american express,credit
 370002,00-99,AMERICAN EXPRESS COMPANY,BR,american express,credit
-370003,00-99,,US,american express,credit
+370003,00-99,American Express,US,amex,credit
 370004,00-99,AMERICAN EXPRESS COMPANY,BR,american express,credit
-370005,00-99,,US,american express,credit
-370006,00-99,,US,american express,credit
-370007,00-99,,US,american express,credit
-370008,00-99,,US,american express,credit
-370009,00-99,,US,american express,credit
+370005,00-99,American Express,US,amex,credit
+370006,00-99,American Express,US,amex,credit
+370007,00-99,American Express,US,amex,credit
+370008,00-99,American Express,US,amex,credit
+370009,00-99,American Express,US,amex,credit
 370010,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 370011,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 370012,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
@@ -35,14 +35,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 370033,00-99,AMEX GCS UK VPAYMENT,GB,american express,credit
 370034,00-99,WELLS FARGO,US,american express,credit
 370035,00-99,WELLS FARGO,US,american express,credit
-370036,00-99,,US,american express,credit
+370036,00-99,American Express,US,amex,credit
 370037,00-99,AMERICAN EXPRESS US,US,american express,credit
-370038,00-99,,US,american express,credit
+370038,00-99,American Express,US,amex,credit
 370039,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 370040,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
-370041,00-99,,US,american express,credit
+370041,00-99,American Express,US,amex,credit
 370042,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
-370043,00-99,,US,american express,credit
+370043,00-99,American Express,US,amex,credit
 370044,00-99,,US,american express,credit
 370045,00-99,,US,american express,credit
 370046,00-99,,US,american express,credit
