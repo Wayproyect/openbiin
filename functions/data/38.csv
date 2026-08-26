@@ -39,16 +39,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 380037,00-99,Diners Club International,US,diners club,credit
 380038,00-99,Diners Club International,US,diners club,credit
 380039,00-99,Hdfc Bank,IN,diners club,credit
-380040,00-99,,US,diners club international,credit
-380041,00-99,,US,diners club international,credit
-380042,00-99,,US,diners club international,credit
-380043,00-99,,US,diners club international,credit
-380044,00-99,,US,diners club international,credit
-380045,00-99,,US,diners club international,credit
-380046,00-99,,NL,diners club international,credit
-380047,00-99,,US,diners club international,credit
-380048,00-99,,US,diners club international,credit
-380049,00-99,,US,diners club international,credit
+380040,00-99,Citibank,US,diners club international,credit
+380041,00-99,Citibank,US,diners club international,credit
+380042,00-99,Citibank,US,diners club international,credit
+380043,00-99,Citibank,US,diners club international,credit
+380044,00-99,Citibank,US,diners club international,credit
+380045,00-99,Citibank,US,diners club international,credit
+380046,00-99,Citibank,NL,diners club international,credit
+380047,00-99,Citibank,US,diners club international,credit
+380048,00-99,Citibank,US,diners club international,credit
+380049,00-99,Citibank,US,diners club international,credit
 380050,00-99,,US,diners club international,credit
 380051,00-99,,US,diners club international,credit
 380052,00-99,,US,diners club international,credit
