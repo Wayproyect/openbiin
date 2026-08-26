@@ -50,24 +50,24 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 650048,00-99,ISSUER ADMINSTRADORA DE CARTOES LTDA,BR,elo,credit
 650049,00-99,Banco Bradesco,BR,elo,credit
 650050,00-99,Banco Bradesco,BR,elo,credit
-650051,00-99,,BR,elo,credit
+650051,00-99,Banco Bradesco,BR,elo,credit
 650052,00-99,TURKIYE VAKIFLAR BANKASI T.A.O.,TR,troy,credit
 650053,00-99,MERCURY,AE,discover,debit
 650054,00-99,MERCURY,AE,discover,debit
 650055,00-99,MERCURY,AE,discover,debit
 650056,00-99,MERCURY,AE,discover,debit
-650057,00-99,,BR,elo,credit
+650057,00-99,Banco Bradesco,BR,elo,credit
 650058,00-99,PICPAY INSTITUI O DE PAGAMENTO SA,BR,elo,credit
 650059,00-99,PICPAY INSTITUI O DE PAGAMENTO SA,BR,elo,credit
-650060,00-99,,BR,elo,credit
-650061,00-99,,BR,elo,credit
-650062,00-99,,BR,elo,debit
-650063,00-99,,BR,elo,credit
-650064,00-99,,BR,elo,credit
-650065,00-99,,BR,elo,credit
-650066,00-99,,BR,elo,credit
+650060,00-99,Banco Bradesco,BR,elo,credit
+650061,00-99,Banco Bradesco,BR,elo,credit
+650062,00-99,Banco Bradesco,BR,elo,debit
+650063,00-99,Banco Bradesco,BR,elo,credit
+650064,00-99,Banco Bradesco,BR,elo,credit
+650065,00-99,Banco Bradesco,BR,elo,credit
+650066,00-99,Banco Bradesco,BR,elo,credit
 650067,00-99,PJ PAYMENT ACCOUNT,BR,elo,debit
-650068,00-99,,BR,elo,credit
+650068,00-99,Banco Bradesco,BR,elo,credit
 650069,00-99,BANCO BRADESCO SA,BR,elo,debit
 650070,00-99,BANCO BRADESCO SA,BR,elo,debit
 650071,00-99,BANCO BRADESCO SA,BR,elo,debit

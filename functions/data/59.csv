@@ -1,24 +1,24 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-590000,00-99,,UA,maestro,debit
-590001,00-99,,UA,maestro,debit
-590002,00-99,,CL,maestro,debit
-590003,00-99,,NO,maestro,debit
-590004,00-99,,CN,maestro,debit
-590005,00-99,,HK,maestro,debit
-590006,00-99,,CA,maestro,debit
-590007,00-99,,CN,maestro,debit
-590008,00-99,,GB,maestro,debit
-590009,00-99,,AU,maestro,debit
-590010,00-99,,CL,maestro,debit
-590011,00-99,,CN,maestro,debit
-590012,00-99,,HK,maestro,debit
-590013,00-99,,GB,maestro,debit
-590014,00-99,,CZ,maestro,debit
-590015,00-99,,DE,maestro,debit
-590016,00-99,,CN,maestro,debit
-590017,00-99,,CL,maestro,debit
-590018,00-99,,UA,maestro,debit
-590019,00-99,,CA,maestro,debit
+590000,00-99,Jsc Ukrsibbank,UA,maestro,debit
+590001,00-99,Jsc Ukrsibbank,UA,maestro,debit
+590002,00-99,Banco De Chile,CL,maestro,debit
+590003,00-99,Dnb Bank Asa,NO,maestro,debit
+590004,00-99,Bank Of China,CN,maestro,debit
+590005,00-99,Hang Seng Bank,HK,maestro,debit
+590006,00-99,Royal Bank Of Canada,CA,maestro,debit
+590007,00-99,Bank Of China,CN,maestro,debit
+590008,00-99,Clydesdale Bank,GB,maestro,debit
+590009,00-99,National Australia Bank,AU,maestro,debit
+590010,00-99,Banco De Chile,CL,maestro,debit
+590011,00-99,Bank Of China,CN,maestro,debit
+590012,00-99,Hang Seng Bank,HK,maestro,debit
+590013,00-99,Clydesdale Bank,GB,maestro,debit
+590014,00-99,Ceska Sporitelna,CZ,maestro,debit
+590015,00-99,Deutsche Bank,DE,maestro,debit
+590016,00-99,Bank Of China,CN,maestro,debit
+590017,00-99,Banco De Chile,CL,maestro,debit
+590018,00-99,Privatbank,UA,maestro,debit
+590019,00-99,Royal Bank Of Canada,CA,maestro,debit
 590020,00-99,,UA,maestro,debit
 590021,00-99,,DE,maestro,debit
 590022,00-99,,CL,maestro,debit

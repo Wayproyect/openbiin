@@ -1,24 +1,24 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-680000,00-99,,FR,maestro,debit
-680001,00-99,,DE,girocard,debit
-680002,00-99,,DE,girocard,debit
-680003,00-99,,DE,girocard,debit
-680004,00-99,,DE,girocard,debit
-680005,00-99,,DE,girocard,debit
-680006,00-99,,DE,girocard,debit
-680007,00-99,,DE,girocard,debit
-680008,00-99,,DE,girocard,debit
-680009,00-99,,DE,girocard,debit
-680010,00-99,,DE,girocard,debit
-680011,00-99,,DE,girocard,debit
-680012,00-99,,DE,girocard,debit
-680013,00-99,,DE,girocard,debit
-680014,00-99,,DE,girocard,debit
-680015,00-99,,DE,girocard,debit
-680016,00-99,,DE,girocard,debit
-680017,00-99,,DE,girocard,debit
-680018,00-99,,DE,girocard,debit
-680019,00-99,,DE,girocard,debit
+680000,00-99,Caisse Des Depots Et Consignations,FR,maestro,debit
+680001,00-99,Deutsche Bank Ag,DE,girocard,debit
+680002,00-99,Deutsche Bank Ag,DE,girocard,debit
+680003,00-99,Deutsche Bank Ag,DE,girocard,debit
+680004,00-99,Deutsche Bank Ag,DE,girocard,debit
+680005,00-99,Deutsche Bank Ag,DE,girocard,debit
+680006,00-99,Deutsche Bank Ag,DE,girocard,debit
+680007,00-99,Deutsche Bank Ag,DE,girocard,debit
+680008,00-99,Deutsche Bank Ag,DE,girocard,debit
+680009,00-99,Deutsche Bank Ag,DE,girocard,debit
+680010,00-99,Deutsche Bank Ag,DE,girocard,debit
+680011,00-99,Deutsche Bank Ag,DE,girocard,debit
+680012,00-99,Deutsche Bank Ag,DE,girocard,debit
+680013,00-99,Deutsche Bank Ag,DE,girocard,debit
+680014,00-99,Deutsche Bank Ag,DE,girocard,debit
+680015,00-99,Deutsche Bank Ag,DE,girocard,debit
+680016,00-99,Deutsche Bank Ag,DE,girocard,debit
+680017,00-99,Deutsche Bank Ag,DE,girocard,debit
+680018,00-99,Deutsche Bank Ag,DE,girocard,debit
+680019,00-99,Deutsche Bank Ag,DE,girocard,debit
 680020,00-99,,DE,girocard,debit
 680021,00-99,,DE,girocard,debit
 680022,00-99,,DE,girocard,debit

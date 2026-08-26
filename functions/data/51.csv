@@ -453,7 +453,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510466,00-99,METABANK NATIONAL ASSOCIATION,US,mastercard,debit
 510468,00-99,NETWORK INTERNATIONAL LLC,AE,mastercard,credit
 510469,00-99,CAPITAL BANK OF JORDAN,JO,mastercard,debit
-510470,00-99,,AE,mastercard,debit
+510470,00-99,Emirates NBD,AE,mastercard,debit
 510471,00-99,COMMERCIAL BANK OF QATAR Q.S.C,QA,mastercard,debit
 510472,00-99,ARAB FINANCIAL SERVICES COMPANY B.S.C. (C),TN,mastercard,debit
 510473,00-99,BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE- BMCI,MA,mastercard,credit
@@ -549,7 +549,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 510569,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 510570,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 510571,00-99,COMMUNITY WEST CREDIT UNION,US,mastercard,debit
-510572,00-99,,US,mastercard,credit
+510572,00-99,Citibank,US,mastercard,credit
 510573,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
 510574,00-99,WIDGET FEDERAL CREDIT UNION,US,mastercard,debit
 510575,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
@@ -1013,7 +1013,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511035,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
 511036,00-99,STAR PROCESSING INC.,US,mastercard,debit
 511037,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
-511038,00-99,,US,mastercard,debit
+511038,00-99,Citibank,US,mastercard,debit
 511039,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 511040,00-99,FORCHT BANK NA,US,mastercard,debit
 511041,00-99,VERABANK N.A.,US,mastercard,debit
@@ -1461,7 +1461,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511483,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
 511484,00-99,SUNRISE BANKS N.A.,US,mastercard,debit
 511485,00-99,REGIONS BANK,US,mastercard,debit
-511486,00-99,,US,mastercard,credit
+511486,00-99,Citibank,US,mastercard,credit
 511487,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 511488,00-99,BANCORP BANK,US,mastercard,debit
 511489,00-99,TOUCHMARK NATIONAL BANK,US,mastercard,debit
@@ -1485,7 +1485,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511507,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 511508,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,mastercard,debit
 511509,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,mastercard,debit
-511510,00-99,,US,mastercard,debit
+511510,00-99,Citibank,US,mastercard,debit
 511511,00-99,HDFC BANK LTD.,IN,mastercard,debit
 511512,00-99,CROSS RIVER BANK,US,mastercard,credit
 511513,00-99,ENTROPAY LTD.,MT,mastercard,credit
@@ -1672,7 +1672,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511694,00-99,BANQUE DU CAIRE,EG,mastercard,credit
 511695,00-99,JOINT-STOCK COMPANY UKRSIBBANK,UA,mastercard,credit
 511696,00-99,SCOTIABANK COLPATRIA S.A.,CO,mastercard,credit
-511697,00-99,,RU,mastercard,credit
+511697,00-99,Sberbank,RU,mastercard,credit
 511698,00-99,JPMORGAN CHASE BANK N.A.,US,mastercard,credit
 511699,00-99,ASTERA CREDIT UNION,US,mastercard,debit
 511700,00-99,EDENRED ARGENTINA SA,AR,mastercard,credit
@@ -1718,7 +1718,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511740,00-99,BANCO MACRO S.A.,AR,mastercard,credit
 511741,00-99,NETWORK INTERNATIONAL ARABIA LTD.,SA,mastercard,debit
 511742,00-99,JOINT STOCK WEST-SIBERIAN COMMERCIAL BANK,RU,mastercard,credit
-511743,00-99,,US,mastercard,credit
+511743,00-99,Citibank,US,mastercard,credit
 511744,00-99,CENTRAL COOPERATIVE BANK AD SKOPJE,MK,mastercard,credit
 511745,00-99,BANCO DE CREDITO DO SUL S A,AO,mastercard,credit
 511746,00-99,AKTIA FINANS AB,FI,mastercard,credit
@@ -1735,7 +1735,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511757,00-99,STRIDE BANK N.A.,US,mastercard,debit
 511758,00-99,TURKIYE FINANS KATILIM BANKASI  A.S.,TR,mastercard,credit
 511759,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-511760,00-99,,US,mastercard,credit
+511760,00-99,Citibank,US,mastercard,credit
 511761,00-99,EVERTEC MEXICO SERVICIOS DE PROCESAMIENTO S.A.DE C.V.,MX,mastercard,debit
 511762,00-99,NORTH SHORE BANK,US,mastercard,debit
 511763,00-99,CREDIT UNION ONE,US,mastercard,debit
@@ -1857,7 +1857,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 511879,00-99,NATIONAL BANK OF RAS AL-KHAIMAH (RAKBANK),AE,mastercard,debit
 511880,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
 511881,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-511882,00-99,,HU,mastercard,credit
+511882,00-99,Otp Bank,HU,mastercard,credit
 511883,00-99,STAR PROCESSING INC.,US,mastercard,credit
 511884,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
 511885,00-99,T.C. ZIRAAT BANKASI A.S.,TR,mastercard,credit
@@ -1985,7 +1985,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 512007,00-99,CHINA GUANGFA BANK CO. LTD,CN,mastercard,credit
 512008,00-99,ITHMAAR BANK B.S.C.,BH,mastercard,credit
 512009,00-99,FIFTH THIRD BANK,US,mastercard,credit
-512010,00-99,,US,mastercard,credit
+512010,00-99,Citibank,US,mastercard,credit
 512011,00-99,,PE,mastercard,credit
 512012,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 512014,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit

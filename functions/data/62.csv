@@ -117,15 +117,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620185,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA MADRID,ES,local,debit
 620186,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA SINGAPORE,SG,local,debit
 620187,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA ALMATY,KZ,local,debit
-620190,00-99,,CN,local,debit
-620191,00-99,,CN,local,debit
-620192,00-99,,CN,local,debit
-620193,00-99,,CN,local,debit
-620194,00-99,,CN,local,debit
-620196,00-99,,CN,local,debit
-620197,00-99,,CN,local,debit
-620198,00-99,,CN,local,debit
-620199,00-99,,CN,local,debit
+620190,00-99,China Unionpay,CN,unionpay,debit
+620191,00-99,China Unionpay,CN,unionpay,debit
+620192,00-99,China Unionpay,CN,unionpay,debit
+620193,00-99,China Unionpay,CN,unionpay,debit
+620194,00-99,China Unionpay,CN,unionpay,debit
+620196,00-99,China Unionpay,CN,unionpay,debit
+620197,00-99,China Unionpay,CN,unionpay,debit
+620198,00-99,China Unionpay,CN,unionpay,debit
+620199,00-99,China Unionpay,CN,unionpay,debit
 620200,00-99,ICBC-PEONY MONEY LINK CARD,CN,local,debit
 620202,00-99,BANK OF CHINA,HK,local,debit
 620203,00-99,BANK OF CHINA,HK,local,debit
@@ -137,19 +137,19 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 620209,00-99,NANYANG COMMERCIAL BANK,HK,local,debit
 620210,00-99,BANK OF CHINA MO,MO,local,debit
 620211,00-99,BANK OF CHINA MO,MO,local,debit
-620213,00-99,,CN,local,debit
-620214,00-99,,CN,local,debit
+620213,00-99,China Unionpay,CN,unionpay,debit
+620214,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620218,00-99,BANK OF CHINA,CN,local,debit
 620220,00-99,BC CARD,KR,local,debit
-620221,00-99,,CN,local,debit
-620223,00-99,,CN,local,debit
-620224,00-99,,CN,local,debit
-620225,00-99,,CN,local,debit
-620226,00-99,,CN,local,debit
-620228,00-99,,CN,local,debit
-620229,00-99,,CN,local,debit
-620230,00-99,,CN,local,debit
-620231,00-99,,CN,local,debit
+620221,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620223,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620224,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620225,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620226,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620228,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620229,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620230,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
+620231,00-99,Industrial And Commercial Bank Of China,CN,unionpay,debit
 620232,00-99,,CN,local,debit
 620233,00-99,,CN,local,debit
 620234,00-99,,CN,local,debit
