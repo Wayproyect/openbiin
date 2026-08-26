@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - name: Checkout Repository
@@ -29,26 +28,14 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/gemini_audit.js
 
-      - name: Create Pull Request for audited data
-        id: cpr
-        uses: peter-evans/create-pull-request@v8
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          add-paths: functions/data/*.csv
-          commit-message: "chore(data): automated bin data audit by Gemini"
-          title: "🤖 Auto-Audit: Gemini Data Corrections"
-          body: |
-            This PR contains automated data corrections made by Gemini 3.1 Flash-Lite.
-            
-            The agent found missing, outdated, or incorrect BIN information and updated the CSV data according to the strict repository schema.
-            
-            _Note: If this PR passes all checks, it will be automatically merged by the Auto-Merge workflow._
-          branch: "gemini-auto-audit"
-          labels: "automerge"
-          delete-branch: true
-
-      - name: Auto-Merge Pull Request
-        if: steps.cpr.outputs.pull-request-number
-        run: gh pr merge --merge --admin "${{ steps.cpr.outputs.pull-request-number }}"
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add functions/data/*.csv
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(data): automated bin data audit by Gemini"
+            git push
+          else
+            echo "No changes to commit"
+          fi
