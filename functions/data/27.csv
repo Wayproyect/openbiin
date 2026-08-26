@@ -9,16 +9,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 270012,00-99,Mastercard,BR,mastercard,debit
 270013,00-99,Mastercard,BR,mastercard,debit
 270014,00-99,Mastercard,BR,mastercard,debit
-270015,00-99,,,mastercard,debit
-270016,00-99,,,mastercard,debit
-270017,00-99,,,mastercard,debit
-270018,00-99,,,mastercard,debit
-270019,00-99,,,mastercard,debit
-270020,00-99,,,mastercard,debit
-270021,00-99,,,mastercard,debit
-270022,00-99,,,mastercard,debit
-270023,00-99,,,mastercard,debit
-270024,00-99,,,mastercard,debit
+270015,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270016,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270017,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270018,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270019,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270020,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270021,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270022,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270023,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270024,00-99,Banco Bradesco Sa,BR,mastercard,debit
 270025,00-99,,,mastercard,debit
 270026,00-99,,,mastercard,debit
 270027,00-99,,,mastercard,debit
