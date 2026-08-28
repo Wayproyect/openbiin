@@ -15,16 +15,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 630409,00-99,Allied Irish Banks,IE,maestro,debit
 630412,00-99,Banco Santander,ES,maestro,debit
 630440,00-99,Royal Bank Of Scotland,GB,maestro,debit
-630441,00-99,,GB,maestro,debit
-630445,00-99,,ES,maestro,debit
-630456,00-99,,IE,maestro,debit
-630461,00-99,,IE,maestro,debit
-630477,00-99,,IE,maestro,debit
-630478,00-99,,IE,maestro,debit
-630479,00-99,,IE,maestro,debit
-630480,00-99,,IE,maestro,debit
-630481,00-99,,IE,maestro,debit
-630482,00-99,,IE,maestro,debit
+630441,00-99,Royal Bank Of Scotland,GB,maestro,debit
+630445,00-99,Banco Santander,ES,maestro,debit
+630456,00-99,Allied Irish Banks,IE,maestro,debit
+630461,00-99,Allied Irish Banks,IE,maestro,debit
+630477,00-99,Bank Of Ireland,IE,maestro,debit
+630478,00-99,Bank Of Ireland,IE,maestro,debit
+630479,00-99,Bank Of Ireland,IE,maestro,debit
+630480,00-99,Bank Of Ireland,IE,maestro,debit
+630481,00-99,Bank Of Ireland,IE,maestro,debit
+630482,00-99,Bank Of Ireland,IE,maestro,debit
 630483,00-99,,IE,maestro,debit
 630484,00-99,,IE,maestro,debit
 630485,00-99,,IE,maestro,debit
