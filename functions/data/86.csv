@@ -1,20 +1,20 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 860002,00-99,National Bank Of Uzbekistan,UZ,uzcard,debit
-860003,00-99,O'ZSANOATQURILISH BANK,UZ,uzcard,debit
+860003,00-99,Ozsanoatqurilish Bank,UZ,uzcard,debit
 860004,00-99,Agrobank,UZ,uzcard,debit
 860005,00-99,Mikrokreditbank,UZ,uzcard,debit
 860006,00-99,Xalq Bank,UZ,uzcard,debit
-860008,00-99,SAVDOGAR BANK,UZ,uzcard,debit
+860008,00-99,Savdogar Bank,UZ,uzcard,debit
 860009,00-99,QISHLOQ QURILISH BANK,UZ,uzcard,debit
-860011,00-99,TURON BANK,UZ,uzcard,debit
-860012,00-99,HAMKOR BANK,UZ,uzcard,debit
+860011,00-99,Turon Bank,UZ,uzcard,debit
+860012,00-99,Hamkor Bank,UZ,uzcard,debit
 860013,00-99,ASAKA BANK,UZ,uzcard,debit
 860014,00-99,IPAK YO'LI BANK,UZ,uzcard,debit
 860020,00-99,ZIRAAT BANK,UZ,uzcard,debit
 860030,00-99,TRASTBANK,UZ,uzcard,debit
 860031,00-99,ALOQABANK,UZ,uzcard,debit
 860033,00-99,IPOTEKA BANK,UZ,uzcard,debit
-860034,00-99,UZKDB BANK,UZ,uzcard,debit
+860034,00-99,Uzkdb Bank,UZ,uzcard,debit
 860038,00-99,Turkistonbank,UZ,uzcard,debit
 860043,00-99,Saderat Bank,UZ,uzcard,debit
 860048,00-99,Universalbank,UZ,uzcard,debit
@@ -23,11 +23,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 860051,00-99,Davr Bank,UZ,uzcard,debit
 860053,00-99,Infin Bank,UZ,uzcard,debit
 860055,00-99,ASIA ALLIANCE BANK,UZ,uzcard,debit
-860056,00-99,HI-TECH BANK,UZ,uzcard,debit
-860057,00-99,ORIENT-FINANS BANK,UZ,uzcard,debit
+860056,00-99,Hi-Tech Bank,UZ,uzcard,debit
+860057,00-99,Orient Finans Bank,UZ,uzcard,debit
 860058,00-99,Madad Invest Bank,UZ,uzcard,debit
 860059,00-99,Ozagroeksportbank,UZ,uzcard,debit
 860060,00-99,POYTAXT BANK,UZ,uzcard,debit
 860100,00-99,Credit Saison,JP,jcb,credit
 861200,00-99,Credit Saison,JP,jcb,credit
-862721,00-99,Bank Of China,CN,private label,credit
+862721,00-99,Bank Of China,CN,unionpay,credit
