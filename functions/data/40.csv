@@ -82,23 +82,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 400080,00-99,RAIFFEISEN BANK SH.A.,AL,visa,credit
 400081,00-99,Visa,US,visa,credit
 400082,00-99,Visa,US,visa,credit
-400083,00-99,,US,visa,credit
+400083,00-99,Visa Usa Inc,US,visa,credit
 400084,00-99,BANCO ATLANTIDA S.A.,HN,visa,credit
-400085,00-99,,US,visa,credit
+400085,00-99,Visa Usa Inc,US,visa,credit
 400086,00-99,BANCO ATLANTIDA S.A.,HN,visa,credit
 400087,00-99,INTL HDQTRS-CENTER OWNED,US,visa,credit
-400088,00-99,,US,visa,credit
-400089,00-99,,US,visa,credit
+400088,00-99,Visa Usa Inc,US,visa,credit
+400089,00-99,Visa Usa Inc,US,visa,credit
 400090,00-99,DEPARTMENT OF COMMERCE FEDERAL CREDIT UNION,US,visa,credit
-400091,00-99,,US,visa,credit
-400092,00-99,,US,visa,credit
+400091,00-99,Visa Usa Inc,US,visa,credit
+400092,00-99,Visa Usa Inc,US,visa,credit
 400093,00-99,DEPARTMENT OF COMMERCE FEDERAL CREDIT UNION,US,visa,credit
 400094,00-99,STAR NETWORKS INC.,US,visa,credit
 400095,00-99,DEPARTMENT OF COMMERCE FEDERAL CREDIT UNION,US,visa,credit
 400096,00-99,FIRST SERVICE CREDIT UNION,US,visa,credit
-400097,00-99,,US,visa,credit
+400097,00-99,Visa Usa Inc,US,visa,credit
 400098,00-99,APNA SAHAKARI BANK,IN,visa,credit
-400099,00-99,,US,visa,credit
+400099,00-99,Visa Usa Inc,US,visa,credit
 400100,00-99,SRP FEDERAL CREDIT UNION,US,visa,credit
 400101,00-99,COMMERCIAL BANK OF CALIFORNIA,US,visa,debit
 400102,00-99,BANCO DO BRASIL S.A.,BR,visa,debit
@@ -107,7 +107,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 400105,00-99,TEXAS BANK AND TRUST COMPANY,US,visa,debit
 400106,00-99,BANCO DO BRASIL S.A.,BR,visa,credit
 400107,00-99,BANCO DO BRASIL S.A.,BR,visa,credit
-400108,00-99,,US,visa,credit
+400108,00-99,Visa Usa Inc,US,visa,credit
 400109,00-99,HATTON NATIONAL BANK PLC,LK,visa,debit
 400110,00-99,FIFTH THIRD BANK,US,visa,credit
 400111,00-99,TIB NATIONAL ASSOCIATION,US,visa,credit
@@ -116,7 +116,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 400114,00-99,MVB BANK INC,US,visa,debit
 400115,00-99,ORIENT CORPORATION,JP,visa,debit
 400116,00-99,CELTIC BANK,US,visa,credit
-400117,00-99,,US,visa,credit
+400117,00-99,Visa Usa Inc,US,visa,credit
 400118,00-99,MVB BANK INC,US,visa,debit
 400119,00-99,,US,visa,debit
 400120,00-99,BANK OF THE JAMES,US,visa,credit
