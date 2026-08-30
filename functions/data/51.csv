@@ -1986,19 +1986,19 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 512008,00-99,ITHMAAR BANK B.S.C.,BH,mastercard,credit
 512009,00-99,FIFTH THIRD BANK,US,mastercard,credit
 512010,00-99,Citibank,US,mastercard,credit
-512011,00-99,,PE,mastercard,credit
+512011,00-99,Banco De Credito Del Peru,PE,mastercard,credit
 512012,00-99,CHASE BANK USA N.A.,US,mastercard,credit
 512014,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
-512015,00-99,,US,mastercard,credit
+512015,00-99,Citibank,US,mastercard,credit
 512016,00-99,PODRAVSKA BANKA D.D. KOPRIVNICA,HR,mastercard,credit
 512017,00-99,DENIZBANK A.S.,TR,mastercard,credit
 512018,00-99,PATHWAYS FINANCIAL CREDIT UNION INC.,US,mastercard,debit
 512019,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,mastercard,debit
 512020,00-99,ISRACARD LTD.,IL,mastercard,credit
 512021,00-99,PT. BANK DBS INDONESIA,ID,mastercard,credit
-512022,00-99,,US,mastercard,credit
+512022,00-99,Citibank,US,mastercard,credit
 512023,00-99,BANCO HSBC SA,BR,mastercard,credit
-512024,00-99,,US,mastercard,credit
+512024,00-99,Citibank,US,mastercard,credit
 512025,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 512026,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 512027,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
@@ -2007,13 +2007,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 512030,00-99,BANCO C6 SA,BR,mastercard,credit
 512031,00-99,ALPHA BANK ROMANIA S.A.,RO,mastercard,credit
 512032,00-99,ARUBA BANK LTD.,AW,mastercard,credit
-512034,00-99,,PR,mastercard,credit
-512035,00-99,,US,mastercard,credit
+512034,00-99,Banco Popular De Puerto Rico,PR,mastercard,credit
+512035,00-99,Citibank,US,mastercard,credit
 512036,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,credit
 512037,00-99,2C2P PLUS (THAILAND) CO. LTD,TH,mastercard,debit
 512038,00-99,RAIFFEISEN BANK SH.A.,AL,mastercard,credit
-512039,00-99,,US,mastercard,credit
-512040,00-99,,US,mastercard,credit
+512039,00-99,Citibank,US,mastercard,credit
+512040,00-99,Citibank,US,mastercard,credit
 512041,00-99,BANCO DAVIVIENDA SALVADORENO S.A.,SV,mastercard,credit
 512042,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,IN,mastercard,credit
 512043,00-99,HSBC BANK (SINGAPORE) LTD.,SG,mastercard,credit
@@ -2023,10 +2023,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 512047,00-99,AMERICAN HERITAGE FEDERAL CREDIT UNION,US,mastercard,credit
 512048,00-99,BANCA AFIRME S.A.,MX,mastercard,credit
 512049,00-99,BAIDURI BANK BERHAD,BN,mastercard,credit
-512050,00-99,,US,mastercard,credit
+512050,00-99,Citibank,US,mastercard,credit
 512051,00-99,JOINT STOCK COMPANY FIRST UKRAINIAN INTERNATIONAL BANK,UA,mastercard,credit
 512052,00-99,AREEBA S.A.L,LB,mastercard,credit
-512053,00-99,,US,mastercard,credit
+512053,00-99,Citibank,US,mastercard,credit
 512054,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,credit
 512055,00-99,STANDARD BANK OF SOUTH AFRICA,LTD.,ZA,mastercard
 512056,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,mastercard,credit
