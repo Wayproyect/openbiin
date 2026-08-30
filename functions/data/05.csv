@@ -9,16 +9,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 051040,00-99,Banca Popolare Di Milano,IT,pagobancomat,debit
 051169,00-99,Banca Carige,IT,pagobancomat,debit
 051425,00-99,Banca Di Credito Cooperativo,IT,pagobancomat,debit
-051429,00-99,,IT,pagobancomat,debit
-051560,00-99,,IT,pagobancomat,debit
-052160,00-99,,IT,pagobancomat,debit
-052560,00-99,,IT,pagobancomat,debit
-052620,00-99,,IT,pagobancomat,debit
-052960,00-99,,IT,pagobancomat,debit
-052970,00-99,,IT,pagobancomat,debit
-053089,00-99,,IT,pagobancomat,debit
-053365,00-99,,IT,pagobancomat,debit
-053366,00-99,,IT,pagobancomat,debit
+051429,00-99,Banca Sella,IT,pagobancomat,debit
+051560,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
+052160,00-99,Banca Popolare Di Milano,IT,pagobancomat,debit
+052560,00-99,Banca Popolare Di Vicenza,IT,pagobancomat,debit
+052620,00-99,Banca Popolare Di Novara,IT,pagobancomat,debit
+052960,00-99,Banca Popolare Di Verona,IT,pagobancomat,debit
+052970,00-99,Banca Popolare Di Verona,IT,pagobancomat,debit
+053089,00-99,Banca Popolare Di Bergamo,IT,pagobancomat,debit
+053365,00-99,Banca Popolare Di Lodi,IT,pagobancomat,debit
+053366,00-99,Banca Popolare Di Lodi,IT,pagobancomat,debit
 053720,00-99,,IT,pagobancomat,debit
 053850,00-99,,IT,pagobancomat,debit
 053870,00-99,,IT,pagobancomat,debit
