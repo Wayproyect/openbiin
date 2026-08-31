@@ -51,7 +51,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 360049,00-99,Diners Club Chile,CL,diners club,credit
 360050,00-99,Diners Club Serbia,RS,diners club,credit
 360051,00-99,Diners Club United Kingdom,GB,diners club,credit
-360052,00-99,,GB,diners club international,credit
+360052,00-99,Diners Club International,GB,diners club,credit
 360053,00-99,DC ADRIATIC,HR,diners club international,credit
 360054,00-99,DC ADRIATIC,HR,diners club international,credit
 360055,00-99,DC ADRIATIC,HR,diners club international,credit
@@ -60,23 +60,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 360058,00-99,DC HONDURAS,HN,diners club international,credit
 360059,00-99,DC HONDURAS,HN,diners club international,credit
 360060,00-99,DC HONDURAS,HN,diners club international,credit
-360061,00-99,,BE,diners club international,credit
-360062,00-99,,BE,diners club international,credit
-360063,00-99,,RS,diners club international,credit
+360061,00-99,Diners Club International,BE,diners club,credit
+360062,00-99,Diners Club International,BE,diners club,credit
+360063,00-99,Diners Club International,RS,diners club,credit
 360064,00-99,HYUNDAICARD CO. LTD.,KR,diners club international,credit
 360065,00-99,HYUNDAICARD CO. LTD.,KR,diners club international,credit
 360066,00-99,HYUNDAICARD CO. LTD.,KR,diners club international,credit
 360067,00-99,HYUNDAICARD CO. LTD.,KR,diners club international,credit
 360068,00-99,HYUNDAICARD CO. LTD.,KR,diners club international,credit
 360069,00-99,HYUNDAI CARD,KR,diners club international,credit
-360070,00-99,,NZ,diners club international,credit
-360071,00-99,,NZ,diners club international,credit
-360072,00-99,,NZ,diners club international,credit
-360073,00-99,,NZ,diners club international,credit
-360074,00-99,,KR,diners club international,credit
+360070,00-99,Diners Club International,NZ,diners club,credit
+360071,00-99,Diners Club International,NZ,diners club,credit
+360072,00-99,Diners Club International,NZ,diners club,credit
+360073,00-99,Diners Club International,NZ,diners club,credit
+360074,00-99,Diners Club International,KR,diners club,credit
 360075,00-99,DC KOREA,KR,diners club international,credit
 360076,00-99,DC KOREA,KR,diners club international,credit
-360077,00-99,,DE,diners club international,credit
+360077,00-99,Diners Club International,DE,diners club,credit
 360078,00-99,DC GERMANY,DE,diners club international,credit
 360079,00-99,DC GERMANY,DE,diners club international,credit
 360080,00-99,DC GERMANY,DE,diners club international,credit
