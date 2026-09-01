@@ -1,21 +1,21 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-790780,00-99,CREDOMATIC DE EL SALVADOR S.A.,SV,local brand,credit
-796600,00-99,UNICREDIT BULBANK,BG,private label,debit
-798110,,SYNCHRONY BANK,US,private label,debit
-798120,,SYNCHRONY BANK,US,private label,debit
-798130,,SYNCHRONY BANK,US,private label,debit
+790780,00-99,Credomatic De El Salvador Sa,SV,visa,credit
+796600,00-99,Unicredit Bulbank,BG,visa,debit
+798110,00-99,Synchrony Bank,US,private label,credit
+798120,00-99,Synchrony Bank,US,private label,credit
+798130,00-99,Synchrony Bank,US,private label,credit
 798141,,SYNCHRONY BANK,US,private label,debit
 798157,,SYNCHRONY BANK,US,private label,debit
 798160,,SYNCHRONY BANK,US,private label,debit
 798192,00-99,SYNCHRONY BANK,US,private label,debit
 798202,,SYNCHRONY BANK,US,private label,debit
 798213,,SYNCHRONY BANK,US,private label,debit
-798214,,SYNCHRONY BANK,US,private label,debit
+798214,00-99,Synchrony Bank,US,private label,credit
 798222,,SYNCHRONY BANK,US,private label,debit
-798225,,SYNCHRONY BANK,US,private label,debit
-798256,,SYNCHRONY BANK,US,private label,debit
+798225,00-99,Synchrony Bank,US,private label,credit
+798256,00-99,Synchrony Bank,US,private label,credit
 798267,,SYNCHRONY BANK,US,private label,debit
-798276,,SYNCHRONY BANK,US,private label,debit
+798276,00-99,Synchrony Bank,US,private label,credit
 798726,,SYNCHRONY BANK,US,private label,debit
-798737,,SYNCHRONY BANK,US,private label,debit
+798737,00-99,Synchrony Bank,US,private label,credit
 798743,,SYNCHRONY BANK,US,private label,debit
