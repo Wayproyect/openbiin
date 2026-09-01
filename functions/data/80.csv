@@ -7,5 +7,5 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 801429,00-99,BANK OF CHINA,CN,private label,credit
 803032,00-99,BANK OF CHINA,CN,private label,debit
 803039,00-99,BANK OF CHINA,CN,private label,credit
-805512,00-99,,US,local brand,debit
+805512,00-99,MetaBank,US,visa,debit
 806069,00-99,UNOE BANK S.A.,ES,private label,debit
