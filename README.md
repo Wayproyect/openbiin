@@ -4,6 +4,8 @@ Welcome to **OpenBIIN**, an open, community-driven database for Bank Identificat
 
 This repository serves as the core data layer for identifying the issuing bank, country, card brand, and card type (Credit, Debit, Prepaid) of payment cards using their first 6 digits (BIN6).
 
+Access the production portal here: [https://openbiin.web.app](https://openbiin.web.app)
+
 ## Data Architecture
 
 To ensure fast lookups, prevent repository bloat, and avoid merge conflicts, the data is split into multiple CSV files based on the first two digits of the BIN. These files are located in `functions/data/`.
