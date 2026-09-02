@@ -1,8 +1,8 @@
-name: Gemini Autonomous Audit
+name: API Autonomous Audit
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,18 +23,19 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Gemini Audit Script
+      - name: Run API Audit Script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/gemini_audit.js
+          BIN_API_HOST: ${{ secrets.BIN_API_HOST }}
+          BIN_API_KEY: ${{ secrets.BIN_API_KEY }}
+        run: node scripts/api_audit.js
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add functions/data/*.csv
+          git add functions/data/*.csv audit.md
           if ! git diff-index --quiet HEAD; then
-            git commit -m "chore(data): automated bin data audit by Gemini"
+            git commit -m "chore(data): automated bin data audit via internal API"
             git push
           else
             echo "No changes to commit"

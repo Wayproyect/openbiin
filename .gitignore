@@ -29,3 +29,4 @@ dist-ssr
 # Raw Datasets
 raw_*.csv
 scripts
+.env
