@@ -15,13 +15,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 720031,00-99,BC CARD CO. LTD.,KR,private label,credit
 720032,00-99,BC CARD CO. LTD.,KR,private label,credit
 720033,00-99,BC CARD CO. LTD.,KR,private label,credit
-720034,00-99,,US,private label,debit
-720035,00-99,,US,private label,debit
-720036,00-99,,US,private label,debit
-720037,00-99,,US,private label,debit
-720038,00-99,,US,private label,debit
-720039,00-99,,US,private label,debit
-720040,00-99,,US,private label,debit
+720034,00-99,Synchrony Bank,US,private label,credit
+720035,00-99,Synchrony Bank,US,private label,credit
+720036,00-99,Synchrony Bank,US,private label,credit
+720037,00-99,Synchrony Bank,US,private label,credit
+720038,00-99,Synchrony Bank,US,private label,credit
+720039,00-99,Synchrony Bank,US,private label,credit
+720040,00-99,Synchrony Bank,US,private label,credit
 720041,00-99,BC CARD CO. LTD.,KR,private label,credit
 720042,00-99,BC CARD CO. LTD.,KR,private label,credit
 720043,00-99,BC CARD CO. LTD.,KR,private label,credit
@@ -35,9 +35,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 720062,00-99,BC CARD CO. LTD.,KR,private label,credit
 720063,00-99,BC CARD CO. LTD.,KR,private label,credit
 720064,00-99,BC CARD CO. LTD.,KR,private label,credit
-720126,00-99,,US,private label,debit
-720130,00-99,,US,private label,debit
-720148,00-99,,US,private label,debit
+720126,00-99,Synchrony Bank,US,private label,credit
+720130,00-99,Synchrony Bank,US,private label,credit
+720148,00-99,Synchrony Bank,US,private label,credit
 720179,00-99,,US,private label,debit
 720201,00-99,,US,private label,debit
 720234,00-99,,US,private label,debit
