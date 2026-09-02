@@ -4,21 +4,21 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 910003,00-99,BC CARD,KR,local brand,credit
 910006,00-99,BC CARD,KR,local brand,credit
 910007,00-99,SUHYUP BANK,KR,local brand,credit
-910011,00-99,BC CARD,KR,local brand,credit
+910011,00-99,Bc Card,KR,bc card,credit
 910012,00-99,BC CARD,KR,local brand,credit
 910020,00-99,BC CARD,KR,local brand,credit
 910021,00-99,BC CARD,KR,local brand,credit
 910023,00-99,BC CARD,KR,local brand,credit
 910025,00-99,BC CARD,KR,local brand,credit
-910027,00-99,CITI CARDS,KR,local brand,credit
+910027,00-99,Citi Cards,KR,bc card,credit
 910031,00-99,BC CARD,KR,local brand,credit
 910032,00-99,BC CARD,KR,local brand,credit
 910034,00-99,KWANGJU BANK,KR,local brand,credit
 910035,00-99,JEJU BANK,KR,local brand,credit
 910036,00-99,BC CARD,KR,local brand,credit
-910037,00-99,JEONBUK BANK,KR,local brand,credit
+910037,00-99,Jeonbuk Bank,KR,bc card,credit
 910039,00-99,BC CARD,KR,local brand,credit
-910040,00-99,BC CARD,KR,local brand,credit
+910040,00-99,Bc Card,KR,bc card,credit
 910050,00-99,BC CARD,KR,local brand,credit
 910120,00-99,BC CARD,KR,local brand,credit
 910150,00-99,IBK,KR,local brand,credit
@@ -29,7 +29,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 910502,00-99,FIRST SECURITY ISLAMIC BANK LTD.,BD,local brand,debit
 910550,00-99,BC,KR,local brand,debit
 911100,00-99,China Guangfa Bank,CN,unionpay,debit
-911101,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
+911101,00-99,China Guangfa Bank,CN,unionpay,debit
 911102,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911103,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911104,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
@@ -47,7 +47,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 911116,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911117,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911118,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
-911119,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
+911119,00-99,China Guangfa Bank,CN,unionpay,debit
 911120,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911121,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911122,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
@@ -70,7 +70,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 911139,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911140,00-99,China Guangfa Bank,CN,unionpay,debit
 911141,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
-911142,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
+911142,00-99,China Guangfa Bank,CN,unionpay,debit
 911143,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911144,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911145,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
@@ -106,7 +106,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 911175,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911176,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911177,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
-911178,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
+911178,00-99,China Guangfa Bank,CN,unionpay,debit
 911179,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911180,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit
 911181,00-99,CHINA GUANGFA BANK CO. LTD.,CN,local,debit

@@ -120,16 +120,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 762405,00-99,Synchrony Bank,US,private label,credit
 762406,00-99,Synchrony Bank,US,private label,credit
 762407,00-99,Synchrony Bank,US,private label,credit
-762408,00-99,,US,private label,debit
-762415,00-99,,US,private label,debit
-762450,00-99,,US,private label,debit
-762476,00-99,,US,private label,debit
-762498,00-99,,US,private label,debit
-762500,00-99,,US,private label,debit
-762525,00-99,,US,private label,debit
-762584,00-99,,US,private label,debit
-762603,00-99,,US,private label,credit
-762631,00-99,,US,private label,debit
+762408,00-99,Synchrony Bank,US,private label,credit
+762415,00-99,Synchrony Bank,US,private label,credit
+762450,00-99,Synchrony Bank,US,private label,credit
+762476,00-99,Synchrony Bank,US,private label,credit
+762498,00-99,Synchrony Bank,US,private label,credit
+762500,00-99,Synchrony Bank,US,private label,credit
+762525,00-99,Synchrony Bank,US,private label,credit
+762584,00-99,Synchrony Bank,US,private label,credit
+762603,00-99,Synchrony Bank,US,private label,credit
+762631,00-99,Synchrony Bank,US,private label,credit
 762640,00-99,,US,private label,debit
 762806,00-99,VOLKSBANK NIEDERGRAFSCHAFT EG,DE,vpay,debit
 762807,00-99,,US,private label,debit

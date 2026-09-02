@@ -290,16 +290,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941381,00-99,ONE CARD,KR,local brand,debit
 941450,00-99,BC CARD CO. LTD.,KR,local brand,credit
 941481,00-99,ONE CARD,KR,local brand,debit
-941500,00-99,,KR,local brand,debit
-941501,00-99,,KR,local brand,debit
-941502,00-99,,KR,local brand,debit
-941503,00-99,,KR,local brand,debit
-941504,00-99,,KR,local brand,debit
-941505,00-99,,KR,local brand,debit
-941506,00-99,,KR,local brand,debit
-941507,00-99,,KR,local brand,debit
-941508,00-99,,KR,local brand,debit
-941509,00-99,,KR,local brand,debit
+941500,00-99,BC Card,KR,bc card,debit
+941501,00-99,BC Card,KR,bc card,debit
+941502,00-99,BC Card,KR,bc card,debit
+941503,00-99,BC Card,KR,bc card,debit
+941504,00-99,BC Card,KR,bc card,debit
+941505,00-99,BC Card,KR,bc card,debit
+941506,00-99,BC Card,KR,bc card,debit
+941507,00-99,BC Card,KR,bc card,debit
+941508,00-99,BC Card,KR,bc card,debit
+941509,00-99,BC Card,KR,bc card,debit
 941510,00-99,,KR,local brand,debit
 941511,00-99,,KR,local brand,debit
 941512,00-99,,KR,local brand,debit

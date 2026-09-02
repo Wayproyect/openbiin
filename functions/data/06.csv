@@ -9,16 +9,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 060552,00-99,Bancomat Spa,IT,pagobancomat,debit
 060600,00-99,Bancomat Spa,IT,pagobancomat,debit
 060650,00-99,Bancomat Spa,IT,pagobancomat,debit
-060800,00-99,,IT,pagobancomat,debit
-060850,00-99,,IT,pagobancomat,debit
-060900,00-99,,IT,pagobancomat,debit
-060950,00-99,,IT,pagobancomat,debit
-061100,00-99,,IT,pagobancomat,debit
-061150,00-99,,IT,pagobancomat,debit
-061300,00-99,,IT,pagobancomat,debit
-061450,00-99,,IT,pagobancomat,debit
-061500,00-99,,IT,pagobancomat,debit
-061551,00-99,,IT,pagobancomat,debit
+060800,00-99,Bancomat Spa,IT,pagobancomat,debit
+060850,00-99,Bancomat Spa,IT,pagobancomat,debit
+060900,00-99,Bancomat Spa,IT,pagobancomat,debit
+060950,00-99,Bancomat Spa,IT,pagobancomat,debit
+061100,00-99,Bancomat Spa,IT,pagobancomat,debit
+061150,00-99,Bancomat Spa,IT,pagobancomat,debit
+061300,00-99,Bancomat Spa,IT,pagobancomat,debit
+061450,00-99,Bancomat Spa,IT,pagobancomat,debit
+061500,00-99,Bancomat Spa,IT,pagobancomat,debit
+061551,00-99,Bancomat Spa,IT,pagobancomat,debit
 061600,00-99,,IT,pagobancomat,debit
 061650,00-99,,IT,pagobancomat,debit
 061700,00-99,,IT,pagobancomat,debit

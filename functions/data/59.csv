@@ -19,16 +19,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 590017,00-99,Banco De Chile,CL,maestro,debit
 590018,00-99,Privatbank,UA,maestro,debit
 590019,00-99,Royal Bank Of Canada,CA,maestro,debit
-590020,00-99,,UA,maestro,debit
-590021,00-99,,DE,maestro,debit
-590022,00-99,,CL,maestro,debit
-590023,00-99,,GB,maestro,debit
-590024,00-99,,ES,maestro,debit
-590025,00-99,,CL,maestro,debit
-590026,00-99,,CL,maestro,debit
-590027,00-99,,IN,maestro,debit
-590028,00-99,,GB,maestro,debit
-590029,00-99,,HK,maestro,debit
+590020,00-99,Jsc Raiffeisen Bank Aval,UA,maestro,debit
+590021,00-99,Deutsche Bank Ag,DE,maestro,debit
+590022,00-99,Banco De Chile,CL,maestro,debit
+590023,00-99,Clydesdale Bank Plc,GB,maestro,debit
+590024,00-99,Banco Santander Sa,ES,maestro,debit
+590025,00-99,Banco De Chile,CL,maestro,debit
+590026,00-99,Banco De Chile,CL,maestro,debit
+590027,00-99,State Bank Of India,IN,maestro,debit
+590028,00-99,Clydesdale Bank Plc,GB,maestro,debit
+590029,00-99,The Hongkong And Shanghai Banking Corporation,HK,maestro,debit
 590030,00-99,,CL,maestro,debit
 590031,00-99,,AU,maestro,debit
 590032,00-99,,CN,maestro,debit

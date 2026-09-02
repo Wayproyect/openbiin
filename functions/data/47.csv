@@ -207,16 +207,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 470205,00-99,Hdfc Bank,IN,visa,credit
 470206,00-99,Hdfc Bank,IN,visa,credit
 470207,00-99,Hdfc Bank,IN,visa,credit
-470208,00-99,,BR,visa,credit
-470209,00-99,,US,visa,credit
-470210,00-99,,IN,visa,credit
-470211,00-99,,NG,visa,credit
-470212,00-99,,US,visa,credit
-470213,00-99,,US,visa,credit
-470214,00-99,,IN,visa,credit
-470215,00-99,,IN,visa,credit
-470216,00-99,,IN,visa,credit
-470217,00-99,,IN,visa,credit
+470208,00-99,Banco Bradesco,BR,visa,credit
+470209,00-99,Jpmorgan Chase Bank,US,visa,credit
+470210,00-99,Hdfc Bank,IN,visa,credit
+470211,00-99,Zenith Bank,NG,visa,credit
+470212,00-99,Jpmorgan Chase Bank,US,visa,credit
+470213,00-99,Jpmorgan Chase Bank,US,visa,credit
+470214,00-99,Hdfc Bank,IN,visa,credit
+470215,00-99,Hdfc Bank,IN,visa,credit
+470216,00-99,Hdfc Bank,IN,visa,credit
+470217,00-99,Hdfc Bank,IN,visa,credit
 470218,00-99,,IN,visa,credit
 470219,00-99,,US,visa,credit
 470220,00-99,,US,visa,credit
