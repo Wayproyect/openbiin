@@ -19,28 +19,28 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 053089,00-99,Banca Popolare Di Bergamo,IT,pagobancomat,debit
 053365,00-99,Banca Popolare Di Lodi,IT,pagobancomat,debit
 053366,00-99,Banca Popolare Di Lodi,IT,pagobancomat,debit
-053720,00-99,,IT,pagobancomat,debit
-053850,00-99,,IT,pagobancomat,debit
-053870,00-99,,IT,pagobancomat,debit
-053901,00-99,,IT,pagobancomat,debit
-053920,00-99,,IT,pagobancomat,debit
-054140,00-99,,IT,pagobancomat,debit
-054240,00-99,,IT,pagobancomat,debit
-054280,00-99,,IT,pagobancomat,debit
-054840,00-99,,IT,pagobancomat,debit
-054960,00-99,,IT,pagobancomat,debit
-055500,00-99,,IT,pagobancomat,debit
-055840,00-99,,IT,pagobancomat,debit
-055849,00-99,,IT,pagobancomat,debit
-056400,00-99,,IT,pagobancomat,debit
-056760,00-99,,IT,pagobancomat,debit
-056960,00-99,,IT,pagobancomat,debit
-057041,00-99,,IT,pagobancomat,debit
-057155,00-99,CHINA MERCHANTS BANK,CN,private label,credit
-057488,00-99,,IT,pagobancomat,debit
-057720,00-99,,IT,pagobancomat,debit
-057725,00-99,,IT,pagobancomat,debit
-057878,00-99,,IT,pagobancomat,debit
-057920,00-99,,IT,pagobancomat,debit
-058240,00-99,,IT,pagobancomat,debit
-058569,00-99,,IT,pagobancomat,debit
+053720,00-99,Unknown,IT,pagobancomat,debit
+053850,00-99,Unknown,IT,pagobancomat,debit
+053870,00-99,Unknown,IT,pagobancomat,debit
+053901,00-99,Unknown,IT,pagobancomat,debit
+053920,00-99,Unknown,IT,pagobancomat,debit
+054140,00-99,Unknown,IT,pagobancomat,debit
+054240,00-99,Unknown,IT,pagobancomat,debit
+054280,00-99,Unknown,IT,pagobancomat,debit
+054840,00-99,Unknown,IT,pagobancomat,debit
+054960,00-99,Unknown,IT,pagobancomat,debit
+055500,00-99,Unknown,IT,pagobancomat,debit
+055840,00-99,Unknown,IT,pagobancomat,debit
+055849,00-99,Unknown,IT,pagobancomat,debit
+056400,00-99,Unknown,IT,pagobancomat,debit
+056760,00-99,Unknown,IT,pagobancomat,debit
+056960,00-99,Unknown,IT,pagobancomat,debit
+057041,00-99,Unknown,IT,pagobancomat,debit
+057155,00-99,China Merchants Bank,CN,private label,credit
+057488,00-99,Unknown,IT,pagobancomat,debit
+057720,00-99,Unknown,IT,pagobancomat,debit
+057725,00-99,Unknown,IT,pagobancomat,debit
+057878,00-99,Unknown,IT,pagobancomat,debit
+057920,00-99,Unknown,IT,pagobancomat,debit
+058240,00-99,Unknown,IT,pagobancomat,debit
+058569,00-99,Unknown,IT,pagobancomat,debit
