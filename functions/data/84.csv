@@ -82,7 +82,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 843908,00-99,SHANGHAI PUDONG DEVELOPMENT BANK,CN,private label,debit
 843909,00-99,SHANGHAI PUDONG DEVELOPMENT BANK,CN,private label,debit
 844536,00-99,BANK OF CHINA,CN,private label,credit
-847051,00-99,G-Money,GH,gh-link,debit
-847054,00-99,G-Money,GH,gh-link,debit
-847084,00-99,Pesalink,KE,pesalink,debit
-849686,00-99,Ebt,US,ebt,debit
+847051,00-99,G-MONEY,GH,gh-link,debit
+847054,00-99,G-MONEY,GH,gh-link,debit
+847084,00-99,PESALINK,KE,pesalink,debit
+849686,00-99,EBT,US,ebt,debit

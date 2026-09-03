@@ -1,18 +1,18 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-210191,00-99,D One,JP,jcb,credit
-211011,00-99,China Construction Bank,CN,unionpay,debit
-211383,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-211871,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-212112,00-99,Jpmorgan Chase Bank,US,mastercard,credit
-212819,00-99,C And A,AR,visa,credit
-213243,00-99,Sberbank,RU,mastercard,debit
-213810,00-99,C And A,AR,mastercard,credit
-215020,00-99,JPMorgan Chase Bank,US,mastercard,debit
-216003,00-99,Banque Nationale Agricole,TN,visa,debit
-216004,00-99,Arab Tunisian Bank,TN,visa,debit
-216005,00-99,Banque De Tunisie,TN,visa,debit
+210191,00-99,D ONE,JP,jcb,credit
+211011,00-99,CHINA CONSTRUCTION BANK,CN,unionpay,debit
+211383,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+211871,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+212112,00-99,JPMORGAN CHASE BANK,US,mastercard,credit
+212819,00-99,C AND A,AR,visa,credit
+213243,00-99,SBERBANK,RU,mastercard,debit
+213810,00-99,C AND A,AR,mastercard,credit
+215020,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+216003,00-99,BANQUE NATIONALE AGRICOLE,TN,visa,debit
+216004,00-99,ARAB TUNISIAN BANK,TN,visa,debit
+216005,00-99,BANQUE DE TUNISIE,TN,visa,debit
 216008,00-99,BIAT,TN,local brand,debit
-216010,00-99,Societe Tunisienne De Banque,TN,visa,debit
-216025,00-99,Banque Zitouna,TN,visa,debit
-216868,00-99,Bank Of China,CN,unionpay,debit
-218441,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+216010,00-99,SOCIETE TUNISIENNE DE BANQUE,TN,visa,debit
+216025,00-99,BANQUE ZITOUNA,TN,visa,debit
+216868,00-99,BANK OF CHINA,CN,unionpay,debit
+218441,00-99,JPMORGAN CHASE BANK,US,mastercard,debit

@@ -9,7 +9,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 250007,00-99,BANCO PAN SA,BR,mastercard,credit
 250008,00-99,NU MEXICO FINANCIERA S.A. DE C.V. SOCIEDAD FINANCIERA POPULAR,MX,mastercard,debit
 250009,00-99,POMELO TECNOLOGIA PERU SAC,PE,mastercard,debit
-250010,00-99,Sberbank,RU,mastercard,debit
+250010,00-99,SBERBANK,RU,mastercard,debit
 250011,00-99,ISLANDPAY GROUP LTD.,BS,mastercard,debit
 250012,00-99,NU MEXICO FINANCIERA S.A. DE C.V. SOCIEDAD FINANCIERA POPULAR,MX,mastercard,debit
 250013,00-99,ORBITALL SERVICOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA,BR,mastercard,debit
@@ -86,27 +86,27 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 250084,00-99,BANCO DE LA NACION ARGENTINA,AR,mastercard,credit
 250085,00-99,ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.) S.A.,BO,mastercard,debit
 250086,00-99,BANCO CARONI C.A. BANCO UNIVERSAL,VE,mastercard,debit
-250087,00-99,Sberbank,RU,mastercard,debit
+250087,00-99,SBERBANK,RU,mastercard,debit
 250088,00-99,ADMINISTRADORA DE TARJETAS DE CREDITO (A.T.C.) S.A.,BO,mastercard,debit
-250089,00-99,Sberbank,RU,mastercard,debit
+250089,00-99,SBERBANK,RU,mastercard,debit
 250090,00-99,BOLD COMPANIA DE FINANCIAMIENTO SA,CO,mastercard,credit
-250091,00-99,Sberbank,RU,mastercard,debit
-250092,00-99,Sberbank,RU,mastercard,debit
-250093,00-99,Sberbank,RU,mastercard,debit
-250094,00-99,Sberbank,RU,mastercard,debit
-250095,00-99,Sberbank,RU,mastercard,debit
-250096,00-99,Sberbank,RU,mastercard,debit
-250097,00-99,Sberbank,RU,mastercard,debit
-250098,00-99,Mastercard,US,mastercard,debit
-250099,00-99,Mastercard,US,mastercard,debit
-250100,00-99,Mastercard,US,mastercard,debit
-250101,00-99,Mastercard,US,mastercard,debit
-250102,00-99,Mastercard,US,mastercard,debit
-250103,00-99,Mastercard,US,mastercard,debit
-250104,00-99,Mastercard,US,mastercard,debit
-250105,00-99,Mastercard,US,mastercard,debit
-250106,00-99,Mastercard,US,mastercard,debit
-250107,00-99,Mastercard,US,mastercard,debit
+250091,00-99,SBERBANK,RU,mastercard,debit
+250092,00-99,SBERBANK,RU,mastercard,debit
+250093,00-99,SBERBANK,RU,mastercard,debit
+250094,00-99,SBERBANK,RU,mastercard,debit
+250095,00-99,SBERBANK,RU,mastercard,debit
+250096,00-99,SBERBANK,RU,mastercard,debit
+250097,00-99,SBERBANK,RU,mastercard,debit
+250098,00-99,MASTERCARD,US,mastercard,debit
+250099,00-99,MASTERCARD,US,mastercard,debit
+250100,00-99,MASTERCARD,US,mastercard,debit
+250101,00-99,MASTERCARD,US,mastercard,debit
+250102,00-99,MASTERCARD,US,mastercard,debit
+250103,00-99,MASTERCARD,US,mastercard,debit
+250104,00-99,MASTERCARD,US,mastercard,debit
+250105,00-99,MASTERCARD,US,mastercard,debit
+250106,00-99,MASTERCARD,US,mastercard,debit
+250107,00-99,MASTERCARD,US,mastercard,debit
 250108,00-99,,,mastercard,debit
 250109,00-99,,,mastercard,debit
 250110,00-99,,,mastercard,debit

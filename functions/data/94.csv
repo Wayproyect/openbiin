@@ -17,14 +17,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 940022,00-99,BANK OF NINGBO,CN,local,debit
 940023,00-99,XIAMEN BANK CO. LTD.,CN,local,debit
 940025,00-99,ZHENJIANG CITY COMMERCIAL BANK,CN,local,debit
-940026,00-99,Ebt,US,private label,debit
+940026,00-99,EBT,US,private label,debit
 940027,00-99,CHENGDU CITY COMMERCIAL BANK,CN,local,debit
 940028,00-99,YANTAI COMMERCIAL BANK,CN,local,debit
 940029,00-99,KUNSHAN RURAL CREDIT COOPERATIVE,CN,local,debit
 940030,00-99,CITI BANK,KR,local brand,credit
 940031,00-99,TAIYUAN CITY COMMERCIAL BANK,CN,local,debit
 940032,00-99,JIAOZUO CITY COMMERCIAL BANK,CN,private label,debit
-940033,00-99,Ebt,US,private label,debit
+940033,00-99,EBT,US,private label,debit
 940034,00-99,EVERGROWING BANK,CN,local,debit
 940035,00-99,RCCUG,CN,local,debit
 940037,00-99,FOUSHAN NANHAI RURAL CREDIT COOPERATIVE UNION,CN,local,debit
@@ -65,7 +65,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 940080,00-99,CITI CARD,KR,local brand,credit
 940081,00-99,QINGDAO BANK,CN,private label,debit
 940090,00-99,CITI CARD,KR,local brand,credit
-940117,00-99,Shinhan Card,KR,local brand,debit
+940117,00-99,SHINHAN CARD,KR,local brand,debit
 940131,00-99,ICICI BANK LTD.,IN,private label,debit
 940134,00-99,ICICI BANK LTD.,IN,private label,debit
 940327,00-99,CITI CARDS,KR,local brand,debit
@@ -159,7 +159,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941004,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
 941005,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
 941006,00-99,BC CARD,KR,local brand,credit
-941007,00-99,Shinhan Card,KR,local brand,debit
+941007,00-99,SHINHAN CARD,KR,local brand,debit
 941008,00-99,SUHYUP BANK,KR,local brand,debit
 941009,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
 941010,00-99,SAMSUNG CARD CO. LTD.,KR,local brand,credit
@@ -168,7 +168,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941013,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941014,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941015,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
-941016,00-99,Shinhan Card,KR,local brand,debit
+941016,00-99,SHINHAN CARD,KR,local brand,debit
 941017,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941018,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941019,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
@@ -206,8 +206,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941051,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
 941052,00-99,KEB HANA BANK CO. LTD.,KR,local brand,debit
 941053,00-99,KEB HANA CARD CO. LTD.,KR,local brand,debit
-941054,00-99,Shinhan Card,KR,local brand,debit
-941055,00-99,Shinhan Card,KR,local brand,debit
+941054,00-99,SHINHAN CARD,KR,local brand,debit
+941055,00-99,SHINHAN CARD,KR,local brand,debit
 941056,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
 941057,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
 941058,00-99,KEB HANA CARD CO. LTD.,KR,local brand,credit
@@ -222,16 +222,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941067,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941068,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941069,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
-941070,00-99,Shinhan Card,KR,local brand,debit
+941070,00-99,SHINHAN CARD,KR,local brand,debit
 941071,00-99,SHINHAN CARD CO. LTD.,KR,private label,credit
-941072,00-99,Shinhan Card,KR,local brand,debit
+941072,00-99,SHINHAN CARD,KR,local brand,debit
 941073,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941074,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941075,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941076,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
 941077,00-99,LOTTE CARD CO. LTD.,KR,local brand,debit
 941078,00-99,BC CARD,KR,local brand,credit
-941079,00-99,Shinhan Card,KR,local brand,debit
+941079,00-99,SHINHAN CARD,KR,local brand,debit
 941080,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941081,00-99,SHINHAN CARD CO. LTD.,KR,local brand,credit
 941082,00-99,SHINHAN CARD CO. LTD.,KR,local brand,debit
@@ -290,16 +290,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 941381,00-99,ONE CARD,KR,local brand,debit
 941450,00-99,BC CARD CO. LTD.,KR,local brand,credit
 941481,00-99,ONE CARD,KR,local brand,debit
-941500,00-99,BC Card,KR,bc card,debit
-941501,00-99,BC Card,KR,bc card,debit
-941502,00-99,BC Card,KR,bc card,debit
-941503,00-99,BC Card,KR,bc card,debit
-941504,00-99,BC Card,KR,bc card,debit
-941505,00-99,BC Card,KR,bc card,debit
-941506,00-99,BC Card,KR,bc card,debit
-941507,00-99,BC Card,KR,bc card,debit
-941508,00-99,BC Card,KR,bc card,debit
-941509,00-99,BC Card,KR,bc card,debit
+941500,00-99,BC CARD,KR,bc card,debit
+941501,00-99,BC CARD,KR,bc card,debit
+941502,00-99,BC CARD,KR,bc card,debit
+941503,00-99,BC CARD,KR,bc card,debit
+941504,00-99,BC CARD,KR,bc card,debit
+941505,00-99,BC CARD,KR,bc card,debit
+941506,00-99,BC CARD,KR,bc card,debit
+941507,00-99,BC CARD,KR,bc card,debit
+941508,00-99,BC CARD,KR,bc card,debit
+941509,00-99,BC CARD,KR,bc card,debit
 941510,00-99,,KR,local brand,debit
 941511,00-99,,KR,local brand,debit
 941512,00-99,,KR,local brand,debit

@@ -3799,7 +3799,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 343797,00-99,,US,american express,credit
 343798,00-99,,US,american express,credit
 343799,00-99,,US,american express,credit
-343800,00-99,American Express,US,american express,credit
+343800,00-99,AMERICAN EXPRESS,US,american express,credit
 343801,00-99,,US,american express,credit
 343802,00-99,,US,american express,credit
 343803,00-99,,US,american express,credit
@@ -4442,7 +4442,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 344440,00-99,,US,american express,credit
 344441,00-99,,US,american express,credit
 344442,00-99,,US,american express,credit
-344443,00-99,Commercial Bank Of Africa,KE,american express,credit
+344443,00-99,COMMERCIAL BANK OF AFRICA,KE,american express,credit
 344444,00-99,,US,american express,credit
 344445,00-99,,IT,american express,credit
 344446,00-99,,US,american express,credit
@@ -9676,7 +9676,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 349674,00-99,,US,american express,credit
 349675,00-99,,US,american express,credit
 349676,00-99,,US,american express,credit
-349677,00-99,American Express,US,american express,credit
+349677,00-99,AMERICAN EXPRESS,US,american express,credit
 349678,00-99,,US,american express,credit
 349679,00-99,,US,american express,credit
 349680,00-99,AMEX BANK OF CANADA,CA,american express,credit

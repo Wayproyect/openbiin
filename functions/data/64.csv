@@ -1,34 +1,34 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-640001,00-99,Discover Bank,US,discover,credit
-640002,00-99,Discover Bank,US,discover,credit
-640003,00-99,Discover Bank,US,discover,credit
-640005,00-99,Discover Bank,US,discover,credit
-640006,00-99,Discover Bank,US,discover,credit
-640010,00-99,Discover Bank,US,discover,credit
-640011,00-99,Discover Bank,US,discover,credit
-640012,00-99,Discover Bank,US,discover,credit
-640013,00-99,Discover Bank,US,discover,credit
-640014,00-99,Discover Bank,US,discover,credit
-640015,00-99,Discover Financial Services,US,discover,debit
-640016,00-99,Discover Financial Services,US,discover,debit
-640017,00-99,Discover Financial Services,US,discover,debit
-640018,00-99,Discover Financial Services,US,discover,debit
-640019,00-99,Discover Financial Services,US,discover,debit
-640020,00-99,Discover Financial Services,US,discover,debit
-640021,00-99,Discover Financial Services,US,discover,debit
-640022,00-99,Discover Financial Services,US,discover,debit
-640023,00-99,Discover Financial Services,US,discover,debit
-640024,00-99,Discover Financial Services,US,discover,debit
-640025,00-99,Fidelity National Information Services,US,ebt,debit
-640026,00-99,Fidelity National Information Services,US,ebt,debit
-640027,00-99,Fidelity National Information Services,US,ebt,debit
-640028,00-99,Fidelity National Information Services,US,ebt,debit
-640029,00-99,Fidelity National Information Services,US,ebt,debit
-640030,00-99,Mastercard,US,mastercard,debit
-640031,00-99,Fidelity National Information Services,US,ebt,debit
-640032,00-99,Fidelity National Information Services,US,ebt,debit
-640033,00-99,Fidelity National Information Services,US,ebt,debit
-640034,00-99,Fidelity National Information Services,US,ebt,debit
+640001,00-99,DISCOVER BANK,US,discover,credit
+640002,00-99,DISCOVER BANK,US,discover,credit
+640003,00-99,DISCOVER BANK,US,discover,credit
+640005,00-99,DISCOVER BANK,US,discover,credit
+640006,00-99,DISCOVER BANK,US,discover,credit
+640010,00-99,DISCOVER BANK,US,discover,credit
+640011,00-99,DISCOVER BANK,US,discover,credit
+640012,00-99,DISCOVER BANK,US,discover,credit
+640013,00-99,DISCOVER BANK,US,discover,credit
+640014,00-99,DISCOVER BANK,US,discover,credit
+640015,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640016,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640017,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640018,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640019,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640020,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640021,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640022,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640023,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640024,00-99,DISCOVER FINANCIAL SERVICES,US,discover,debit
+640025,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640026,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640027,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640028,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640029,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640030,00-99,MASTERCARD,US,mastercard,debit
+640031,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640032,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640033,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
+640034,00-99,FIDELITY NATIONAL INFORMATION SERVICES,US,ebt,debit
 640035,00-99,,US,ebt,debit
 640036,00-99,,US,cirrus,debit
 640037,00-99,,US,ebt,debit
@@ -298,7 +298,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 640336,00-99,U.S. BANK N.A.,US,ebt,debit
 640337,00-99,,US,cirrus,debit
 640338,00-99,,US,ebt,debit
-640339,00-99,Bancorp Bank,US,cirrus,debit
+640339,00-99,BANCORP BANK,US,cirrus,debit
 640340,00-99,,US,cirrus,debit
 640341,00-99,,US,cirrus,debit
 640342,00-99,,US,ebt,debit

@@ -51,26 +51,26 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 870509,00-99,SHANGHAI PUDONG DEVELOPMENT BANK,CN,private label,debit
 870802,00-99,SHANGHAI PUDONG DEVELOPMENT BANK,CN,private label,debit
 871001,00-99,SHINHAN CARD CO. LTD.,KR,private label,credit
-871119,00-99,Fiserv,US,ebt,debit
-873339,00-99,Fiserv,US,ebt,debit
-874449,00-99,Fiserv,US,ebt,debit
-877009,00-99,Fiserv,US,ebt,debit
-877069,00-99,Fiserv,US,ebt,debit
-877079,00-99,Fiserv,US,ebt,debit
-877089,00-99,Fiserv,US,ebt,debit
-877099,00-99,Fiserv,US,ebt,debit
-877109,00-99,Fiserv,US,ebt,debit
-877149,00-99,Fiserv,US,ebt,debit
-877159,00-99,Fiserv,US,ebt,debit
-877169,00-99,Fiserv,US,ebt,debit
-877179,00-99,Fiserv,US,ebt,debit
-877189,00-99,Fiserv,US,ebt,debit
-877199,00-99,Fiserv,US,ebt,debit
-877209,00-99,Fiserv,US,ebt,debit
-877219,00-99,Fiserv,US,ebt,debit
-877239,00-99,Fiserv,US,ebt,debit
-877249,00-99,Fiserv,US,ebt,debit
-877309,00-99,Fiserv,US,ebt,debit
+871119,00-99,FISERV,US,ebt,debit
+873339,00-99,FISERV,US,ebt,debit
+874449,00-99,FISERV,US,ebt,debit
+877009,00-99,FISERV,US,ebt,debit
+877069,00-99,FISERV,US,ebt,debit
+877079,00-99,FISERV,US,ebt,debit
+877089,00-99,FISERV,US,ebt,debit
+877099,00-99,FISERV,US,ebt,debit
+877109,00-99,FISERV,US,ebt,debit
+877149,00-99,FISERV,US,ebt,debit
+877159,00-99,FISERV,US,ebt,debit
+877169,00-99,FISERV,US,ebt,debit
+877179,00-99,FISERV,US,ebt,debit
+877189,00-99,FISERV,US,ebt,debit
+877199,00-99,FISERV,US,ebt,debit
+877209,00-99,FISERV,US,ebt,debit
+877219,00-99,FISERV,US,ebt,debit
+877239,00-99,FISERV,US,ebt,debit
+877249,00-99,FISERV,US,ebt,debit
+877309,00-99,FISERV,US,ebt,debit
 877319,00-99,,US,ebt,debit
 877329,00-99,,US,ebt,debit
 877339,00-99,,US,ebt,debit

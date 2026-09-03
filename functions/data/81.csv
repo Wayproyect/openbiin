@@ -1,34 +1,34 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-810000,00-99,China Unionpay,CN,unionpay,debit
-810001,00-99,China Unionpay,CN,unionpay,debit
-810002,00-99,China Unionpay,CN,unionpay,debit
-810003,00-99,China Unionpay,CN,unionpay,debit
-810004,00-99,China Unionpay,CN,unionpay,debit
-810005,00-99,China Unionpay,CN,unionpay,debit
-810006,00-99,China Unionpay,CN,unionpay,debit
-810007,00-99,China Unionpay,CN,unionpay,debit
-810008,00-99,China Unionpay,CN,unionpay,debit
-810009,00-99,China Unionpay,CN,unionpay,debit
-810010,00-99,China Unionpay,CN,unionpay,debit
-810011,00-99,China Unionpay,CN,unionpay,debit
-810012,00-99,China Unionpay,CN,unionpay,debit
-810013,00-99,China Unionpay,CN,unionpay,debit
-810014,00-99,China Unionpay,CN,unionpay,debit
-810015,00-99,China Unionpay,CN,unionpay,debit
-810016,00-99,China Unionpay,CN,unionpay,debit
-810017,00-99,China Unionpay,CN,unionpay,debit
-810018,00-99,China Unionpay,CN,unionpay,debit
-810019,00-99,China Unionpay,CN,unionpay,debit
-810020,00-99,China Unionpay,CN,unionpay,debit
-810021,00-99,China Unionpay,CN,unionpay,debit
-810022,00-99,China Unionpay,CN,unionpay,debit
-810023,00-99,China Unionpay,CN,unionpay,debit
-810024,00-99,China Unionpay,CN,unionpay,debit
-810025,00-99,China Unionpay,CN,unionpay,debit
-810026,00-99,China Unionpay,CN,unionpay,debit
-810027,00-99,China Unionpay,CN,unionpay,debit
-810028,00-99,China Unionpay,CN,unionpay,debit
-810029,00-99,China Unionpay,CN,unionpay,debit
+810000,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810001,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810002,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810003,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810004,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810005,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810006,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810007,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810008,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810009,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810010,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810011,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810012,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810013,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810014,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810015,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810016,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810017,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810018,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810019,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810020,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810021,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810022,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810023,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810024,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810025,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810026,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810027,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810028,00-99,CHINA UNIONPAY,CN,unionpay,debit
+810029,00-99,CHINA UNIONPAY,CN,unionpay,debit
 810030,00-99,,CN,local,debit
 810031,00-99,,CN,local,debit
 810032,00-99,,CN,local,debit
@@ -2026,7 +2026,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 812024,00-99,,CN,local,debit
 812025,00-99,,CN,local,debit
 812026,00-99,,CN,local,debit
-812027,00-99,Bank Of China,CN,local,debit
+812027,00-99,BANK OF CHINA,CN,local,debit
 812028,00-99,,CN,local,debit
 812029,00-99,,CN,local,debit
 812030,00-99,,CN,local,debit

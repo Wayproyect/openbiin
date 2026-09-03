@@ -1,45 +1,45 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-350000,00-99,Jcb International,JP,jcb,credit
+350000,00-99,JCB INTERNATIONAL,JP,jcb,credit
 350003,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
-350010,00-99,Jcb International,JP,jcb,credit
-350012,00-99,Jcb International,JP,jcb,credit
-350023,00-99,Jcb International,JP,jcb,credit
-350067,00-99,Jcb International,JP,jcb,credit
-350100,00-99,Jcb International,JP,jcb,credit
-350149,00-99,Jcb International,JP,jcb,credit
-350201,00-99,Jcb International,JP,jcb,credit
-350301,00-99,Jcb International,JP,jcb,credit
-350353,00-99,Jcb International,JP,jcb,credit
-350355,00-99,Jcb International,RU,jcb,credit
-350472,00-99,Jcb International,LU,jcb,credit
-350527,00-99,Jcb International,AR,jcb,credit
-350554,00-99,Jcb International,RO,jcb,credit
-350600,00-99,Jcb International,US,jcb,credit
-350627,00-99,Jcb International,BR,jcb,credit
-350688,00-99,Jcb International,JP,jcb,credit
-350717,00-99,Jcb International,RU,jcb,credit
-350767,00-99,Jcb International,US,jcb,credit
-350800,00-99,Jcb International,FR,jcb,credit
-350845,00-99,Jcb International,BR,jcb,credit
-350947,00-99,Jcb International,DE,jcb,debit
-350972,00-99,Jcb International,BR,jcb,credit
-351000,00-99,Jcb International,FI,jcb,credit
-351005,00-99,Jcb International,UA,jcb,credit
-351011,00-99,Jcb International,IT,jcb,credit
-351139,00-99,Jcb International,UA,jcb,debit
-351174,00-99,Jcb International,BR,jcb,credit
-351197,00-99,Jcb International,US,jcb,credit
-351200,00-99,Jcb International,US,jcb,credit
-351214,00-99,Jcb International,JP,jcb,credit
-351226,00-99,Jcb International,JP,jcb,credit
-351231,00-99,Jcb International,JP,jcb,credit
-351234,00-99,Jcb International,JP,jcb,credit
-351237,00-99,Jcb International,JP,jcb,credit
-351248,00-99,Jcb International,JP,jcb,credit
-351254,00-99,Jcb International,JP,jcb,credit
-351257,00-99,Jcb International,JP,jcb,credit
-351263,00-99,Jcb International,JP,jcb,credit
-351300,00-99,Jcb International,JP,jcb,credit
+350010,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350012,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350023,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350067,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350100,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350149,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350201,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350301,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350353,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350355,00-99,JCB INTERNATIONAL,RU,jcb,credit
+350472,00-99,JCB INTERNATIONAL,LU,jcb,credit
+350527,00-99,JCB INTERNATIONAL,AR,jcb,credit
+350554,00-99,JCB INTERNATIONAL,RO,jcb,credit
+350600,00-99,JCB INTERNATIONAL,US,jcb,credit
+350627,00-99,JCB INTERNATIONAL,BR,jcb,credit
+350688,00-99,JCB INTERNATIONAL,JP,jcb,credit
+350717,00-99,JCB INTERNATIONAL,RU,jcb,credit
+350767,00-99,JCB INTERNATIONAL,US,jcb,credit
+350800,00-99,JCB INTERNATIONAL,FR,jcb,credit
+350845,00-99,JCB INTERNATIONAL,BR,jcb,credit
+350947,00-99,JCB INTERNATIONAL,DE,jcb,debit
+350972,00-99,JCB INTERNATIONAL,BR,jcb,credit
+351000,00-99,JCB INTERNATIONAL,FI,jcb,credit
+351005,00-99,JCB INTERNATIONAL,UA,jcb,credit
+351011,00-99,JCB INTERNATIONAL,IT,jcb,credit
+351139,00-99,JCB INTERNATIONAL,UA,jcb,debit
+351174,00-99,JCB INTERNATIONAL,BR,jcb,credit
+351197,00-99,JCB INTERNATIONAL,US,jcb,credit
+351200,00-99,JCB INTERNATIONAL,US,jcb,credit
+351214,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351226,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351231,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351234,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351237,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351248,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351254,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351257,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351263,00-99,JCB INTERNATIONAL,JP,jcb,credit
+351300,00-99,JCB INTERNATIONAL,JP,jcb,credit
 351308,00-99,,CO,private label,credit
 351323,00-99,,MY,private label,debit
 351337,00-99,,AT,private label,credit
@@ -286,7 +286,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 352931,00-99,,JP,jcb,credit
 352932,00-99,,JP,jcb,credit
 352933,00-99,,JP,jcb,credit
-352934,00-99,Jcb International Credit Card Co. Ltd.,US,jcb,credit
+352934,00-99,JCB INTERNATIONAL CREDIT CARD CO. LTD.,US,jcb,credit
 352935,00-99,,JP,jcb,credit
 352936,00-99,,JP,jcb,credit
 352937,00-99,,JP,jcb,credit
@@ -599,7 +599,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 353244,00-99,,JP,jcb,credit
 353245,00-99,,JP,jcb,credit
 353246,00-99,,JP,jcb,credit
-353247,00-99,Jcb International Credit Card Co. Ltd.,US,jcb,credit
+353247,00-99,JCB INTERNATIONAL CREDIT CARD CO. LTD.,US,jcb,credit
 353248,00-99,,JP,jcb,credit
 353249,00-99,,JP,jcb,credit
 353250,00-99,,JP,jcb,credit

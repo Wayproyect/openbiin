@@ -4438,7 +4438,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 554498,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
 554499,00-99,VALITOR HF.,GB,mastercard,debit
 554500,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-554501,00-99,Swedbank,SE,mastercard,debit
+554501,00-99,SWEDBANK,SE,mastercard,debit
 554502,00-99,EURONET 360 FINANCE LTD.,GR,mastercard,debit
 554503,00-99,AHLI UNITED BANK,KW,mastercard,debit
 554504,00-99,HUB PAGAMENTOS S.A.,BR,mastercard,debit
@@ -4704,7 +4704,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 554770,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 554771,00-99,NATIONAL COMMERCIAL BANK,LY,mastercard,debit
 554772,00-99,BANCO INTERNACIONAL INTERBANK C.A.,VE,mastercard,credit
-554773,00-99,Banco de Brasília,BR,mastercard,credit
+554773,00-99,BANCO DE BRASÍLIA,BR,mastercard,credit
 554774,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 554775,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 554776,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
@@ -5869,7 +5869,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 555946,00-99,CSCBANK SAL,DJ,mastercard,debit
 555947,00-99,JOINT STOCK COMPANY ALFA-BANK,RU,mastercard,credit
 555948,00-99,HSBC BANK OMAN S.A.O.G,OM,mastercard,debit
-555949,00-99,Alfa-Bank,RU,mastercard,debit
+555949,00-99,ALFA-BANK,RU,mastercard,debit
 555950,00-99,CITIBANK N.A.,US,mastercard,debit
 555951,00-99,SEB KORT BANK AB,NO,mastercard,credit
 555952,00-99,CENTRAL PACIFIC BANK,US,mastercard,debit
@@ -6064,7 +6064,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 556141,00-99,,US,mastercard,credit
 556142,00-99,,US,mastercard,credit
 556143,00-99,,IN,mastercard,credit
-556144,00-99,Yes Bank Ltd.,IN,mastercard,credit
+556144,00-99,YES BANK LTD.,IN,mastercard,credit
 556145,00-99,,IN,mastercard,credit
 556146,00-99,,IN,mastercard,credit
 556147,00-99,REGIONS BANK,US,mastercard,credit
@@ -7302,7 +7302,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 557382,00-99,DANSKE BANK A/S,IE,mastercard,debit
 557383,00-99,FLOWE SPA SB,IT,mastercard,debit
 557384,00-99,DANSKE BANK A/S,DK,mastercard,debit
-557385,00-99,Danske Bank,NO,mastercard,debit
+557385,00-99,DANSKE BANK,NO,mastercard,debit
 557386,00-99,SANTANDER BANK POLSKA S.A.,PL,mastercard,debit
 557387,00-99,OJSC EUROPEAN INDUSTRIAL BANK,UA,mastercard,debit
 557388,00-99,SOLDO FINANCIAL SERVICES IRELAND DAC,IE,mastercard,debit
@@ -7806,7 +7806,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 557889,00-99,KB KOOKMIN CARD CO. LTD,KR,mastercard,credit
 557890,00-99,CESKA SPORITELNA A.S.,CZ,mastercard,debit
 557891,00-99,SANTANDER CONSUMER BANK SPA,IT,mastercard,credit
-557892,00-99,Nordea,DK,mastercard,credit
+557892,00-99,NORDEA,DK,mastercard,credit
 557893,00-99,SVENSKA HANDELSBANKEN AB,DK,mastercard,credit
 557894,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
 557895,00-99,MBANK S.A.,PL,mastercard,credit

@@ -251,7 +251,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850249,00-99,BEST BUY - HSBC,CA,private label,debit
 850250,00-99,BEST BUY - HSBC,CA,private label,debit
 850251,00-99,BEST BUY - HSBC,CA,private label,debit
-850252,00-99,Best Buy HSBC,CA,private label,credit
+850252,00-99,BEST BUY HSBC,CA,private label,credit
 850253,00-99,BEST BUY - HSBC,CA,private label,debit
 850254,00-99,BEST BUY - HSBC,CA,private label,debit
 850255,00-99,BEST BUY - HSBC,CA,private label,debit
@@ -268,16 +268,16 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850266,00-99,BEST BUY - HSBC,CA,private label,debit
 850267,00-99,BEST BUY - HSBC,CA,private label,debit
 850268,00-99,BEST BUY - HSBC,CA,private label,debit
-850269,00-99,Best Buy HSBC,CA,private label,credit
+850269,00-99,BEST BUY HSBC,CA,private label,credit
 850270,00-99,BEST BUY - HSBC,CA,private label,debit
 850271,00-99,BEST BUY - HSBC,CA,private label,debit
 850272,00-99,BEST BUY - HSBC,CA,private label,debit
 850273,00-99,BEST BUY - HSBC,CA,private label,debit
 850274,00-99,BEST BUY - HSBC,CA,private label,debit
 850275,00-99,BEST BUY - HSBC,CA,private label,debit
-850276,00-99,Best Buy HSBC,CA,private label,credit
+850276,00-99,BEST BUY HSBC,CA,private label,credit
 850277,00-99,BEST BUY - HSBC,CA,private label,debit
-850278,00-99,Best Buy HSBC,CA,private label,credit
+850278,00-99,BEST BUY HSBC,CA,private label,credit
 850279,00-99,BEST BUY - HSBC,CA,private label,debit
 850280,00-99,BEST BUY - HSBC,CA,private label,debit
 850281,00-99,BEST BUY - HSBC,CA,private label,debit
@@ -312,7 +312,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850310,00-99,BEST BUY - HSBC,CA,private label,debit
 850311,00-99,BEST BUY - HSBC,CA,private label,debit
 850312,00-99,BEST BUY - HSBC,CA,private label,debit
-850313,00-99,Best Buy HSBC,CA,private label,credit
+850313,00-99,BEST BUY HSBC,CA,private label,credit
 850314,00-99,BEST BUY - HSBC,CA,private label,debit
 850315,00-99,BEST BUY - HSBC,CA,private label,debit
 850316,00-99,BEST BUY - HSBC,CA,private label,debit
@@ -360,7 +360,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850358,00-99,BEST BUY - HSBC,CA,private label,debit
 850359,00-99,BEST BUY - HSBC,CA,private label,debit
 850360,00-99,BEST BUY - HSBC,CA,private label,debit
-850361,00-99,Best Buy HSBC,CA,private label,credit
+850361,00-99,BEST BUY HSBC,CA,private label,credit
 850362,00-99,BEST BUY - HSBC,CA,private label,debit
 850363,00-99,BEST BUY - HSBC,CA,private label,debit
 850364,00-99,BEST BUY - HSBC,CA,private label,debit
@@ -695,7 +695,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850693,00-99,BEST BUY - HSBC,CA,private label,debit
 850694,00-99,BEST BUY - HSBC,CA,private label,debit
 850695,00-99,BEST BUY - HSBC,CA,private label,debit
-850696,00-99,Best Buy HSBC,CA,private label,credit
+850696,00-99,BEST BUY HSBC,CA,private label,credit
 850697,00-99,BEST BUY - HSBC,CA,private label,debit
 850698,00-99,BEST BUY - HSBC,CA,private label,debit
 850699,00-99,BEST BUY - HSBC,CA,private label,debit
@@ -1000,7 +1000,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 850998,00-99,BEST BUY - HSBC,CA,private label,debit
 850999,00-99,BEST BUY - HSBC,CA,private label,debit
 852909,00-99,BANK OF CHINA,CN,private label,credit
-853417,00-99,Banco Bradesco,BR,elo,debit
+853417,00-99,BANCO BRADESCO,BR,elo,debit
 853419,00-99,DACASA FINANCEIRA S/A,BR,private label,credit
 854809,00-99,BANAMEX,MX,private label,debit
 854819,00-99,BANAMEX,MX,private label,debit
@@ -1135,7 +1135,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 855117,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855118,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855119,00-99,FUTURE SHOP - HSBC,CA,private label,debit
-855120,00-99,Future Shop HSBC,CA,private label,credit
+855120,00-99,FUTURE SHOP HSBC,CA,private label,credit
 855121,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855122,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855123,00-99,FUTURE SHOP - HSBC,CA,private label,debit
@@ -1340,7 +1340,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 855322,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855323,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855324,00-99,FUTURE SHOP - HSBC,CA,private label,debit
-855325,00-99,Future Shop HSBC,CA,private label,credit
+855325,00-99,FUTURE SHOP HSBC,CA,private label,credit
 855326,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855327,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855328,00-99,FUTURE SHOP - HSBC,CA,private label,debit
@@ -1380,7 +1380,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 855362,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855363,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855364,00-99,FUTURE SHOP - HSBC,CA,private label,debit
-855365,00-99,Future Shop HSBC,CA,private label,credit
+855365,00-99,FUTURE SHOP HSBC,CA,private label,credit
 855366,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855367,00-99,FUTURE SHOP - HSBC,CA,private label,debit
 855368,00-99,FUTURE SHOP - HSBC,CA,private label,debit

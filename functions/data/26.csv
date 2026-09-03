@@ -5,30 +5,30 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 260003,00-99,ORBITALL SERVICOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA,BR,mastercard,debit
 260004,00-99,ORBITALL SERVICOS E PROCESSAMENTO DE MEIOS DE PAGAMENTO LTDA,BR,mastercard,debit
 260005,00-99,COMPANIA DE FINANCIAMIENTO TUYA S.A.,CO,mastercard,credit
-260006,00-99,Sberbank,RU,mastercard,debit
-260007,00-99,Sberbank,RU,mastercard,debit
+260006,00-99,SBERBANK,RU,mastercard,debit
+260007,00-99,SBERBANK,RU,mastercard,debit
 260008,00-99,MUTUAL CARTAGO DE AHORRO Y PRESTAMO,CR,mastercard,debit
-260009,00-99,Sberbank,RU,mastercard,debit
-260010,00-99,Sberbank,RU,mastercard,debit
-260011,00-99,Sberbank,RU,mastercard,debit
+260009,00-99,SBERBANK,RU,mastercard,debit
+260010,00-99,SBERBANK,RU,mastercard,debit
+260011,00-99,SBERBANK,RU,mastercard,debit
 260012,00-99,FIRST DATA MERCHANT SERVICES MEXICO S DE R L DE CV,MX,mastercard,debit
-260013,00-99,Sberbank,RU,mastercard,debit
+260013,00-99,SBERBANK,RU,mastercard,debit
 260014,00-99,PROFESSIONAL CARD PROCESSING CORP.,PA,mastercard,debit
 260015,00-99,BANCO CARONI C.A. BANCO UNIVERSAL,VE,mastercard,credit
-260016,00-99,Sberbank,RU,mastercard,debit
-260017,00-99,Sberbank,RU,mastercard,debit
-260018,00-99,Sberbank,RU,mastercard,debit
-260019,00-99,Sberbank,RU,mastercard,debit
-260020,00-99,Mastercard,PL,mastercard,debit
-260021,00-99,Mastercard,PL,mastercard,debit
-260022,00-99,Mastercard,PL,mastercard,debit
-260023,00-99,Mastercard,PL,mastercard,debit
-260024,00-99,Mastercard,PL,mastercard,debit
-260025,00-99,Mastercard,PL,mastercard,debit
-260026,00-99,Mastercard,PL,mastercard,debit
-260027,00-99,Mastercard,PL,mastercard,debit
-260028,00-99,Mastercard,PL,mastercard,debit
-260029,00-99,Mastercard,PL,mastercard,debit
+260016,00-99,SBERBANK,RU,mastercard,debit
+260017,00-99,SBERBANK,RU,mastercard,debit
+260018,00-99,SBERBANK,RU,mastercard,debit
+260019,00-99,SBERBANK,RU,mastercard,debit
+260020,00-99,MASTERCARD,PL,mastercard,debit
+260021,00-99,MASTERCARD,PL,mastercard,debit
+260022,00-99,MASTERCARD,PL,mastercard,debit
+260023,00-99,MASTERCARD,PL,mastercard,debit
+260024,00-99,MASTERCARD,PL,mastercard,debit
+260025,00-99,MASTERCARD,PL,mastercard,debit
+260026,00-99,MASTERCARD,PL,mastercard,debit
+260027,00-99,MASTERCARD,PL,mastercard,debit
+260028,00-99,MASTERCARD,PL,mastercard,debit
+260029,00-99,MASTERCARD,PL,mastercard,debit
 260030,00-99,,,mastercard,debit
 260031,00-99,,,mastercard,debit
 260032,00-99,,,mastercard,debit

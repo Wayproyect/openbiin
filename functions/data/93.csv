@@ -33,38 +33,38 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 932325,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 932328,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 933082,00-99,LOSANGO,BR,private label,debit
-933301,00-99,Dutch-Bangla Bank,BD,nexus,debit
-933302,00-99,Dutch-Bangla Bank,BD,nexus,debit
+933301,00-99,DUTCH-BANGLA BANK,BD,nexus,debit
+933302,00-99,DUTCH-BANGLA BANK,BD,nexus,debit
 933330,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 933331,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA,CN,private label,debit
 934402,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,HK,private label,debit
-934403,00-99,Synchrony Bank,US,private label,credit
+934403,00-99,SYNCHRONY BANK,US,private label,credit
 934404,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,HK,private label,debit
-934405,00-99,Synchrony Bank,US,private label,credit
-934406,00-99,Synchrony Bank,US,private label,credit
-934407,00-99,Synchrony Bank,US,private label,credit
-934408,00-99,Synchrony Bank,US,private label,credit
-934409,00-99,Synchrony Bank,US,private label,credit
-934410,00-99,Synchrony Bank,US,private label,credit
-934411,00-99,Synchrony Bank,US,private label,credit
-934412,00-99,Ebt,US,private label,debit
-934413,00-99,Ebt,US,private label,debit
+934405,00-99,SYNCHRONY BANK,US,private label,credit
+934406,00-99,SYNCHRONY BANK,US,private label,credit
+934407,00-99,SYNCHRONY BANK,US,private label,credit
+934408,00-99,SYNCHRONY BANK,US,private label,credit
+934409,00-99,SYNCHRONY BANK,US,private label,credit
+934410,00-99,SYNCHRONY BANK,US,private label,credit
+934411,00-99,SYNCHRONY BANK,US,private label,credit
+934412,00-99,EBT,US,private label,debit
+934413,00-99,EBT,US,private label,debit
 934414,00-99,HANG SENG BANK LTD.,HK,private label,debit
-934415,00-99,Ebt,US,private label,debit
-934416,00-99,Ebt,US,private label,debit
-934417,00-99,Ebt,US,private label,debit
-934418,00-99,Ebt,US,private label,debit
-934419,00-99,Ebt,US,private label,debit
-934420,00-99,Ebt,US,private label,debit
-934421,00-99,Ebt,US,private label,debit
-934422,00-99,Ebt,US,private label,debit
-934423,00-99,JPMorgan Chase Bank,US,private label,debit
+934415,00-99,EBT,US,private label,debit
+934416,00-99,EBT,US,private label,debit
+934417,00-99,EBT,US,private label,debit
+934418,00-99,EBT,US,private label,debit
+934419,00-99,EBT,US,private label,debit
+934420,00-99,EBT,US,private label,debit
+934421,00-99,EBT,US,private label,debit
+934422,00-99,EBT,US,private label,debit
+934423,00-99,JPMORGAN CHASE BANK,US,private label,debit
 934424,00-99,HANG SENG BANK LTD.,HK,private label,debit
-934425,00-99,JPMorgan Chase Bank,US,private label,debit
-934426,00-99,JPMorgan Chase Bank,US,private label,debit
-934427,00-99,JPMorgan Chase Bank,US,private label,debit
-934428,00-99,JPMorgan Chase Bank,US,private label,debit
-934429,00-99,JPMorgan Chase Bank,US,private label,debit
+934425,00-99,JPMORGAN CHASE BANK,US,private label,debit
+934426,00-99,JPMORGAN CHASE BANK,US,private label,debit
+934427,00-99,JPMORGAN CHASE BANK,US,private label,debit
+934428,00-99,JPMORGAN CHASE BANK,US,private label,debit
+934429,00-99,JPMORGAN CHASE BANK,US,private label,debit
 934910,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 934911,00-99,ABSA GROUP LTD.,ZA,local brand,credit
 935003,00-99,BC CARD,KR,local brand,debit
@@ -80,10 +80,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 935039,00-99,BC CARD,KR,local brand,debit
 935048,00-99,BC CARD,KR,local brand,debit
 935071,00-99,BC CARD,KR,local brand,debit
-936001,00-99,Hang Seng Bank,HK,private label,debit
-936002,00-99,JPMorgan Chase Bank,US,private label,debit
-936003,00-99,JPMorgan Chase Bank,US,private label,debit
-936004,00-99,JPMorgan Chase Bank,US,private label,debit
+936001,00-99,HANG SENG BANK,HK,private label,debit
+936002,00-99,JPMORGAN CHASE BANK,US,private label,debit
+936003,00-99,JPMORGAN CHASE BANK,US,private label,debit
+936004,00-99,JPMORGAN CHASE BANK,US,private label,debit
 936005,00-99,,US,private label,debit
 936006,00-99,,US,private label,debit
 936007,00-99,,US,private label,debit

@@ -1,34 +1,34 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-590000,00-99,Jsc Ukrsibbank,UA,maestro,debit
-590001,00-99,Jsc Ukrsibbank,UA,maestro,debit
-590002,00-99,Banco De Chile,CL,maestro,debit
-590003,00-99,Dnb Bank Asa,NO,maestro,debit
-590004,00-99,Bank Of China,CN,maestro,debit
-590005,00-99,Hang Seng Bank,HK,maestro,debit
-590006,00-99,Royal Bank Of Canada,CA,maestro,debit
-590007,00-99,Bank Of China,CN,maestro,debit
-590008,00-99,Clydesdale Bank,GB,maestro,debit
-590009,00-99,National Australia Bank,AU,maestro,debit
-590010,00-99,Banco De Chile,CL,maestro,debit
-590011,00-99,Bank Of China,CN,maestro,debit
-590012,00-99,Hang Seng Bank,HK,maestro,debit
-590013,00-99,Clydesdale Bank,GB,maestro,debit
-590014,00-99,Ceska Sporitelna,CZ,maestro,debit
-590015,00-99,Deutsche Bank,DE,maestro,debit
-590016,00-99,Bank Of China,CN,maestro,debit
-590017,00-99,Banco De Chile,CL,maestro,debit
-590018,00-99,Privatbank,UA,maestro,debit
-590019,00-99,Royal Bank Of Canada,CA,maestro,debit
-590020,00-99,Jsc Raiffeisen Bank Aval,UA,maestro,debit
-590021,00-99,Deutsche Bank Ag,DE,maestro,debit
-590022,00-99,Banco De Chile,CL,maestro,debit
-590023,00-99,Clydesdale Bank Plc,GB,maestro,debit
-590024,00-99,Banco Santander Sa,ES,maestro,debit
-590025,00-99,Banco De Chile,CL,maestro,debit
-590026,00-99,Banco De Chile,CL,maestro,debit
-590027,00-99,State Bank Of India,IN,maestro,debit
-590028,00-99,Clydesdale Bank Plc,GB,maestro,debit
-590029,00-99,The Hongkong And Shanghai Banking Corporation,HK,maestro,debit
+590000,00-99,JSC UKRSIBBANK,UA,maestro,debit
+590001,00-99,JSC UKRSIBBANK,UA,maestro,debit
+590002,00-99,BANCO DE CHILE,CL,maestro,debit
+590003,00-99,DNB BANK ASA,NO,maestro,debit
+590004,00-99,BANK OF CHINA,CN,maestro,debit
+590005,00-99,HANG SENG BANK,HK,maestro,debit
+590006,00-99,ROYAL BANK OF CANADA,CA,maestro,debit
+590007,00-99,BANK OF CHINA,CN,maestro,debit
+590008,00-99,CLYDESDALE BANK,GB,maestro,debit
+590009,00-99,NATIONAL AUSTRALIA BANK,AU,maestro,debit
+590010,00-99,BANCO DE CHILE,CL,maestro,debit
+590011,00-99,BANK OF CHINA,CN,maestro,debit
+590012,00-99,HANG SENG BANK,HK,maestro,debit
+590013,00-99,CLYDESDALE BANK,GB,maestro,debit
+590014,00-99,CESKA SPORITELNA,CZ,maestro,debit
+590015,00-99,DEUTSCHE BANK,DE,maestro,debit
+590016,00-99,BANK OF CHINA,CN,maestro,debit
+590017,00-99,BANCO DE CHILE,CL,maestro,debit
+590018,00-99,PRIVATBANK,UA,maestro,debit
+590019,00-99,ROYAL BANK OF CANADA,CA,maestro,debit
+590020,00-99,JSC RAIFFEISEN BANK AVAL,UA,maestro,debit
+590021,00-99,DEUTSCHE BANK AG,DE,maestro,debit
+590022,00-99,BANCO DE CHILE,CL,maestro,debit
+590023,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+590024,00-99,BANCO SANTANDER SA,ES,maestro,debit
+590025,00-99,BANCO DE CHILE,CL,maestro,debit
+590026,00-99,BANCO DE CHILE,CL,maestro,debit
+590027,00-99,STATE BANK OF INDIA,IN,maestro,debit
+590028,00-99,CLYDESDALE BANK PLC,GB,maestro,debit
+590029,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION,HK,maestro,debit
 590030,00-99,,CL,maestro,debit
 590031,00-99,,AU,maestro,debit
 590032,00-99,,CN,maestro,debit

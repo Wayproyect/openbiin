@@ -3,21 +3,21 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 600004,00-99,GE CAPITAL,GB,newday,debit
 600005,00-99,GE CAPITAL,GB,newday,debit
 600007,00-99,GE CAPITAL,GB,newday,debit
-600008,00-99,Newday Ltd,GB,visa,credit
+600008,00-99,NEWDAY LTD,GB,visa,credit
 600053,00-99,JTB CORP.,JP,local brand,debit
-600054,00-99,Credit Agricole,FR,visa,debit
-600082,00-99,Jpmorgan Chase Bank,US,visa,debit
+600054,00-99,CREDIT AGRICOLE,FR,visa,debit
+600082,00-99,JPMORGAN CHASE BANK,US,visa,debit
 600098,00-99,LONE STAR CARD TEXAS EBT,US,ebt,debit
-600102,00-99,Banca Nazionale Del Lavoro,IT,visa,debit
-600110,00-99,Jpmorgan Chase Bank,US,visa,debit
-600120,00-99,Jpmorgan Chase Bank,US,visa,debit
-600123,00-99,Deutsche Bank Ag,DE,visa,debit
-600141,00-99,Jpmorgan Chase Bank,US,visa,credit
+600102,00-99,BANCA NAZIONALE DEL LAVORO,IT,visa,debit
+600110,00-99,JPMORGAN CHASE BANK,US,visa,debit
+600120,00-99,JPMORGAN CHASE BANK,US,visa,debit
+600123,00-99,DEUTSCHE BANK AG,DE,visa,debit
+600141,00-99,JPMORGAN CHASE BANK,US,visa,credit
 600150,00-99,HERITAGE BANK LTD.,AU,local brand,debit
-600176,00-99,Deutsche Bank Ag,DE,visa,debit
-600200,00-99,Svenska Handelsbanken,SE,visa,debit
-600203,00-99,Ceska Sporitelna,CZ,maestro,debit
-600206,00-99,State Bank Of India,IN,maestro,debit
+600176,00-99,DEUTSCHE BANK AG,DE,visa,debit
+600200,00-99,SVENSKA HANDELSBANKEN,SE,visa,debit
+600203,00-99,CESKA SPORITELNA,CZ,maestro,debit
+600206,00-99,STATE BANK OF INDIA,IN,maestro,debit
 600208,00-99,TURKIYE GARANTI BANKASI A.S.,TR,maestro,debit
 600229,00-99,WEGMANS SHOPPERS CARD,US,ebt,debit
 600291,00-99,CAPITAL ONE BANK (CANADA BRANCH),CA,local brand,credit
@@ -25,7 +25,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 600293,00-99,CAPITAL ONE BANK (CANADA BRANCH),CA,local brand,credit
 600294,00-99,HUDSON'S BAY COMPANY,CA,local brand,debit
 600295,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
-600296,00-99,Jpmorgan Chase Bank,US,maestro,debit
+600296,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 600297,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600298,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600299,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
@@ -72,7 +72,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 600340,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600341,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600342,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
-600343,00-99,Turkiye Is Bankasi,TR,maestro,debit
+600343,00-99,TURKIYE IS BANKASI,TR,maestro,debit
 600344,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600345,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600346,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
@@ -116,17 +116,17 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 600384,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600385,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
 600386,00-99,HUDSON'S BAY COMPANY,CA,maestro,debit
-600387,00-99,Jpmorgan Chase Bank,US,ebt,debit
-600388,00-99,Deutsche Bank,DE,maestro,debit
+600387,00-99,JPMORGAN CHASE BANK,US,ebt,debit
+600388,00-99,DEUTSCHE BANK,DE,maestro,debit
 600400,00-99,U.S. BANK N.A.,US,ebt,debit
 600401,00-99,IKANO COMPUTER CITY,DK,maestro,debit
 600423,00-99,MINESOTA EBT,US,ebt,debit
 600428,00-99,ARGUS,US,ebt,debit
 600430,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,private label,debit
-600431,00-99,Jpmorgan Chase Bank,US,ebt,debit
-600432,00-99,Danske Bank,DK,maestro,debit
-600433,00-99,Jpmorgan Chase Bank,US,ebt,debit
-600434,00-99,Jpmorgan Chase Bank,US,ebt,debit
+600431,00-99,JPMORGAN CHASE BANK,US,ebt,debit
+600432,00-99,DANSKE BANK,DK,maestro,debit
+600433,00-99,JPMORGAN CHASE BANK,US,ebt,debit
+600434,00-99,JPMORGAN CHASE BANK,US,ebt,debit
 600435,00-99,,US,ebt,debit
 600436,00-99,,US,ebt,debit
 600437,00-99,,US,ebt,debit

@@ -1,30 +1,30 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 630000,00-99,EXPORT-IMPORT BANK LTD.,BD,maestro,debit
 630006,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
-630028,00-99,Sberbank,RU,maestro,debit
+630028,00-99,SBERBANK,RU,maestro,debit
 630041,00-99,AGRICULTURAL BANK OF CHINA,CN,private label,debit
 630042,00-99,TEACHERS CARD,CN,local,debit
-630100,00-99,Jpmorgan Chase Bank,US,ebt,debit
-630110,00-99,Jpmorgan Chase Bank,US,ebt,debit
+630100,00-99,JPMORGAN CHASE BANK,US,ebt,debit
+630110,00-99,JPMORGAN CHASE BANK,US,ebt,debit
 630114,00-99,WIRECARD CARD SOLUTIONS LTD.,DE,maestro,debit
 630121,00-99,PAYRNET LTD.,DE,maestro,debit
-630222,00-99,Royal Bank Of Scotland,GB,maestro,debit
-630400,00-99,State Bank Of India,IN,maestro,debit
-630401,00-99,Caixa Bank,ES,maestro,debit
-630408,00-99,Allied Irish Banks,IE,maestro,debit
-630409,00-99,Allied Irish Banks,IE,maestro,debit
-630412,00-99,Banco Santander,ES,maestro,debit
-630440,00-99,Royal Bank Of Scotland,GB,maestro,debit
-630441,00-99,Royal Bank Of Scotland,GB,maestro,debit
-630445,00-99,Banco Santander,ES,maestro,debit
-630456,00-99,Allied Irish Banks,IE,maestro,debit
-630461,00-99,Allied Irish Banks,IE,maestro,debit
-630477,00-99,Bank Of Ireland,IE,maestro,debit
-630478,00-99,Bank Of Ireland,IE,maestro,debit
-630479,00-99,Bank Of Ireland,IE,maestro,debit
-630480,00-99,Bank Of Ireland,IE,maestro,debit
-630481,00-99,Bank Of Ireland,IE,maestro,debit
-630482,00-99,Bank Of Ireland,IE,maestro,debit
+630222,00-99,ROYAL BANK OF SCOTLAND,GB,maestro,debit
+630400,00-99,STATE BANK OF INDIA,IN,maestro,debit
+630401,00-99,CAIXA BANK,ES,maestro,debit
+630408,00-99,ALLIED IRISH BANKS,IE,maestro,debit
+630409,00-99,ALLIED IRISH BANKS,IE,maestro,debit
+630412,00-99,BANCO SANTANDER,ES,maestro,debit
+630440,00-99,ROYAL BANK OF SCOTLAND,GB,maestro,debit
+630441,00-99,ROYAL BANK OF SCOTLAND,GB,maestro,debit
+630445,00-99,BANCO SANTANDER,ES,maestro,debit
+630456,00-99,ALLIED IRISH BANKS,IE,maestro,debit
+630461,00-99,ALLIED IRISH BANKS,IE,maestro,debit
+630477,00-99,BANK OF IRELAND,IE,maestro,debit
+630478,00-99,BANK OF IRELAND,IE,maestro,debit
+630479,00-99,BANK OF IRELAND,IE,maestro,debit
+630480,00-99,BANK OF IRELAND,IE,maestro,debit
+630481,00-99,BANK OF IRELAND,IE,maestro,debit
+630482,00-99,BANK OF IRELAND,IE,maestro,debit
 630483,00-99,,IE,maestro,debit
 630484,00-99,,IE,maestro,debit
 630485,00-99,,IE,maestro,debit

@@ -1,25 +1,25 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
 500000,00-99,FRANK CHRISTMAS BANK,US,ebt,debit
-500001,00-99,Midland Bank,GB,maestro,debit
-500002,00-99,Midland Bank,GB,maestro,debit
-500003,00-99,Midland Bank,GB,maestro,debit
-500004,00-99,Midland Bank,GB,maestro,debit
-500005,00-99,Banco Popular Dominicano,DO,maestro,debit
-500006,00-99,Midland Bank,GB,maestro,debit
-500007,00-99,Midland Bank,GB,maestro,debit
-500008,00-99,Banco Do Brasil,BR,maestro,debit
-500009,00-99,Dutch Bangla Bank,BD,maestro,debit
-500010,00-99,Midland Bank,GB,maestro,debit
-500011,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500012,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500013,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500014,00-99,Royal Bank Of Scotland,GB,maestro,debit
-500015,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500016,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500018,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500019,00-99,JPMorgan Chase Bank,US,mastercard,debit
-500020,00-99,Royal Bank Of Scotland,GB,maestro,debit
-500021,00-99,JPMorgan Chase Bank,US,mastercard,debit
+500001,00-99,MIDLAND BANK,GB,maestro,debit
+500002,00-99,MIDLAND BANK,GB,maestro,debit
+500003,00-99,MIDLAND BANK,GB,maestro,debit
+500004,00-99,MIDLAND BANK,GB,maestro,debit
+500005,00-99,BANCO POPULAR DOMINICANO,DO,maestro,debit
+500006,00-99,MIDLAND BANK,GB,maestro,debit
+500007,00-99,MIDLAND BANK,GB,maestro,debit
+500008,00-99,BANCO DO BRASIL,BR,maestro,debit
+500009,00-99,DUTCH BANGLA BANK,BD,maestro,debit
+500010,00-99,MIDLAND BANK,GB,maestro,debit
+500011,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500012,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500013,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500014,00-99,ROYAL BANK OF SCOTLAND,GB,maestro,debit
+500015,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500016,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500018,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500019,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+500020,00-99,ROYAL BANK OF SCOTLAND,GB,maestro,debit
+500021,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
 500022,00-99,,BD,maestro,debit
 500023,00-99,,US,ebt,debit
 500024,00-99,,US,ebt,debit
@@ -1848,7 +1848,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 501938,00-99,,DK,dankort,debit
 501939,00-99,,DK,dankort,debit
 501940,00-99,,DK,dankort,debit
-501941,00-99,Vivild Og Omegns Sparekasse,DK,maestro,debit
+501941,00-99,VIVILD OG OMEGNS SPAREKASSE,DK,maestro,debit
 501942,00-99,,DK,dankort,debit
 501943,00-99,,DK,dankort,debit
 501944,00-99,,DK,dankort,debit
@@ -6841,7 +6841,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 507166,00-99,,US,ebt,debit
 507167,00-99,,US,ebt,debit
 507168,00-99,,US,ebt,debit
-507169,00-99,State Of California Ebt,US,ebt,debit
+507169,00-99,STATE OF CALIFORNIA EBT,US,ebt,debit
 507171,00-99,,US,ebt,debit
 507172,00-99,,US,ebt,debit
 507173,00-99,,US,ebt,debit

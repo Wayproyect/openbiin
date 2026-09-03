@@ -106,7 +106,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 201453,00-99,RAIFFEISEN BANK,AT,private label,debit
 202022,00-99,PRESTAMOS ABCD,MX,local brand,credit
 202027,00-99,SCOTIABANK MEXICO,MX,local brand,debit
-202028,00-99,Jsc Bank Vtb,RU,mir,debit
+202028,00-99,JSC BANK VTB,RU,mir,debit
 203100,00-99,SODEXO,MX,local brand,debit
 203101,00-99,SODEXO,MX,local brand,debit
 203102,00-99,HSBC MEXICO S.A.,MX,local brand,debit
@@ -211,6 +211,6 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 205097,00-99,SHINHAN CARD,KR,local brand,credit
 205098,00-99,SHINHAN CARD,KR,local brand,credit
 205099,00-99,SHINHAN CARD,KR,local brand,credit
-205512,00-99,Jpmorgan Chase Bank Na,US,visa,debit
+205512,00-99,JPMORGAN CHASE BANK NA,US,visa,debit
 207177,00-99,EXPORT DEVELOPMENT BANK,IR,local brand,debit
 209304,00-99,SAMSUNG CARD,KR,local brand,credit

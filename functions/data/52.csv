@@ -100,14 +100,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520099,00-99,CHINA CITIC BANK CORPORATION LTD.,CN,mastercard,credit
 520100,00-99,BANCO OLE BONSUCESSO CONSIGNADO SA,BR,mastercard,credit
 520101,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
-520102,00-99,Citibank,US,mastercard,credit
+520102,00-99,CITIBANK,US,mastercard,credit
 520103,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520104,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520105,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520106,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 520107,00-99,CSCBANK SAL,LB,mastercard,credit
 520108,00-99,CHINA CITIC BANK CORPORATION LTD.,CN,mastercard,credit
-520109,00-99,Banco Santander,ES,mastercard,credit
+520109,00-99,BANCO SANTANDER,ES,mastercard,credit
 520110,00-99,ASOCIACION COOPERATIVA DE AHORRO Y CREDITO DEL COLEGIO MEDICO DE EL SA,SV,mastercard,credit
 520111,00-99,PT. BANK NEGARA INDONESIA (PERSERO) TBK.,ID,mastercard,debit
 520112,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
@@ -164,8 +164,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520164,00-99,BANCO BRADESCARD S.A.,BR,mastercard,credit
 520165,00-99,BANKISLAMI PAKISTAN LTD.,PK,mastercard,debit
 520166,00-99,EMBERS CREDIT UNION,US,mastercard,debit
-520167,00-99,Citibank,US,mastercard,credit
-520168,00-99,Citibank,US,mastercard,credit
+520167,00-99,CITIBANK,US,mastercard,credit
+520168,00-99,CITIBANK,US,mastercard,credit
 520169,00-99,BANK OF COMMUNICATIONS CO. LTD,CN,mastercard,credit
 520170,00-99,BANK ISLAM MALAYSIA BERHAD,MY,mastercard,credit
 520171,00-99,LENDINGCLUB BANK NATIONAL ASSOCIATION,US,mastercard,credit
@@ -204,7 +204,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520204,00-99,COLLABRIA FINANCIAL SERVICES,CA,mastercard,credit
 520205,00-99,ASTERA CREDIT UNION,US,mastercard,credit
 520206,00-99,NATIONAL CREDIT AND COMMERCE BANK LTD.,BD,mastercard,credit
-520207,00-99,Banco De Credito Del Peru,PE,mastercard,credit
+520207,00-99,BANCO DE CREDITO DEL PERU,PE,mastercard,credit
 520208,00-99,CHINA CITIC BANK,CN,mastercard,credit
 520209,00-99,SHAZAM INC.,US,mastercard,debit
 520210,00-99,UNION BANK OF INDIA,IN,mastercard,credit
@@ -304,7 +304,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520304,00-99,PIRAEUS BANK S.A.,GR,mastercard,credit
 520305,00-99,NETWORK INTERNATIONAL LLC,EG,mastercard,credit
 520306,00-99,JOINT STOCK COMPANY COMMERCIAL BANK CITIBANK,RU,mastercard,credit
-520307,00-99,UniCredit Bank,IT,mastercard,credit
+520307,00-99,UNICREDIT BANK,IT,mastercard,credit
 520308,00-99,EUROBANK DIREKTNA AKCIONARSKO DRUSTVO BEOGRAD,RS,mastercard,credit
 520309,00-99,DEUTSCHER SPARKASSEN- UND GIROVERBAND,DE,mastercard,credit
 520310,00-99,EXPRESSBANK AD,BG,mastercard,credit
@@ -328,7 +328,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520328,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,debit
 520329,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L.(COOPENAE RL),CR,mastercard,credit
 520330,00-99,FINDOMESTIC BANCA SPA,IT,mastercard,credit
-520331,00-99,Commonwealth Bank Of Australia,AU,mastercard,credit
+520331,00-99,COMMONWEALTH BANK OF AUSTRALIA,AU,mastercard,credit
 520333,00-99,GOVERNOR AND COMPANY OF THE BANK OF IRELAND,IE,mastercard,credit
 520334,00-99,BANK OF SCOTLAND PLC,GB,mastercard,credit
 520335,00-99,PINNACLE BANK,US,mastercard,credit
@@ -353,7 +353,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520354,00-99,BANCO DE BOGOTA S.A.,CO,mastercard,credit
 520355,00-99,MYANMA APEX BANK LTD.,MM,mastercard,credit
 520356,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
-520357,00-99,Banca Intesa,RS,mastercard,credit
+520357,00-99,BANCA INTESA,RS,mastercard,credit
 520358,00-99,PT. BANK CENTRAL ASIA TBK.,ID,mastercard,credit
 520359,00-99,BANCO DIGIO S.A,BR,mastercard,credit
 520360,00-99,BANCO DIGIO S.A,BR,mastercard,credit
@@ -366,7 +366,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520367,00-99,PEOPLES CREDIT UNION,US,mastercard,credit
 520368,00-99,BOKIS,DK,mastercard,credit
 520369,00-99,SANTANDER BANK NA,US,mastercard,credit
-520370,00-99,Bank Negara Indonesia,ID,mastercard,credit
+520370,00-99,BANK NEGARA INDONESIA,ID,mastercard,credit
 520371,00-99,PT. BANK PERMATA,ID,mastercard,credit
 520372,00-99,JACK HENRY & ASSOCIATES,US,mastercard,credit
 520373,00-99,PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK,RU,mastercard,credit
@@ -402,14 +402,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520403,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520404,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 520405,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-520406,00-99,Mastercard,US,mastercard,credit
-520407,00-99,Mastercard,NL,mastercard,credit
-520408,00-99,Mastercard,US,mastercard,credit
-520409,00-99,Mastercard,BR,mastercard,credit
-520410,00-99,Mastercard,CL,mastercard,debit
-520411,00-99,Mastercard,US,mastercard,credit
-520412,00-99,Mastercard,VN,mastercard,credit
-520413,00-99,Mastercard,DE,mastercard,credit
+520406,00-99,MASTERCARD,US,mastercard,credit
+520407,00-99,MASTERCARD,NL,mastercard,credit
+520408,00-99,MASTERCARD,US,mastercard,credit
+520409,00-99,MASTERCARD,BR,mastercard,credit
+520410,00-99,MASTERCARD,CL,mastercard,debit
+520411,00-99,MASTERCARD,US,mastercard,credit
+520412,00-99,MASTERCARD,VN,mastercard,credit
+520413,00-99,MASTERCARD,DE,mastercard,credit
 520414,00-99,DOHA BANK Q.S.C,QA,mastercard,credit
 520415,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 520416,00-99,BANCO NACIONAL DE MEXICO S.A.,MX,mastercard,debit
@@ -419,24 +419,24 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520420,00-99,UNITED BANK FOR AFRICA PLC,KE,mastercard,debit
 520421,00-99,ST. ANNES CREDIT UNION,US,mastercard,credit
 520422,00-99,SALAAM AFRICAN BANK,SO,mastercard,debit
-520423,00-99,Mastercard,NZ,mastercard,credit
-520426,00-99,Mastercard,GB,mastercard,credit
+520423,00-99,MASTERCARD,NZ,mastercard,credit
+520426,00-99,MASTERCARD,GB,mastercard,credit
 520430,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520431,00-99,ARAB NATIONAL BANK,SA,mastercard,credit
 520432,00-99,FIRST INTERSTATE BANK,US,mastercard,credit
 520433,00-99,BANK OF BEIRUT S.A.L.,LB,mastercard,credit
 520453,00-99,RABOBANK,NL,mastercard,credit
-520455,00-99,Mastercard,US,mastercard,credit
-520456,00-99,Mastercard,MX,mastercard,credit
-520461,00-99,Mastercard,HK,mastercard,credit
-520465,00-99,Mastercard,TW,mastercard,credit
-520466,00-99,Mastercard,FR,mastercard,credit
+520455,00-99,MASTERCARD,US,mastercard,credit
+520456,00-99,MASTERCARD,MX,mastercard,credit
+520461,00-99,MASTERCARD,HK,mastercard,credit
+520465,00-99,MASTERCARD,TW,mastercard,credit
+520466,00-99,MASTERCARD,FR,mastercard,credit
 520467,00-99,HEARTLAND BANK,US,mastercard,credit
 520470,00-99,NORTHERN BANK & TRUST COMPANY,US,mastercard,debit
 520471,00-99,J P MORGAN EUROPE LTD.,GB,mastercard,credit
 520472,00-99,J P MORGAN EUROPE LTD.,GB,mastercard,credit
 520473,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
-520474,00-99,Mastercard,BE,mastercard,credit
+520474,00-99,MASTERCARD,BE,mastercard,credit
 520475,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520476,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520477,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
@@ -444,27 +444,27 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520479,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520480,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
 520481,00-99,MASTERCARD - MEMBER TEST FACILITY,US,mastercard,credit
-520482,00-99,Mastercard,US,mastercard,credit
-520484,00-99,Mastercard,US,mastercard,credit
-520486,00-99,Mastercard,NA,mastercard,debit
-520487,00-99,Mastercard,HK,mastercard,credit
-520491,00-99,Cathay United Bank,TW,mastercard,credit
-520495,00-99,Banco Santander Mexico,MX,mastercard,credit
+520482,00-99,MASTERCARD,US,mastercard,credit
+520484,00-99,MASTERCARD,US,mastercard,credit
+520486,00-99,MASTERCARD,NA,mastercard,debit
+520487,00-99,MASTERCARD,HK,mastercard,credit
+520491,00-99,CATHAY UNITED BANK,TW,mastercard,credit
+520495,00-99,BANCO SANTANDER MEXICO,MX,mastercard,credit
 520499,00-99,SCOTIABANK INVERLAT S.A.,MX,mastercard,credit
 520500,00-99,COMENITY BANK,US,mastercard,credit
-520501,00-99,Clydesdale Bank,GB,mastercard,credit
+520501,00-99,CLYDESDALE BANK,GB,mastercard,credit
 520502,00-99,EQUITY BANK,US,mastercard,credit
 520504,00-99,KB KOOKMIN CARD CO. LTD,KR,mastercard,debit
 520505,00-99,LINCOLN SAVINGS BANK,US,mastercard,credit
 520507,00-99,WELLS FARGO FINANCIAL CORPORATION CANADA,CA,mastercard,credit
 520508,00-99,WELLS FARGO FINANCIAL CORPORATION CANADA,CA,mastercard,credit
-520509,00-99,Capital One Bank,US,mastercard,credit
+520509,00-99,CAPITAL ONE BANK,US,mastercard,credit
 520510,00-99,ABA CARD SOLUTIONS INC.,US,mastercard,debit
 520511,00-99,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
 520512,00-99,FIRST COMMONWEALTH BANK,US,mastercard,debit
 520513,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 520514,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-520515,00-99,Capital One Bank,US,mastercard,credit
+520515,00-99,CAPITAL ONE BANK,US,mastercard,credit
 520516,00-99,BERKSHIRE BANK,US,mastercard,debit
 520517,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 520518,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
@@ -618,7 +618,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520667,00-99,WOORICARD CO. LTD,KR,mastercard,credit
 520668,00-99,CENTRAL-EUROPEAN INTERNATIONAL BANK (CIB BANK) RT.,HU,mastercard,credit
 520669,00-99,FINDOMESTIC BANCA S.P.A.,IT,mastercard,credit
-520670,00-99,Sberbank,RU,mastercard,credit
+520670,00-99,SBERBANK,RU,mastercard,credit
 520671,00-99,HERITAGE BANK INC.,US,mastercard,debit
 520672,00-99,ST. ANNES CREDIT UNION,US,mastercard,credit
 520673,00-99,EASYCASH GMBH,DE,mastercard,credit
@@ -664,11 +664,11 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520714,00-99,ABN AMRO BANK,DE,mastercard,credit
 520715,00-99,BBVA USA,US,mastercard,credit
 520716,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
-520717,00-99,Capital One Bank,US,mastercard,credit
+520717,00-99,CAPITAL ONE BANK,US,mastercard,credit
 520718,00-99,SANTANDER BANK POLSKA S.A.,PL,mastercard,credit
 520719,00-99,PRIMAX,US,mastercard,credit
 520720,00-99,ABN AMRO BANK N.V.,HK,mastercard,credit
-520721,00-99,Bank of China,CN,mastercard,credit
+520721,00-99,BANK OF CHINA,CN,mastercard,credit
 520723,00-99,ABN AMRO BANK N.V.,SG,mastercard,credit
 520724,00-99,STARLING BANK LTD.,IE,mastercard,debit
 520725,00-99,FIRST CITY MONUMENT BANK PLC,NG,mastercard,debit
@@ -687,7 +687,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520740,00-99,UNITED BANK FOR AFRICA PLC,KE,mastercard,debit
 520741,00-99,BLOM BANK SAL,JO,mastercard,debit
 520742,00-99,MASHREQ BANK,EG,mastercard,debit
-520743,00-99,Capital One Bank,US,mastercard,credit
+520743,00-99,CAPITAL ONE BANK,US,mastercard,credit
 520744,00-99,FINABANK NV,SR,mastercard,credit
 520745,00-99,FIBABANKA A.S.,TR,mastercard,debit
 520746,00-99,RBTT BANK LTD.,CW,mastercard,credit
@@ -712,7 +712,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 520767,00-99,HSBC BANK MIDDLE EAST,EG,mastercard,credit
 520768,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 520769,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-520770,00-99,Capital One Bank,US,mastercard,debit
+520770,00-99,CAPITAL ONE BANK,US,mastercard,debit
 520771,00-99,BLOM BANK S.A.L.,LB,mastercard,credit
 520772,00-99,CLEAR MOUNTAIN BANK,US,mastercard,debit
 520773,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
@@ -2537,7 +2537,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 522656,00-99,,US,mastercard,credit
 522658,00-99,PAYONEER EUROPE LTD.,IE,mastercard,debit
 522660,00-99,SVENSKA HANDELSBANKEN AB,SE,mastercard,debit
-522661,00-99,Handelsbanken,SE,mastercard,credit
+522661,00-99,HANDELSBANKEN,SE,mastercard,credit
 522662,00-99,SVENSKA HANDELSBANKEN AB,SE,mastercard,credit
 522663,00-99,SVENSKA HANDELSBANKEN AB,SE,mastercard,credit
 522664,00-99,SVENSKA HANDELSBANKEN AB,SE,mastercard,credit
@@ -6134,7 +6134,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 526331,00-99,JPMORGAN CHASE BANK N.A.,US,mastercard,credit
 526332,00-99,JPMORGAN CHASE BANK N.A.,US,mastercard,credit
 526333,00-99,BOKIS,DK,mastercard,credit
-526334,00-99,Sydbank,DK,mastercard,credit
+526334,00-99,SYDBANK,DK,mastercard,credit
 526335,00-99,JPMORGAN CHASE BANK N.A.,US,mastercard,credit
 526336,00-99,YES BANK LTD.,IN,mastercard,credit
 526337,00-99,JPMORGAN CHASE BANK N.A.,US,mastercard,credit
@@ -6734,7 +6734,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 526945,00-99,BMO BANK NATIONAL ASSOCIATION,US,mastercard,credit
 526946,00-99,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
 526947,00-99,BMO BANK NATIONAL ASSOCIATION,US,mastercard,credit
-526948,00-99,Nordea,NO,mastercard,credit
+526948,00-99,NORDEA,NO,mastercard,credit
 526949,00-99,EDENRED MEXICO S.A DE C.V,MX,mastercard,debit
 526950,00-99,PREPAY TECHNOLOGIES LTD.,GR,mastercard,debit
 526951,00-99,EDENRED MEXICO S.A DE C.V,MX,mastercard,credit
@@ -8659,7 +8659,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 528916,00-99,BLUE FEDERAL CREDIT UNION,US,mastercard,credit
 528917,00-99,SBI SUMISHIN NET BANK LTD.,JP,mastercard,debit
 528918,00-99,FIFTH THIRD BANK,US,mastercard,credit
-528919,00-99,CIMB Niaga,ID,mastercard,credit
+528919,00-99,CIMB NIAGA,ID,mastercard,credit
 528920,00-99,TURK EKONOMI BANKASI A.S.,TR,mastercard,credit
 528921,00-99,TRUSTMARK NATIONAL BANK,US,mastercard,credit
 528922,00-99,CAIRO AMMAN BANK PLC,PS,mastercard,credit

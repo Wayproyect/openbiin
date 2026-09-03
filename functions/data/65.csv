@@ -35,39 +35,39 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 650033,00-99,BANCO BRADESCO SA,BR,elo,debit
 650034,00-99,DISCOVER ISSUER,NG,discover,debit
 650035,00-99,CAIXA ECONOMICA FEDERAL,BR,elo,debit
-650036,00-99,Banco Bradesco,BR,elo,debit
-650037,00-99,Banco Bradesco,BR,elo,debit
+650036,00-99,BANCO BRADESCO,BR,elo,debit
+650037,00-99,BANCO BRADESCO,BR,elo,debit
 650038,00-99,BANCO BRADESCO SA,BR,elo,debit
-650039,00-99,Banco Bradesco,BR,elo,debit
+650039,00-99,BANCO BRADESCO,BR,elo,debit
 650040,00-99,BANCO BRADESCO SA,BR,elo,debit
-650041,00-99,Banco Bradesco,BR,elo,debit
+650041,00-99,BANCO BRADESCO,BR,elo,debit
 650042,00-99,BANCO BRADESCO SA,BR,elo,debit
-650043,00-99,Banco Bradesco,BR,elo,debit
-650044,00-99,Banco Bradesco,BR,elo,debit
-650045,00-99,Banco Bradesco,BR,elo,debit
+650043,00-99,BANCO BRADESCO,BR,elo,debit
+650044,00-99,BANCO BRADESCO,BR,elo,debit
+650045,00-99,BANCO BRADESCO,BR,elo,debit
 650046,00-99,BANESE CARD,BR,elo,debit
-650047,00-99,Banco Bradesco,BR,elo,debit
+650047,00-99,BANCO BRADESCO,BR,elo,debit
 650048,00-99,ISSUER ADMINSTRADORA DE CARTOES LTDA,BR,elo,credit
-650049,00-99,Banco Bradesco,BR,elo,credit
-650050,00-99,Banco Bradesco,BR,elo,credit
-650051,00-99,Banco Bradesco,BR,elo,credit
+650049,00-99,BANCO BRADESCO,BR,elo,credit
+650050,00-99,BANCO BRADESCO,BR,elo,credit
+650051,00-99,BANCO BRADESCO,BR,elo,credit
 650052,00-99,TURKIYE VAKIFLAR BANKASI T.A.O.,TR,troy,credit
 650053,00-99,MERCURY,AE,discover,debit
 650054,00-99,MERCURY,AE,discover,debit
 650055,00-99,MERCURY,AE,discover,debit
 650056,00-99,MERCURY,AE,discover,debit
-650057,00-99,Banco Bradesco,BR,elo,credit
+650057,00-99,BANCO BRADESCO,BR,elo,credit
 650058,00-99,PICPAY INSTITUI O DE PAGAMENTO SA,BR,elo,credit
 650059,00-99,PICPAY INSTITUI O DE PAGAMENTO SA,BR,elo,credit
-650060,00-99,Banco Bradesco,BR,elo,credit
-650061,00-99,Banco Bradesco,BR,elo,credit
-650062,00-99,Banco Bradesco,BR,elo,debit
-650063,00-99,Banco Bradesco,BR,elo,credit
-650064,00-99,Banco Bradesco,BR,elo,credit
-650065,00-99,Banco Bradesco,BR,elo,credit
-650066,00-99,Banco Bradesco,BR,elo,credit
+650060,00-99,BANCO BRADESCO,BR,elo,credit
+650061,00-99,BANCO BRADESCO,BR,elo,credit
+650062,00-99,BANCO BRADESCO,BR,elo,debit
+650063,00-99,BANCO BRADESCO,BR,elo,credit
+650064,00-99,BANCO BRADESCO,BR,elo,credit
+650065,00-99,BANCO BRADESCO,BR,elo,credit
+650066,00-99,BANCO BRADESCO,BR,elo,credit
 650067,00-99,PJ PAYMENT ACCOUNT,BR,elo,debit
-650068,00-99,Banco Bradesco,BR,elo,credit
+650068,00-99,BANCO BRADESCO,BR,elo,credit
 650069,00-99,BANCO BRADESCO SA,BR,elo,debit
 650070,00-99,BANCO BRADESCO SA,BR,elo,debit
 650071,00-99,BANCO BRADESCO SA,BR,elo,debit
@@ -7884,7 +7884,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 657882,00-99,,US,discover,debit
 657883,00-99,,US,discover,debit
 657884,00-99,,US,discover,debit
-657885,00-99,Bank Of America,US,discover,credit
+657885,00-99,BANK OF AMERICA,US,discover,credit
 657886,00-99,,US,discover,debit
 657887,00-99,,US,discover,debit
 657888,00-99,,US,discover,debit
@@ -8378,7 +8378,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 658376,00-99,,US,discover,credit
 658377,00-99,,US,discover,credit
 658378,00-99,,US,discover,credit
-658379,00-99,Bank Of America,US,discover,credit
+658379,00-99,BANK OF AMERICA,US,discover,credit
 658380,00-99,,US,discover,credit
 658381,00-99,,US,discover,credit
 658382,00-99,,US,discover,credit
@@ -9363,7 +9363,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 659361,00-99,,US,discover,credit
 659362,00-99,,US,discover,credit
 659363,00-99,,US,discover,credit
-659364,00-99,Bank Of America,US,discover,credit
+659364,00-99,BANK OF AMERICA,US,discover,credit
 659365,00-99,,US,discover,credit
 659366,00-99,,US,discover,credit
 659367,00-99,,US,discover,credit
@@ -9419,7 +9419,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 659417,00-99,,US,discover,credit
 659418,00-99,,US,discover,credit
 659419,00-99,,US,discover,credit
-659420,00-99,Bank Of America,US,discover,credit
+659420,00-99,BANK OF AMERICA,US,discover,credit
 659421,00-99,,US,discover,credit
 659422,00-99,,US,discover,credit
 659423,00-99,,US,discover,credit

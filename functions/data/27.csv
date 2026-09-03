@@ -1,24 +1,24 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-270000,00-99,Mastercard,BR,mastercard,debit
-270002,00-99,Mastercard,BR,mastercard,debit
-270005,00-99,Mastercard,BR,mastercard,debit
-270006,00-99,Mastercard,BR,mastercard,debit
-270008,00-99,Mastercard,BR,mastercard,debit
-270010,00-99,Mastercard,BR,mastercard,debit
-270011,00-99,Mastercard,BR,mastercard,debit
-270012,00-99,Mastercard,BR,mastercard,debit
-270013,00-99,Mastercard,BR,mastercard,debit
-270014,00-99,Mastercard,BR,mastercard,debit
-270015,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270016,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270017,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270018,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270019,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270020,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270021,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270022,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270023,00-99,Banco Bradesco Sa,BR,mastercard,debit
-270024,00-99,Banco Bradesco Sa,BR,mastercard,debit
+270000,00-99,MASTERCARD,BR,mastercard,debit
+270002,00-99,MASTERCARD,BR,mastercard,debit
+270005,00-99,MASTERCARD,BR,mastercard,debit
+270006,00-99,MASTERCARD,BR,mastercard,debit
+270008,00-99,MASTERCARD,BR,mastercard,debit
+270010,00-99,MASTERCARD,BR,mastercard,debit
+270011,00-99,MASTERCARD,BR,mastercard,debit
+270012,00-99,MASTERCARD,BR,mastercard,debit
+270013,00-99,MASTERCARD,BR,mastercard,debit
+270014,00-99,MASTERCARD,BR,mastercard,debit
+270015,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270016,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270017,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270018,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270019,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270020,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270021,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270022,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270023,00-99,BANCO BRADESCO SA,BR,mastercard,debit
+270024,00-99,BANCO BRADESCO SA,BR,mastercard,debit
 270025,00-99,,,mastercard,debit
 270026,00-99,,,mastercard,debit
 270027,00-99,,,mastercard,debit
@@ -1938,7 +1938,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 271950,00-99,,,mastercard,debit
 271951,00-99,,,mastercard,debit
 271952,00-99,,,mastercard,debit
-271953,00-99,Nubank,BR,mastercard,debit
+271953,00-99,NUBANK,BR,mastercard,debit
 271954,00-99,,,mastercard,debit
 271955,00-99,,,mastercard,debit
 271956,00-99,,,mastercard,debit

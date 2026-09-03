@@ -1,46 +1,46 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-580000,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580000,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580001,00-99,MAESTRO INTERNATIONAL,GB,maestro,debit
 580002,00-99,MAESTRO INTERNATIONAL,IT,maestro,debit
-580003,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580003,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580004,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580007,00-99,Jpmorgan Chase Bank,US,maestro,debit
-580008,00-99,Jpmorgan Chase Bank,US,maestro,debit
-580009,00-99,Jpmorgan Chase Bank,US,maestro,debit
-580010,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580007,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580008,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580009,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580010,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580012,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580015,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580015,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580016,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
-580019,00-99,Maduro And Curiels Bank,CW,maestro,debit
-580021,00-99,Jpmorgan Chase Bank,US,maestro,debit
-580022,00-99,Jpmorgan Chase Bank,US,maestro,debit
+580019,00-99,MADURO AND CURIELS BANK,CW,maestro,debit
+580021,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580022,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580023,00-99,MAESTRO INTERNATIONAL,AT,maestro,debit
-580025,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580025,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
 580028,00-99,MAESTRO INTERNATIONAL,CN,maestro,debit
-580030,00-99,Bank Hapoalim,IL,maestro,debit
-580031,00-99,Bank Hapoalim,IL,maestro,debit
-580033,00-99,Jpmorgan Chase Bank,US,mastercard,debit
+580030,00-99,BANK HAPOALIM,IL,maestro,debit
+580031,00-99,BANK HAPOALIM,IL,maestro,debit
+580033,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
 580034,00-99,MAESTRO INTERNATIONAL,FR,maestro,debit
-580038,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580039,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580040,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580042,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580043,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580046,00-99,Jpmorgan Chase Bank,US,mastercard,debit
-580048,00-99,JPMorgan Chase Bank,US,maestro,debit
-580049,00-99,JPMorgan Chase Bank,US,maestro,debit
+580038,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580039,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580040,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580042,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580043,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580046,00-99,JPMORGAN CHASE BANK,US,mastercard,debit
+580048,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580049,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580051,00-99,CITIZENS BANK N.A.,US,maestro,debit
-580054,00-99,JPMorgan Chase Bank,US,maestro,debit
-580056,00-99,JPMorgan Chase Bank,US,maestro,debit
-580057,00-99,JPMorgan Chase Bank,US,maestro,debit
+580054,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580056,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580057,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580059,00-99,CITIZENS BANK N.A.,US,maestro,debit
-580060,00-99,JPMorgan Chase Bank,US,maestro,debit
+580060,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580063,00-99,MAESTRO INTERNATIONAL,BR,maestro,debit
-580065,00-99,JPMorgan Chase Bank,US,maestro,debit
+580065,00-99,JPMORGAN CHASE BANK,US,maestro,debit
 580070,00-99,MAESTRO INTERNATIONAL,US,ebt,debit
-580071,00-99,JPMorgan Chase Bank,US,maestro,debit
-580072,00-99,JPMorgan Chase Bank,US,maestro,debit
-580073,00-99,National Australia Bank,AU,maestro,debit
+580071,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580072,00-99,JPMORGAN CHASE BANK,US,maestro,debit
+580073,00-99,NATIONAL AUSTRALIA BANK,AU,maestro,debit
 580075,00-99,U.S. BANK N.A.,US,cirrus,debit
 580076,00-99,U.S. BANK N.A.,US,ebt,debit
 580080,00-99,,US,cirrus,debit

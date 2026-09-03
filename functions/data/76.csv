@@ -100,36 +100,36 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 760698,00-99,MBNA CANADACONSUMER FINANCE,CA,private label,debit
 760699,00-99,MBNA CANADACONSUMER FINANCE,CA,private label,debit
 761127,00-99,AEON ETC CARD,JP,local brand,debit
-761960,00-99,Jsc Tinkoff Bank,RU,mastercard,debit
-762063,00-99,Synchrony Bank,US,mastercard,credit
-762090,00-99,Synchrony Bank,US,mastercard,credit
-762194,00-99,Synchrony Bank,US,mastercard,credit
-762211,00-99,Synchrony Bank,US,mastercard,credit
-762212,00-99,Synchrony Bank,US,mastercard,credit
-762213,00-99,Synchrony Bank,US,mastercard,credit
-762227,00-99,Synchrony Bank,US,mastercard,credit
-762233,00-99,Synchrony Bank,US,mastercard,credit
-762250,00-99,Synchrony Bank,US,mastercard,credit
-762264,00-99,Synchrony Bank,US,private label,credit
-762294,00-99,Synchrony Bank,US,private label,credit
-762308,00-99,Synchrony Bank,US,private label,credit
-762377,00-99,Synchrony Bank,US,private label,credit
-762384,00-99,Synchrony Bank,US,private label,credit
-762388,00-99,Synchrony Bank,US,private label,credit
-762394,00-99,Synchrony Bank,US,private label,credit
-762405,00-99,Synchrony Bank,US,private label,credit
-762406,00-99,Synchrony Bank,US,private label,credit
-762407,00-99,Synchrony Bank,US,private label,credit
-762408,00-99,Synchrony Bank,US,private label,credit
-762415,00-99,Synchrony Bank,US,private label,credit
-762450,00-99,Synchrony Bank,US,private label,credit
-762476,00-99,Synchrony Bank,US,private label,credit
-762498,00-99,Synchrony Bank,US,private label,credit
-762500,00-99,Synchrony Bank,US,private label,credit
-762525,00-99,Synchrony Bank,US,private label,credit
-762584,00-99,Synchrony Bank,US,private label,credit
-762603,00-99,Synchrony Bank,US,private label,credit
-762631,00-99,Synchrony Bank,US,private label,credit
+761960,00-99,JSC TINKOFF BANK,RU,mastercard,debit
+762063,00-99,SYNCHRONY BANK,US,mastercard,credit
+762090,00-99,SYNCHRONY BANK,US,mastercard,credit
+762194,00-99,SYNCHRONY BANK,US,mastercard,credit
+762211,00-99,SYNCHRONY BANK,US,mastercard,credit
+762212,00-99,SYNCHRONY BANK,US,mastercard,credit
+762213,00-99,SYNCHRONY BANK,US,mastercard,credit
+762227,00-99,SYNCHRONY BANK,US,mastercard,credit
+762233,00-99,SYNCHRONY BANK,US,mastercard,credit
+762250,00-99,SYNCHRONY BANK,US,mastercard,credit
+762264,00-99,SYNCHRONY BANK,US,private label,credit
+762294,00-99,SYNCHRONY BANK,US,private label,credit
+762308,00-99,SYNCHRONY BANK,US,private label,credit
+762377,00-99,SYNCHRONY BANK,US,private label,credit
+762384,00-99,SYNCHRONY BANK,US,private label,credit
+762388,00-99,SYNCHRONY BANK,US,private label,credit
+762394,00-99,SYNCHRONY BANK,US,private label,credit
+762405,00-99,SYNCHRONY BANK,US,private label,credit
+762406,00-99,SYNCHRONY BANK,US,private label,credit
+762407,00-99,SYNCHRONY BANK,US,private label,credit
+762408,00-99,SYNCHRONY BANK,US,private label,credit
+762415,00-99,SYNCHRONY BANK,US,private label,credit
+762450,00-99,SYNCHRONY BANK,US,private label,credit
+762476,00-99,SYNCHRONY BANK,US,private label,credit
+762498,00-99,SYNCHRONY BANK,US,private label,credit
+762500,00-99,SYNCHRONY BANK,US,private label,credit
+762525,00-99,SYNCHRONY BANK,US,private label,credit
+762584,00-99,SYNCHRONY BANK,US,private label,credit
+762603,00-99,SYNCHRONY BANK,US,private label,credit
+762631,00-99,SYNCHRONY BANK,US,private label,credit
 762640,00-99,,US,private label,debit
 762806,00-99,VOLKSBANK NIEDERGRAFSCHAFT EG,DE,vpay,debit
 762807,00-99,,US,private label,debit

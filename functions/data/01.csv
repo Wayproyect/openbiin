@@ -1,19 +1,19 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-010051,00-99,Banca Nazionale Del Lavoro,IT,pagobancomat,debit
-010053,00-99,Banca Nazionale Del Lavoro,IT,pagobancomat,debit
-010108,00-99,Banca Monte Dei Paschi Di Siena,IT,pagobancomat,debit
-010150,00-99,Banca Popolare Di Sondrio,IT,pagobancomat,debit
-010258,00-99,Banca Sella,IT,pagobancomat,debit
-010300,00-99,Intesa Sanpaolo,IT,pagobancomat,debit
-010309,00-99,Banca Intesa Sanpaolo,IT,pagobancomat,debit
-011300,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011301,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011302,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011303,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011304,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011305,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011306,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011308,00-99,Bdo Unibank Inc,PH,bancnet,debit
-011309,00-99,Bdo Unibank Inc,PH,bancnet,debit
-012004,00-99,Tbi Bank,BG,visa,debit
-012047,00-99,Banco De Credito Argentino,AR,banelco,debit
+010051,00-99,BANCA NAZIONALE DEL LAVORO,IT,pagobancomat,debit
+010053,00-99,BANCA NAZIONALE DEL LAVORO,IT,pagobancomat,debit
+010108,00-99,BANCA MONTE DEI PASCHI DI SIENA,IT,pagobancomat,debit
+010150,00-99,BANCA POPOLARE DI SONDRIO,IT,pagobancomat,debit
+010258,00-99,BANCA SELLA,IT,pagobancomat,debit
+010300,00-99,INTESA SANPAOLO,IT,pagobancomat,debit
+010309,00-99,BANCA INTESA SANPAOLO,IT,pagobancomat,debit
+011300,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011301,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011302,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011303,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011304,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011305,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011306,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011308,00-99,BDO UNIBANK INC,PH,bancnet,debit
+011309,00-99,BDO UNIBANK INC,PH,bancnet,debit
+012004,00-99,TBI BANK,BG,visa,debit
+012047,00-99,BANCO DE CREDITO ARGENTINO,AR,banelco,debit

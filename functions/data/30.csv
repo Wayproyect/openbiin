@@ -1,24 +1,24 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-300001,00-99,Diners Club Hungary,HU,diners club international,credit
-300002,00-99,Diners Club Australia,AU,diners club international,credit
-300003,00-99,Diners Club International,US,diners club international,credit
-300004,00-99,Diners Club International,US,diners club international,credit
-300005,00-99,Diners Club International,US,diners club international,credit
-300006,00-99,Diners Club United Kingdom,GB,diners club international,credit
-300007,00-99,Diners Club International,US,diners club international,credit
-300008,00-99,Diners Club International,US,diners club international,credit
-300009,00-99,Diners Club International,US,diners club international,credit
-300010,00-99,Diners Club Spain,ES,diners club international,credit
-300011,00-99,Diners Club International,TN,diners club,credit
-300012,00-99,Diners Club International,US,diners club,credit
-300013,00-99,Diners Club International,US,diners club,credit
-300014,00-99,Diners Club International,US,diners club,credit
-300015,00-99,Diners Club International,US,diners club,credit
-300016,00-99,Diners Club International,US,diners club,credit
-300017,00-99,Diners Club International,US,diners club,credit
-300018,00-99,Diners Club International,US,diners club,credit
-300019,00-99,Diners Club International,US,diners club,credit
-300020,00-99,Diners Club International,US,diners club,credit
+300001,00-99,DINERS CLUB HUNGARY,HU,diners club international,credit
+300002,00-99,DINERS CLUB AUSTRALIA,AU,diners club international,credit
+300003,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300004,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300005,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300006,00-99,DINERS CLUB UNITED KINGDOM,GB,diners club international,credit
+300007,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300008,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300009,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
+300010,00-99,DINERS CLUB SPAIN,ES,diners club international,credit
+300011,00-99,DINERS CLUB INTERNATIONAL,TN,diners club,credit
+300012,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300013,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300014,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300015,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300016,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300017,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300018,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300019,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
+300020,00-99,DINERS CLUB INTERNATIONAL,US,diners club,credit
 300021,00-99,,BR,diners club international,credit
 300022,00-99,,US,diners club international,credit
 300023,00-99,,US,diners club international,credit
@@ -333,7 +333,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 300332,00-99,,US,diners club international,credit
 300333,00-99,,US,diners club international,credit
 300334,00-99,,US,diners club international,credit
-300335,00-99,Diners Club International,US,discover,credit
+300335,00-99,DINERS CLUB INTERNATIONAL,US,discover,credit
 300336,00-99,,MY,diners club international,credit
 300337,00-99,,CR,diners club international,credit
 300338,00-99,,US,diners club international,credit
@@ -704,7 +704,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 300703,00-99,,US,diners club international,credit
 300704,00-99,,US,diners club international,credit
 300705,00-99,,US,diners club international,credit
-300706,00-99,Diners Club International,US,discover,credit
+300706,00-99,DINERS CLUB INTERNATIONAL,US,discover,credit
 300707,00-99,,US,diners club international,credit
 300708,00-99,,US,diners club international,credit
 300709,00-99,,US,diners club international,credit
@@ -1017,7 +1017,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 301016,00-99,,US,diners club international,credit
 301017,00-99,,US,diners club international,credit
 301018,00-99,,RU,diners club international,credit
-301019,00-99,Diners Club International,US,diners club international,credit
+301019,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
 301020,00-99,,US,diners club international,credit
 301021,00-99,,US,diners club international,credit
 301022,00-99,,US,diners club international,credit
@@ -1140,7 +1140,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 301139,00-99,,US,diners club international,credit
 301140,00-99,,US,diners club international,credit
 301141,00-99,,US,diners club international,credit
-301142,00-99,Diners Club International,US,diners club international,credit
+301142,00-99,DINERS CLUB INTERNATIONAL,US,diners club international,credit
 301143,00-99,,US,diners club international,credit
 301144,00-99,,US,diners club international,credit
 301145,00-99,,US,diners club international,credit
@@ -4039,7 +4039,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 304038,00-99,,US,diners club international,credit
 304039,00-99,,US,diners club international,credit
 304040,00-99,,US,diners club international,credit
-304041,00-99,Diners Club International,US,discover,credit
+304041,00-99,DINERS CLUB INTERNATIONAL,US,discover,credit
 304042,00-99,,US,diners club international,credit
 304043,00-99,,US,diners club international,credit
 304044,00-99,,US,diners club international,credit
@@ -5827,7 +5827,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 305826,00-99,,US,diners club international,credit
 305827,00-99,,US,diners club international,credit
 305828,00-99,,US,diners club international,credit
-305829,00-99,Diners Club International,US,discover,credit
+305829,00-99,DINERS CLUB INTERNATIONAL,US,discover,credit
 305830,00-99,,US,diners club international,credit
 305831,00-99,,US,diners club international,credit
 305832,00-99,,US,diners club international,credit
