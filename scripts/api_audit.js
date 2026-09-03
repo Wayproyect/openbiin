@@ -18,16 +18,6 @@ if (!BIN_API_HOST || !BIN_API_KEY) {
   process.exit(1);
 }
 
-// Ensure titles are nicely formatted
-function toTitleCase(str) {
-  return str.replace(
-    /\w\S*/g,
-    function(txt) {
-      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-    }
-  );
-}
-
 // Fetch helper with API KEY
 async function fetchApi(endpoint, options = {}) {
   const url = `${BIN_API_HOST}${endpoint}`;
@@ -111,9 +101,9 @@ function formatCSVLine(row) {
   
   // Apply rules
   if (issuer) {
-    issuer = toTitleCase(issuer.replace(/,/g, ''));
+    issuer = issuer.replace(/,/g, '').toUpperCase();
   } else {
-    issuer = 'Unknown';
+    issuer = 'UNKNOWN';
   }
   
   brand = (brand || 'Unknown').toLowerCase();

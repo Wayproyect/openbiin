@@ -36,6 +36,7 @@ jobs:
           git add functions/data/*.csv audit.md
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore(data): automated bin data audit via internal API"
+            git pull --rebase --strategy-option=theirs origin main
             git push
           else
             echo "No changes to commit"
