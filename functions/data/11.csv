@@ -754,7 +754,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 110753,00-99,BOSE - TDFS,CA,private label,debit
 110754,00-99,BOSE - TDFS,CA,private label,debit
 110755,00-99,BOSE - TDFS,CA,private label,debit
-110756,00-99,BOSE - TDFS,CA,private label,debit
+110756,00-99,BOSE - TDFS,CA,uatp,debit
 110757,00-99,BOSE - TDFS,CA,private label,debit
 110758,00-99,BOSE - TDFS,CA,private label,debit
 110759,00-99,BOSE - TDFS,CA,private label,debit
@@ -822,7 +822,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 110821,00-99,BOSE - TDFS,CA,private label,debit
 110822,00-99,BOSE - TDFS,CA,private label,debit
 110823,00-99,BOSE - TDFS,CA,private label,debit
-110824,00-99,BOSE - TDFS,CA,private label,debit
+110824,00-99,BOSE - TDFS,CA,uatp,debit
 110825,00-99,BOSE - TDFS,CA,private label,debit
 110826,00-99,BOSE - TDFS,CA,private label,debit
 110827,00-99,BOSE - TDFS,CA,private label,debit
