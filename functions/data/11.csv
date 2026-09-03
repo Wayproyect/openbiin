@@ -998,9 +998,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 110997,00-99,BOSE - TDFS,CA,private label,debit
 110998,00-99,BOSE - TDFS,CA,private label,debit
 110999,00-99,BOSE - TDFS,CA,private label,debit
-111102,00-99,,US,private label,debit
-111103,00-99,,US,private label,debit
-111111,00-99,CENTRAL BANK OF INDIA,IN,local brand,debit
+111102,00-99,UNKNOWN,US,private label,debit
+111103,00-99,UNKNOWN,US,private label,debit
+111111,00-99,CENTRAL BANK OF INDIA,IN,uatp,debit
 111200,00-99,PAYPAL,GB,uatp,credit
 111201,00-99,PAYPAL,GB,uatp,credit
 111202,00-99,PAYPAL,GB,uatp,credit
@@ -1032,7 +1032,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 111228,00-99,PAYPAL,GB,uatp,credit
 111229,00-99,PAYPAL,GB,uatp,credit
 111230,00-99,PAYPAL,GB,uatp,credit
-111231,00-99,PAYPAL,GB,uatp,credit
+111231,00-99,PAYPAL,US,uatp,debit
 111232,00-99,PAYPAL,GB,uatp,credit
 111233,00-99,PAYPAL,GB,uatp,credit
 111234,00-99,PAYPAL,GB,uatp,credit
@@ -1101,7 +1101,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 111297,00-99,PAYPAL,GB,uatp,credit
 111298,00-99,PAYPAL,GB,uatp,credit
 111299,00-99,PAYPAL,GB,uatp,credit
-111301,00-99,,US,private label,debit
+111301,00-99,UNKNOWN,US,private label,debit
 111400,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
 111401,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
 111402,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
@@ -1202,7 +1202,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 111497,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
 111498,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
 111499,00-99,EL AL ISRAELI AIRLINES (LY),IL,uatp,credit
-111904,00-99,,US,private label,debit
+111904,00-99,UNKNOWN,US,private label,debit
 112001,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112002,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112003,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
@@ -1447,7 +1447,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 112242,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112243,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112244,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
-112245,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
+112245,00-99,CHARM DIAMOND CENTRES - TDFS,CA,uatp,debit
 112246,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112247,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112248,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
@@ -1514,7 +1514,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 112309,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112310,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112311,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
-112312,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
+112312,00-99,CHARM DIAMOND CENTRES - TDFS,CA,uatp,debit
 112313,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112314,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112315,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
@@ -1902,7 +1902,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 112697,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112698,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
 112699,00-99,CHARM DIAMOND CENTRES - TDFS,CA,private label,debit
-112700,00-99,GOL LINHAS AEREAS INTELIGENTES (G3),BR,uatp,credit
+112700,00-99,GOL LINHAS AEREAS,BR,uatp,debit
 112701,00-99,GOL LINHAS AEREAS INTELIGENTES (G3),BR,uatp,credit
 112702,00-99,GOL LINHAS AEREAS INTELIGENTES (G3),BR,uatp,credit
 112703,00-99,GOL LINHAS AEREAS INTELIGENTES (G3),BR,uatp,credit
