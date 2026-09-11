@@ -9097,753 +9097,753 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 499094,00-99,NATIXIS,FR,visa,credit
 499095,00-26,STE BANQUE ET D'EXPA,FR,cartes bancaires,debit
 499096,00-26,STE BANQUE ET D'EXPA,FR,cartes bancaires,debit
-499097,00-99,BPCE,FR,visa,credit
-499098,00-99,BPCE,FR,visa,debit
-499099,00-99,BPCE,FR,visa,debit
+499097,00-26,STE BANQUE ET D'EXPA,FR,cartes bancaires,debit
+499098,00-26,STE BANQUE ET D'EXPA,FR,cartes bancaires,debit
+499099,00-26,STE BANQUE ET D'EXPA,FR,cartes bancaires,debit
 499100,00-99,APPLE FEDERAL CREDIT UNION,US,visa,credit
-499101,00-99,,KM,visa,credit
+499101,00-99,UNKNOWN,KM,visa,credit
 499102,00-99,SBM BANK (INDIA) LTD.,IN,visa,debit
 499103,00-99,APPLE FEDERAL CREDIT UNION,US,visa,debit
-499104,00-99,GLACIER BANK,US,visa,credit
+499104,00,GLACIER BANK,US,visa,credit
 499105,00-99,NEIGHBORS CREDIT UNION,US,visa,credit
-499106,00-99,PARTNER COLORADO CREDIT UNION,US,visa,debit
+499106,00-09,PARTNER COLORADO CREDIT UNION,US,visa,debit
 499107,00-99,1ST ADVANTAGE FEDERAL CREDIT UNION,US,visa,credit
 499108,00-99,NEXTMARK FEDERAL CREDIT UNION,US,visa,debit
-499109,00-99,DAY AIR CREDIT UNION INC.,US,visa,credit
+499109,00,DAY AIR CREDIT UNION INC.,US,visa,credit
 499110,00-99,BLAZE CREDIT UNION,US,visa,credit
 499111,00-99,NORTHERN STAR CREDIT UNION INCORPORATED,US,visa,debit
 499112,00-99,MIDWEST COMMUNITY FEDERAL CREDIT UNION,US,visa,credit
 499113,00-99,PFCU,US,visa,credit
-499114,00-99,MIDWEST COMMUNITY FEDERAL CREDIT UNION,US,visa,debit
+499114,00,MIDWEST COMMUNITY FEDERAL CREDIT UNION,US,visa,debit
 499115,00-99,HAWAII STATE FEDERAL CREDIT UNION,US,visa,credit
 499116,00-99,ORABANK COTE D'IVOIRE,BF,visa,debit
 499117,00-99,APPLE FEDERAL CREDIT UNION,US,visa,credit
-499118,00-99,EXCITE CREDIT UNION,US,visa,credit
-499119,00-99,GREEN DOT BANK DBA BONNEVILLE BANK,US,visa,debit
+499118,00,EXCITE CREDIT UNION,US,visa,credit
+499119,00-01,GREEN DOT BANK DBA BONNEVILLE BANK,US,visa,debit
 499120,00-99,PAYMENT SYSTEMS FOR CREDIT UNIONS INC.,US,visa,debit
-499121,00-99,WSSC FEDERAL CREDIT UNION,US,visa,credit
+499121,00,PSCU INCORPORATED,US,visa,credit
 499122,00-99,DUPONT COMMUNITY CREDIT UNION,US,visa,debit
-499123,00-99,U.T. FEDERAL CREDIT UNION,US,visa,credit
+499123,00,U.T. FEDERAL CREDIT UNION,US,visa,credit
 499124,00-99,COMMUNITY FIRST CREDIT UNION,US,visa,credit
-499125,00-99,STATE EMPLOYEES' CREDIT UNION,US,visa,debit
-499126,00-99,GLACIER BANK,US,visa,credit
+499125,00-99,STATE EMPLOYEES' CREDIT UNION,US,visa,prepaid
+499126,00,GLACIER BANK,US,visa,credit
 499127,00-99,DUPONT COMMUNITY CREDIT UNION,US,visa,credit
 499128,00-99,CITIZENS EQUITY FIRST CREDIT UNION,US,visa,credit
-499129,00-99,TEANECK FEDERAL CREDIT UNION,US,visa,debit
-499130,00-99,MAPLE FEDERAL CREDIT UNION,US,visa,debit
+499129,00,TEANECK FEDERAL CREDIT UNION,US,visa,debit
+499130,00-01,MAPLE FEDERAL CREDIT UNION,US,visa,debit
 499131,00-99,CITIZENS EQUITY FIRST CREDIT UNION,US,visa,credit
 499132,00-99,CINFED FEDERAL CREDIT UNION,US,visa,credit
 499133,00-99,CITIZENS EQUITY FIRST CREDIT UNION,US,visa,credit
-499134,00-99,WINGS FINANCIAL CREDIT UNION,US,visa,credit
+499134,00-24,WINGS FINANCIAL CREDIT UNION,US,visa,credit
 499135,00-99,CITIZENS EQUITY FIRST CREDIT UNION,US,visa,credit
-499136,00-99,NATIONAL POLICE FEDERAL CREDIT UNION,US,visa,credit
+499136,00,NATIONAL POLICE FEDERAL CREDIT UNION,US,visa,credit
 499137,00-99,MCCOY FEDERAL CREDIT UNION,US,visa,debit
 499138,00-99,WESCOM CREDIT UNION,US,visa,credit
 499139,00-99,CENTURY FEDERAL CREDIT UNION,US,visa,credit
-499140,00-99,FAIRWINDS CREDIT UNION,US,visa,debit
-499141,00-99,ALIGN CREDIT UNION,US,visa,debit
-499142,00-99,FIRST COMMUNITY BANK OF HILLSBORO,US,visa,debit
-499143,00-99,ALIGN CREDIT UNION,US,visa,credit
-499144,00-99,GLACIER BANK,US,visa,credit
-499145,00-99,ALIGN CREDIT UNION,US,visa,debit
-499146,00-99,NUMARK CREDIT UNION,US,visa,debit
-499147,00-99,GLACIER BANK,US,visa,credit
-499148,00-99,TRUSTONE FINANCIAL CREDIT UNION,US,visa,debit
+499140,00-04,FAIRWINDS CREDIT UNION,US,visa,debit
+499141,00,ALIGN CREDIT UNION,US,visa,debit
+499142,00,FIRST COMMUNITY BANK OF HILLSBORO,US,visa,debit
+499143,00,ALIGN CREDIT UNION,US,visa,credit
+499144,00,GLACIER BANK,US,visa,credit
+499145,00-01,ALIGN CREDIT UNION,US,visa,debit
+499146,00,NUMARK CREDIT UNION,US,visa,debit
+499147,00,GLACIER BANK,US,visa,credit
+499148,00,TRUSTONE FINANCIAL CREDIT UNION,US,visa,debit
 499149,00-99,ORABANK COTE D'IVOIRE,SN,visa,debit
-499150,00-99,Y-12 FEDERAL CREDIT UNION,US,visa,debit
-499151,00-99,CROSS RIVER BANK,US,visa,debit
-499152,00-99,LAKE MICHIGAN CREDIT UNION,US,visa,credit
-499153,00-99,ATLANTA POSTAL CREDIT UNION,US,visa,debit
+499150,00-01,PSCU INCORPORATED,US,visa,prepaid
+499151,00,CROSS RIVER BANK,US,visa,debit
+499152,00-29,LAKE MICHIGAN CREDIT UNION,US,visa,credit
+499153,00,CENTER PARC CREDIT UNION,US,visa,debit
 499154,00-99,JEFFERSON CREDIT UNION,US,visa,credit
 499155,00-99,PSCU INCORPORATED,US,visa,credit
-499156,00-99,TOPLINE FINANCIAL CREDIT UNION,US,visa,debit
-499157,00-99,CHEROKEE STRIP CREDIT UNION,US,visa,debit
-499158,00-99,PEOPLES CHOICE CREDIT UNION,US,visa,debit
+499156,00,TOPLINE FINANCIAL CREDIT UNION,US,visa,debit
+499157,00,CHEROKEE STRIP CREDIT UNION,US,visa,debit
+499158,00-01,PEOPLES CHOICE CREDIT UNION,US,visa,debit
 499159,00-99,S.C. STATE FEDERAL CREDIT UNION,US,visa,credit
 499160,00-99,MCCOY FEDERAL CREDIT UNION,US,visa,credit
 499161,00-99,ONPOINT COMMUNITY CREDIT UNION,US,visa,credit
 499162,00-99,AMERICU CREDIT UNION,US,visa,debit
 499163,00-99,COUNTY EDUCATORS FEDERAL CREDIT UNION,US,visa,credit
-499164,00-99,ORNL FEDERAL CREDIT UNION,US,visa,credit
+499164,00,ORNL FEDERAL CREDIT UNION,US,visa,credit
 499165,00-99,FAIRWINDS CREDIT UNION,US,visa,debit
 499166,00-99,ORNL FEDERAL CREDIT UNION,US,visa,credit
-499167,00-99,ECM FEDERAL CREDIT UNION,US,visa,debit
+499167,00,ECM FEDERAL CREDIT UNION,US,visa,debit
 499168,00-99,CAMPUS USA CREDIT UNION,US,visa,credit
 499169,00-99,AEROSPACE FEDERAL CREDIT UNION,US,visa,credit
-499170,00-99,ARSENAL CREDIT UNION,US,visa,debit
-499171,00-99,FINANCIAL CENTER FIRST CREDIT UNION,US,visa,credit
+499170,00,ARSENAL CREDIT UNION,US,visa,debit
+499171,00-02,FINANCIAL CENTER FIRST CREDIT UNION,US,visa,credit
 499172,00-99,ADDITION FINANCIAL CREDIT UNION,US,visa,debit
 499173,00-99,APPLE FEDERAL CREDIT UNION,US,visa,credit
 499174,00-99,TOGETHER CREDIT UNION,US,visa,credit
 499175,00-99,SPIRE CREDIT UNION,US,visa,credit
-499176,00-99,GLACIER BANK,US,visa,credit
+499176,00,GLACIER BANK,US,visa,credit
 499177,00-99,SPIRE CREDIT UNION,US,visa,credit
-499178,00-99,GLACIER BANK,US,visa,credit
+499178,00,GLACIER BANK,US,visa,credit
 499179,00-99,VYSTAR CREDIT UNION,US,visa,debit
 499180,00-99,OTERO FEDERAL CREDIT UNION,US,visa,credit
-499181,00-99,MEMBER ONE FEDERAL CREDIT UNION,US,visa,debit
+499181,00,VIRGINIA FEDERAL CREDIT UNION,US,visa,debit
 499182,00-99,DFCU FINANCIAL,US,visa,credit
-499183,00-99,ASHLAND CREDIT UNION,US,visa,debit
-499184,00-99,FIVE STAR CREDIT UNION,US,visa,credit
-499185,00-99,GLACIER BANK,US,visa,credit
+499183,00,ASHLAND CREDIT UNION,US,visa,debit
+499184,00,FIVE STAR CREDIT UNION,US,visa,credit
+499185,00,GLACIER BANK,US,visa,credit
 499186,00-99,FIVE STAR CREDIT UNION,US,visa,credit
-499187,00-99,GLACIER BANK,US,visa,credit
-499188,00-99,COASTAL COMMUNITY BANK,US,visa,debit
-499189,00-99,GLACIER BANK,US,visa,credit
-499190,00-99,MERIDIAN CREDIT UNION,US,visa,debit
+499187,00,GLACIER BANK,US,visa,credit
+499188,00-01,COASTAL COMMUNITY BANK,US,visa,debit
+499189,00,GLACIER BANK,US,visa,credit
+499190,00-01,MERIDIAN CREDIT UNION,US,visa,debit
 499191,00-99,EAGLE ONE FEDERAL CREDIT UNION,US,visa,credit
-499192,00-99,JUSTICE FEDERAL CREDIT UNION,US,visa,debit
+499192,00,JUSTICE FEDERAL CREDIT UNION,US,visa,debit
 499193,00-99,VIRGINIA CREDIT UNION,US,visa,credit
 499194,00-99,ORABANK COTE D'IVOIRE,SN,visa,debit
-499195,00-99,WESTCONSIN CREDIT UNION,US,visa,debit
+499195,00,PSCU INCORPORATED,US,visa,prepaid
 499196,00-99,EVOLVE BANK & TRUST,US,visa,debit
-499197,00-99,THE BANK OF MARION,US,visa,debit
+499197,00,THE BANK OF MARION,US,visa,prepaid
 499198,00-99,ORABANK COTE D'IVOIRE,SN,visa,debit
 499199,00-99,PAYMENT SYSTEMS FOR CREDIT UNIONS INC.,US,visa,credit
-499200,00-99,INDUSIND BANK LTD.,IN,visa,credit
-499201,00-99,,US,visa,credit
-499202,00-99,,US,visa,credit
-499203,00-99,,US,visa,credit
-499204,00-99,,US,visa,credit
-499205,00-99,,US,visa,credit
-499206,00-99,,US,visa,credit
-499207,00-99,,US,visa,credit
-499208,00-99,,US,visa,credit
-499209,00-99,,US,visa,credit
-499210,00-99,,US,visa,credit
-499211,00-99,,US,visa,credit
-499212,00-99,,US,visa,credit
-499213,00-99,,US,visa,credit
-499214,00-99,,US,visa,credit
-499215,00-99,,US,visa,credit
-499216,00-99,,US,visa,credit
-499217,00-99,,US,visa,credit
-499218,00-99,,GB,visa,credit
-499219,00-99,,US,visa,credit
-499220,00-99,,US,visa,credit
-499221,00-99,,US,visa,credit
-499222,00-99,,GB,visa,credit
-499223,00-99,,GB,visa,credit
-499224,00-99,,US,visa,credit
-499225,00-99,,US,visa,credit
-499226,00-99,,US,visa,credit
-499227,00-99,,US,visa,credit
-499228,00-99,,US,visa,credit
-499229,00-99,,US,visa,credit
-499230,00-99,,US,visa,credit
-499231,00-99,,US,visa,credit
-499232,00-99,,US,visa,credit
-499233,00-99,,US,visa,credit
-499234,00-99,,US,visa,credit
-499235,00-99,,US,visa,credit
-499236,00-99,,US,visa,credit
-499237,00-99,,US,visa,credit
-499238,00-99,,US,visa,credit
-499239,00-99,,US,visa,credit
-499240,00-99,,US,visa,credit
-499241,00-99,,US,visa,credit
-499242,00-99,,US,visa,credit
-499243,00-99,,US,visa,credit
-499244,00-99,,US,visa,credit
-499245,00-99,,US,visa,credit
-499246,00-99,,BO,visa,debit
-499247,00-99,,US,visa,credit
-499248,00-99,,US,visa,credit
-499249,00-99,,US,visa,credit
-499250,00-99,,US,visa,credit
-499251,00-99,,US,visa,credit
-499252,00-99,,US,visa,credit
-499253,00-99,,US,visa,credit
-499254,00-99,,US,visa,credit
-499255,00-99,,US,visa,credit
-499256,00-99,,US,visa,credit
-499257,00-99,,US,visa,credit
-499258,00-99,,RU,visa,credit
-499259,00-99,,US,visa,credit
-499260,00-99,,US,visa,credit
-499261,00-99,,US,visa,credit
-499262,00-99,,US,visa,credit
-499263,00-99,,US,visa,credit
-499264,00-99,,US,visa,credit
-499265,00-99,,US,visa,credit
-499266,00-99,,US,visa,credit
-499267,00-99,,US,visa,credit
-499268,00-99,,CO,visa,debit
-499269,00-99,,US,visa,credit
-499270,00-99,,US,visa,credit
-499271,00-99,,US,visa,credit
-499272,00-99,,US,visa,credit
-499273,00-99,,US,visa,credit
-499274,00-99,,US,visa,credit
-499275,00-99,,US,visa,credit
-499276,00-99,,US,visa,credit
-499277,00-99,,US,visa,credit
-499278,00-99,,US,visa,credit
-499279,00-99,,US,visa,credit
-499280,00-99,,US,visa,credit
-499281,00-99,,US,visa,credit
-499282,00-99,,US,visa,credit
-499283,00-99,,FR,visa,credit
-499284,00-99,,US,visa,credit
-499285,00-99,,US,visa,credit
-499286,00-99,,US,visa,credit
-499287,00-99,,US,visa,credit
-499288,00-99,,US,visa,credit
-499289,00-99,,US,visa,credit
-499290,00-99,,US,visa,credit
-499291,00-99,,US,visa,credit
-499292,00-99,,US,visa,credit
-499293,00-99,,US,visa,credit
-499294,00-99,,GB,visa,credit
-499295,00-99,,US,visa,credit
-499296,00-99,,US,visa,credit
-499297,00-99,,DE,visa,credit
-499298,00-99,,US,visa,credit
-499299,00-99,,US,visa,credit
-499300,00-99,,US,visa,credit
-499301,00-99,,FR,visa,credit
-499302,00-99,,US,visa,credit
-499303,00-99,,MX,visa,debit
-499304,00-99,,US,visa,credit
-499305,00-99,,US,visa,credit
-499306,00-99,,US,visa,credit
-499307,00-99,,US,visa,credit
-499308,00-99,,US,visa,credit
-499309,00-99,,US,visa,credit
-499310,00-99,,US,visa,credit
-499311,00-99,,ES,visa,credit
-499312,00-99,,US,visa,credit
-499313,00-99,,US,visa,credit
-499314,00-99,,US,visa,credit
-499315,00-99,,US,visa,credit
-499316,00-99,,US,visa,credit
-499317,00-99,,US,visa,credit
-499318,00-99,,US,visa,credit
-499319,00-99,,US,visa,credit
-499320,00-99,,US,visa,credit
-499321,00-99,,US,visa,credit
-499322,00-99,,DE,visa,credit
-499323,00-99,,US,visa,credit
-499324,00-99,,US,visa,credit
-499325,00-99,,US,visa,credit
-499326,00-99,,US,visa,credit
-499327,00-99,,MX,visa,debit
-499328,00-99,,US,visa,credit
-499329,00-99,,US,visa,credit
-499330,00-99,,US,visa,credit
-499331,00-99,,US,visa,credit
-499332,00-99,,US,visa,credit
-499333,00-99,,GT,visa,debit
-499334,00-99,,US,visa,credit
-499335,00-99,,US,visa,credit
-499336,00-99,,US,visa,credit
-499337,00-99,,US,visa,credit
-499338,00-99,,MX,visa,debit
-499339,00-99,,US,visa,credit
-499340,00-99,,US,visa,credit
-499341,00-99,,US,visa,credit
-499342,00-99,,US,visa,credit
-499343,00-99,,US,visa,credit
-499344,00-99,,US,visa,credit
-499345,00-99,,US,visa,credit
-499346,00-99,,US,visa,credit
-499347,00-99,,US,visa,credit
-499348,00-99,,US,visa,credit
-499349,00-99,,US,visa,credit
-499350,00-99,,US,visa,credit
-499351,00-99,,US,visa,credit
-499352,00-99,,US,visa,credit
-499353,00-99,,US,visa,credit
-499354,00-99,,FR,visa,credit
-499355,00-99,,US,visa,credit
-499356,00-99,,AU,visa,credit
-499357,00-99,,US,visa,credit
-499358,00-99,,US,visa,credit
-499359,00-99,,US,visa,credit
-499360,00-99,,US,visa,credit
-499361,00-99,,US,visa,credit
-499362,00-99,,US,visa,credit
-499363,00-99,,US,visa,credit
-499364,00-99,,US,visa,credit
-499365,00-99,,US,visa,credit
-499366,00-99,,US,visa,credit
-499367,00-99,,US,visa,credit
-499368,00-99,,US,visa,credit
-499369,00-99,,US,visa,credit
-499370,00-99,,IN,visa,debit
-499371,00-99,,US,visa,credit
-499372,00-99,,US,visa,credit
-499373,00-99,,US,visa,credit
-499374,00-99,,US,visa,credit
-499375,00-99,,US,visa,credit
-499376,00-99,,US,visa,credit
-499377,00-99,,US,visa,credit
-499378,00-99,,US,visa,credit
-499379,00-99,,US,visa,credit
-499380,00-99,,US,visa,credit
-499381,00-99,,US,visa,credit
-499382,00-99,,US,visa,credit
-499383,00-99,,US,visa,credit
-499384,00-99,,US,visa,credit
-499385,00-99,,US,visa,credit
-499386,00-99,,US,visa,credit
-499387,00-99,,MY,visa,debit
-499388,00-99,,US,visa,credit
-499389,00-99,,US,visa,credit
-499390,00-99,,US,visa,credit
-499391,00-99,,US,visa,credit
-499392,00-99,,US,visa,credit
-499393,00-99,,US,visa,credit
-499394,00-99,,US,visa,credit
-499395,00-99,,CA,visa,credit
-499396,00-99,,US,visa,credit
-499397,00-99,,FR,visa,credit
-499398,00-99,,BR,visa,credit
-499399,00-99,,US,visa,credit
-499400,00-99,,US,visa,credit
-499401,00-99,,US,visa,credit
-499402,00-99,,US,visa,credit
-499403,00-99,,US,visa,credit
-499404,00-99,,US,visa,credit
-499405,00-99,,US,visa,credit
-499406,00-99,,GB,visa,credit
-499407,00-99,,MX,visa,debit
-499408,00-99,,US,visa,credit
-499409,00-99,,US,visa,credit
-499410,00-99,,US,visa,credit
-499411,00-99,,US,visa,credit
-499412,00-99,,US,visa,credit
-499413,00-99,,US,visa,credit
-499414,00-99,,US,visa,credit
-499415,00-99,,US,visa,credit
-499416,00-99,,US,visa,credit
-499417,00-99,,US,visa,credit
-499418,00-99,,US,visa,credit
-499419,00-99,,US,visa,credit
-499420,00-99,,US,visa,credit
-499421,00-99,,US,visa,credit
-499422,00-99,,US,visa,credit
-499423,00-99,,US,visa,credit
-499424,00-99,,US,visa,credit
-499425,00-99,,US,visa,credit
-499426,00-99,,US,visa,credit
-499427,00-99,,US,visa,credit
-499428,00-99,,US,visa,credit
-499429,00-99,,US,visa,credit
-499430,00-99,,US,visa,credit
-499431,00-99,,US,visa,credit
-499432,00-99,,US,visa,credit
-499433,00-99,,US,visa,credit
-499434,00-99,,US,visa,credit
-499435,00-99,,US,visa,credit
-499436,00-99,,US,visa,credit
-499437,00-99,,US,visa,credit
-499438,00-99,,US,visa,credit
-499439,00-99,,US,visa,credit
-499440,00-99,,US,visa,credit
-499441,00-99,,US,visa,credit
-499442,00-99,,US,visa,credit
-499443,00-99,,US,visa,credit
-499444,00-99,,US,visa,credit
-499445,00-99,,US,visa,credit
-499446,00-99,,US,visa,credit
-499447,00-99,,US,visa,credit
-499448,00-99,,IT,visa,credit
-499449,00-99,,US,visa,credit
-499450,00-99,,US,visa,credit
-499451,00-99,,US,visa,credit
-499452,00-99,,US,visa,credit
-499453,00-99,,FR,visa,credit
-499454,00-99,,US,visa,credit
-499455,00-99,,US,visa,credit
-499456,00-99,,US,visa,credit
-499457,00-99,,US,visa,credit
-499458,00-99,,US,visa,credit
-499459,00-99,,US,visa,credit
-499460,00-99,,US,visa,credit
-499461,00-99,,US,visa,credit
-499462,00-99,,US,visa,credit
-499463,00-99,,US,visa,credit
-499464,00-99,,US,visa,credit
-499465,00-99,,US,visa,credit
-499466,00-99,,US,visa,credit
-499467,00-99,,US,visa,credit
-499468,00-99,,US,visa,credit
-499469,00-99,,US,visa,credit
-499470,00-99,,US,visa,credit
-499471,00-99,,US,visa,credit
-499472,00-99,,US,visa,credit
-499473,00-99,,US,visa,credit
-499474,00-99,,US,visa,credit
-499475,00-99,,US,visa,credit
-499476,00-99,,US,visa,credit
-499477,00-99,,US,visa,credit
-499478,00-99,,US,visa,credit
-499479,00-99,,US,visa,credit
-499480,00-99,,US,visa,credit
-499481,00-99,,US,visa,credit
-499482,00-99,,US,visa,credit
-499483,00-99,,US,visa,credit
-499484,00-99,,US,visa,credit
-499485,00-99,,US,visa,credit
-499486,00-99,,US,visa,credit
-499487,00-99,,US,visa,credit
-499488,00-99,,US,visa,credit
-499489,00-99,,US,visa,credit
-499490,00-99,,FR,visa,credit
-499491,00-99,,US,visa,credit
-499492,00-99,,US,visa,credit
-499493,00-99,,US,visa,credit
-499494,00-99,,US,visa,credit
-499495,00-99,,US,visa,credit
-499496,00-99,,US,visa,credit
-499497,00-99,,US,visa,credit
-499498,00-99,,US,visa,credit
-499499,00-99,,VN,visa,debit
-499500,00-99,,US,visa,credit
-499501,00-99,,US,visa,credit
-499502,00-99,,US,visa,credit
-499503,00-99,,US,visa,credit
-499504,00-99,,US,visa,credit
-499505,00-99,,US,visa,credit
-499506,00-99,,US,visa,credit
-499507,00-99,,US,visa,credit
-499508,00-99,,US,visa,credit
-499509,00-99,,US,visa,credit
-499510,00-99,,US,visa,credit
-499511,00-99,,ZA,visa,debit
-499512,00-99,,US,visa,credit
-499513,00-99,,US,visa,credit
-499514,00-99,,US,visa,credit
-499515,00-99,,US,visa,credit
-499516,00-99,,US,visa,credit
-499517,00-99,,US,visa,credit
-499518,00-99,,US,visa,credit
-499519,00-99,,US,visa,credit
-499520,00-99,,US,visa,credit
-499521,00-99,,US,visa,credit
-499522,00-99,,US,visa,credit
-499523,00-99,,US,visa,credit
-499524,00-99,,US,visa,credit
-499525,00-99,,US,visa,credit
-499526,00-99,,US,visa,credit
-499527,00-99,,US,visa,credit
-499528,00-99,,US,visa,credit
-499529,00-99,,US,visa,credit
-499530,00-99,,US,visa,credit
-499531,00-99,,US,visa,credit
-499532,00-99,,US,visa,credit
-499533,00-99,,US,visa,credit
-499534,00-99,,US,visa,credit
-499535,00-99,,US,visa,credit
-499536,00-99,,US,visa,credit
-499537,00-99,,US,visa,credit
-499538,00-99,,US,visa,credit
-499539,00-99,,MX,visa,debit
-499540,00-99,,US,visa,credit
-499541,00-99,,US,visa,credit
-499542,00-99,,US,visa,credit
-499543,00-99,,US,visa,credit
-499544,00-99,,US,visa,credit
-499545,00-99,,US,visa,credit
-499546,00-99,,US,visa,credit
-499547,00-99,,US,visa,credit
-499548,00-99,,US,visa,credit
-499549,00-99,,US,visa,credit
-499550,00-99,,US,visa,credit
-499551,00-99,,US,visa,credit
-499552,00-99,,US,visa,credit
-499553,00-99,,US,visa,credit
-499554,00-99,,US,visa,credit
-499555,00-99,,US,visa,credit
-499556,00-99,,US,visa,credit
-499557,00-99,,US,visa,credit
-499558,00-99,,US,visa,credit
-499559,00-99,,US,visa,credit
-499560,00-99,,US,visa,credit
-499561,00-99,,FR,visa,credit
-499562,00-99,,US,visa,credit
-499563,00-99,,US,visa,credit
-499564,00-99,,US,visa,credit
-499565,00-99,,US,visa,credit
-499566,00-99,,US,visa,credit
-499567,00-99,,US,visa,credit
-499568,00-99,,US,visa,credit
-499569,00-99,,US,visa,credit
-499570,00-99,,US,visa,credit
-499571,00-99,,US,visa,credit
-499572,00-99,,US,visa,credit
-499573,00-99,,US,visa,credit
-499574,00-99,,US,visa,credit
-499575,00-99,,US,visa,credit
-499576,00-99,,US,visa,credit
-499577,00-99,,US,visa,credit
-499578,00-99,,US,visa,credit
-499579,00-99,,US,visa,credit
-499580,00-99,,US,visa,credit
-499581,00-99,,US,visa,credit
-499582,00-99,,US,visa,credit
-499583,00-99,,US,visa,credit
-499584,00-99,,US,visa,credit
-499585,00-99,,US,visa,credit
-499586,00-99,,US,visa,credit
-499587,00-99,,DE,visa,credit
-499588,00-99,,US,visa,credit
-499589,00-99,,US,visa,credit
-499590,00-99,,US,visa,credit
-499591,00-99,,US,visa,credit
-499592,00-99,,US,visa,credit
-499593,00-99,,US,visa,credit
-499594,00-99,,US,visa,credit
-499595,00-99,,US,visa,credit
-499596,00-99,,MX,visa,debit
-499597,00-99,,US,visa,credit
-499598,00-99,,US,visa,credit
-499599,00-99,,US,visa,credit
-499600,00-99,,TR,visa,debit
-499601,00-99,,RO,visa,debit
-499602,00-99,,US,visa,credit
-499603,00-99,,US,visa,credit
-499604,00-99,,US,visa,credit
-499605,00-99,,US,visa,credit
-499606,00-99,,US,visa,credit
-499607,00-99,,US,visa,credit
-499608,00-99,,US,visa,credit
-499609,00-99,,US,visa,credit
-499610,00-99,,US,visa,credit
-499611,00-99,,US,visa,credit
-499612,00-99,,US,visa,credit
-499613,00-99,,US,visa,credit
-499614,00-99,,US,visa,credit
-499615,00-99,,US,visa,credit
-499616,00-99,,US,visa,credit
-499617,00-99,,US,visa,credit
-499618,00-99,,US,visa,credit
-499619,00-99,,US,visa,credit
-499620,00-99,,US,visa,credit
-499621,00-99,,US,visa,credit
-499622,00-99,,US,visa,credit
-499623,00-99,,US,visa,credit
-499624,00-99,,US,visa,credit
-499625,00-99,,US,visa,credit
-499626,00-99,,US,visa,credit
-499627,00-99,,US,visa,credit
-499628,00-99,,US,visa,credit
-499629,00-99,,US,visa,credit
-499630,00-99,,US,visa,credit
-499631,00-99,,US,visa,credit
-499632,00-99,,FR,visa,credit
-499633,00-99,,US,visa,credit
-499634,00-99,,US,visa,credit
-499635,00-99,,US,visa,credit
-499636,00-99,,US,visa,credit
-499637,00-99,,US,visa,credit
-499638,00-99,,US,visa,credit
-499639,00-99,,US,visa,credit
-499640,00-99,,US,visa,credit
-499641,00-99,,US,visa,credit
-499642,00-99,,US,visa,credit
-499643,00-99,,US,visa,credit
-499644,00-99,,US,visa,credit
-499645,00-99,,US,visa,credit
-499646,00-99,,US,visa,credit
-499647,00-99,,US,visa,credit
-499648,00-99,,US,visa,credit
-499649,00-99,,US,visa,credit
-499650,00-99,,US,visa,credit
-499651,00-99,,US,visa,credit
-499652,00-99,,US,visa,credit
-499653,00-99,,US,visa,credit
-499654,00-99,,US,visa,credit
-499655,00-99,,US,visa,credit
-499656,00-99,,US,visa,credit
-499657,00-99,,US,visa,credit
-499658,00-99,,US,visa,credit
-499659,00-99,,US,visa,credit
-499660,00-99,,US,visa,credit
-499661,00-99,,US,visa,credit
-499662,00-99,,ES,visa,credit
-499663,00-99,,US,visa,credit
-499664,00-99,,US,visa,credit
-499665,00-99,,US,visa,credit
-499666,00-99,,US,visa,credit
-499667,00-99,,US,visa,credit
-499668,00-99,,US,visa,credit
-499669,00-99,,US,visa,credit
-499670,00-99,,US,visa,credit
-499671,00-99,,US,visa,credit
-499672,00-99,,US,visa,credit
-499673,00-99,,US,visa,credit
-499674,00-99,,US,visa,credit
-499675,00-99,,FR,visa,credit
-499676,00-99,,MX,visa,debit
-499677,00-99,,US,visa,credit
-499678,00-99,,US,visa,credit
-499679,00-99,,US,visa,credit
-499680,00-99,,US,visa,credit
-499681,00-99,,MX,visa,debit
-499682,00-99,,IT,visa,credit
-499683,00-99,,US,visa,credit
-499684,00-99,WEX BANK,AU,visa,credit
-499685,00-99,,US,visa,credit
-499686,00-99,,US,visa,credit
-499687,00-99,,US,visa,credit
-499688,00-99,,US,visa,credit
-499689,00-99,,US,visa,credit
-499690,00-99,,US,visa,credit
-499691,00-99,,US,visa,credit
-499692,00-99,,US,visa,credit
-499693,00-99,,US,visa,credit
-499694,00-99,,US,visa,credit
-499695,00-99,,US,visa,credit
-499696,00-99,,US,visa,credit
-499697,00-99,,US,visa,credit
-499698,00-99,,US,visa,credit
-499699,00-99,,US,visa,credit
-499700,00-99,,US,visa,credit
-499701,00-99,,US,visa,credit
-499702,00-99,,US,visa,credit
-499703,00-99,,US,visa,credit
-499704,00-99,,FR,visa,credit
-499705,00-99,,US,visa,credit
-499706,00-99,,FR,visa,credit
-499707,00-99,,US,visa,credit
-499708,00-99,,FR,visa,credit
-499709,00-99,,FR,visa,credit
-499710,00-99,,US,visa,credit
-499711,00-99,,US,visa,credit
-499712,00-99,,US,visa,credit
-499713,00-99,,US,visa,credit
-499714,00-99,,US,visa,credit
-499715,00-99,,US,visa,credit
-499716,00-99,,US,visa,credit
-499717,00-99,,US,visa,credit
-499718,00-99,,US,visa,credit
-499719,00-99,,US,visa,credit
-499720,00-99,,FR,visa,credit
-499721,00-99,,US,visa,credit
-499722,00-99,,US,visa,credit
-499723,00-99,,US,visa,credit
-499724,00-99,,MX,visa,debit
-499725,00-99,,US,visa,credit
-499726,00-99,,US,visa,credit
-499727,00-99,,US,visa,credit
-499728,00-99,,US,visa,credit
-499729,00-99,,MY,visa,debit
-499730,00-99,,FR,visa,credit
-499731,00-99,,US,visa,credit
-499732,00-99,,US,visa,credit
-499733,00-99,,US,visa,credit
-499734,00-99,,US,visa,credit
-499735,00-99,,US,visa,credit
-499736,00-99,,US,visa,credit
-499737,00-99,,US,visa,credit
-499738,00-99,,US,visa,credit
-499739,00-99,,US,visa,credit
-499740,00-99,,FR,visa,credit
-499741,00-99,,FR,visa,credit
-499742,00-99,,US,visa,credit
-499743,00-99,,US,visa,credit
-499744,00-99,,US,visa,credit
-499745,00-99,,US,visa,credit
-499746,00-99,,US,visa,credit
-499747,00-99,,US,visa,credit
-499748,00-99,,US,visa,credit
-499749,00-99,,US,visa,credit
-499750,00-99,,US,visa,credit
-499751,00-99,,US,visa,credit
-499752,00-99,,US,visa,credit
-499753,00-99,,US,visa,credit
-499754,00-99,,US,visa,credit
-499755,00-99,,US,visa,credit
-499756,00-99,,US,visa,credit
-499757,00-99,,AU,visa,credit
-499758,00-99,,US,visa,credit
-499759,00-99,,US,visa,credit
-499760,00-99,,US,visa,credit
-499761,00-99,,US,visa,credit
-499762,00-99,,US,visa,credit
-499763,00-99,,US,visa,credit
-499764,00-99,,US,visa,credit
-499765,00-99,,US,visa,credit
-499766,00-99,,US,visa,credit
-499767,00-99,,US,visa,credit
-499768,00-99,,US,visa,credit
-499769,00-99,,US,visa,credit
-499770,00-99,,NZ,visa,credit
-499771,00-99,,NZ,visa,credit
-499772,00-99,,US,visa,credit
-499773,00-99,,US,visa,credit
-499774,00-99,,US,visa,credit
-499775,00-99,,US,visa,credit
-499776,00-99,,US,visa,credit
-499777,00-99,,US,visa,credit
-499778,00-99,,FR,visa,credit
-499779,00-99,,US,visa,credit
-499780,00-99,,US,visa,credit
-499781,00-99,,US,visa,credit
-499782,00-99,,US,visa,credit
-499783,00-99,,FR,visa,credit
-499784,00-99,,US,visa,credit
-499785,00-99,,US,visa,credit
-499786,00-99,,US,visa,credit
-499787,00-99,,US,visa,credit
-499788,00-99,,FR,visa,credit
-499789,00-99,,US,visa,credit
-499790,00-99,,US,visa,credit
-499791,00-99,,US,visa,credit
-499792,00-99,,US,visa,credit
-499793,00-99,,US,visa,credit
-499794,00-99,,US,visa,credit
-499795,00-99,,US,visa,credit
-499796,00-99,,US,visa,credit
+499200,00-99,INDUSIND BANK LIMITED,IN,visa,credit
+499201,00-99,UNKNOWN,US,visa,credit
+499202,00-99,UNKNOWN,US,visa,credit
+499203,00-99,UNKNOWN,US,visa,credit
+499204,00-99,UNKNOWN,US,visa,credit
+499205,00-99,UNKNOWN,US,visa,credit
+499206,00-99,UNKNOWN,US,visa,credit
+499207,00-99,UNKNOWN,US,visa,credit
+499208,00-99,UNKNOWN,US,visa,credit
+499209,00-99,UNKNOWN,US,visa,credit
+499210,00-99,UNKNOWN,US,visa,credit
+499211,00-99,UNKNOWN,US,visa,credit
+499212,00-99,UNKNOWN,US,visa,credit
+499213,00-99,UNKNOWN,US,visa,credit
+499214,00-99,UNKNOWN,US,visa,credit
+499215,00-99,UNKNOWN,US,visa,credit
+499216,00-99,UNKNOWN,US,visa,credit
+499217,00-99,UNKNOWN,US,visa,credit
+499218,00-99,UNKNOWN,GB,visa,credit
+499219,00-99,UNKNOWN,US,visa,credit
+499220,00-99,UNKNOWN,US,visa,credit
+499221,00-99,UNKNOWN,US,visa,credit
+499222,00-99,UNKNOWN,GB,visa,credit
+499223,00-99,UNKNOWN,GB,visa,credit
+499224,00-99,UNKNOWN,US,visa,credit
+499225,00-99,UNKNOWN,US,visa,credit
+499226,00-99,UNKNOWN,US,visa,credit
+499227,00-99,UNKNOWN,US,visa,credit
+499228,00-99,UNKNOWN,US,visa,credit
+499229,00-99,UNKNOWN,US,visa,credit
+499230,00-99,UNKNOWN,US,visa,credit
+499231,00-99,UNKNOWN,US,visa,credit
+499232,00-99,UNKNOWN,US,visa,credit
+499233,00-99,UNKNOWN,US,visa,credit
+499234,00-99,UNKNOWN,US,visa,credit
+499235,00-99,UNKNOWN,US,visa,credit
+499236,00-99,UNKNOWN,US,visa,credit
+499237,00-99,UNKNOWN,US,visa,credit
+499238,00-99,UNKNOWN,US,visa,credit
+499239,00-99,UNKNOWN,US,visa,credit
+499240,00-99,UNKNOWN,US,visa,credit
+499241,00-99,UNKNOWN,US,visa,credit
+499242,00-99,UNKNOWN,US,visa,credit
+499243,00-99,UNKNOWN,US,visa,credit
+499244,00-99,UNKNOWN,US,visa,credit
+499245,00-99,UNKNOWN,US,visa,credit
+499246,00-99,UNKNOWN,BO,visa,debit
+499247,00-99,UNKNOWN,US,visa,credit
+499248,00-99,UNKNOWN,US,visa,credit
+499249,00-99,UNKNOWN,US,visa,credit
+499250,00-99,UNKNOWN,US,visa,credit
+499251,00-99,UNKNOWN,US,visa,credit
+499252,00-99,UNKNOWN,US,visa,credit
+499253,00-99,UNKNOWN,US,visa,credit
+499254,00-99,UNKNOWN,US,visa,credit
+499255,00-99,UNKNOWN,US,visa,credit
+499256,00-99,UNKNOWN,US,visa,credit
+499257,00-99,UNKNOWN,US,visa,credit
+499258,00-99,UNKNOWN,RU,visa,credit
+499259,00-99,UNKNOWN,US,visa,credit
+499260,00-99,UNKNOWN,US,visa,credit
+499261,00-99,UNKNOWN,US,visa,credit
+499262,00-99,UNKNOWN,US,visa,credit
+499263,00-99,UNKNOWN,US,visa,credit
+499264,00-99,UNKNOWN,US,visa,credit
+499265,00-99,UNKNOWN,US,visa,credit
+499266,00-99,UNKNOWN,US,visa,credit
+499267,00-99,UNKNOWN,US,visa,credit
+499268,00-99,UNKNOWN,CO,visa,debit
+499269,00-99,UNKNOWN,US,visa,credit
+499270,00-99,UNKNOWN,US,visa,credit
+499271,00-99,UNKNOWN,US,visa,credit
+499272,00-99,UNKNOWN,US,visa,credit
+499273,00-99,UNKNOWN,US,visa,credit
+499274,00-99,UNKNOWN,US,visa,credit
+499275,00-99,UNKNOWN,US,visa,credit
+499276,00-99,UNKNOWN,US,visa,credit
+499277,00-99,UNKNOWN,US,visa,credit
+499278,00-99,UNKNOWN,US,visa,credit
+499279,00-99,UNKNOWN,US,visa,credit
+499280,00-99,UNKNOWN,US,visa,credit
+499281,00-99,UNKNOWN,US,visa,credit
+499282,00-99,UNKNOWN,US,visa,credit
+499283,00-99,UNKNOWN,FR,visa,credit
+499284,00-99,UNKNOWN,US,visa,credit
+499285,00-99,UNKNOWN,US,visa,credit
+499286,00-99,UNKNOWN,US,visa,credit
+499287,00-99,UNKNOWN,US,visa,credit
+499288,00-99,UNKNOWN,US,visa,credit
+499289,00-99,UNKNOWN,US,visa,credit
+499290,00-99,UNKNOWN,US,visa,credit
+499291,00-99,UNKNOWN,US,visa,credit
+499292,00-99,UNKNOWN,US,visa,credit
+499293,00-99,UNKNOWN,US,visa,credit
+499294,00-99,UNKNOWN,GB,visa,credit
+499295,00-99,UNKNOWN,US,visa,credit
+499296,00-99,UNKNOWN,US,visa,credit
+499297,00-99,UNKNOWN,DE,visa,credit
+499298,00-99,UNKNOWN,US,visa,credit
+499299,00-99,UNKNOWN,US,visa,credit
+499300,00-99,UNKNOWN,US,visa,credit
+499301,00-99,UNKNOWN,FR,visa,credit
+499302,00-99,UNKNOWN,US,visa,credit
+499303,00-99,UNKNOWN,MX,visa,debit
+499304,00-99,UNKNOWN,US,visa,credit
+499305,00-99,UNKNOWN,US,visa,credit
+499306,00-99,UNKNOWN,US,visa,credit
+499307,00-99,UNKNOWN,US,visa,credit
+499308,00-99,UNKNOWN,US,visa,credit
+499309,00-99,UNKNOWN,US,visa,credit
+499310,00-99,UNKNOWN,US,visa,credit
+499311,00-99,UNKNOWN,ES,visa,credit
+499312,00-99,UNKNOWN,US,visa,credit
+499313,00-99,UNKNOWN,US,visa,credit
+499314,00-99,UNKNOWN,US,visa,credit
+499315,00-99,UNKNOWN,US,visa,credit
+499316,00-99,UNKNOWN,US,visa,credit
+499317,00-99,UNKNOWN,US,visa,credit
+499318,00-99,UNKNOWN,US,visa,credit
+499319,00-99,UNKNOWN,US,visa,credit
+499320,00-99,UNKNOWN,US,visa,credit
+499321,00-99,UNKNOWN,US,visa,credit
+499322,00-99,UNKNOWN,DE,visa,credit
+499323,00-99,UNKNOWN,US,visa,credit
+499324,00-99,UNKNOWN,US,visa,credit
+499325,00-99,UNKNOWN,US,visa,credit
+499326,00-99,UNKNOWN,US,visa,credit
+499327,00-99,UNKNOWN,MX,visa,debit
+499328,00-99,UNKNOWN,US,visa,credit
+499329,00-99,UNKNOWN,US,visa,credit
+499330,00-99,UNKNOWN,US,visa,credit
+499331,00-99,UNKNOWN,US,visa,credit
+499332,00-99,UNKNOWN,US,visa,credit
+499333,00-99,UNKNOWN,GT,visa,debit
+499334,00-99,UNKNOWN,US,visa,credit
+499335,00-99,UNKNOWN,US,visa,credit
+499336,00-99,UNKNOWN,US,visa,credit
+499337,00-99,UNKNOWN,US,visa,credit
+499338,00-99,UNKNOWN,MX,visa,debit
+499339,00-99,UNKNOWN,US,visa,credit
+499340,00-99,UNKNOWN,US,visa,credit
+499341,00-99,UNKNOWN,US,visa,credit
+499342,00-99,UNKNOWN,US,visa,credit
+499343,00-99,UNKNOWN,US,visa,credit
+499344,00-99,UNKNOWN,US,visa,credit
+499345,00-99,UNKNOWN,US,visa,credit
+499346,00-99,UNKNOWN,US,visa,credit
+499347,00-99,UNKNOWN,US,visa,credit
+499348,00-99,UNKNOWN,US,visa,credit
+499349,00-99,UNKNOWN,US,visa,credit
+499350,00-99,UNKNOWN,US,visa,credit
+499351,00-99,UNKNOWN,US,visa,credit
+499352,00-99,UNKNOWN,US,visa,credit
+499353,00-99,UNKNOWN,US,visa,credit
+499354,00-99,UNKNOWN,FR,visa,credit
+499355,00-99,UNKNOWN,US,visa,credit
+499356,00-99,UNKNOWN,AU,visa,credit
+499357,00-99,UNKNOWN,US,visa,credit
+499358,00-99,UNKNOWN,US,visa,credit
+499359,00-99,UNKNOWN,US,visa,credit
+499360,00-99,UNKNOWN,US,visa,credit
+499361,00-99,UNKNOWN,US,visa,credit
+499362,00-99,UNKNOWN,US,visa,credit
+499363,00-99,UNKNOWN,US,visa,credit
+499364,00-99,UNKNOWN,US,visa,credit
+499365,00-99,UNKNOWN,US,visa,credit
+499366,00-99,UNKNOWN,US,visa,credit
+499367,00-99,UNKNOWN,US,visa,credit
+499368,00-99,UNKNOWN,US,visa,credit
+499369,00-99,UNKNOWN,US,visa,credit
+499370,00-99,UNKNOWN,IN,visa,debit
+499371,00-99,UNKNOWN,US,visa,credit
+499372,00-99,UNKNOWN,US,visa,credit
+499373,00-99,UNKNOWN,US,visa,credit
+499374,00-99,UNKNOWN,US,visa,credit
+499375,00-99,UNKNOWN,US,visa,credit
+499376,00-99,UNKNOWN,US,visa,credit
+499377,00-99,UNKNOWN,US,visa,credit
+499378,00-99,UNKNOWN,US,visa,credit
+499379,00-99,UNKNOWN,US,visa,credit
+499380,00-99,UNKNOWN,US,visa,credit
+499381,00-99,UNKNOWN,US,visa,credit
+499382,00-99,UNKNOWN,US,visa,credit
+499383,00-99,UNKNOWN,US,visa,credit
+499384,00-99,UNKNOWN,US,visa,credit
+499385,00-99,UNKNOWN,US,visa,credit
+499386,00-99,UNKNOWN,US,visa,credit
+499387,00-99,UNKNOWN,MY,visa,debit
+499388,00-99,UNKNOWN,US,visa,credit
+499389,00-99,UNKNOWN,US,visa,credit
+499390,00-99,UNKNOWN,US,visa,credit
+499391,00-99,UNKNOWN,US,visa,credit
+499392,00-99,UNKNOWN,US,visa,credit
+499393,00-99,UNKNOWN,US,visa,credit
+499394,00-99,UNKNOWN,US,visa,credit
+499395,00-99,UNKNOWN,CA,visa,credit
+499396,00-99,UNKNOWN,US,visa,credit
+499397,00-99,UNKNOWN,FR,visa,credit
+499398,00-99,UNKNOWN,BR,visa,credit
+499399,00-99,UNKNOWN,US,visa,credit
+499400,00-99,UNKNOWN,US,visa,credit
+499401,00-99,UNKNOWN,US,visa,credit
+499402,00-99,UNKNOWN,US,visa,credit
+499403,00-99,UNKNOWN,US,visa,credit
+499404,00-99,UNKNOWN,US,visa,credit
+499405,00-99,UNKNOWN,US,visa,credit
+499406,00-99,UNKNOWN,GB,visa,credit
+499407,00-99,UNKNOWN,MX,visa,debit
+499408,00-99,UNKNOWN,US,visa,credit
+499409,00-99,UNKNOWN,US,visa,credit
+499410,00-99,UNKNOWN,US,visa,credit
+499411,00-99,UNKNOWN,US,visa,credit
+499412,00-99,UNKNOWN,US,visa,credit
+499413,00-99,UNKNOWN,US,visa,credit
+499414,00-99,UNKNOWN,US,visa,credit
+499415,00-99,UNKNOWN,US,visa,credit
+499416,00-99,UNKNOWN,US,visa,credit
+499417,00-99,UNKNOWN,US,visa,credit
+499418,00-99,UNKNOWN,US,visa,credit
+499419,00-99,UNKNOWN,US,visa,credit
+499420,00-99,UNKNOWN,US,visa,credit
+499421,00-99,UNKNOWN,US,visa,credit
+499422,00-99,UNKNOWN,US,visa,credit
+499423,00-99,UNKNOWN,US,visa,credit
+499424,00-99,UNKNOWN,US,visa,credit
+499425,00-99,UNKNOWN,US,visa,credit
+499426,00-99,UNKNOWN,US,visa,credit
+499427,00-99,UNKNOWN,US,visa,credit
+499428,00-99,UNKNOWN,US,visa,credit
+499429,00-99,UNKNOWN,US,visa,credit
+499430,00-99,UNKNOWN,US,visa,credit
+499431,00-99,UNKNOWN,US,visa,credit
+499432,00-99,UNKNOWN,US,visa,credit
+499433,00-99,UNKNOWN,US,visa,credit
+499434,00-99,UNKNOWN,US,visa,credit
+499435,00-99,UNKNOWN,US,visa,credit
+499436,00-99,UNKNOWN,US,visa,credit
+499437,00-99,UNKNOWN,US,visa,credit
+499438,00-99,UNKNOWN,US,visa,credit
+499439,00-99,UNKNOWN,US,visa,credit
+499440,00-99,UNKNOWN,US,visa,credit
+499441,00-99,UNKNOWN,US,visa,credit
+499442,00-99,UNKNOWN,US,visa,credit
+499443,00-99,UNKNOWN,US,visa,credit
+499444,00-99,UNKNOWN,US,visa,credit
+499445,00-99,UNKNOWN,US,visa,credit
+499446,00-99,UNKNOWN,US,visa,credit
+499447,00-99,UNKNOWN,US,visa,credit
+499448,00-99,UNKNOWN,IT,visa,credit
+499449,00-99,UNKNOWN,US,visa,credit
+499450,00-99,UNKNOWN,US,visa,credit
+499451,00-99,UNKNOWN,US,visa,credit
+499452,00-99,UNKNOWN,US,visa,credit
+499453,00-99,UNKNOWN,FR,visa,credit
+499454,00-99,UNKNOWN,US,visa,credit
+499455,00-99,UNKNOWN,US,visa,credit
+499456,00-99,UNKNOWN,US,visa,credit
+499457,00-99,UNKNOWN,US,visa,credit
+499458,00-99,UNKNOWN,US,visa,credit
+499459,00-99,UNKNOWN,US,visa,credit
+499460,00-99,UNKNOWN,US,visa,credit
+499461,00-99,UNKNOWN,US,visa,credit
+499462,00-99,UNKNOWN,US,visa,credit
+499463,00-99,UNKNOWN,US,visa,credit
+499464,00-99,UNKNOWN,US,visa,credit
+499465,00-99,UNKNOWN,US,visa,credit
+499466,00-99,UNKNOWN,US,visa,credit
+499467,00-99,UNKNOWN,US,visa,credit
+499468,00-99,UNKNOWN,US,visa,credit
+499469,00-99,UNKNOWN,US,visa,credit
+499470,00-99,UNKNOWN,US,visa,credit
+499471,00-99,UNKNOWN,US,visa,credit
+499472,00-99,UNKNOWN,US,visa,credit
+499473,00-99,UNKNOWN,US,visa,credit
+499474,00-99,UNKNOWN,US,visa,credit
+499475,00-99,UNKNOWN,US,visa,credit
+499476,00-99,UNKNOWN,US,visa,credit
+499477,00-99,UNKNOWN,US,visa,credit
+499478,00-99,UNKNOWN,US,visa,credit
+499479,00-99,UNKNOWN,US,visa,credit
+499480,00-99,UNKNOWN,US,visa,credit
+499481,00-99,UNKNOWN,US,visa,credit
+499482,00-99,UNKNOWN,US,visa,credit
+499483,00-99,UNKNOWN,US,visa,credit
+499484,00-99,UNKNOWN,US,visa,credit
+499485,00-99,UNKNOWN,US,visa,credit
+499486,00-99,UNKNOWN,US,visa,credit
+499487,00-99,UNKNOWN,US,visa,credit
+499488,00-99,UNKNOWN,US,visa,credit
+499489,00-99,UNKNOWN,US,visa,credit
+499490,00-99,UNKNOWN,FR,visa,credit
+499491,00-99,UNKNOWN,US,visa,credit
+499492,00-99,UNKNOWN,US,visa,credit
+499493,00-99,UNKNOWN,US,visa,credit
+499494,00-99,UNKNOWN,US,visa,credit
+499495,00-99,UNKNOWN,US,visa,credit
+499496,00-99,UNKNOWN,US,visa,credit
+499497,00-99,UNKNOWN,US,visa,credit
+499498,00-99,UNKNOWN,US,visa,credit
+499499,00-99,UNKNOWN,VN,visa,debit
+499500,00-99,UNKNOWN,US,visa,credit
+499501,00-99,UNKNOWN,US,visa,credit
+499502,00-99,UNKNOWN,US,visa,credit
+499503,00-99,UNKNOWN,US,visa,credit
+499504,00-99,UNKNOWN,US,visa,credit
+499505,00-99,UNKNOWN,US,visa,credit
+499506,00-99,UNKNOWN,US,visa,credit
+499507,00-99,UNKNOWN,US,visa,credit
+499508,00-99,UNKNOWN,US,visa,credit
+499509,00-99,UNKNOWN,US,visa,credit
+499510,00-99,UNKNOWN,US,visa,credit
+499511,00-99,UNKNOWN,ZA,visa,debit
+499512,00-99,UNKNOWN,US,visa,credit
+499513,00-99,UNKNOWN,US,visa,credit
+499514,00-99,UNKNOWN,US,visa,credit
+499515,00-99,UNKNOWN,US,visa,credit
+499516,00-99,UNKNOWN,US,visa,credit
+499517,00-99,UNKNOWN,US,visa,credit
+499518,00-99,UNKNOWN,US,visa,credit
+499519,00-99,UNKNOWN,US,visa,credit
+499520,00-99,UNKNOWN,US,visa,credit
+499521,00-99,UNKNOWN,US,visa,credit
+499522,00-99,UNKNOWN,US,visa,credit
+499523,00-99,UNKNOWN,US,visa,credit
+499524,00-99,UNKNOWN,US,visa,credit
+499525,00-99,UNKNOWN,US,visa,credit
+499526,00-99,UNKNOWN,US,visa,credit
+499527,00-99,UNKNOWN,US,visa,credit
+499528,00-99,UNKNOWN,US,visa,credit
+499529,00-99,UNKNOWN,US,visa,credit
+499530,00-99,UNKNOWN,US,visa,credit
+499531,00-99,UNKNOWN,US,visa,credit
+499532,00-99,UNKNOWN,US,visa,credit
+499533,00-99,UNKNOWN,US,visa,credit
+499534,00-99,UNKNOWN,US,visa,credit
+499535,00-99,UNKNOWN,US,visa,credit
+499536,00-99,UNKNOWN,US,visa,credit
+499537,00-99,UNKNOWN,US,visa,credit
+499538,00-99,UNKNOWN,US,visa,credit
+499539,00-99,UNKNOWN,MX,visa,debit
+499540,00-99,UNKNOWN,US,visa,credit
+499541,00-99,UNKNOWN,US,visa,credit
+499542,00-99,UNKNOWN,US,visa,credit
+499543,00-99,UNKNOWN,US,visa,credit
+499544,00-99,UNKNOWN,US,visa,credit
+499545,00-99,UNKNOWN,US,visa,credit
+499546,00-99,UNKNOWN,US,visa,credit
+499547,00-99,UNKNOWN,US,visa,credit
+499548,00-99,UNKNOWN,US,visa,credit
+499549,00-99,UNKNOWN,US,visa,credit
+499550,00-99,UNKNOWN,US,visa,credit
+499551,00-99,UNKNOWN,US,visa,credit
+499552,00-99,UNKNOWN,US,visa,credit
+499553,00-99,UNKNOWN,US,visa,credit
+499554,00-99,UNKNOWN,US,visa,credit
+499555,00-99,UNKNOWN,US,visa,credit
+499556,00-99,UNKNOWN,US,visa,credit
+499557,00-99,UNKNOWN,US,visa,credit
+499558,00-99,UNKNOWN,US,visa,credit
+499559,00-99,UNKNOWN,US,visa,credit
+499560,00-99,UNKNOWN,US,visa,credit
+499561,00-99,UNKNOWN,FR,visa,credit
+499562,00-99,UNKNOWN,US,visa,credit
+499563,00-99,UNKNOWN,US,visa,credit
+499564,00-99,UNKNOWN,US,visa,credit
+499565,00-99,UNKNOWN,US,visa,credit
+499566,00-99,UNKNOWN,US,visa,credit
+499567,00-99,UNKNOWN,US,visa,credit
+499568,00-99,UNKNOWN,US,visa,credit
+499569,00-99,UNKNOWN,US,visa,credit
+499570,00-99,UNKNOWN,US,visa,credit
+499571,00-99,UNKNOWN,US,visa,credit
+499572,00-99,UNKNOWN,US,visa,credit
+499573,00-99,UNKNOWN,US,visa,credit
+499574,00-99,UNKNOWN,US,visa,credit
+499575,00-99,UNKNOWN,US,visa,credit
+499576,00-99,UNKNOWN,US,visa,credit
+499577,00-99,UNKNOWN,US,visa,credit
+499578,00-99,UNKNOWN,US,visa,credit
+499579,00-99,UNKNOWN,US,visa,credit
+499580,00-99,UNKNOWN,US,visa,credit
+499581,00-99,UNKNOWN,US,visa,credit
+499582,00-99,UNKNOWN,US,visa,credit
+499583,00-99,UNKNOWN,US,visa,credit
+499584,00-99,UNKNOWN,US,visa,credit
+499585,00-99,UNKNOWN,US,visa,credit
+499586,00-99,UNKNOWN,US,visa,credit
+499587,00-99,UNKNOWN,DE,visa,credit
+499588,00-99,UNKNOWN,US,visa,credit
+499589,00-99,UNKNOWN,US,visa,credit
+499590,00-99,UNKNOWN,US,visa,credit
+499591,00-99,UNKNOWN,US,visa,credit
+499592,00-99,UNKNOWN,US,visa,credit
+499593,00-99,UNKNOWN,US,visa,credit
+499594,00-99,UNKNOWN,US,visa,credit
+499595,00-99,UNKNOWN,US,visa,credit
+499596,00-99,UNKNOWN,MX,visa,debit
+499597,00-99,UNKNOWN,US,visa,credit
+499598,00-99,UNKNOWN,US,visa,credit
+499599,00-99,UNKNOWN,US,visa,credit
+499600,00-99,UNKNOWN,TR,visa,debit
+499601,00-99,UNKNOWN,RO,visa,debit
+499602,00-99,UNKNOWN,US,visa,credit
+499603,00-99,UNKNOWN,US,visa,credit
+499604,00-99,UNKNOWN,US,visa,credit
+499605,00-99,UNKNOWN,US,visa,credit
+499606,00-99,UNKNOWN,US,visa,credit
+499607,00-99,UNKNOWN,US,visa,credit
+499608,00-99,UNKNOWN,US,visa,credit
+499609,00-99,UNKNOWN,US,visa,credit
+499610,00-99,UNKNOWN,US,visa,credit
+499611,00-99,UNKNOWN,US,visa,credit
+499612,00-99,UNKNOWN,US,visa,credit
+499613,00-99,UNKNOWN,US,visa,credit
+499614,00-99,UNKNOWN,US,visa,credit
+499615,00-99,UNKNOWN,US,visa,credit
+499616,00-99,UNKNOWN,US,visa,credit
+499617,00-99,UNKNOWN,US,visa,credit
+499618,00-99,UNKNOWN,US,visa,credit
+499619,00-99,UNKNOWN,US,visa,credit
+499620,00-99,UNKNOWN,US,visa,credit
+499621,00-99,UNKNOWN,US,visa,credit
+499622,00-99,UNKNOWN,US,visa,credit
+499623,00-99,UNKNOWN,US,visa,credit
+499624,00-99,UNKNOWN,US,visa,credit
+499625,00-99,UNKNOWN,US,visa,credit
+499626,00-99,UNKNOWN,US,visa,credit
+499627,00-99,UNKNOWN,US,visa,credit
+499628,00-99,UNKNOWN,US,visa,credit
+499629,00-99,UNKNOWN,US,visa,credit
+499630,00-99,UNKNOWN,US,visa,credit
+499631,00-99,UNKNOWN,US,visa,credit
+499632,00-99,UNKNOWN,FR,visa,credit
+499633,00-99,UNKNOWN,US,visa,credit
+499634,00-99,UNKNOWN,US,visa,credit
+499635,00-99,UNKNOWN,US,visa,credit
+499636,00-99,UNKNOWN,US,visa,credit
+499637,00-99,UNKNOWN,US,visa,credit
+499638,00-99,UNKNOWN,US,visa,credit
+499639,00-99,UNKNOWN,US,visa,credit
+499640,00-99,UNKNOWN,US,visa,credit
+499641,00-99,UNKNOWN,US,visa,credit
+499642,00-99,UNKNOWN,US,visa,credit
+499643,00-99,UNKNOWN,US,visa,credit
+499644,00-99,UNKNOWN,US,visa,credit
+499645,00-99,UNKNOWN,US,visa,credit
+499646,00-99,UNKNOWN,US,visa,credit
+499647,00-99,UNKNOWN,US,visa,credit
+499648,00-99,UNKNOWN,US,visa,credit
+499649,00-99,UNKNOWN,US,visa,credit
+499650,00-99,UNKNOWN,US,visa,credit
+499651,00-99,UNKNOWN,US,visa,credit
+499652,00-99,UNKNOWN,US,visa,credit
+499653,00-99,UNKNOWN,US,visa,credit
+499654,00-99,UNKNOWN,US,visa,credit
+499655,00-99,UNKNOWN,US,visa,credit
+499656,00-99,UNKNOWN,US,visa,credit
+499657,00-99,UNKNOWN,US,visa,credit
+499658,00-99,UNKNOWN,US,visa,credit
+499659,00-99,UNKNOWN,US,visa,credit
+499660,00-99,UNKNOWN,US,visa,credit
+499661,00-99,UNKNOWN,US,visa,credit
+499662,00-99,UNKNOWN,ES,visa,credit
+499663,00-99,UNKNOWN,US,visa,credit
+499664,00-99,UNKNOWN,US,visa,credit
+499665,00-99,UNKNOWN,US,visa,credit
+499666,00-99,UNKNOWN,US,visa,credit
+499667,00-99,UNKNOWN,US,visa,credit
+499668,00-99,UNKNOWN,US,visa,credit
+499669,00-99,UNKNOWN,US,visa,credit
+499670,00-99,UNKNOWN,US,visa,credit
+499671,00-99,UNKNOWN,US,visa,credit
+499672,00-99,UNKNOWN,US,visa,credit
+499673,00-99,UNKNOWN,US,visa,credit
+499674,00-99,UNKNOWN,US,visa,credit
+499675,00-99,UNKNOWN,FR,visa,credit
+499676,00-99,UNKNOWN,MX,visa,debit
+499677,00-99,UNKNOWN,US,visa,credit
+499678,00-99,UNKNOWN,US,visa,credit
+499679,00-99,UNKNOWN,US,visa,credit
+499680,00-99,UNKNOWN,US,visa,credit
+499681,00-99,UNKNOWN,MX,visa,debit
+499682,00-99,UNKNOWN,IT,visa,credit
+499683,00-99,UNKNOWN,US,visa,credit
+499684,00-49,WEX BANK,AU,visa,credit
+499685,00-99,UNKNOWN,US,visa,credit
+499686,00-99,UNKNOWN,US,visa,credit
+499687,00-99,UNKNOWN,US,visa,credit
+499688,00-99,UNKNOWN,US,visa,credit
+499689,00-99,UNKNOWN,US,visa,credit
+499690,00-99,UNKNOWN,US,visa,credit
+499691,00-99,UNKNOWN,US,visa,credit
+499692,00-99,UNKNOWN,US,visa,credit
+499693,00-99,UNKNOWN,US,visa,credit
+499694,00-99,UNKNOWN,US,visa,credit
+499695,00-99,UNKNOWN,US,visa,credit
+499696,00-99,UNKNOWN,US,visa,credit
+499697,00-99,UNKNOWN,US,visa,credit
+499698,00-99,UNKNOWN,US,visa,credit
+499699,00-99,UNKNOWN,US,visa,credit
+499700,00-99,UNKNOWN,US,visa,credit
+499701,00-99,UNKNOWN,US,visa,credit
+499702,00-99,UNKNOWN,US,visa,credit
+499703,00-99,UNKNOWN,US,visa,credit
+499704,00-99,UNKNOWN,FR,visa,credit
+499705,00-99,UNKNOWN,US,visa,credit
+499706,00-99,UNKNOWN,FR,visa,credit
+499707,00-99,UNKNOWN,US,visa,credit
+499708,00-99,UNKNOWN,FR,visa,credit
+499709,00-99,UNKNOWN,FR,visa,credit
+499710,00-99,UNKNOWN,US,visa,credit
+499711,00-99,UNKNOWN,US,visa,credit
+499712,00-99,UNKNOWN,US,visa,credit
+499713,00-99,UNKNOWN,US,visa,credit
+499714,00-99,UNKNOWN,US,visa,credit
+499715,00-99,UNKNOWN,US,visa,credit
+499716,00-99,UNKNOWN,US,visa,credit
+499717,00-99,UNKNOWN,US,visa,credit
+499718,00-99,UNKNOWN,US,visa,credit
+499719,00-99,UNKNOWN,US,visa,credit
+499720,00-99,UNKNOWN,FR,visa,credit
+499721,00-99,UNKNOWN,US,visa,credit
+499722,00-99,UNKNOWN,US,visa,credit
+499723,00-99,UNKNOWN,US,visa,credit
+499724,00-99,UNKNOWN,MX,visa,debit
+499725,00-99,UNKNOWN,US,visa,credit
+499726,00-99,UNKNOWN,US,visa,credit
+499727,00-99,UNKNOWN,US,visa,credit
+499728,00-99,UNKNOWN,US,visa,credit
+499729,00-99,UNKNOWN,MY,visa,debit
+499730,00-99,UNKNOWN,FR,visa,credit
+499731,00-99,UNKNOWN,US,visa,credit
+499732,00-99,UNKNOWN,US,visa,credit
+499733,00-99,UNKNOWN,US,visa,credit
+499734,00-99,UNKNOWN,US,visa,credit
+499735,00-99,UNKNOWN,US,visa,credit
+499736,00-99,UNKNOWN,US,visa,credit
+499737,00-99,UNKNOWN,US,visa,credit
+499738,00-99,UNKNOWN,US,visa,credit
+499739,00-99,UNKNOWN,US,visa,credit
+499740,00-99,UNKNOWN,FR,visa,credit
+499741,00-99,UNKNOWN,FR,visa,credit
+499742,00-99,UNKNOWN,US,visa,credit
+499743,00-99,UNKNOWN,US,visa,credit
+499744,00-99,UNKNOWN,US,visa,credit
+499745,00-99,UNKNOWN,US,visa,credit
+499746,00-99,UNKNOWN,US,visa,credit
+499747,00-99,UNKNOWN,US,visa,credit
+499748,00-99,UNKNOWN,US,visa,credit
+499749,00-99,UNKNOWN,US,visa,credit
+499750,00-99,UNKNOWN,US,visa,credit
+499751,00-99,UNKNOWN,US,visa,credit
+499752,00-99,UNKNOWN,US,visa,credit
+499753,00-99,UNKNOWN,US,visa,credit
+499754,00-99,UNKNOWN,US,visa,credit
+499755,00-99,UNKNOWN,US,visa,credit
+499756,00-99,UNKNOWN,US,visa,credit
+499757,00-99,UNKNOWN,AU,visa,credit
+499758,00-99,UNKNOWN,US,visa,credit
+499759,00-99,UNKNOWN,US,visa,credit
+499760,00-99,UNKNOWN,US,visa,credit
+499761,00-99,UNKNOWN,US,visa,credit
+499762,00-99,UNKNOWN,US,visa,credit
+499763,00-99,UNKNOWN,US,visa,credit
+499764,00-99,UNKNOWN,US,visa,credit
+499765,00-99,UNKNOWN,US,visa,credit
+499766,00-99,UNKNOWN,US,visa,credit
+499767,00-99,UNKNOWN,US,visa,credit
+499768,00-99,UNKNOWN,US,visa,credit
+499769,00-99,UNKNOWN,US,visa,credit
+499770,00-99,UNKNOWN,NZ,visa,credit
+499771,00-99,UNKNOWN,NZ,visa,credit
+499772,00-99,UNKNOWN,US,visa,credit
+499773,00-99,UNKNOWN,US,visa,credit
+499774,00-99,UNKNOWN,US,visa,credit
+499775,00-99,UNKNOWN,US,visa,credit
+499776,00-99,UNKNOWN,US,visa,credit
+499777,00-99,UNKNOWN,US,visa,credit
+499778,00-99,UNKNOWN,FR,visa,credit
+499779,00-99,UNKNOWN,US,visa,credit
+499780,00-99,UNKNOWN,US,visa,credit
+499781,00-99,UNKNOWN,US,visa,credit
+499782,00-99,UNKNOWN,US,visa,credit
+499783,00-99,UNKNOWN,FR,visa,credit
+499784,00-99,UNKNOWN,US,visa,credit
+499785,00-99,UNKNOWN,US,visa,credit
+499786,00-99,UNKNOWN,US,visa,credit
+499787,00-99,UNKNOWN,US,visa,credit
+499788,00-99,UNKNOWN,FR,visa,credit
+499789,00-99,UNKNOWN,US,visa,credit
+499790,00-99,UNKNOWN,US,visa,credit
+499791,00-99,UNKNOWN,US,visa,credit
+499792,00-99,UNKNOWN,US,visa,credit
+499793,00-99,UNKNOWN,US,visa,credit
+499794,00-99,UNKNOWN,US,visa,credit
+499795,00-99,UNKNOWN,US,visa,credit
+499796,00-99,UNKNOWN,US,visa,credit
 499797,00-99,DKB,DE,visa,credit
-499798,00-99,,AR,visa,credit
-499799,00-99,,US,visa,credit
+499798,00-99,UNKNOWN,AR,visa,credit
+499799,00-99,UNKNOWN,US,visa,credit
 499800,00-99,ORABANK COTE D'IVOIRE,SN,visa,debit
-499801,00-99,BANCO DINERS CLUB DEL ECUADOR S.A.,EC,visa,credit
-499802,00-99,BANCO DINERS CLUB DEL ECUADOR S.A.,EC,visa,credit
+499801,00,BANCO DINERS CLUB DEL ECUADOR S.A.,EC,visa,credit
+499802,00,BANCO DINERS CLUB DEL ECUADOR S.A.,EC,visa,credit
 499803,00-99,BANCA SELLA S.P.A.,IT,visa,debit
-499804,00-99,,US,visa,credit
+499804,00-99,UNKNOWN,US,visa,credit
 499805,00-99,KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO KREDYTOWA,PL,visa,debit
 499806,00-99,RAPHAELS BANK,GB,visa,debit
 499807,00-99,BIBANCA S.P.A.,IT,visa,debit
 499808,00-99,BANCO DAVIVIENDA S.A.,CO,visa,debit
 499809,00-99,BANCO DAVIVIENDA S.A.,CO,visa,debit
 499810,00-99,HAPO COMMUNITY CREDIT UNION,US,visa,credit
-499811,00-99,RAILS WEST FEDERAL CREDIT UNION,US,visa,credit
+499811,00,RAILS WEST FEDERAL CREDIT UNION,US,visa,credit
 499812,00-99,BANCO DE BOGOTA S.A.,CO,visa,debit
-499813,00-99,NUMIA S.P.A.,IT,visa,credit
+499813,00-99,NUMIA S.P.A.,IT,visa,debit
 499814,00-99,1ST NATIONAL BANK ST. LUCIA LTD.,LC,visa,credit
-499815,00-99,,CM,visa,debit
-499816,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.,AR,visa,credit
-499817,00-99,CORA SOCIEDADE DE CREDITO FINANCIAMENTO E INVESTIMENTO S.A.,BR,visa,credit
-499818,00-99,BANCO XP S.A.,BR,visa,credit
+499815,00-99,UNKNOWN,CM,visa,debit
+499816,00-01,INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.,AR,visa,credit
+499817,00,CORA SOCIEDADE DE CREDITO FINANCIAMENTO E INVESTIMENTO S.A.,BR,visa,credit
+499818,00-01,BANCO XP S.A.,BR,visa,credit
 499819,00-99,BANCO LAFISE S.A.,CR,visa,credit
 499820,00-99,BANCO PORTUGUES DE NEGOCIOS S.A.,PT,visa,debit
 499821,00-99,TURKIYE HALK BANKASI A.S.,TR,visa,debit
 499822,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
-499823,00-99,CEDRUS BANK SAL,LB,visa,credit
+499823,00,CSCBANK SAL,LB,visa,credit
 499824,00-99,ATH COSTA RICA S.A.,CR,visa,debit
-499825,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
-499826,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
-499827,00-99,STANDARD CHARTERED BANK GAMBIA LTD.,GM,visa,debit
-499828,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
-499829,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
-499830,00-99,STANDARD CHARTERED BANK GAMBIA LTD.,GM,visa,debit
-499831,00-99,BANCO FAMILIAR S.A.E.C.A.,PY,visa,debit
+499825,00-02,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
+499826,00,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
+499827,00-19,STANDARD CHARTERED BANK GAMBIA LIMITED,GM,visa,debit
+499828,00,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
+499829,00,COOPERATIVA NACIONAL DE EDUCADORES R.L. (COOPENAE R.L.),CR,visa,debit
+499830,00-19,STANDARD CHARTERED BANK GAMBIA LIMITED,GM,visa,debit
+499831,00-69,BANCO FAMILIAR S.A.E.C.A.,PY,visa,debit
 499832,00-99,INTERBANK - BANCO INTERNACIONAL DEL PERU,PE,visa,debit
-499833,00-99,BANCO DE LOS TRABAJADORES,GT,visa,credit
-499834,00-99,,US,visa,credit
+499833,00-89,BANCO DE LOS TRABAJADORES,GT,visa,credit
+499834,00-99,UNKNOWN,US,visa,credit
 499835,00-99,BELVNESHECONOMBANK FOREIGN ECONOMIC AFFAIRS BELARUS JSCB,BY,visa,debit
-499836,00-99,ACCESS BANK MOZAMBIQUE SA,MZ,visa,credit
+499836,00,ACCESS BANK MOZAMBIQUE SA,MZ,visa,credit
 499837,00-99,THE BANK OF N.T. BUTTERFIELD & SON LTD.,BM,visa,credit
-499838,00-99,BANCO DE FORMOSA S.A.,AR,visa,credit
-499839,00-99,BANCO BAC SAN JOSE S.A.,CR,visa,credit
-499840,00-99,BANCO BAC SAN JOSE S.A.,CR,visa,credit
+499838,00-01,BANCO DE FORMOSA S.A.,AR,visa,credit
+499839,00-01,BANCO BAC SAN JOSE S.A.,CR,visa,credit
+499840,00-01,BANCO BAC SAN JOSE S.A.,CR,visa,credit
 499841,00-99,BANK OF THE BAHAMAS LTD.,BS,visa,credit
-499842,00-99,BANCO ITAU URUGUAY S.A.,UY,visa,debit
-499843,00-99,THE GOVERNOR AND COMPANY OF THE BANK OF IRELAND,GB,visa,debit
+499842,00-01,BANCO ITAU URUGUAY S.A.,UY,visa,debit
+499843,00,DEFENCE BANK LIMITED,AU,visa,credit
 499844,00-99,R RAPHAEL & SONS PLC,GB,visa,debit
 499845,00-99,R RAPHAEL & SONS PLC,GB,visa,debit
 499846,00-99,QDOS,GB,visa,debit
@@ -9852,14 +9852,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 499849,00-99,SIX PAYMENT SERVICES (EUROPE) S.A.,LU,visa,debit
 499850,00-99,QNB BANK A.S,TR,visa,credit
 499851,00-99,QNB BANK A.S,TR,visa,credit
-499852,00-99,QNB BANK A.S,TR,visa,credit
+499852,00-19,QNB BANK A.S,TR,visa,credit
 499853,00-99,QNB BANK A.S,TR,visa,debit
 499854,00-99,VIACAJAS S.A.,PT,visa,debit
 499855,00-99,BANK DNB NORD POLSKA S.A.,PL,visa,debit
-499856,00-99,,MX,visa,debit
+499856,00-99,UNKNOWN,MX,visa,debit
 499857,00-99,CPORT CREDIT UNION,US,visa,debit
 499858,00-99,DEUTSCHE BANK AG,PR,visa,debit
-499859,00-99,BANCO HIPOTECARIO S.A.,AR,visa,debit
+499859,00-05,BANCO HIPOTECARIO S.A.,AR,visa,debit
 499860,00-99,BANCO BRADESCO S.A.,BR,visa,credit
 499861,00-99,BANCO BRADESCO S.A.,BR,visa,credit
 499862,00-99,BANCO BRADESCO S.A.,BR,visa,credit
@@ -9871,47 +9871,47 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 499868,00-99,BANCO BRADESCO S.A.,BR,visa,credit
 499869,00-99,BANCO BRADESCO S.A.,BR,visa,credit
 499870,00-99,ASTROBANK PUBLIC COMPANY LTD.,CY,visa,credit
-499871,00-99,BANCO SOLIDARIO S.A. (BANCOSOL S.A.),BO,visa,debit
-499872,00-99,,BO,visa,debit
-499873,00-99,,BO,visa,debit
+499871,00,BANCO SOLIDARIO S.A. (BANCOSOL S.A.),BO,visa,debit
+499872,00-99,UNKNOWN,BO,visa,debit
+499873,00-99,UNKNOWN,BO,visa,debit
 499874,00-99,BANK OF AMERICA - CONSUMER CREDIT,US,visa,credit
-499875,00-99,CTBC BANK CO. LTD.,TW,visa,debit
+499875,00,CTBC BANK CO. LTD.,TW,visa,credit
 499876,00-99,WORLDPAY (UK) LTD.,GB,visa,credit
 499877,00-99,GLOBAL PROCESSING S.A.,AR,visa,debit
 499878,00-99,BANESCO BANCO UNIVERSAL C.A.,VE,visa,debit
 499879,00-99,MIBANCO BANCO DE LA MICROEMPRESA S.A.,PE,visa,credit
-499880,00-99,,US,visa,credit
-499881,00-99,COMMUNITY FIRST CREDIT UNION OF FLORIDA,US,visa,debit
-499882,00-99,FLAGSTAR BANK NATIONAL ASSOCIATION,US,visa,debit
-499883,00-99,COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA.,EC,visa,credit
+499880,00-99,UNKNOWN,US,visa,credit
+499881,00,COMMUNITY FIRST CREDIT UNION OF FLORIDA,US,visa,prepaid
+499882,00,FLAGSTAR BANK NATIONAL ASSOCIATION,US,visa,debit
+499883,00,COOPERATIVA DE AHORRO Y CREDITO PILAHUIN TIO LTDA.,EC,visa,credit
 499884,00-99,CAIXABANK S.A.,ES,visa,credit
 499885,00-99,BANCO GUIPUZCOANO S.A.,ES,visa,credit
 499886,00-99,HSBC BANK PLC,GB,visa,credit
 499887,00-99,OP CARD COMPANY PLC,FI,visa,debit
-499888,00-99,BBP BANK S.A.,PA,visa,credit
+499888,00-19,BBP BANK S.A.,PA,visa,credit
 499889,00-99,100% BANCO BANCO UNIVERSAL C.A.,VE,visa,credit
-499890,00-99,SUDAMERIS BANK S.A.E.C.A. *(OFFBOARDING)*,PY,visa,credit
+499890,00,SUDAMERIS BANK S.A.E.C.A.,PY,visa,credit
 499891,00-99,CCB BRASIL,BR,visa,credit
 499892,00-99,DOCK SOLUCOES EM MEIOS DE PAGAMENTO S.A,BR,visa,credit
-499893,00-99,JSCB KAPITALBANK,UZ,visa,debit
+499893,00,JSCB KAPITALBANK,UZ,visa,debit
 499894,00-99,HERITAGE INTERNATIONAL BANK AND TRUST LTD.,BZ,visa,credit
 499895,00-99,HERITAGE INTERNATIONAL BANK AND TRUST LTD.,BZ,visa,credit
 499896,00-99,HERITAGE INTERNATIONAL BANK AND TRUST LTD.,BZ,visa,debit
-499897,00-99,,DE,visa,credit
-499898,00-99,DEUTSCHE KREDITBANK AG,DE,visa,credit
-499899,00-99,SHINHAN BANK (CAMBODIA) PLC.,KH,visa,debit
-499900,00-99,CITIBANK NATIONAL ASSOCIATION,NZ,visa,credit
+499897,00,DEUTSCHE KREDITBANK AG,DE,visa,credit
+499898,00,DEUTSCHE KREDITBANK AG,DE,visa,credit
+499899,00,SHINHAN BANK (CAMBODIA) PLC.,KH,visa,debit
+499900,00,CITIBANK NATIONAL ASSOCIATION,NZ,visa,credit
 499901,00-99,BRANCH BANKING AND TRUST COMPANY,US,visa,debit
-499902,00-99,NATIONAL BANK OF KUWAIT (INTERNATIONAL) PLC,GB,visa,debit
-499903,00-99,JOVIA FINANCIAL FEDERAL CREDIT UNION,US,visa,debit
+499902,00,NATIONAL BANK OF KUWAIT (INTERNATIONAL) PLC,GB,visa,debit
+499903,00,JOVIA FINANCIAL FEDERAL CREDIT UNION,US,visa,debit
 499904,00-99,BANCO DO BRASIL S.A.,BR,visa,debit
-499905,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LTD.,BS,visa,credit
-499906,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,AG,visa,credit
+499905,00,CIBC CARIBBEAN BANK BAHAMAS LIMITED,BS,visa,credit
+499906,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,AG,visa,credit
 499907,00-99,OTP BANKA D.D.,HR,visa,credit
 499908,00-99,ECOBANK NIGERIA PLC,NG,visa,debit
-499909,00-99,ECOBANK NIGERIA LTD.,NG,visa,debit
+499909,00,ECOBANK NIGERIA LIMITED,NG,visa,prepaid
 499910,00-99,OCEANIC BANK INTERNATIONAL (NIGERIA) PLC,NG,visa,debit
-499911,00-99,THE FIRST BANK,US,visa,credit
+499911,00-49,THE FIRST BANK,US,visa,credit
 499912,00-99,THE FIRST BANK,US,visa,credit
 499913,00-99,BANK OF NEW ZEALAND,NZ,visa,credit
 499914,00-99,BANK OF NEW ZEALAND,NZ,visa,credit
@@ -9920,7 +9920,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 499917,00-99,ASCENT FEDERAL CREDIT UNION,US,visa,debit
 499918,00-99,BANCO SANTANDER S.A.,BR,visa,credit
 499919,00-99,BANCO SANTANDER S.A.,BR,visa,credit
-499920,00-99,MIDWEST HERITAGE BANK FSB,US,visa,debit
+499920,00,MIDWEST HERITAGE BANK FSB,US,visa,debit
 499921,00-99,NEDBANK PRIVATE WEALTH LTD.,GB,visa,credit
 499922,00-99,NEDBANK PRIVATE WEALTH LTD.,GB,visa,credit
 499923,00-99,NEDBANK PRIVATE WEALTH LTD.,GB,visa,debit
@@ -9928,75 +9928,75 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 499925,00-99,BANCO PROVINCIAL BBVA OVERSEAS,KY,visa,credit
 499926,00-99,BANCO PROVINCIAL BBVA OVERSEAS,AW,visa,credit
 499927,00-99,SHAMBHALA CREDIT UNION,US,visa,credit
-499928,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,BB,visa,credit
-499929,00-99,VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL,VE,visa,debit
+499928,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,BB,visa,credit
+499929,00-05,VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL,VE,visa,debit
 499930,00-99,VENEZOLANO DE CREDITO S.A. BANCO UNIVERSAL,VE,visa,credit
-499931,00-99,MIDFIRST BANK,US,visa,credit
+499931,00,MIDFIRST BANK,US,visa,credit
 499932,00-99,PJSC ROSBANK,RU,visa,debit
-499933,00-99,PENINSULA FEDERAL CREDIT UNION,US,visa,credit
+499933,00,PENINSULA FEDERAL CREDIT UNION,US,visa,credit
 499934,00-99,FIDELITY NATIONAL INFORMATION SERVICES INC.,US,visa,credit
-499935,00-99,HYUNDAI CARD COMPANY LTD.,KR,visa,credit
-499936,00-99,MIDFIRST BANK,US,visa,credit
+499935,00-23,HYUNDAI CARD COMPANY LIMITED,KR,visa,credit
+499936,00,MIDFIRST BANK,US,visa,credit
 499937,00-99,CORNING FEDERAL CREDIT UNION,US,visa,credit
-499938,00-99,FLAGSTAR BANK NATIONAL ASSOCIATION,US,visa,debit
+499938,00,FLAGSTAR BANK NATIONAL ASSOCIATION,US,visa,debit
 499939,00-99,KHAN BANK,MN,visa,credit
-499940,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,visa,debit
+499940,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,visa,prepaid
 499941,00-99,BANCO CONFEDERADO S.A.,VE,visa,credit
-499942,00-99,RED RIVER FEDERAL CREDIT UNION,US,visa,debit
-499943,00-99,BADLANDS FEDERAL CREDIT UNION,US,visa,debit
-499944,00-99,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
-499945,00-99,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
-499946,00-99,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
-499947,00-99,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
-499948,00-99,SEFIDE EDE SLU,ES,visa,debit
+499942,00,RED RIVER FEDERAL CREDIT UNION,US,visa,debit
+499943,00,BADLANDS FEDERAL CREDIT UNION,US,visa,debit
+499944,00,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
+499945,00,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
+499946,00,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
+499947,00,PUBLIX EMPLOYEES FEDERAL CREDIT UNION,US,visa,credit
+499948,00,SEFIDE EDE SLU,ES,visa,debit
 499949,00-99,BANKINTER S.A.,ES,visa,credit
-499950,00-99,MEMBERS 1ST FEDERAL CREDIT UNION,US,visa,credit
-499951,00-99,MOVEMENT BANK,US,visa,debit
-499952,00-99,INTERAUDI BANK,US,visa,credit
-499953,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LTD.,JM,visa,credit
+499950,00,MEMBERS 1ST FEDERAL CREDIT UNION,US,visa,credit
+499951,00,MOVEMENT BANK,US,visa,debit
+499952,00-09,INTERAUDI BANK,US,visa,credit
+499953,00,CIBC CARIBBEAN BANK JAMAICA LIMITED,JM,visa,credit
 499954,00-99,PIRAEUS BANK S.A.,GR,visa,credit
 499955,00-99,BANCO COMERCIAL PORTUGUES S.A.,PT,visa,credit
-499956,00-99,BANKINTER S.A.,ES,visa,debit
-499957,00-99,,US,visa,debit
-499958,00-99,HANG SENG BANK LTD.,HK,visa,credit
-499959,00-99,KRUNGSRIAYUDHYA CARD CO. LTD.,TH,visa,credit
-499960,00-99,KRUNGSRIAYUDHYA CARD CO. LTD.,TH,visa,credit
+499956,00-20,BANKINTER S.A.,ES,visa,debit
+499957,00-99,UNKNOWN,US,visa,debit
+499958,00,HANG SENG BANK LIMITED,HK,visa,credit
+499959,00,KRUNGSRIAYUDHYA CARD CO. LTD.,TH,visa,credit
+499960,00,KRUNGSRIAYUDHYA CARD CO. LTD.,TH,visa,credit
 499961,00-99,DOLLAR BANK A FEDERAL SAVINGS BANK,US,visa,credit
 499962,00-99,LUMINOR BANK AS,LV,visa,credit
 499963,00-99,NATIONAL BANK OF KENYA LTD.,KE,visa,credit
-499964,00-99,AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD.,FJ,visa,credit
-499965,00-99,UNITED SOUTHERN BANK,US,visa,debit
+499964,00-10,AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED,FJ,visa,credit
+499965,00,UNITED SOUTHERN BANK,US,visa,debit
 499966,00-99,PJSC ROSBANK,RU,visa,debit
 499967,00-99,SUTTON BANK,US,visa,debit
-499968,00-99,BANCO COMERCIAL PORTUGUES S.A.,PT,visa,credit
-499969,00-99,BANCO COMERCIAL PORTUGUES S.A.,PT,visa,credit
+499968,00,BANCO COMERCIAL PORTUGUES S.A.,PT,visa,credit
+499969,00,BANCO COMERCIAL PORTUGUES S.A.,PT,visa,credit
 499970,00-99,PIRAEUS BANK S.A.,GR,visa,credit
 499971,00-99,WASHINGTON COUNTY BANK N.A.,US,visa,credit
-499972,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LTD.,BS,visa,credit
-499973,00-99,OPTIONS CREDIT UNION,US,visa,credit
+499972,00,CIBC CARIBBEAN BANK BAHAMAS LIMITED,BS,visa,credit
+499973,00,OPTIONS CREDIT UNION,US,visa,credit
 499974,00-99,VISA NEW ZEALAND,NZ,visa,credit
-499975,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,AG,visa,credit
-499976,00-99,NEW PEOPLES BANK INC.,US,visa,credit
+499975,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,AG,visa,credit
+499976,00,NEW PEOPLES BANK INC.,US,visa,credit
 499977,00-99,BANK OF NEW ZEALAND,NZ,visa,credit
 499978,00-99,FIDELITY BANK GHANA LTD.,GH,visa,credit
 499979,00-99,FIDELITY BANK GHANA LTD.,GH,visa,credit
-499980,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD.,KY,visa,credit
-499981,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (CAYMAN) LTD.,KY,visa,credit
-499982,00-99,BIZ INSTITUICAO DE PAGAMENTO LTDA,BR,visa,credit
+499980,00,CIBC CARIBBEAN BANK CAYMAN LIMITED,KY,visa,credit
+499981,00,CIBC CARIBBEAN BANK CAYMAN LIMITED,KY,visa,credit
+499982,00-09,BIZ INSTITUICAO DE PAGAMENTO S.A,BR,visa,credit
 499983,00-99,ANZ (GUAM) INC.,GU,visa,credit
-499984,00-99,BANCO BRADESCO S.A.,BR,visa,credit
-499985,00-99,BANKINTER S.A.,PT,visa,credit
+499984,00,BANCO BRADESCO S.A.,BR,visa,credit
+499985,00,BANKINTER S.A.,PT,visa,credit
 499986,00-99,THE CHUGIN CARD COMPANY LIMITED.,JP,visa,credit
-499987,00-99,NEW HEIGHTS FEDERAL CREDIT UNION,US,visa,debit
+499987,00,NEW HEIGHTS FEDERAL CREDIT UNION,US,visa,debit
 499988,00-99,CITIZENS NATIONAL BANK OF BLUFFTON,US,visa,debit
 499989,00-99,CITIZENS NATIONAL BANK OF BLUFFTON,US,visa,debit
-499990,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,BB,visa,credit
-499991,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,BB,visa,credit
-499992,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,BB,visa,credit
-499993,00-99,FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LTD.,AG,visa,credit
+499990,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,BB,visa,credit
+499991,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,BB,visa,credit
+499992,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,BB,visa,credit
+499993,00,CIBC CARIBBEAN BANK (BARBADOS) LIMITED,AG,visa,credit
 499994,00-99,SUNRISE BANKS N.A.,US,visa,debit
 499995,00-99,MVB BANK INC,US,visa,debit
 499996,00-99,STERLING NATIONAL BANK,US,visa,debit
 499997,00-99,STERLING NATIONAL BANK,US,visa,debit
-499998,00-99,GREEN DOT BANK DBA BONNEVILLE BANK,US,visa,debit
-499999,00-99,CONOTOXIA SP. Z O.O,ES,visa,debit
+499998,00-02,GREEN DOT BANK DBA BONNEVILLE BANK,US,visa,debit
+499999,00,CONOTOXIA SP. Z O.O,PL,visa,debit
