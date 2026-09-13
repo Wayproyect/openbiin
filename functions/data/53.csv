@@ -8218,211 +8218,211 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538414,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
 538415,00-99,EMIRATES NBD,AE,mastercard,prepaid
 538416,00-99,UNKNOWN,US,mastercard,credit
-538417,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538418,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538419,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538420,00-99,TRAVELEX CARD SERVICES LTD.,HK,mastercard,debit
+538417,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538418,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538419,00-09,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538420,00-07,TRAVELEX CARD SERVICES LIMITED,HK,mastercard,prepaid
 538421,00-99,TRAVELEX CARD SERVICES LTD.,HK,mastercard,debit
-538422,00-99,MAURITIUS COMMERCIAL BANK LTD.,ZA,mastercard,debit
-538423,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538424,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
+538422,00-99,MAURITIUS COMMERCIAL BANK LIMITED THE,ZA,mastercard,prepaid
+538423,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538424,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
 538425,00-99,COMMERCIAL BANK OF DUBAI,AE,mastercard,debit
-538426,00-99,STATE BANK OF INDIA,IN,mastercard,debit
-538427,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538428,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
-538429,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
-538430,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538431,00-99,PREPAY TECHNOLOGIES LTD.,IT,mastercard,debit
-538432,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,GH,mastercard,debit
-538433,00-99,PREPAY TECHNOLOGIES LTD.,DE,mastercard,debit
+538426,00-99,STATE BANK OF INDIA,IN,mastercard,prepaid
+538427,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538428,00-99,TRAVELEX JAPAN KK,JP,mastercard,prepaid
+538429,00-99,TRAVELEX JAPAN KK,JP,mastercard,prepaid
+538430,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538431,00-99,PREPAY TECHNOLOGIES LTD,IT,mastercard,prepaid
+538432,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,GH,mastercard,prepaid
+538433,00-99,PREPAY TECHNOLOGIES LTD,DE,mastercard,prepaid
 538434,00-99,DUBAI ISLAMIC BANK PJSC,AE,mastercard,debit
-538435,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538436,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538437,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538438,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538439,00-99,,US,mastercard,credit
+538435,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538436,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538437,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538438,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538439,00-99,UNKNOWN,US,mastercard,credit
 538440,00-99,CREDIT SAISON CO. LTD.,JP,mastercard,debit
 538441,00-99,TRAVELEX CARD SERVICES LTD.,BW,mastercard,debit
-538442,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538443,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538444,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538445,00-99,PREPAY TECHNOLOGIES LTD.,FR,mastercard,debit
-538446,00-99,,DE,mastercard,credit
-538447,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538448,00-99,EMIRATES NBD,AE,mastercard,debit
-538449,00-99,PREPAY TECHNOLOGIES LTD.,NL,mastercard,debit
-538450,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
+538442,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538443,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538444,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538445,00-99,PREPAY TECHNOLOGIES LTD,FR,mastercard,prepaid
+538446,00-99,UNKNOWN,DE,mastercard,credit
+538447,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538448,00-99,EMIRATES NBD,AE,mastercard,prepaid
+538449,00-09,PREPAY TECHNOLOGIES LTD,NL,mastercard,prepaid
+538450,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
 538451,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
 538452,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
-538453,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
-538454,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
-538455,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
-538456,00-99,,US,mastercard,credit
+538453,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
+538454,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
+538455,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
+538456,00-99,UNKNOWN,US,mastercard,credit
 538457,00-99,TRAVELEX AUSTRALIA CARD SERVICES PTY LTD.,AU,private label,debit
-538458,00-99,PREPAY TECHNOLOGIES LTD.,DE,mastercard,debit
-538459,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
-538460,00-99,TRAVELEX CARD SERVICES LTD.,BR,mastercard,debit
+538458,00,PREPAY TECHNOLOGIES LTD,DE,mastercard,prepaid
+538459,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
+538460,00-99,TRAVELEX CARD SERVICES LIMITED,BR,mastercard,prepaid
 538461,00-99,EMIRATES NBD,AE,mastercard,debit
 538462,00-99,EMIRATES NBD,AE,mastercard,debit
-538463,00-99,ISRAEL POSTAL BANK COMPANY LTD.,IL,mastercard,debit
-538464,00-99,ISRAEL POSTAL BANK COMPANY LTD.,IL,mastercard,debit
-538465,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
-538466,00-99,,US,mastercard,credit
-538467,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538468,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538469,00-99,,ZA,mastercard,debit
+538463,00-99,D.I. POSTAL FINANCE LTD,IL,mastercard,prepaid
+538464,00-99,D.I. POSTAL FINANCE LTD,IL,mastercard,prepaid
+538465,00-99,TRAVELEX JAPAN KK,JP,mastercard,prepaid
+538466,00-99,UNKNOWN,US,mastercard,credit
+538467,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538468,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538469,00-99,UNKNOWN,ZA,mastercard,debit
 538470,00-99,PREPAY TECHNOLOGIES LTD.,IE,mastercard,debit
-538471,00-99,,US,mastercard,credit
-538472,00-99,,US,mastercard,credit
-538473,00-99,,US,mastercard,credit
-538474,00-99,,US,mastercard,credit
-538475,00-99,,US,mastercard,credit
-538476,00-99,,US,mastercard,credit
-538477,00-99,,US,mastercard,credit
-538478,00-99,,TR,mastercard,credit
-538479,00-99,,US,mastercard,credit
-538480,00-99,,US,mastercard,credit
-538481,00-99,,GB,mastercard,credit
-538482,00-99,,PE,mastercard,debit
-538483,00-99,,US,mastercard,credit
-538484,00-99,,CA,mastercard,credit
-538485,00-99,,US,mastercard,credit
-538486,00-99,,US,mastercard,credit
-538487,00-99,,US,mastercard,credit
-538488,00-99,,US,mastercard,credit
-538489,00-99,,US,mastercard,credit
-538490,00-99,,US,mastercard,credit
-538491,00-99,,US,mastercard,credit
-538492,00-99,,US,mastercard,credit
-538493,00-99,,DE,mastercard,credit
-538494,00-99,,JO,mastercard,debit
-538495,00-99,,US,mastercard,credit
-538496,00-99,,US,mastercard,credit
-538497,00-99,,ZA,mastercard,debit
-538498,00-99,,US,mastercard,credit
-538499,00-99,,US,mastercard,credit
-538500,00-99,,DE,mastercard,credit
-538501,00-99,,DE,mastercard,credit
-538502,00-99,,US,mastercard,credit
-538503,00-99,,US,mastercard,credit
-538504,00-99,,US,mastercard,credit
+538471,00-99,UNKNOWN,US,mastercard,credit
+538472,00-99,UNKNOWN,US,mastercard,credit
+538473,00-99,UNKNOWN,US,mastercard,credit
+538474,00-99,UNKNOWN,US,mastercard,credit
+538475,00-99,UNKNOWN,US,mastercard,credit
+538476,00-99,UNKNOWN,US,mastercard,credit
+538477,00-99,UNKNOWN,US,mastercard,credit
+538478,00-99,UNKNOWN,TR,mastercard,credit
+538479,00-99,UNKNOWN,US,mastercard,credit
+538480,00-99,PREPAY TECHNOLOGIES LTD,SE,mastercard,prepaid
+538481,00-99,UNKNOWN,GB,mastercard,credit
+538482,00-99,UNKNOWN,PE,mastercard,debit
+538483,00-99,UNKNOWN,US,mastercard,credit
+538484,00-99,UNKNOWN,CA,mastercard,credit
+538485,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538486,00-99,HONORA TANZANIA MOBILE SOLUTIONS LIMITED,TZ,mastercard,prepaid
+538487,00-99,UNKNOWN,US,mastercard,credit
+538488,00-99,UNKNOWN,US,mastercard,credit
+538489,00-99,UNKNOWN,US,mastercard,credit
+538490,00-99,UNKNOWN,US,mastercard,credit
+538491,00-99,UNKNOWN,US,mastercard,credit
+538492,00-99,UNKNOWN,US,mastercard,credit
+538493,00-99,UNKNOWN,DE,mastercard,credit
+538494,00-99,UNKNOWN,JO,mastercard,debit
+538495,00-99,UNKNOWN,US,mastercard,credit
+538496,00-99,UNKNOWN,US,mastercard,credit
+538497,00-99,UNKNOWN,ZA,mastercard,debit
+538498,00-99,UNKNOWN,US,mastercard,credit
+538499,00-99,UNKNOWN,US,mastercard,credit
+538500,00-99,UNKNOWN,DE,mastercard,credit
+538501,00-99,UNKNOWN,DE,mastercard,credit
+538502,00-99,UNKNOWN,US,mastercard,credit
+538503,00-99,UNKNOWN,US,mastercard,credit
+538504,00-99,UNKNOWN,US,mastercard,credit
 538505,00-99,WEST SUBURBAN BANK,US,mastercard,debit
-538506,00-99,,US,mastercard,credit
-538507,00-99,,US,mastercard,credit
-538508,00-99,,US,mastercard,credit
-538509,00-99,,US,mastercard,credit
-538510,00-99,,US,mastercard,credit
-538511,00-99,,US,mastercard,credit
-538512,00-99,,US,mastercard,credit
-538513,00-99,,US,mastercard,credit
-538514,00-99,,US,mastercard,credit
-538515,00-99,,US,mastercard,credit
-538516,00-99,,US,mastercard,credit
-538517,00-99,,US,mastercard,credit
-538518,00-99,,US,mastercard,credit
-538519,00-99,,AU,mastercard,credit
-538520,00-99,,US,mastercard,credit
-538521,00-99,,IT,mastercard,credit
-538522,00-99,,US,mastercard,credit
-538523,00-99,,US,mastercard,credit
-538524,00-99,,US,mastercard,credit
-538525,00-99,,US,mastercard,credit
-538526,00-99,,US,mastercard,credit
-538527,00-99,,US,mastercard,credit
-538528,00-99,,US,mastercard,credit
-538529,00-99,,US,mastercard,credit
-538530,00-99,,US,mastercard,credit
-538531,00-99,,US,mastercard,credit
-538532,00-99,,US,mastercard,credit
-538533,00-99,,US,mastercard,credit
-538534,00-99,,US,mastercard,credit
-538535,00-99,MAURITIUS COMMERCIAL BANK LTD.,ZA,mastercard,debit
-538536,00-99,,US,mastercard,credit
-538537,00-99,,IT,mastercard,credit
-538538,00-99,,US,mastercard,credit
-538539,00-99,,US,mastercard,credit
-538540,00-99,,US,mastercard,credit
-538541,00-99,,US,mastercard,credit
-538542,00-99,,US,mastercard,credit
-538543,00-99,,US,mastercard,credit
-538544,00-99,,US,mastercard,credit
-538545,00-99,,US,mastercard,credit
-538546,00-99,,US,mastercard,credit
-538547,00-99,,US,mastercard,credit
-538548,00-99,,US,mastercard,credit
-538549,00-99,,US,mastercard,credit
-538550,00-99,,US,mastercard,credit
-538551,00-99,,US,mastercard,credit
-538552,00-99,,US,mastercard,credit
-538553,00-99,,US,mastercard,credit
-538554,00-99,,US,mastercard,credit
-538555,00-99,,US,mastercard,credit
-538556,00-99,,US,mastercard,credit
-538557,00-99,,US,mastercard,credit
-538558,00-99,,US,mastercard,credit
-538559,00-99,,US,mastercard,credit
-538560,00-99,,US,mastercard,credit
-538561,00-99,,US,mastercard,credit
-538562,00-99,,US,mastercard,credit
-538563,00-99,,US,mastercard,credit
-538564,00-99,,US,mastercard,credit
-538565,00-99,,US,mastercard,credit
-538566,00-99,,US,mastercard,credit
-538567,00-99,,US,mastercard,credit
-538568,00-99,,US,mastercard,credit
-538569,00-99,,US,mastercard,credit
-538570,00-99,,CA,mastercard,credit
-538571,00-99,,US,mastercard,credit
-538572,00-99,,US,mastercard,credit
-538573,00-99,,US,mastercard,credit
-538574,00-99,,US,mastercard,credit
-538575,00-99,,US,mastercard,credit
-538576,00-99,,US,mastercard,credit
-538577,00-99,,US,mastercard,credit
-538578,00-99,,US,mastercard,credit
-538579,00-99,,DE,mastercard,credit
-538580,00-99,,US,mastercard,credit
-538581,00-99,,US,mastercard,credit
-538582,00-99,,US,mastercard,credit
-538583,00-99,,US,mastercard,credit
-538584,00-99,,US,mastercard,credit
-538585,00-99,,US,mastercard,credit
-538586,00-99,,US,mastercard,credit
-538587,00-99,,US,mastercard,credit
-538588,00-99,,US,mastercard,credit
-538589,00-99,,US,mastercard,credit
-538590,00-99,,US,mastercard,credit
-538591,00-99,,US,mastercard,credit
-538592,00-99,,US,mastercard,credit
-538593,00-99,,US,mastercard,credit
-538594,00-99,,US,mastercard,credit
-538595,00-99,,US,mastercard,credit
-538596,00-99,,US,mastercard,credit
-538597,00-99,,US,mastercard,credit
-538598,00-99,,US,mastercard,credit
-538599,00-99,,US,mastercard,credit
-538600,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538601,00-99,BIDVEST BANK LTD.,ZA,mastercard,debit
-538602,00-99,,AU,mastercard,credit
-538603,00-99,,DE,mastercard,credit
-538604,00-99,,US,mastercard,credit
-538605,00-99,,US,mastercard,credit
-538606,00-99,PREPAY TECHNOLOGIES LTD.,IT,mastercard,debit
+538506,00-99,UNKNOWN,US,mastercard,credit
+538507,00-99,UNKNOWN,US,mastercard,credit
+538508,00-99,UNKNOWN,US,mastercard,credit
+538509,00-99,UNKNOWN,US,mastercard,credit
+538510,00-99,UNKNOWN,US,mastercard,credit
+538511,00-99,UNKNOWN,US,mastercard,credit
+538512,00-99,UNKNOWN,US,mastercard,credit
+538513,00-99,UNKNOWN,US,mastercard,credit
+538514,00-99,UNKNOWN,US,mastercard,credit
+538515,00-99,UNKNOWN,US,mastercard,credit
+538516,00-99,UNKNOWN,US,mastercard,credit
+538517,00-99,UNKNOWN,US,mastercard,credit
+538518,00-99,UNKNOWN,US,mastercard,credit
+538519,00-99,UNKNOWN,AU,mastercard,credit
+538520,00-99,UNKNOWN,US,mastercard,credit
+538521,00-99,UNKNOWN,IT,mastercard,credit
+538522,00-99,UNKNOWN,US,mastercard,credit
+538523,00-99,UNKNOWN,US,mastercard,credit
+538524,00-99,UNKNOWN,US,mastercard,credit
+538525,00-99,UNKNOWN,US,mastercard,credit
+538526,00-99,UNKNOWN,US,mastercard,credit
+538527,00-99,UNKNOWN,US,mastercard,credit
+538528,00-99,UNKNOWN,US,mastercard,credit
+538529,00-99,UNKNOWN,US,mastercard,credit
+538530,00-99,UNKNOWN,US,mastercard,credit
+538531,00-99,UNKNOWN,US,mastercard,credit
+538532,00-99,UNKNOWN,US,mastercard,credit
+538533,00-99,UNKNOWN,US,mastercard,credit
+538534,00-99,UNKNOWN,US,mastercard,credit
+538535,00-01,MAURITIUS COMMERCIAL BANK LIMITED THE,ZA,mastercard,prepaid
+538536,00-99,UNKNOWN,US,mastercard,credit
+538537,00-99,UNKNOWN,IT,mastercard,credit
+538538,00-99,UNKNOWN,US,mastercard,credit
+538539,00-99,UNKNOWN,US,mastercard,credit
+538540,00-99,UNKNOWN,US,mastercard,credit
+538541,00-99,UNKNOWN,US,mastercard,credit
+538542,00-99,UNKNOWN,US,mastercard,credit
+538543,00-99,UNKNOWN,US,mastercard,credit
+538544,00-99,UNKNOWN,US,mastercard,credit
+538545,00-99,UNKNOWN,US,mastercard,credit
+538546,00-99,UNKNOWN,US,mastercard,credit
+538547,00-99,UNKNOWN,US,mastercard,credit
+538548,00-99,UNKNOWN,US,mastercard,credit
+538549,00-99,UNKNOWN,US,mastercard,credit
+538550,00-99,UNKNOWN,US,mastercard,credit
+538551,00-99,UNKNOWN,US,mastercard,credit
+538552,00-99,UNKNOWN,US,mastercard,credit
+538553,00-99,UNKNOWN,US,mastercard,credit
+538554,00-99,UNKNOWN,US,mastercard,credit
+538555,00-99,UNKNOWN,US,mastercard,credit
+538556,00-99,UNKNOWN,US,mastercard,credit
+538557,00-99,UNKNOWN,US,mastercard,credit
+538558,00-99,UNKNOWN,US,mastercard,credit
+538559,00-99,UNKNOWN,US,mastercard,credit
+538560,00-99,UNKNOWN,US,mastercard,credit
+538561,00-99,UNKNOWN,US,mastercard,credit
+538562,00-99,UNKNOWN,US,mastercard,credit
+538563,00-99,UNKNOWN,US,mastercard,credit
+538564,00-99,UNKNOWN,US,mastercard,credit
+538565,00-99,UNKNOWN,US,mastercard,credit
+538566,00-99,UNKNOWN,US,mastercard,credit
+538567,00-99,UNKNOWN,US,mastercard,credit
+538568,00-99,UNKNOWN,US,mastercard,credit
+538569,00-99,UNKNOWN,US,mastercard,credit
+538570,00-99,UNKNOWN,CA,mastercard,credit
+538571,00-99,UNKNOWN,US,mastercard,credit
+538572,00-99,UNKNOWN,US,mastercard,credit
+538573,00-99,UNKNOWN,US,mastercard,credit
+538574,00-99,UNKNOWN,US,mastercard,credit
+538575,00-99,UNKNOWN,US,mastercard,credit
+538576,00-99,UNKNOWN,US,mastercard,credit
+538577,00-99,UNKNOWN,US,mastercard,credit
+538578,00-99,UNKNOWN,US,mastercard,credit
+538579,00-99,UNKNOWN,DE,mastercard,credit
+538580,00-99,UNKNOWN,US,mastercard,credit
+538581,00-99,UNKNOWN,US,mastercard,credit
+538582,00-99,UNKNOWN,US,mastercard,credit
+538583,00-99,UNKNOWN,US,mastercard,credit
+538584,00-99,UNKNOWN,US,mastercard,credit
+538585,00-99,UNKNOWN,US,mastercard,credit
+538586,00-99,UNKNOWN,US,mastercard,credit
+538587,00-99,UNKNOWN,US,mastercard,credit
+538588,00-99,UNKNOWN,US,mastercard,credit
+538589,00-99,UNKNOWN,US,mastercard,credit
+538590,00-99,UNKNOWN,US,mastercard,credit
+538591,00-99,UNKNOWN,US,mastercard,credit
+538592,00-99,UNKNOWN,US,mastercard,credit
+538593,00-99,UNKNOWN,US,mastercard,credit
+538594,00-99,UNKNOWN,US,mastercard,credit
+538595,00-99,UNKNOWN,US,mastercard,credit
+538596,00-99,UNKNOWN,US,mastercard,credit
+538597,00-99,UNKNOWN,US,mastercard,credit
+538598,00-99,UNKNOWN,US,mastercard,credit
+538599,00-99,UNKNOWN,US,mastercard,credit
+538600,00-09,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538601,00-99,BIDVEST BANK LIMITED,ZA,mastercard,prepaid
+538602,00-99,UNKNOWN,AU,mastercard,credit
+538603,00-99,UNKNOWN,DE,mastercard,credit
+538604,00-99,UNKNOWN,US,mastercard,credit
+538605,00-99,UNKNOWN,US,mastercard,credit
+538606,00,PREPAY TECHNOLOGIES LTD,IT,mastercard,prepaid
 538607,00-99,HERITAGE AND PEOPLE'S CHOICE LTD.,AU,mastercard,debit
-538608,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
+538608,00-99,PEOPLES TRUST COMPANY,CA,mastercard,prepaid
 538609,00-99,DUBAI ISLAMIC BANK PJSC,AE,mastercard,debit
-538610,00-99,COMMERCIAL BANK OF QATAR Q.S.C,QA,mastercard,debit
-538611,00-99,DUKHAN BANK Q.P.S.C.,QA,mastercard,debit
+538610,00-99,COMMERCIAL BANK OF QATAR Q.S.C,QA,mastercard,prepaid
+538611,00-99,DUKHAN BANK Q.P.S.C.,QA,mastercard,prepaid
 538612,00-99,TRAVELEX SINGAPORE CARD SERVICES PTE. LTD.,SG,mastercard,debit
 538613,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
-538614,00-99,,US,mastercard,credit
-538615,00-99,,US,mastercard,credit
-538616,00-99,,US,mastercard,credit
-538617,00-99,,US,mastercard,credit
-538618,00-99,,US,mastercard,credit
-538619,00-99,,US,mastercard,credit
-538620,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538621,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
+538614,00-99,UNKNOWN,US,mastercard,credit
+538615,00-99,UNKNOWN,US,mastercard,credit
+538616,00-99,UNKNOWN,US,mastercard,credit
+538617,00-99,UNKNOWN,US,mastercard,credit
+538618,00-99,UNKNOWN,US,mastercard,credit
+538619,00-99,UNKNOWN,US,mastercard,credit
+538620,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538621,00-99,TRAVELEX JAPAN KK,JP,mastercard,prepaid
 538622,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
 538623,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
 538624,00-99,COMMONWEALTH BANK OF AUSTRALIA,AU,mastercard,debit
@@ -8431,66 +8431,66 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538627,00-99,CREDIT SAISON CO. LTD.,JP,mastercard,debit
 538628,00-99,R RAPHAEL & SONS,GB,mastercard,debit
 538629,00-99,FEDERAL BANK LTD.,IN,mastercard,debit
-538630,00-99,,US,mastercard,credit
-538631,00-99,,US,mastercard,credit
+538630,00-99,UNKNOWN,US,mastercard,credit
+538631,00-99,UNKNOWN,US,mastercard,credit
 538632,00-99,WEST SUBURBAN BANK,US,mastercard,debit
 538633,00-99,PEOPLES TRUST COMPANY,CA,mastercard,debit
-538634,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538635,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
+538634,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538635,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
 538636,00-99,HERITAGE AND PEOPLE'S CHOICE LTD.,AU,mastercard,debit
-538637,00-99,,US,mastercard,credit
-538638,00-99,,US,mastercard,credit
+538637,00-99,UNKNOWN,US,mastercard,credit
+538638,00-99,UNKNOWN,US,mastercard,credit
 538639,00-99,NATIONAL AUSTRALIA BANK LTD.,AU,mastercard,debit
-538640,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538641,00-99,PREPAY TECHNOLOGIES LTD.,IE,mastercard,debit
-538642,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538643,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
+538640,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538641,00,PREPAY TECHNOLOGIES LTD,IE,mastercard,prepaid
+538642,00-09,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538643,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
 538644,00-99,METABANK NATIONAL ASSOCIATION,US,mastercard,debit
 538645,00-99,METABANK NATIONAL ASSOCIATION,US,mastercard,debit
-538646,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538647,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538648,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538649,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538650,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538651,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538652,00-99,EML PAYMENT SOLUTIONS LTD.,NZ,mastercard,debit
-538653,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
+538646,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538647,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538648,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538649,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538650,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538651,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538652,00-99,EML PAYMENT SOLUTIONS LIMITED,NZ,mastercard,prepaid
+538653,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
 538654,00-99,HERITAGE BANK LTD.,AU,mastercard,debit
-538655,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,debit
-538656,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,debit
-538657,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,debit
-538658,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,debit
-538659,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
-538660,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
+538655,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,prepaid
+538656,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,prepaid
+538657,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,prepaid
+538658,00-99,WESTPAC BANKING CORPORATION,AU,mastercard,prepaid
+538659,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
+538660,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
 538661,00-99,KEB HANA BANK CO. LTD.,KR,mastercard,debit
-538662,00-99,EML PAYMENT SOLUTIONS LTD.,AU,mastercard,debit
+538662,00-99,EML PAYMENT SOLUTIONS LIMITED,AU,mastercard,prepaid
 538663,00-99,HERITAGE BANK LTD.,AU,mastercard,debit
 538664,00-99,COMMONWEALTH BANK OF AUSTRALIA,AU,mastercard,debit
-538665,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
+538665,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
 538666,00-99,DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,DE,mastercard,debit
-538667,00-99,PREPAY TECHNOLOGIES LTD.,FR,mastercard,debit
-538668,00-99,PREPAY TECHNOLOGIES LTD.,IE,mastercard,debit
-538669,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538670,00-99,PREPAY TECHNOLOGIES LTD.,IT,mastercard,debit
-538671,00-99,PREPAY TECHNOLOGIES LTD.,ES,mastercard,debit
-538672,00-99,PREPAY TECHNOLOGIES LTD.,DE,mastercard,debit
-538673,00-99,,US,mastercard,credit
-538674,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538675,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538676,00-99,THOMAS COOK,GB,mastercard,credit
-538677,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538678,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538679,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538680,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538681,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538682,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538683,00-99,PREPAY TECHNOLOGIES LTD.,GB,mastercard,debit
-538684,00-99,PREPAY TECHNOLOGIES LTD.,NL,mastercard,debit
-538685,00-99,PREPAY TECHNOLOGIES LTD.,NL,mastercard,debit
-538686,00-99,PREPAY TECHNOLOGIES LTD.,NL,mastercard,debit
-538687,00-99,PREPAY TECHNOLOGIES LTD.,FR,mastercard,debit
-538688,00-99,PREPAY TECHNOLOGIES LTD.,FR,mastercard,debit
-538689,00-99,PREPAY TECHNOLOGIES LTD.,FR,mastercard,debit
+538667,00-99,PREPAY TECHNOLOGIES LTD,FR,mastercard,prepaid
+538668,00-99,PREPAY TECHNOLOGIES LTD,IE,mastercard,prepaid
+538669,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538670,00-99,PREPAY TECHNOLOGIES LTD,IT,mastercard,prepaid
+538671,00-99,PREPAY TECHNOLOGIES LTD,ES,mastercard,prepaid
+538672,00-99,PREPAY TECHNOLOGIES LTD,DE,mastercard,prepaid
+538673,00-99,UNKNOWN,US,mastercard,credit
+538674,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538675,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538676,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538677,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538678,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538679,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538680,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538681,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538682,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538683,00-99,PREPAY TECHNOLOGIES LTD,GB,mastercard,prepaid
+538684,00-99,PREPAY TECHNOLOGIES LTD,NL,mastercard,prepaid
+538685,00-99,PREPAY TECHNOLOGIES LTD,NL,mastercard,prepaid
+538686,00-99,PREPAY TECHNOLOGIES LTD,NL,mastercard,prepaid
+538687,00-99,PREPAY TECHNOLOGIES LTD,FR,mastercard,prepaid
+538688,00-99,PREPAY TECHNOLOGIES LTD,FR,mastercard,prepaid
+538689,00-99,PREPAY TECHNOLOGIES LTD,FR,mastercard,prepaid
 538690,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
 538691,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
 538692,00-99,TRAVELEX JAPAN KK,JP,mastercard,debit
@@ -8501,78 +8501,78 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538697,00-99,CLYDESDALE BANK PLC,GB,mastercard,debit
 538698,00-99,CLYDESDALE BANK PLC,GB,mastercard,debit
 538699,00-99,CLYDESDALE BANK PLC,GB,mastercard,debit
-538701,00-99,,US,mastercard,credit
-538702,00-99,,US,mastercard,credit
+538701,00-99,UNKNOWN,US,mastercard,credit
+538702,00-99,UNKNOWN,US,mastercard,credit
 538703,00-99,JOINT STOCK COMMERCIAL BANK DAVR BANK,UZ,mastercard,credit
 538704,00-99,VISECA PAYMENT SERVICES SA,CH,mastercard,credit
 538705,00-99,VISECA PAYMENT SERVICES SA,CH,mastercard,credit
 538706,00-99,CESKOSLOVENSKA OBCHODNI BANKA A.S.,CZ,mastercard,credit
 538707,00-99,ASA BANKA D.D. SARAJEVO,BA,mastercard,credit
 538708,00-99,PSCU INCORPORATED,US,mastercard,debit
-538709,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+538709,00-99,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 538710,00-99,ICBA BANCARD INC.,US,mastercard,debit
 538711,00-99,ARAB BANK FOR INVESTMENT & FOREIGN TRADE,AE,mastercard,credit
 538712,00-99,IMMERSVE LTD.,NZ,mastercard,debit
-538713,00-99,QNB BANK A.S,TR,mastercard,debit
-538714,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
-538715,00-99,MEMBERS CHOICE CREDIT UNION,US,mastercard,debit
+538713,00-99,QNB BANK A.¿,TR,mastercard,debit
+538714,00,BOKF NATIONAL ASSOCIATION,US,mastercard,credit
+538715,00-99,MEMBERS CHOICE CREDIT UNION,US,mastercard,credit
 538716,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 538717,00-99,FINXP LTD.,DE,mastercard,debit
 538718,00-99,NORTH INTERNATIONAL BANK LTD.,AG,mastercard,debit
-538719,00-99,MORTON COMMUNITY BANK,US,mastercard,debit
+538719,00-99,MORTON COMMUNITY BANK,US,mastercard,prepaid
 538720,00-99,WOORICARD CO. LTD,KR,mastercard,credit
-538721,00-99,CREDIMAX BSC (CLOSED),BH,mastercard,debit
+538721,00-99,CREDIMAX BSC (CLOSED),BH,mastercard,prepaid
 538722,00-99,BANZPAY TECHNOLOGY LTD.,NZ,mastercard,credit
-538723,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+538723,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 538724,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
 538725,00-99,TRANSFOREX (HONG KONG) INVESTMENT CONSULTING CO. LTD.,HK,mastercard,debit
 538726,00-99,BANCARD S.A.,PY,mastercard,credit
 538727,00-99,HOME TRUST COMPANY,CA,mastercard,debit
-538728,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
+538728,00,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
 538729,00-99,TRANSFOREX (HONG KONG) INVESTMENT CONSULTING CO. LTD.,HK,mastercard,debit
 538730,00-99,HIPOTEKARNA BANKA AD PODGORICA,ME,mastercard,credit
-538731,00-99,EML PAYMENTS EUROPE LTD.,GB,mastercard,debit
+538731,00-99,EML PAYMENTS EUROPE LIMITED,GB,mastercard,prepaid
 538732,00-99,ALLIED WALLET LTD.,IE,mastercard,debit
 538733,00-99,WOORICARD CO. LTD,KR,mastercard,credit
 538734,00-99,FIDOR BANK AG,DE,mastercard,credit
 538735,00-99,WECHAT PAY HONG KONG LTD.,HK,mastercard,debit
 538736,00-99,LITHUANIAN CENTRAL CREDIT UNION,LT,mastercard,credit
 538737,00-99,FIFTH THIRD BANK,US,mastercard,debit
-538738,00-99,EPAYLINKS TECHNOLOGY CO. LTD.,HK,mastercard,debit
+538738,00,EPAYLINKS TECHNOLOGY CO. LIMITED,HK,mastercard,prepaid
 538739,00-99,BANCO INDUSTRIAL S.A.,GT,mastercard,credit
 538740,00-99,HUB PAGAMENTOS S.A.,BR,mastercard,debit
 538741,00-99,FIRST CENTURY BANK N.A.,US,mastercard,debit
 538742,00-99,VIETNAM PUBLIC JOINT STOCK COMMERCIAL BANK,VN,mastercard,credit
 538743,00-99,IDT FINANCIAL SERVICES LTD.,GB,mastercard,debit
-538744,00-99,FIRST DATA CONO SUR S.R.L.,AR,mastercard,debit
-538745,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+538744,00-99,FIRST DATA CONO SUR S.R.L.,AR,mastercard,credit
+538745,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 538746,00-99,BIGPAY MALAYSIA SDN. BHD.,MY,mastercard,debit
 538747,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 538748,00-99,NEXI PAYMENTS S.P.A.,IT,mastercard,debit
 538749,00-99,NIC ASIA BANK LTD.,NP,mastercard,debit
 538750,00-99,ICARD A.D.,HR,mastercard,debit
-538751,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
+538751,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 538752,00-99,METROPOLITAN BANK AND TRUST COMPANY (METROBANK),PH,mastercard,debit
-538753,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
+538753,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,credit
 538754,00-99,AS LHV PANK,LT,mastercard,credit
 538755,00-99,NEXI PAYMENTS S.P.A.,IT,mastercard,debit
-538756,00-99,TRUU INNOVATION SAPI DE CV,MX,mastercard,debit
+538756,00,FONDEA TECHNOLOGIES S.A. DE C.V S.F.P.,MX,mastercard,debit
 538757,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,credit
 538758,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 538759,00-99,BANCO SANTANDER CHILE,CL,mastercard,debit
 538760,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 538761,00-99,BANK OF INDIA,IN,mastercard,debit
-538762,00-99,EML PAYMENTS EUROPE LTD.,HU,mastercard,debit
+538762,00-99,EML PAYMENTS EUROPE LIMITED,HU,mastercard,prepaid
 538763,00-99,BANK OF INDIA,IN,mastercard,debit
 538764,00-99,CM FINANCIERA SA,PA,mastercard,debit
 538765,00-99,BANCO SANTANDER CHILE,CL,mastercard,debit
 538766,00-99,BANK OF INDIA,IN,mastercard,debit
 538767,00-99,REGIONS BANK,US,mastercard,credit
 538768,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-538769,00-99,PSI- PAY LTD.,GB,mastercard,debit
-538770,00-99,EML PAYMENTS EUROPE LTD.,GB,mastercard,debit
+538769,00-99,PSI- PAY LIMITED,GB,mastercard,prepaid
+538770,00-99,EML PAYMENTS EUROPE LIMITED,GB,mastercard,prepaid
 538771,00-99,PAYRNET LTD.,IE,mastercard,debit
-538772,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+538772,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 538773,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 538774,00-99,WIRECARD CARD SOLUTIONS LTD.,GB,mastercard,debit
 538775,00-99,BANCO SANTANDER S.A.,ES,mastercard,credit
@@ -8580,18 +8580,18 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538777,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 538778,00-99,INDEPENDENT BANK,US,mastercard,credit
 538779,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
-538780,00-99,FORTERA FEDERAL CREDIT UNION,US,mastercard,debit
+538780,00-99,FORTERA FEDERAL CREDIT UNION,US,mastercard,credit
 538781,00-99,MEMBER SUPPORT SERVICES LLC,US,mastercard,credit
 538783,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 538784,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 538785,00-99,PROCARD S.A.,PY,mastercard,credit
 538787,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
-538788,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+538788,00,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 538790,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,credit
 538792,00-99,ALQASEH FOR FINANCIAL SERVICES AND ELECTRONIC PAYMENT,IQ,mastercard,debit
 538793,00-99,CREDIT LIBANAIS S.A.L.,LB,mastercard,debit
-538795,00-99,MEMBER SUPPORT SERVICES LLC,US,mastercard,credit
-538796,00-99,GREEN DOT BANK,PR,mastercard,debit
+538795,00,MEMBER SUPPORT SERVICES LLC,US,mastercard,credit
+538796,00-99,GREEN DOT BANK,PR,mastercard,prepaid
 538798,00-99,KB KOOKMIN CARD CO. LTD,KR,mastercard,credit
 538800,00-99,PUBLIC JOINT STOCK COMPANY BANK URALSIB,RU,mastercard,credit
 538801,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,credit
@@ -8601,145 +8601,145 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538805,00-99,INTRACLEAR LTD.,CY,mastercard,debit
 538806,00-99,KB KOOKMIN CARD CO. LTD,KR,mastercard,credit
 538807,00-99,NUEVO BANCO DE ENTRE RIOS (BERSA),AR,mastercard,credit
-538808,00-99,JSC UNIVERSAL BANK,UA,mastercard,credit
+538808,00-99,JSC "UNIVERSAL BANK",UA,mastercard,credit
 538809,00-99,33 FINANCIAL SERVICES LTD.,HK,mastercard,debit
 538810,00-99,HALLMARK TRUST LTD.,TC,mastercard,debit
 538811,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538812,00-99,BC CARD CO. LTD.,KR,mastercard,credit
-538813,00-99,,JP,mastercard,debit
+538813,00-99,UNKNOWN,JP,mastercard,debit
 538814,00-99,HIPOTEKARNA BANKA AD PODGORICA,ME,mastercard,credit
-538815,00-99,NEPAL INVESTMENT MEGA BANK LTD.,NP,mastercard,debit
+538815,00-99,NEPAL INVESTMENT MEGA BANK LIMITED,NP,mastercard,credit
 538816,00-99,GAZPROMBANK (JOINT STOCK COMPANY),RU,mastercard,credit
-538817,00-99,,ID,mastercard,debit
+538817,00-99,UNKNOWN,ID,mastercard,debit
 538818,00-99,BANCO DO BRASIL S.A.,BR,mastercard,credit
-538819,00-99,,US,mastercard,credit
+538819,00-99,UNKNOWN,US,mastercard,credit
 538820,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538821,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538822,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538823,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538824,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538825,00-99,HANA CARD,KR,mastercard,credit
-538826,00-99,UNIVEST BANK AND TRUST CO.,US,mastercard,debit
+538826,00,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
 538827,00-99,FIRST FINANCIAL CREDIT UNION,US,mastercard,credit
-538828,00-99,SUNRATE PARTNERS UK LTD.,GB,mastercard,credit
+538828,00,SUNRATE PARTNERS UK LIMITED,GB,mastercard,credit
 538829,00-99,BANISTMO S.A,PA,mastercard,debit
-538830,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LTD.,IN,mastercard,credit
-538831,00-99,,KR,mastercard,credit
+538830,00-99,THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,IN,mastercard,credit
+538831,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538832,00-99,BC CARD CO. LTD.,KR,mastercard,credit
 538833,00-99,PT. BANK NEGARA INDONESIA (PERSERO) TBK.,ID,mastercard,credit
 538834,00-99,TECH CREDIT UNION,US,mastercard,debit
-538835,00-99,WILSON BANK & TRUST,US,mastercard,debit
+538835,00,WORLD FIRST ASIA LIMITED,HK,mastercard,credit
 538836,00-99,NLB BANKA D.D. SARAJEVO,BA,mastercard,debit
 538837,00-99,ECOBANK NIGERIA PLC,UG,mastercard,debit
-538838,00-99,WESTFIELD BANK FSB,US,mastercard,debit
+538838,00,SWAP INSTITUICAO DE PAGAMENTO S.A.,BR,mastercard,credit
 538839,00-99,BC CARD CO. LTD.,KR,mastercard,credit
-538840,00-99,,US,mastercard,credit
-538841,00-99,TURK ELEKTRONIK PARA A S,TR,mastercard,debit
+538840,00-99,UNKNOWN,US,mastercard,credit
+538841,00-99,TURK ELEKTRONIK PARA A S,TR,mastercard,prepaid
 538842,00-99,ZHONGYUAN BANK CO. LTD.,CN,mastercard,credit
 538843,00-99,MEMBERS PLUS CREDIT UNION,US,mastercard,debit
 538844,00-99,GLOBAL PROCESSING S.A.,AR,mastercard,credit
 538845,00-99,THE BANK OF JORDAN,PS,mastercard,debit
 538846,00-99,ALLIANCE BANK MALAYSIA BERHAD,MY,mastercard,debit
 538847,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.,AR,mastercard,credit
-538848,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+538848,00-99,FISERV SOLUTIONS LLC,US,mastercard,prepaid
 538849,00-99,GLOBAL PROCESSING S.A.,AR,mastercard,credit
 538850,00-99,JSC UNIVERSAL BANK,UA,mastercard,debit
 538851,00-99,ALPHA BANK,GR,mastercard,credit
 538852,00-99,PJSC RWS BANK,UA,mastercard,credit
-538853,00-99,ING BANK N.V.,NL,mastercard,credit
-538854,00-99,,SA,mastercard,credit
-538855,00-99,,US,mastercard,credit
+538853,00-19,ING BANK N.V.,NL,mastercard,credit
+538854,00-99,UNKNOWN,SA,mastercard,credit
+538855,00-99,UNKNOWN,US,mastercard,credit
 538856,00-99,HSBC BANK PLC,GB,mastercard,credit
 538857,00-99,HSBC BANK PLC,GB,mastercard,credit
 538858,00-99,JAIZ BANK PLC,NG,mastercard,debit
 538859,00-99,BANCA MIFEL SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO MIFEL,MX,mastercard,credit
 538860,00-99,FIRST DATA CONO SUR S.R.L.,AR,mastercard,credit
-538861,00-99,,US,mastercard,credit
+538861,00-99,UNKNOWN,US,mastercard,credit
 538862,00-99,PAYSAFE FINANCIAL SERVICES LTD.,GB,mastercard,debit
 538863,00-99,EPAYMENTS SYSTEMS LTD.,GB,mastercard,debit
-538864,00-99,NATIONAL BANK OF EGYPT,EG,mastercard,credit
-538865,00-99,SBI CARDS AND PAYMENT SERVICES LTD.,IN,mastercard,credit
+538864,00,NATIONAL BANK OF EGYPT,EG,mastercard,credit
+538865,00-99,SBI CARDS AND PAYMENT SERVICES LIMITED,IN,mastercard,credit
 538866,00-99,BANCO NACIONAL DE COSTA RICA,CR,mastercard,debit
 538868,00-99,BANCO CONTINENTAL S.A.,PY,mastercard,credit
 538870,00-99,QATAR NATIONAL BANK,IN,mastercard,credit
-538871,00-99,CAIRO AMMAN BANK PLC,JO,mastercard,debit
+538871,00,CAIRO AMMAN BANK PLC,JO,mastercard,debit
 538872,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
-538874,00-99,,US,mastercard,credit
+538874,00-99,UNKNOWN,US,mastercard,credit
 538875,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
 538877,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-538878,00-99,,RO,mastercard,credit
+538878,00-99,UNKNOWN,RO,mastercard,credit
 538879,00-99,BANK OF AFRICA,CG,mastercard,debit
-538880,00-99,,US,mastercard,credit
-538881,00-99,JORDANIAN ELAF FOR INTEGRATED SOLUTIONS,JO,mastercard,credit
-538882,00-99,,US,mastercard,credit
-538883,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538884,00-99,,US,mastercard,credit
+538880,00-99,UNKNOWN,US,mastercard,credit
+538881,00-02,JORDANIAN ELAF FOR INTEGRATED SOLUTIONS,JO,mastercard,credit
+538882,00-99,UNKNOWN,US,mastercard,credit
+538883,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+538884,00-99,UNKNOWN,US,mastercard,credit
 538885,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-538887,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-538889,00-99,REGIONS BANK,US,mastercard,debit
+538887,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,prepaid
+538889,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 538890,00-99,BANCO WESTERN UNION DO BRASIL S.A.,BR,mastercard,debit
-538891,00-99,SBI SUMISHIN NET BANK LTD.,JP,mastercard,debit
+538891,00-99,DOCOMO SMTB NET BANK INC.,JP,mastercard,prepaid
 538892,00-99,BANCO RENDIMENTO S.A.,BR,mastercard,debit
 538893,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA) S.A.,AR,mastercard,credit
 538894,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538895,00-99,EML PAYMENTS EUROPE LTD.,IE,mastercard,debit
+538895,00-09,EML PAYMENTS EUROPE LIMITED,IE,mastercard,prepaid
 538896,00-99,STRIDE BANK N.A.,US,mastercard,debit
 538897,00-99,BANCORP BANK,US,mastercard,debit
 538898,00-99,CITIBANK N.A.,US,mastercard,credit
 538899,00-99,COMMUNITY FEDERAL SAVINGS BANK,US,mastercard,credit
-538900,00-99,KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.),BE,mastercard,debit
+538900,00-99,KBC BANKVERZEKERINGSHOLDING (KBC BANK N.V.),BE,mastercard,prepaid
 538901,00-99,IDT FINANCIAL SERVICES LTD.,GB,mastercard,debit
-538902,00-99,,US,mastercard,credit
+538902,00-99,UNKNOWN,US,mastercard,credit
 538903,00-99,BC CARD CO. LTD.,KR,mastercard,debit
 538904,00-99,BANCO INTERMEDIUM S.A.,BR,mastercard,debit
 538905,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
 538906,00-99,CITIBANK N.A.,US,mastercard,credit
 538907,00-99,SHENZHEN TENPAY TECHNOLOGY LTD.,CN,mastercard,debit
 538908,00-99,ACCESS BANK PLC,NG,mastercard,debit
-538910,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
+538910,00,FISERV SOLUTIONS LLC,US,mastercard,credit
 538911,00-99,STANDARD BANK OF SOUTH AFRICA LTD.,ZA,mastercard,credit
 538912,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
 538913,00-99,CITIBANK N.A.,US,mastercard,credit
-538914,00-99,ENTROPAY LTD.,MT,mastercard,debit
+538914,00-09,ENTROPAY LIMITED,MT,mastercard,prepaid
 538915,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
-538916,00-99,,US,mastercard,credit
+538916,00-99,UNKNOWN,US,mastercard,credit
 538917,00-99,BANCO NACIONAL DE COSTA RICA,CR,mastercard,credit
 538918,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538919,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+538919,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 538920,00-99,WOORICARD CO. LTD,KR,mastercard,debit
 538921,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,mastercard,debit
-538922,00-99,,US,mastercard,credit
-538923,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538925,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538926,00-99,HSBC BANK PLC (GPUK LLP),GB,mastercard,credit
+538922,00-99,UNKNOWN,US,mastercard,credit
+538923,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+538925,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+538926,00-99,GPUK LLP,GB,mastercard,credit
 538927,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-538928,00-99,,US,mastercard,credit
+538928,00-99,UNKNOWN,US,mastercard,credit
 538929,00-99,ST. GEORGES BANK & COMPANY INC.,PA,mastercard,credit
 538930,00-99,COMERICA BANK,US,mastercard,debit
 538931,00-99,SUTTON BANK,US,mastercard,credit
-538932,00-99,,IT,mastercard,credit
+538932,00-99,UNKNOWN,IT,mastercard,credit
 538933,00-99,BANCORP BANK,US,mastercard,debit
-538934,00-99,,US,mastercard,credit
+538934,00-99,UNKNOWN,US,mastercard,credit
 538935,00-99,CITIBANK N.A.,US,mastercard,credit
-538937,00-99,PAYONEER EUROPE LTD.,IE,mastercard,debit
-538938,00-99,,US,mastercard,credit
+538937,00-99,PAYONEER EUROPE LIMITED,IE,mastercard,debit
+538938,00-99,UNKNOWN,US,mastercard,credit
 538939,00-99,MB FINANCIAL BANK N.A.,US,mastercard,debit
 538941,00-99,WOORICARD CO. LTD,KR,mastercard,credit
-538942,00-99,,US,mastercard,credit
+538942,00-99,UNKNOWN,US,mastercard,credit
 538943,00-99,NATIONAL COMMERCIAL BANK JAMAICA LTD.,JM,mastercard,debit
-538944,00-99,,US,mastercard,credit
-538945,00-99,,US,mastercard,credit
-538946,00-99,,US,mastercard,credit
-538947,00-99,HERITAGE BANK LTD.,BZ,mastercard,credit
-538948,00-99,,US,mastercard,credit
-538949,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+538944,00-99,UNKNOWN,US,mastercard,credit
+538945,00-99,UNKNOWN,US,mastercard,credit
+538946,00-99,UNKNOWN,US,mastercard,credit
+538947,00-99,HERITAGE BANK LIMITED,BZ,mastercard,credit
+538948,00-99,UNKNOWN,US,mastercard,credit
+538949,00-99,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 538951,00-99,BAYPORT CREDIT UNION,US,mastercard,credit
 538953,00-99,EURONET 360 FINANCE LTD.,CZ,mastercard,debit
-538954,00-99,,US,mastercard,credit
-538956,00-99,UNITED BANK FOR AFRICA PLC,NG,mastercard,debit
-538957,00-99,NEPAL SBI BANK LTD.,NP,mastercard,debit
+538954,00-99,UNKNOWN,US,mastercard,credit
+538956,00,UNITED BANK FOR AFRICA PLC,NG,mastercard,prepaid
+538957,00-99,NEPAL SBI BANK LIMITED,NP,mastercard,debit
 538958,00-99,SBERBANK BH D.D,BA,mastercard,credit
-538959,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+538959,00-99,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 538960,00-99,WILL FINANCEIRA S.A. CREDITO FINANCIAMENTO E INVESTIMENTO,BR,mastercard,credit
 538961,00-99,STANDARD CHARTERED BANK BOTSWANA LTD.,BW,mastercard,debit
 538962,00-99,BANK OF N.T. BUTTERFIELD & SON LTD.,BM,mastercard,debit
@@ -8747,66 +8747,66 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 538964,00-99,THANACHART BANK PUBLIC COMPANY LTD.,TH,mastercard,debit
 538965,00-99,CARUANA S.A. - SOCIEDADE DE CREDITO FINANCIAMENTO E INVESTIMENTO,BR,mastercard,credit
 538966,00-99,VIETNAM PUBLIC JOINT STOCK COMMERCIAL BANK,VN,mastercard,credit
-538967,00-99,THE BANK OF PUNJAB,PK,mastercard,debit
+538967,00-99,THE BANK OF PUNJAB,PK,mastercard,prepaid
 538968,00-99,BANCARD S.A.,PY,mastercard,credit
-538969,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
+538969,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 538970,00-99,COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.,EC,mastercard,credit
 538972,00-99,CITIBANK N.A.,US,mastercard,credit
 538973,00-99,BAYPORT CREDIT UNION,US,mastercard,credit
 538974,00-99,INTESA SANPAOLO SPA,IT,mastercard,credit
 538975,00-99,ICARD A.D.,HR,mastercard,debit
-538976,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
+538976,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 538977,00-99,PACE SAVINGS & CREDIT UNION LTD.,CA,mastercard,debit
 538978,00-99,KAZEUROMOBILE,KZ,mastercard,debit
-538979,00-99,,US,mastercard,credit
+538979,00-99,UNKNOWN,US,mastercard,credit
 538980,00-99,LIBERTY BANK,US,mastercard,debit
 538981,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
-538982,00-99,AF PAYMENTS LTD.,GB,mastercard,debit
+538982,00,AF PAYMENTS LTD,GB,mastercard,prepaid
 538983,00-99,BANCO SANTANDER SOCIEDAD ANONIMA,UY,mastercard,credit
 538984,00-99,BANCO PAGA TODO S.A. INSTITUCION DE BANCA MULTIPLE,MX,mastercard,debit
-538985,00-99,MORROW BANK ASA,NO,mastercard,credit
+538985,00-09,MORROW BANK AB,NO,mastercard,credit
 538986,00-99,PJSC BANK VOSTOK,UA,mastercard,debit
 538987,00-99,ARAB JORDAN INVESTMENT BANK,JO,mastercard,credit
 538988,00-99,AFB BANK OPEN JOINT-STOCK COMPANY,AZ,mastercard,debit
 538989,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
-538990,00-99,,US,mastercard,credit
-538991,00-99,SWEDBANK AB,SE,mastercard,debit
+538990,00-99,UNKNOWN,US,mastercard,credit
+538991,00-99,SWEDBANK AB,SE,mastercard,prepaid
 538992,00-99,EPAYMENTS SYSTEMS LTD.,GB,mastercard,debit
 538993,00-99,BANGOR SAVINGS BANK,US,mastercard,debit
 538994,00-99,TINKOFF BANK,RU,mastercard,credit
-538995,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
+538995,00,COMPUTER SERVICES INC.,US,mastercard,debit
 538996,00-99,FAR EASTERN INTERNATIONAL BANK,TW,mastercard,credit
 538998,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,credit
-539000,00-99,COMMUNITY FEDERAL SAVINGS BANK,US,mastercard,debit
-539001,00-99,,BR,mastercard,debit
-539002,00-99,TRANSACT PAYMENTS LTD.,GB,mastercard,debit
+539000,00,COMMUNITY FEDERAL SAVINGS BANK,US,mastercard,credit
+539001,00-99,UNKNOWN,BR,mastercard,debit
+539002,00,SUNRATE PTE LTD,SG,mastercard,debit
 539003,00-99,BANCO NACIONAL DE COSTA RICA,CR,mastercard,credit
 539004,00-99,TRUIST BANKS INC.,US,mastercard,debit
-539005,00-99,TEXAS CAPITAL BANK,US,mastercard,debit
+539005,00,MVB BANK INC,US,mastercard,credit
 539006,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539007,00-99,BANCO G&T CONTINENTAL S.A.,GT,mastercard,debit
-539008,00-99,BANCO G&T CONTINENTAL S.A.,GT,mastercard,credit
+539007,00,JACK HENRY & ASSOCIATES,US,mastercard,credit
+539008,00,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
 539009,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
 539010,00-99,GN BANK LTD.,GH,mastercard,debit
 539011,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539012,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-539013,00-99,SUNRISE BANKS NATIONAL ASSOCIATION,US,mastercard,debit
-539014,00-99,SUNWARD FEDERAL CREDIT UNION,US,mastercard,debit
-539015,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539013,00,JSC OSCHADBANK,UA,mastercard,debit
+539014,00-99,SUNWARD FEDERAL CREDIT UNION,US,mastercard,credit
+539015,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 539016,00-99,CAIXA ECONOMICA FEDERAL,BR,mastercard,credit
 539017,00-99,CAIXA ECONOMICA FEDERAL,BR,mastercard,credit
 539018,00-99,CAIXA ECONOMICA FEDERAL,BR,mastercard,credit
-539019,00-99,AMOCO FEDERAL CREDIT UNION,US,mastercard,credit
-539020,00-99,,BR,mastercard,debit
+539019,00,AMOCO FEDERAL CREDIT UNION,US,mastercard,credit
+539020,00-99,UNKNOWN,BR,mastercard,debit
 539021,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539022,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539023,00-99,BANCO BTG PACTUAL SA,BR,mastercard,credit
 539024,00-99,COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.,EC,mastercard,credit
-539025,00-99,SHAZAM INC.,US,mastercard,debit
-539026,00-99,FIFTH THIRD BANK,US,mastercard,debit
-539027,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539028,00-99,CITIBANK,BR,mastercard,credit
-539029,00-99,CREDICARD,BR,mastercard,credit
+539025,00,ICBA BANCARD INC.,US,mastercard,credit
+539026,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+539027,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
+539028,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
+539029,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539030,00-99,LOTTECARD CO. LTD.,KR,mastercard,credit
 539031,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539032,00-99,BANCO INTERNACIONAL,CL,mastercard,credit
@@ -8816,117 +8816,117 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539036,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,debit
 539037,00-99,EMIGRANT BANK,AU,mastercard,credit
 539038,00-99,BANCO BRADESCO S.A.,BR,mastercard,credit
-539039,00-99,ITAU,BR,mastercard,credit
+539039,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539040,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539041,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-539042,00-99,BANCO PROMERICA S.A.,GT,mastercard,credit
-539043,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539044,00-99,TREEZOR SAS,FR,mastercard,debit
+539042,00,VISECA PAYMENT SERVICES SA,CH,mastercard,credit
+539043,00,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
+539044,00-06,TREEZOR SAS,FR,mastercard,debit
 539045,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539046,00-99,MERRICK BANK CORPORATION,US,mastercard,credit
-539047,00-99,FIFTH THIRD BANK,US,mastercard,debit
+539047,00,FIFTH THIRD BANK THE,US,mastercard,debit
 539048,00-99,BANCO BTG PACTUAL SA,BR,mastercard,credit
-539049,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+539049,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 539050,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539051,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-539052,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539053,00-99,WIDGET FEDERAL CREDIT UNION,US,mastercard,debit
-539054,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+539052,00-99,FISERV SOLUTIONS LLC,US,mastercard,prepaid
+539053,00,WIDGET FEDERAL CREDIT UNION,US,mastercard,prepaid
+539054,00-99,FISERV SOLUTIONS LLC,US,mastercard,prepaid
 539055,00-99,PREPAID FINANCIAL SERVICES LTD.,IE,mastercard,debit
 539056,00-99,TOUCHMARK NATIONAL BANK,US,mastercard,debit
 539057,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539058,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539059,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539060,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-539061,00-99,PROVIDUS BANK PLC,NG,mastercard,debit
+539061,00-99,PROVIDUS BANK PLC,NG,mastercard,prepaid
 539062,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539063,00-99,CITICARD,BR,mastercard,credit
 539064,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539065,00-99,BANK AL ETIHAD,JO,mastercard,credit
-539066,00-99,,BR,mastercard,credit
+539066,00-99,UNKNOWN,BR,mastercard,credit
 539067,00-99,STEARNS BANK NATIONAL ASSOCIATION,US,mastercard,credit
-539068,00-99,BANCO CITICARD SA,BR,mastercard,credit
+539068,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539069,00-99,U MOBILE SERVICES SDN BHD,MY,mastercard,debit
 539070,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539071,00-99,PAYALLY LTD.,GB,mastercard,debit
 539072,00-99,PAYALLY LTD.,GB,mastercard,debit
-539073,00-99,CREDICARD,S.A.,BR,mastercard
+539073,00-99,CREDICARD,S.A.,br,mastercard
 539074,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
-539075,00-99,UNITED FINANCIAL CREDIT UNION,US,mastercard,credit
+539075,00,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
 539076,00-99,MBANK S.A.,PL,mastercard,debit
 539077,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539078,00-99,MATCHMOVE PAY PTE. LTD.,SG,mastercard,debit
-539079,00-99,PREX SAC,PE,mastercard,credit
+539079,00,PREX SAC,PE,mastercard,credit
 539080,00-99,EQUITY BANK LTD.,TZ,mastercard,credit
 539081,00-99,THE BANK OF PUNJAB,PK,mastercard,debit
 539082,00-99,EQUITY BANK LTD.,TZ,mastercard,debit
-539083,00-99,ITAU,BR,mastercard,credit
+539083,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539084,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539085,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539086,00-99,SUNRATE PARTNERS UK LTD.,GB,mastercard,debit
-539087,00-99,FIFTH THIRD BANK,US,mastercard,credit
+539087,00-99,FIFTH THIRD BANK THE,US,mastercard,credit
 539088,00-99,PAYRNET LTD.,GB,mastercard,credit
-539089,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
+539089,00,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,prepaid
 539090,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539091,00-99,ITAU UNIBANCO S.A.,BR,mastercard,credit
 539092,00-99,FLEXCARD ISSUED BY IDT FINANCIAL SERVICES LTD.,FI,mastercard,debit
-539093,00-99,CANARA BANK,IN,mastercard,debit
+539093,00-09,CANARA BANK,IN,mastercard,debit
 539094,00-99,METROPOLITAN COMMERCIAL BANK,US,private label,debit
-539095,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
+539095,00-03,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
 539096,00-99,BANQUE LIBANO - FRANCAISE SAL,LB,mastercard,debit
 539097,00-99,ATTIJARIWAFA BANK EUROPE,DE,mastercard,debit
 539098,00-99,AKTIF YATIRIM BANKASI A.S.,TR,mastercard,debit
 539099,00-99,BANK SINOPAC,TW,mastercard,credit
-539100,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539101,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
+539100,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
+539101,00,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
 539102,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,debit
 539103,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 539104,00-99,NATIONAL BANK OF EGYPT,EG,mastercard,debit
 539105,00-99,BANCA ROMANA DE CREDITE SI INVESTITII S.A.,RO,mastercard,credit
 539106,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
-539107,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
-539108,00-99,PSCU INCORPORATED,US,mastercard,debit
+539107,00-26,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
+539108,00,FISERV SOLUTIONS LLC,US,mastercard,debit
 539109,00-99,IDBI BANK LTD.,IN,mastercard,credit
 539110,00-99,NUMMI.S.A.,UY,mastercard,debit
-539111,00-99,MEMBER SUPPORT SERVICES LLC,US,mastercard,credit
+539111,00,MEMBER SUPPORT SERVICES LLC,US,mastercard,credit
 539112,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539113,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
+539113,00-02,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
 539114,00-99,CREDIT EUROPE BANK LTD.,RU,mastercard,credit
 539115,00-99,CORONATION MERCHANT BANK LTD.,NG,mastercard,debit
 539116,00-99,SHAZAM INC.,US,mastercard,debit
 539117,00-99,FIFTH THIRD BANK,US,mastercard,debit
 539118,00-99,BANCA ROMANA DE CREDITE SI INVESTITII S.A.,RO,mastercard,debit
 539119,00-99,BELFIUS BANK N.V. / BELFIUS BANQUE S.A.,BE,mastercard,debit
-539120,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539121,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
+539120,00,JACK HENRY & ASSOCIATES,US,mastercard,credit
+539121,00,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
 539122,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
 539123,00-99,REVOLUT LTD.,IE,mastercard,debit
 539124,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539125,00-99,PAYSAFE FINANCIAL SERVICES LTD.,IE,mastercard,debit
+539125,00,PAYSAFE FINANCIAL SERVICES LIMITED,AT,mastercard,prepaid
 539126,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539127,00-99,ALIOR BANK SPOLKA AKCYJNA,RO,mastercard,debit
 539128,00-99,SHAZAM INC.,US,mastercard,debit
-539129,00-99,COOPERATIVA NACIONAL DE EDUCADORES R.L.(COOPENAE RL),CR,mastercard,debit
+539129,00,COOPERATIVA NACIONAL DE EDUCADORES R.L.(COOPENAE RL),CR,mastercard,debit
 539130,00-99,SHAZAM INC.,US,mastercard,debit
 539131,00-99,ICBA BANCARD INC.,US,mastercard,debit
-539132,00-99,HELLENIC BANK PUBLIC COMPANY LTD.,CY,mastercard,debit
+539132,00-99,EUROBANK LIMITED,CY,mastercard,debit
 539133,00-99,BANCO SANTANDER S.A.,ES,mastercard,credit
 539134,00-99,ZIRAAT KATILIM BANKASI A.S.,TR,mastercard,credit
 539135,00-99,FIRST NATIONAL BANK OF OMAHA,US,mastercard,credit
-539136,00-99,AL BARAKA BANK PAKISTAN LTD.,PK,mastercard,debit
+539136,00-99,AL BARAKA BANK PAKISTAN LIMITED,PK,mastercard,debit
 539137,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 539138,00-99,PEOPLE'S BANK,LK,mastercard,debit
 539139,00-99,DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,DE,mastercard,debit
 539140,00-99,NANCHANG RURAL COMMERCIAL BANK CO. LTD.,CN,mastercard,credit
-539141,00-99,WEX BANK,US,mastercard,credit
-539142,00-99,CHINA CITIC BANK INTERNATIONAL LTD.,HK,mastercard,credit
+539141,00-24,WEX BANK,US,mastercard,credit
+539142,00-99,CHINA CITIC BANK INTERNATIONAL LIMITED,HK,mastercard,credit
 539143,00-99,THE BANK OF PUNJAB,PK,mastercard,debit
 539144,00-99,BEREKE BANK JOINT STOCK COMPANY,KZ,mastercard,credit
 539145,00-99,BANCO BS2 S.A.,BR,maestro,debit
-539146,00-99,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK,VN,mastercard,credit
+539146,00-99,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL  BANK,VN,mastercard,credit
 539147,00-99,CITIBANK N.A.,US,mastercard,credit
 539148,00-99,BANCO NACIONAL DE CREDITO C.A. BANCO UNIVERSAL SUCURSAL CURACAO,CW,mastercard,debit
-539149,00-99,AXIS BANK LTD.,IN,mastercard,debit
+539149,00-99,AXIS BANK LIMITED,IN,mastercard,debit
 539150,00-99,BANK NIZWA SAOG,OM,mastercard,debit
 539151,00-99,PACE SAVINGS & CREDIT UNION LTD.,CA,mastercard,debit
 539152,00-99,PAYSAFE FINANCIAL SERVICES LTD.,GB,mastercard,debit
@@ -8934,80 +8934,80 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539154,00-99,NORTHWEST FEDERAL CREDIT UNION,US,mastercard,credit
 539155,00-99,EIKA KREDITTBANK AS,NO,mastercard,credit
 539156,00-99,CITIBANK N.A.,US,mastercard,credit
-539157,00-99,BANK OF CEYLON,LK,mastercard,debit
-539158,00-99,AXIS BANK LTD.,IN,mastercard,debit
-539159,00-99,CANVAS CREDIT UNION,US,mastercard,debit
-539160,00-99,HABIB BANK LTD.,PK,mastercard,debit
+539157,00-01,BANK OF CEYLON,LK,mastercard,debit
+539158,00-99,AXIS BANK LIMITED,IN,mastercard,debit
+539159,00-99,CANVAS CREDIT UNION,US,mastercard,prepaid
+539160,00-99,HABIB BANK LIMITED,PK,mastercard,debit
 539162,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
 539163,00-99,RHB BANK BERHAD,MY,mastercard,credit
 539164,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539165,00-99,ZENITH BANK,SL,mastercard,debit
 539166,00-99,BANCO PROMERICA DE COSTA RICA S.A.,CR,mastercard,credit
-539167,00-99,ALEXBANK,EG,mastercard,debit
+539167,00-99,ALEXBANK,EG,mastercard,prepaid
 539168,00-99,BANCO POPULAR S.A.,CO,mastercard,credit
 539169,00-99,BANK OF BARODA,IN,mastercard,credit
 539170,00-99,ICBA BANCARD INC.,US,mastercard,debit
 539171,00-99,ALKURAIMI ISLAMIC MICROFINANCE BANK,YE,mastercard,debit
 539172,00-99,PUBLIC BANK BERHAD,MY,mastercard,credit
 539173,00-99,NORTHWEST FEDERAL CREDIT UNION,US,mastercard,credit
-539174,00-99,NICOLET NATIONAL BANK,US,mastercard,debit
+539174,00-99,NICOLET NATIONAL BANK,US,mastercard,prepaid
 539175,00-99,LLC BANK ROUND,RU,mastercard,debit
-539176,00-99,COMENITY BANK,US,mastercard,credit
+539176,00-94,COMENITY BANK,US,mastercard,credit
 539177,00-99,TOKA INTERNACIONAL S.A.P.I. DE CV,MX,mastercard,debit
-539178,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-539179,00-99,BANK DHOFAR SAOG,OM,mastercard,debit
+539178,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+539179,00-19,BANK DHOFAR SAOG,OM,mastercard,prepaid
 539180,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
 539181,00-99,ACESSO SOLUCOES DE PAGAMENTO S.A.,BR,mastercard,debit
 539182,00-99,FINANCE HOUSE L.L.C.,AE,mastercard,debit
 539183,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539184,00-99,CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO,PT,mastercard,debit
-539185,00-99,TITAN TRUST BANK LTD.,NG,mastercard,debit
-539186,00-99,SUTTON BANK,US,mastercard,debit
+539185,00-99,UNION BANK OF NIGERIA PLC,NG,mastercard,debit
+539186,00,SUTTON BANK,US,mastercard,prepaid
 539187,00-99,AL JANOOB ISLAMIC BANK FOR INVESTMENT AND FINANCE,IQ,mastercard,debit
 539188,00-99,BANK NIZWA SAOG,OM,mastercard,debit
 539189,00-99,ICICI BANK LTD.,IN,mastercard,debit
 539190,00-99,ICICI BANK LTD.,IN,mastercard,debit
 539191,00-99,ICICI BANK LTD.,IN,mastercard,debit
-539192,00-99,AXIS BANK LTD.,IN,mastercard,debit
+539192,00-99,AXIS BANK LIMITED,IN,mastercard,debit
 539193,00-99,ARAB BANK FOR INVESTMENT & FOREIGN TRADE,AE,mastercard,debit
 539194,00-99,CITY UNION BANK LTD.,IN,mastercard,debit
 539195,00-99,BANK MUAMALAT MALAYSIA BERHAD,MY,mastercard,debit
-539196,00-99,,US,mastercard,credit
-539197,00-99,UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LTD.,TH,mastercard,debit
-539198,00-99,,US,mastercard,credit
+539196,00-99,UNKNOWN,US,mastercard,credit
+539197,00-09,UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED,TH,mastercard,debit
+539198,00-99,UNKNOWN,US,mastercard,credit
 539199,00-99,PT. BANK CIMB NIAGA TBK.,ID,mastercard,debit
 539200,00-99,FRANSABANK S.A.L.,IQ,mastercard,debit
-539201,00-99,,US,mastercard,credit
+539201,00-99,UNKNOWN,US,mastercard,credit
 539202,00-99,NORDEA BANK AB (PUBL),FI,mastercard,debit
 539203,00-99,UZBEK INDUSTRIAL AND CONSTRUCTION BANK JSCB,UZ,mastercard,credit
 539204,00-99,BANK SINOPAC,TW,mastercard,credit
 539205,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,credit
 539206,00-99,CF TECH COLOMBIA SAS,CO,mastercard,credit
 539207,00-99,ABU DHABI ISLAMIC BANK,EG,mastercard,debit
-539208,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539208,00,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 539209,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539210,00-99,BANNER BANK,US,mastercard,debit
+539210,00-99,BANNER BANK,US,mastercard,prepaid
 539211,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539212,00-99,SIMMONS BANK,US,mastercard,debit
-539213,00-99,BANK LEUMI LE-ISRAEL BM,IL,mastercard,credit
+539213,00-39,BANK LEUMI LE-ISRAEL BM,IL,mastercard,credit
 539214,00-99,CLOSED JOINT STOCK COMPANY ALFA-BANK,BY,mastercard,credit
 539215,00-99,BEREKE BANK JOINT STOCK COMPANY,KZ,mastercard,credit
 539216,00-99,EMIGRANT BANK,AU,mastercard,credit
 539217,00-99,COASTAL COMMUNITY BANK,US,mastercard,debit
 539218,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539219,00-99,MEDITERRANEAN BANK,LY,mastercard,debit
-539220,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
-539221,00-99,,US,mastercard,credit
+539219,00,MEDITERRANEAN BANK,LY,mastercard,prepaid
+539220,00-49,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
+539221,00-99,UNKNOWN,US,mastercard,credit
 539222,00-99,BANCO SANTANDER S.A.,ES,mastercard,credit
 539223,00-99,PROFESSIONAL CARD PROCESSING CORP.,PA,mastercard,credit
-539224,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539225,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539226,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
+539224,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
+539225,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
+539226,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 539227,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539228,00-99,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
+539228,00,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
 539229,00-99,ASIA UNITED BANK CORPORATION,PH,mastercard,credit
 539230,00-99,GUARANTY TRUST BANK PLC,UG,mastercard,debit
-539231,00-99,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
+539231,00-09,E. SUN COMMERCIAL BANK CO. LTD.,TW,mastercard,credit
 539232,00-99,ST. GEORGES BANK & COMPANY INC.,PA,mastercard,credit
 539233,00-99,BROADVIEW FEDERAL CREDIT UNION,US,mastercard,credit
 539234,00-99,EMIGRANT BANK,AU,mastercard,credit
@@ -9026,18 +9026,18 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539247,00-99,REVOLUT LTD.,IE,mastercard,debit
 539248,00-99,EURONET 360 FINANCE LTD.,GR,mastercard,debit
 539249,00-99,33 FINANCIAL SERVICES LTD.,HK,mastercard,debit
-539250,00-99,RAPYD PAYMENTS LTD.,IE,mastercard,debit
+539250,00-19,RAPYD PAYMENTS LIMITED,GB,mastercard,prepaid
 539251,00-99,ACG INSTITUICAO DE PAGAMENTO S.A,BR,mastercard,debit
-539252,00-99,SWISS BANKERS PREPAID SERVICES AG,CH,mastercard,debit
+539252,00-91,SWISS BANKERS PREPAID SERVICES AG,CH,mastercard,prepaid
 539253,00-99,BUNQ B.V.,NL,mastercard,credit
 539254,00-99,EMIGRANT BANK,AU,mastercard,credit
 539255,00-99,CSCBANK SAL,IQ,mastercard,debit
 539256,00-99,BANK OF PALESTINE LTD.,PS,mastercard,credit
 539257,00-99,UNIVERSAL INVESTMENT BANK AD SKOPJE,MK,mastercard,debit
-539258,00-99,PAYSAFE FINANCIAL SERVICES LTD.,IE,mastercard,debit
+539258,00,PAYSAFE FINANCIAL SERVICES LIMITED,AT,mastercard,prepaid
 539259,00-99,IDT FINANCIAL SERVICES LTD.,IL,mastercard,debit
-539260,00-99,ICARD AD,BG,mastercard,debit
-539261,00-99,BANCO SABADELL S.A.,ES,mastercard,debit
+539260,00-74,ICARD AD,BG,mastercard,prepaid
+539261,00-99,BANCO SABADELL S.A.,ES,mastercard,prepaid
 539262,00-99,ALEJMAA ALARABI BANK,LY,mastercard,debit
 539263,00-99,ALLIED WALLET LTD.,IE,mastercard,debit
 539264,00-99,DOHA BANK Q.S.C,QA,mastercard,credit
@@ -9052,7 +9052,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539273,00-99,GUARANTY TRUST BANK PLC,KE,mastercard,debit
 539274,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,credit
 539275,00-99,PT BANK KB BUKOPIN TBK,ID,mastercard,credit
-539276,00-99,BANK OF COMMERCE,PH,mastercard,credit
+539276,00-89,BANK OF COMMERCE,PH,mastercard,credit
 539277,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 539278,00-99,ADDIKO BANK D.D. SARAJEVO,BA,mastercard,credit
 539279,00-99,OJSC DEMIRBANK,AZ,mastercard,credit
@@ -9078,90 +9078,90 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539299,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,credit
 539300,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,debit
 539301,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,debit
-539302,00-99,,US,mastercard,credit
+539302,00-99,UNKNOWN,US,mastercard,credit
 539303,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,debit
 539304,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,debit
 539305,00-99,BANCO COOPERATIVO DE PUERTO RICO,PR,mastercard,debit
-539306,00-99,,US,mastercard,credit
-539307,00-99,,US,mastercard,credit
-539308,00-99,,US,mastercard,credit
-539309,00-99,,US,mastercard,credit
-539310,00-99,,US,mastercard,credit
-539311,00-99,,US,mastercard,credit
-539312,00-99,,DE,mastercard,credit
-539313,00-99,,US,mastercard,credit
-539314,00-99,,US,mastercard,credit
-539315,00-99,,US,mastercard,credit
-539316,00-99,,US,mastercard,credit
-539317,00-99,,US,mastercard,credit
-539318,00-99,,BR,mastercard,credit
-539319,00-99,,BR,mastercard,credit
-539320,00-99,,US,mastercard,credit
-539321,00-99,,US,mastercard,credit
-539322,00-99,,US,mastercard,credit
-539323,00-99,,BR,mastercard,credit
-539324,00-99,,US,mastercard,credit
-539325,00-99,,US,mastercard,credit
-539326,00-99,,US,mastercard,credit
-539327,00-99,,US,mastercard,credit
-539328,00-99,,US,mastercard,credit
-539329,00-99,,US,mastercard,credit
-539330,00-99,,US,mastercard,credit
-539331,00-99,,US,mastercard,credit
-539332,00-99,,US,mastercard,credit
-539333,00-99,,US,mastercard,credit
-539334,00-99,,US,mastercard,credit
-539335,00-99,,US,mastercard,credit
-539336,00-99,,US,mastercard,credit
-539337,00-99,,US,mastercard,credit
-539338,00-99,,US,mastercard,credit
-539339,00-99,,US,mastercard,credit
-539340,00-99,,US,mastercard,credit
-539341,00-99,,US,mastercard,credit
-539342,00-99,,US,mastercard,credit
-539343,00-99,,US,mastercard,credit
-539344,00-99,,US,mastercard,credit
-539345,00-99,,US,mastercard,credit
-539346,00-99,,US,mastercard,credit
-539347,00-99,,US,mastercard,credit
-539348,00-99,,US,mastercard,credit
-539349,00-99,,US,mastercard,credit
-539350,00-99,,US,mastercard,credit
-539351,00-99,,US,mastercard,credit
-539352,00-99,,DE,mastercard,credit
-539353,00-99,,US,mastercard,credit
-539354,00-99,,BR,mastercard,credit
-539355,00-99,,US,mastercard,credit
-539356,00-99,,US,mastercard,credit
-539357,00-99,,US,mastercard,credit
-539358,00-99,,US,mastercard,credit
-539359,00-99,,US,mastercard,credit
+539306,00-99,UNKNOWN,US,mastercard,credit
+539307,00-99,UNKNOWN,US,mastercard,credit
+539308,00-99,UNKNOWN,US,mastercard,credit
+539309,00-99,UNKNOWN,US,mastercard,credit
+539310,00-99,UNKNOWN,US,mastercard,credit
+539311,00-99,UNKNOWN,US,mastercard,credit
+539312,00-99,UNKNOWN,DE,mastercard,credit
+539313,00-99,UNKNOWN,US,mastercard,credit
+539314,00-99,UNKNOWN,US,mastercard,credit
+539315,00-99,UNKNOWN,US,mastercard,credit
+539316,00-99,UNKNOWN,US,mastercard,credit
+539317,00-99,UNKNOWN,US,mastercard,credit
+539318,00-99,UNKNOWN,BR,mastercard,credit
+539319,00-99,UNKNOWN,BR,mastercard,credit
+539320,00-99,UNKNOWN,US,mastercard,credit
+539321,00-99,UNKNOWN,US,mastercard,credit
+539322,00-99,UNKNOWN,US,mastercard,credit
+539323,00-99,UNKNOWN,BR,mastercard,credit
+539324,00-99,UNKNOWN,US,mastercard,credit
+539325,00-99,UNKNOWN,US,mastercard,credit
+539326,00-99,UNKNOWN,US,mastercard,credit
+539327,00-99,UNKNOWN,US,mastercard,credit
+539328,00-99,UNKNOWN,US,mastercard,credit
+539329,00-99,UNKNOWN,US,mastercard,credit
+539330,00-99,UNKNOWN,US,mastercard,credit
+539331,00-99,UNKNOWN,US,mastercard,credit
+539332,00-99,UNKNOWN,US,mastercard,credit
+539333,00-99,UNKNOWN,US,mastercard,credit
+539334,00-99,UNKNOWN,US,mastercard,credit
+539335,00-99,UNKNOWN,US,mastercard,credit
+539336,00-99,UNKNOWN,US,mastercard,credit
+539337,00-99,UNKNOWN,US,mastercard,credit
+539338,00-99,UNKNOWN,US,mastercard,credit
+539339,00-99,UNKNOWN,US,mastercard,credit
+539340,00-99,UNKNOWN,US,mastercard,credit
+539341,00-99,UNKNOWN,US,mastercard,credit
+539342,00-99,UNKNOWN,US,mastercard,credit
+539343,00-99,UNKNOWN,US,mastercard,credit
+539344,00-99,UNKNOWN,US,mastercard,credit
+539345,00-99,UNKNOWN,US,mastercard,credit
+539346,00-99,UNKNOWN,US,mastercard,credit
+539347,00-99,UNKNOWN,US,mastercard,credit
+539348,00-99,UNKNOWN,US,mastercard,credit
+539349,00-99,UNKNOWN,US,mastercard,credit
+539350,00-99,UNKNOWN,US,mastercard,credit
+539351,00-99,UNKNOWN,US,mastercard,credit
+539352,00-99,UNKNOWN,DE,mastercard,credit
+539353,00-99,UNKNOWN,US,mastercard,credit
+539354,00-99,UNKNOWN,BR,mastercard,credit
+539355,00-99,UNKNOWN,US,mastercard,credit
+539356,00-99,UNKNOWN,US,mastercard,credit
+539357,00-99,UNKNOWN,US,mastercard,credit
+539358,00-99,UNKNOWN,US,mastercard,credit
+539359,00-99,UNKNOWN,US,mastercard,credit
 539360,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 539361,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
 539362,00-99,BANK OF AMERICA N.A.,US,mastercard,credit
-539363,00-99,,US,mastercard,credit
+539363,00-99,UNKNOWN,US,mastercard,credit
 539364,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,credit
 539365,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,credit
 539366,00-99,TRANSACT PAYMENTS LTD.,GB,mastercard,debit
 539367,00-99,BELANEA MEXICO SAPI DE CV,MX,mastercard,credit
 539368,00-99,NBS BANK PLC,MW,mastercard,debit
-539369,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
+539369,00,COMPUTER SERVICES INC.,US,mastercard,credit
 539370,00-99,GBANK,US,mastercard,credit
 539371,00-99,PT BANK DIGITAL BCA,ID,mastercard,debit
 539372,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 539373,00-99,SERVICIOS BROXEL S.A.P.I. DE C.V.,MX,mastercard,credit
-539374,00-99,PAPARA ELEKTRONIK PARA VE ODEME HIZMETLERI AS,TR,mastercard,debit
-539375,00-99,OZANPAY,TR,mastercard,debit
-539376,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539377,00-99,,US,mastercard,credit
+539374,00-99,PAPARA ELEKTRONIK PARA VE ODEME HIZMETLERI AS,TR,mastercard,prepaid
+539375,00-99,OZANPAY,TR,mastercard,prepaid
+539376,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
+539377,00-99,UNKNOWN,US,mastercard,credit
 539378,00-99,MVB BANK INC,US,mastercard,debit
 539379,00-99,TRUSTMARK BANK,US,mastercard,credit
 539380,00-99,CITIBANK EUROPE PUBLIC LIMITED COMPANY,IE,mastercard,credit
-539381,00-99,PAYSAFE FINANCIAL SERVICES LTD.,GG,mastercard,debit
+539381,00-04,PAYSAFE FINANCIAL SERVICES LIMITED,GG,mastercard,prepaid
 539382,00-99,BANK OF COMMUNICATIONS CO. LTD,CN,mastercard,debit
-539383,00-99,BANCO BTG PACTUAL SA,BR,mastercard,debit
+539383,00,BANCO BTG PACTUAL SA,BR,mastercard,debit
 539384,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539385,00-99,,US,mastercard,credit
+539385,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,LK,mastercard,prepaid
 539386,00-99,COMMERCIAL BANK OF QATAR Q.S.C,QA,mastercard,debit
 539387,00-99,TURK ELEKTRONIK PARA A S,TR,mastercard,credit
 539388,00-99,BANK OF COMMUNICATIONS CO. LTD,CN,mastercard,debit
@@ -9173,30 +9173,30 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539394,00-99,RIO BANK,US,mastercard,debit
 539395,00-99,MVB BANK INC,US,mastercard,debit
 539396,00-99,AION S.A.,DE,mastercard,debit
-539397,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
-539398,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+539397,00,COMPUTER SERVICES INC.,US,mastercard,credit
+539398,00-99,FISERV SOLUTIONS LLC,US,mastercard,prepaid
 539399,00-99,NATIONAL BANK OF EGYPT,EG,mastercard,credit
-539400,00-99,AS INDUSTRA BANK (INDUSTRA),LV,mastercard,debit
-539401,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+539400,00,AS INDUSTRA BANK (INDUSTRA),LV,mastercard,debit
+539401,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 539402,00-99,ALEXBANK,EG,mastercard,credit
 539403,00-99,PATRIOT BANK NATIONAL ASSOCIATION,US,mastercard,debit
 539404,00-99,COASTAL COMMUNITY BANK,US,mastercard,debit
 539405,00-99,JOINT-STOCK COMMERCIAL BANK TENGE BANK,UZ,mastercard,credit
-539406,00-99,PATRIOT BANK NATIONAL ASSOCIATION,US,mastercard,debit
-539407,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539408,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
-539409,00-99,OLD MISSOURI BANK,US,mastercard,debit
+539406,00-05,PATRIOT BANK NATIONAL ASSOCIATION,US,mastercard,credit
+539407,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
+539408,00-99,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
+539409,00,OMB BANK,US,mastercard,debit
 539410,00-99,QESH INSTITUICAO DE PAGAMENTO LTDA,BR,mastercard,debit
 539411,00-99,LOTUS'S MONEY SERVICES LTD.,TH,mastercard,credit
 539412,00-99,OTP BANK ROMANIA S.A.,RO,mastercard,debit
-539413,00-99,NOVUM BANK LTD.,DE,mastercard,credit
+539413,00,BANK DIMARE LIMITED,DE,mastercard,credit
 539414,00-99,UNITED BANK FOR AFRICA PLC,NG,mastercard,debit
-539415,00-99,,MX,mastercard,credit
-539416,00-99,BANCO POPULAR DOMINICANO C. POR A.,DO,mastercard,credit
+539415,00-99,UNKNOWN,MX,mastercard,credit
+539416,00,BANCO POPULAR DOMINICANO C. POR A.,DO,mastercard,credit
 539417,00-99,MVB BANK INC,US,mastercard,debit
-539418,00-99,PEOPLES OWN SAVINGS BANK,ZW,mastercard,debit
+539418,00-09,PEOPLES OWN SAVINGS BANK,ZW,mastercard,debit
 539419,00-99,AFRICAN BANKING CORPORATION ZAMBIA LTD.,ZM,mastercard,debit
-539420,00-99,SWISSQUOTE BANK EUROPE SA,LU,mastercard,debit
+539420,00,SWISSQUOTE BANK EUROPE SA,LU,mastercard,debit
 539421,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 539422,00-99,HO CHI MINH CITY DEVELOPMENT JOINT STOCK COMMERCIAL BANK,VN,mastercard,debit
 539423,00-99,MOSS GMBH,DE,mastercard,credit
@@ -9206,23 +9206,23 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539427,00-99,UNICREDIT BANK AG,DE,mastercard,debit
 539428,00-99,JOINT-STOCK COMMERCIAL BANK TENGE BANK,UZ,mastercard,credit
 539429,00-99,NATIONAL WESTMINSTER BANK PLC,GB,mastercard,credit
-539430,00-99,FIRST COMMONWEALTH BANK,US,mastercard,credit
-539431,00-99,,US,mastercard,credit
+539430,00,FIRST COMMONWEALTH BANK,US,mastercard,credit
+539431,00-99,UNKNOWN,US,mastercard,credit
 539432,00-99,FIBABANKA A.S.,TR,mastercard,debit
-539433,00-99,ALEXBANK,EG,mastercard,credit
+539433,00,ALEXBANK,EG,mastercard,credit
 539434,00-99,ARMENIAN CARD CJSC,AM,mastercard,debit
-539435,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539435,00-79,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539436,00-99,AL HILAL BANK PJSC,AE,mastercard,debit
-539437,00-99,,US,mastercard,credit
+539437,00-99,UNKNOWN,US,mastercard,credit
 539438,00-99,COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.,EG,mastercard,debit
 539439,00-99,CRDB BANK PLC,TZ,mastercard,credit
-539440,00-99,BANKERS' BANK OF THE WEST,US,mastercard,debit
-539441,00-99,BNP PARIBAS,ES,mastercard,debit
+539440,00-99,BANKERS' BANK OF THE WEST,US,mastercard,credit
+539441,00,BNP PARIBAS,ES,mastercard,debit
 539442,00-99,BNP PARIBAS FORTIS,BE,mastercard,debit
-539443,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
-539444,00-99,SANTANDER BANK NA,US,mastercard,credit
+539443,00-99,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
+539444,00,SANTANDER BANK NA,US,mastercard,credit
 539445,00-99,SANTANDER BANK NA,US,mastercard,credit
-539446,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
+539446,00-99,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
 539447,00-99,PAYNET SERVICES LLC,MD,mastercard,debit
 539448,00-99,TRUU INNOVATION SAPI DE CV,MX,mastercard,debit
 539449,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
@@ -9233,76 +9233,76 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539454,00-99,UBS SWITZERLAND AG,CH,mastercard,debit
 539455,00-99,UNICREDIT SPA,IT,mastercard,debit
 539456,00-99,PEARL HAWAII FEDERAL CREDIT UNION,US,mastercard,credit
-539457,00-99,SVENSKA HANDELSBANKEN AB,NO,mastercard,credit
+539457,00,SVENSKA HANDELSBANKEN AB,NO,mastercard,credit
 539458,00-99,FINOM PAYMENTS B.V.,NL,mastercard,credit
 539459,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
 539460,00-99,BANCORP BANK,US,mastercard,debit
-539461,00-99,JOINT STOCK COMPANY BANK 3 4,UA,mastercard,debit
+539461,00,JOINT STOCK COMPANY BANK 3 4,UA,mastercard,debit
 539462,00-99,AL HILAL BANK PJSC,AE,mastercard,debit
-539463,00-99,SHINHAN BANK VIETNAM LTD.,VN,mastercard,credit
+539463,00-99,SHINHAN BANK VIETNAM LIMITED,VN,mastercard,credit
 539464,00-99,BANCORP BANK,US,mastercard,debit
 539465,00-99,CITIBANK EUROPE PUBLIC LIMITED COMPANY,IE,mastercard,credit
 539466,00-99,SAMBA FINANCIAL GROUP,PK,mastercard,credit
 539467,00-99,CITIBANK EUROPE PUBLIC LIMITED COMPANY,IE,mastercard,credit
 539468,00-99,SWISSQUOTE BANK EUROPE SA,LU,mastercard,credit
-539469,00-99,FIRST COMMONWEALTH BANK,US,mastercard,credit
+539469,00,FIRST COMMONWEALTH BANK,US,mastercard,credit
 539470,00-99,TRUU INNOVATION SAPI DE CV,MX,mastercard,credit
 539471,00-99,UAB PAYWHO,LT,mastercard,debit
-539472,00-99,FLY WALLET PTY LTD.,AU,mastercard,debit
+539472,00,FLY WALLET PTY LTD,AU,mastercard,prepaid
 539473,00-99,EVOLVE BANK & TRUST,US,mastercard,debit
 539474,00-99,SUTTON BANK,US,mastercard,credit
-539475,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
+539475,00-99,DATA CENTER INCORPORATED,US,mastercard,credit
 539476,00-99,SAMBA FINANCIAL GROUP,PK,mastercard,credit
 539477,00-99,SHINHAN CARD CO. LTD.,KR,mastercard,debit
 539478,00-99,FIRST NATIONAL BANK,US,mastercard,debit
 539479,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
-539480,00-99,NATIONAL WESTMINSTER BANK PLC,GB,mastercard,credit
-539481,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
-539482,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
+539480,00-10,NATIONAL WESTMINSTER BANK PLC,GB,mastercard,credit
+539481,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,prepaid
+539482,00-99,COMPUTER SERVICES INC.,US,mastercard,prepaid
 539483,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539484,00-99,EVOLVE BANK & TRUST,US,mastercard,credit
 539485,00-99,EVOLVE BANK & TRUST,US,mastercard,debit
 539486,00-99,SAMBA FINANCIAL GROUP,PK,mastercard,credit
 539487,00-99,JACK HENRY & ASSOCIATES,US,mastercard,credit
-539488,00-99,BANCO EXTERIOR C.A.,VE,mastercard,debit
+539488,00-99,BANCO EXTERIOR C.A.,VE,mastercard,prepaid
 539489,00-99,CITIBANK N.A.,US,mastercard,debit
 539490,00-99,CITIBANK EUROPE PUBLIC LIMITED COMPANY,IE,mastercard,credit
 539491,00-99,BANQUE MISR,EG,mastercard,debit
 539492,00-99,WEBBANK,US,mastercard,credit
 539493,00-99,COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.,EG,mastercard,debit
-539494,00-99,AXIS BANK LTD.,IN,mastercard,credit
-539495,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
+539494,00-99,AXIS BANK LIMITED,IN,mastercard,credit
+539495,00-99,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
 539496,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,mastercard,credit
-539497,00-99,,US,mastercard,credit
-539498,00-99,CSCBANK SAL,DJ,mastercard,credit
-539499,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539500,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
+539497,00-99,UNKNOWN,US,mastercard,credit
+539498,00,CSCBANK SAL,DJ,mastercard,credit
+539499,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
+539500,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,prepaid
 539501,00-99,REVOLUT LTD.,GB,mastercard,credit
-539502,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
+539502,00-59,SUNRATE SOLUTIONS LIMITED,HK,mastercard,credit
 539503,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539504,00-99,NATIONAL WESTMINSTER BANK PLC,GB,mastercard,credit
-539505,00-99,CARD X CO LTD.,TH,mastercard,credit
-539506,00-99,BANCA NAZIONALE DEL LAVORO S.P.A. - BNL,IT,mastercard,debit
-539507,00-99,ADDIKO BANK D.D. SARAJEVO,BA,mastercard,debit
-539508,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
+539505,00,CARD X CO LTD,TH,mastercard,credit
+539506,00-99,BANCA NAZIONALE DEL LAVORO S.P.A. - BNL,IT,mastercard,prepaid
+539507,00-99,ADDIKO BANK D.D. SARAJEVO,BA,mastercard,prepaid
+539508,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,prepaid
 539509,00-99,CITIBANK N.A.,US,mastercard,debit
 539510,00-99,BANCORP BANK,US,mastercard,debit
 539511,00-99,SHINHAN CARD CO. LTD.,KR,mastercard,credit
 539512,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539513,00-99,DOCK FINANCIAL S.A.,DE,mastercard,debit
-539514,00-99,ADDIKO BANK D.D. SARAJEVO,BA,mastercard,debit
-539515,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539514,00-99,ADDIKO BANK D.D. SARAJEVO,BA,mastercard,prepaid
+539515,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 539516,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
 539517,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539518,00-99,BANKERS' BANK OF THE WEST,US,mastercard,debit
 539519,00-99,COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.,EG,mastercard,debit
 539520,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
-539521,00-99,,US,mastercard,credit
-539522,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,debit
+539521,00-99,UNKNOWN,US,mastercard,credit
+539522,00-99,POMELO FINTECH SERVICES SAS,AR,mastercard,prepaid
 539523,00-99,CITIBANK N.A.,US,mastercard,debit
-539524,00-99,,US,mastercard,credit
+539524,00-99,UNKNOWN,US,mastercard,credit
 539525,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
-539526,00-99,OPTAL FINANCIAL LTD.,GB,mastercard,credit
+539526,00-99,OPTAL FINANCIAL LIMITED,GB,mastercard,credit
 539527,00-99,CITIBANK EUROPE PUBLIC LIMITED COMPANY,IE,mastercard,credit
 539528,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
 539529,00-99,BANNER BANK,US,mastercard,credit
@@ -9316,15 +9316,15 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539537,00-99,CENTRAL TRUST BANK,US,mastercard,debit
 539538,00-99,CRDB BANK PLC,TZ,mastercard,credit
 539539,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,credit
-539540,00-99,BANK NIZWA SAOG,OM,mastercard,debit
+539540,00,BANK NIZWA SAOG,OM,mastercard,debit
 539541,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
 539542,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
 539543,00-99,NETBANK (A RURAL BANK) INC.,PH,mastercard,debit
 539544,00-99,CITIBANK N.A.,US,mastercard,debit
-539545,00-99,FIRST HEARTLAND JUSAN BANK JOINT STOCK COMPANY,KZ,mastercard,debit
+539545,00-99,ALATAU CITY BANK  JOINT STOCK COMPANY,KZ,mastercard,debit
 539546,00-99,INSTAPAY TECHNOLOGIES SDN BHD,MY,mastercard,debit
-539547,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-539548,00-99,,AE,mastercard,debit
+539547,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+539548,00-99,MASTERCARD - TECHNOLOGY - BUSINESS OPERATIONS,AE,mastercard,prepaid
 539549,00-99,CITIBANK N.A.,US,mastercard,debit
 539550,00-99,CITIBANK N.A.,US,mastercard,debit
 539551,00-99,CITIBANK N.A.,US,mastercard,debit
@@ -9332,9 +9332,9 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539553,00-99,BANCARD S.A.,PY,mastercard,credit
 539554,00-99,TRUU INNOVATION SAPI DE CV,MX,mastercard,debit
 539555,00-99,EMERCHANTPAY LTD.,SE,mastercard,debit
-539556,00-99,STRIDE BANK N.A.,US,mastercard,debit
-539557,00-99,SVENSKA HANDELSBANKEN AB,SE,mastercard,credit
-539558,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
+539556,00,STRIDE BANK N.A.,US,mastercard,prepaid
+539557,00,SVENSKA HANDELSBANKEN AB,SE,mastercard,credit
+539558,00-99,DATA CENTER INCORPORATED,US,mastercard,credit
 539559,00-99,CF TECH SA DE CV,MX,mastercard,credit
 539560,00-99,MPOWER (INTERNAL ONLY),AE,mastercard,debit
 539561,00-99,TRUU INNOVATION SAPI DE CV,MX,mastercard,debit
@@ -9347,32 +9347,32 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539568,00-99,SUTTON BANK,US,mastercard,credit
 539569,00-99,COMENITY CAPITAL BANK,US,mastercard,credit
 539570,00-99,PIONEER BANK,US,mastercard,debit
-539571,00-99,REVOLUT LTD.,GB,mastercard,credit
-539572,00-99,PREPAID SERVICES COMPANY LTD.,AT,mastercard,debit
+539571,00-19,REVOLUT LTD,GB,mastercard,credit
+539572,00,PREPAID SERVICES COMPANY LIMITED,AT,mastercard,debit
 539573,00-99,MPOWER (INTERNAL ONLY),AE,mastercard,debit
 539574,00-99,ZAMBIA NATIONAL COMMERCIAL BANK PLC,ZM,mastercard,debit
 539575,00-99,MPOWER (INTERNAL ONLY),SA,mastercard,debit
-539576,00-99,FIRST FEDERAL BANK & TRUST,US,mastercard,debit
+539576,00,FIRST FEDERAL BANK & TRUST,US,mastercard,prepaid
 539577,00-99,MPOWER (INTERNAL ONLY),GB,mastercard,debit
-539578,00-99,SUNRATE SOLUTIONS LTD.,HK,mastercard,credit
-539579,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,mastercard,credit
+539578,00-59,SUNRATE SOLUTIONS LIMITED,HK,mastercard,credit
+539579,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED,CN,mastercard,credit
 539580,00-99,NETBANK (A RURAL BANK) INC.,PH,mastercard,debit
-539581,00-99,MONAVATE LTD.,BE,mastercard,debit
+539581,00,MONAVATE LIMITED,LU,mastercard,prepaid
 539582,00-99,MPOWER (INTERNAL ONLY),GB,mastercard,debit
 539583,00-99,CITIBANK N.A.,US,mastercard,debit
 539584,00-99,MPOWER (INTERNAL ONLY),SA,mastercard,debit
 539585,00-99,MPOWER (INTERNAL ONLY),GB,mastercard,credit
-539586,00-99,UNITED BANK FOR AFRICA PLC,NG,mastercard,debit
+539586,00-99,UNITED BANK FOR AFRICA PLC,NG,mastercard,prepaid
 539587,00-99,PAYNOVATE SA,FR,mastercard,debit
 539588,00-99,JSC CAPITAL BANK KAZAKHSTAN,KZ,mastercard,debit
 539589,00-99,MOORWAND LTD.,GB,mastercard,debit
 539590,00-99,BANESCO BANCO UNIVERSAL C.A.,VE,mastercard,debit
-539591,00-99,33 FINANCIAL SERVICES LTD.,HK,mastercard,debit
+539591,00,33 FINANCIAL SERVICES LIMITED,HK,mastercard,prepaid
 539592,00-99,WOORICARD CO. LTD,KR,mastercard,debit
-539593,00-99,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
+539593,00-14,TRIPLINK INTERNATIONAL CO.LIMITED,HK,mastercard,credit
 539594,00-99,TAIWAN COOPERATIVE BANK,TW,mastercard,debit
 539595,00-99,BNP PARIBAS,FR,mastercard,credit
-539597,00-99,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK,VN,mastercard,credit
+539597,00-99,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL  BANK,VN,mastercard,credit
 539598,00-99,ATOM BANK PLC,GB,mastercard,credit
 539599,00-99,RIZAL COMMERCIAL BANKING CORPORATION,PH,mastercard,debit
 539600,00-99,DBS BANK (TAIWAN) LTD.,TW,mastercard,credit
@@ -9401,20 +9401,20 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539623,00-99,SUMITOMO MITSUI CARD COMPANY LTD.,JP,mastercard,credit
 539624,00-99,NOOR ISLAMIC BANK,AE,mastercard,debit
 539625,00-99,CENTRAL COOPERATIVE BANK PLC.,BG,mastercard,debit
-539626,00-99,ATTIJARIWAFA BANK EUROPE,FR,mastercard,debit
-539627,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
+539626,00,ATTIJARIWAFA BANK EUROPE,FR,mastercard,debit
+539627,00,CU COOPERATIVE SYSTEMS LLC,US,mastercard,credit
 539628,00-99,NOOR BANK PJSC,AE,mastercard,debit
-539629,00-99,FIRST FEDERAL BANK & TRUST,US,mastercard,debit
+539629,00,FIRST FEDERAL BANK & TRUST,US,mastercard,debit
 539630,00-99,ATTIJARIWAFA BANK EUROPE,ES,mastercard,debit
 539631,00-99,NEXI PAYMENTS S.P.A.,IT,mastercard,debit
 539632,00-99,HSBC - SAKS FIFTH AVENUE,US,mastercard,credit
-539633,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
-539634,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
+539633,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
+539634,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 539635,00-99,GREEN DOT BANK,US,mastercard,debit
-539636,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539636,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 539637,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
 539638,00-99,GREEN DOT BANK,US,mastercard,debit
-539639,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539639,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 539640,00-99,CITIBANK N.A.,US,mastercard,credit
 539641,00-99,CITIBANK N.A.,US,mastercard,credit
 539642,00-99,CITIBANK N.A.,US,mastercard,credit
@@ -9429,7 +9429,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539651,00-99,EMIGRANT BANK,AU,mastercard,credit
 539652,00-99,SUNRISE BANKS NATIONAL ASSOCIATION,US,mastercard,debit
 539653,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539654,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,debit
+539654,00-99,PATHWARD NATIONAL ASSOCIATION,US,mastercard,prepaid
 539655,00-99,CITIBANK N.A.,US,mastercard,credit
 539656,00-99,CITIBANK N.A.,US,mastercard,credit
 539657,00-99,DBS BANK (TAIWAN) LTD.,TW,mastercard,credit
@@ -9438,33 +9438,33 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539660,00-99,BANCO DEL TESORO C.A. BANCO UNIVERSAL,VE,mastercard,credit
 539661,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
 539662,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
-539663,00-99,BANK OF N.T. BUTTERFIELD & SON LTD.,BM,mastercard,credit
+539663,00-99,BANK OF N.T. BUTTERFIELD & SON LIMITED,BM,mastercard,credit
 539664,00-99,PAPARA ELEKTRONIK PARA VE ODEME HIZMETLERI AS,TR,mastercard,debit
 539665,00-99,BANCA NAZIONALE DEL LAVORO S.P.A. - BNL,IT,mastercard,credit
 539666,00-99,EMIGRANT BANK,AU,mastercard,credit
 539667,00-99,BFC BANCO FONDO COMUN C.A. BANCO UNIVERSAL,VE,mastercard,credit
 539668,00-99,EMIGRANT BANK,US,mastercard,credit
-539669,00-99,SANTANDER BANK POLSKA S.A.,PL,mastercard,credit
+539669,00-99,ERSTE BANK POLSKA S.A.,PL,mastercard,credit
 539670,00-99,NORDEA BANK AB (PUBL),FI,mastercard,credit
-539671,00-99,OPTAL FINANCIAL EUROPE LTD.,GB,mastercard,credit
+539671,00-09,OPTAL FINANCIAL EUROPE LTD,IE,mastercard,credit
 539672,00-99,BANCA AFIRME S.A.,MX,mastercard,credit
 539673,00-99,JOINT STOCK COMMERCIAL BANK AVANGARD,RU,mastercard,credit
 539674,00-99,FREEDOM BANK KAZAKHSTAN JSC,KZ,mastercard,credit
 539675,00-99,FIRST HAWAIIAN BANK,US,mastercard,credit
 539676,00-99,HSBC - SAKS FIFTH AVENUE,US,mastercard,debit
 539677,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
-539678,00-99,PEOPLES BANK,US,mastercard,debit
+539678,00-99,PEOPLES BANK,US,mastercard,prepaid
 539679,00-99,BANCORP BANK,US,mastercard,debit
 539680,00-99,CITIBANK N.A.,US,mastercard,credit
 539681,00-99,CITIBANK N.A.,US,mastercard,credit
 539682,00-99,CITIBANK N.A.,US,mastercard,credit
 539683,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539684,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539685,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,debit
+539684,00,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539685,00-99,REPUBLIC BANK & TRUST COMPANY,US,mastercard,prepaid
 539686,00-99,SHAZAM INC.,US,mastercard,debit
 539687,00-99,WOODFOREST NATIONAL BANK,US,mastercard,debit
 539688,00-99,HSBC - SAKS FIFTH AVENUE,GB,mastercard,credit
-539689,00-99,COASTAL COMMUNITY BANK,US,mastercard,debit
+539689,00,COASTAL COMMUNITY BANK,US,mastercard,debit
 539690,00-99,EMIGRANT BANK,AU,mastercard,credit
 539691,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539692,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
@@ -9475,97 +9475,97 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539697,00-99,ATTIJARIWAFA BANK EUROPE,IT,mastercard,debit
 539698,00-99,EQUITY BANK,US,mastercard,debit
 539699,00-99,VJA CO.LTD.,JP,mastercard,credit
-539700,00-99,HSBC BANK (SINGAPORE) LTD.,SG,mastercard,credit
+539700,00-99,HSBC BANK (SINGAPORE) LIMITED,SG,mastercard,credit
 539701,00-99,UNICREDIT SPA,IT,mastercard,credit
-539702,00-99,CB MOLDOVA-AGROINDBANK S.A.,MD,mastercard,credit
+539702,00-99,CB "MOLDOVA-AGROINDBANK" S.A.,MD,mastercard,credit
 539703,00-99,EMIGRANT BANK,AU,mastercard,credit
 539704,00-99,PUBLIC JOINT STOCK COMPANY PROMSVYAZBANK,RU,mastercard,credit
 539705,00-99,HDFC BANK LTD.,IN,mastercard,credit
-539706,00-99,BANCO DE LA PRODUCCION S.A. (PRODUBANCO),EC,mastercard,debit
+539706,00-99,BANCO DE LA PRODUCCION S.A. (PRODUBANCO),EC,mastercard,prepaid
 539707,00-99,THREAD BANK,US,mastercard,debit
 539708,00-99,JSCB VICTORIABANK,MD,mastercard,credit
 539709,00-99,CAIXABANK S.A.,ES,mastercard,credit
-539710,00-99,ICICI BANK LTD.,IN,mastercard,credit
-539711,00-99,AHLI UNITED BANK B.S.C.,BH,mastercard,debit
+539710,00-99,ICICI BANK LIMITED,IN,mastercard,credit
+539711,00-99,KUWAIT FINANCE HOUSE B.S.C.,BH,mastercard,debit
 539712,00-99,PJSC ROSBANK,RU,mastercard,debit
 539713,00-99,INVESTBANK JSC,BG,mastercard,credit
 539714,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,debit
 539715,00-99,SHAZAM INC.,US,mastercard,debit
 539716,00-99,SERVIRED SOCIEDAD ESPANOLA DE MEDIOS DE PAGO S.A.,ES,mastercard,credit
-539717,00-99,JSCB KAPITALBANK,UZ,mastercard,debit
+539717,00,JSCB KAPITALBANK,UZ,mastercard,debit
 539718,00-99,PJSC ROSBANK,RU,mastercard,credit
 539719,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,mastercard,credit
-539720,00-99,ALLIANZ BANK BULGARIA AD,BG,mastercard,credit
+539720,00-89,ALLIANZ BANK BULGARIA AD,BG,mastercard,credit
 539721,00-99,VIETNAM PUBLIC JOINT STOCK COMMERCIAL BANK,VN,mastercard,debit
 539722,00-99,ROYALBANK OPEN STOCK COMPANY,AZ,mastercard,credit
 539723,00-99,BANCO SANTANDER S.A.,ES,mastercard,credit
 539724,00-99,EMIGRANT BANK,AU,mastercard,credit
 539725,00-99,WIZINK BANK SA,ES,mastercard,credit
-539726,00-99,JOINT STOCK COMPANY COMMERCIAL BANK CITIBANK,RU,mastercard,credit
+539726,00-69,JOINT STOCK COMPANY COMMERCIAL BANK CITIBANK,RU,mastercard,credit
 539727,00-99,ORIENTAL BANK PLC,KH,mastercard,credit
 539728,00-99,EXPRESSBANK AD,BG,mastercard,credit
 539729,00-99,UNICREDIT BANK SA,RO,mastercard,credit
 539730,00-99,ORIENTAL BANK PLC,KH,mastercard,debit
 539731,00-99,EUROBANK S.A.,GR,mastercard,credit
-539732,00-99,GORENJSKA BANKA D.D.,SI,mastercard,credit
+539732,00,GORENJSKA BANKA D.D.,SI,mastercard,credit
 539733,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539734,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539735,00-99,CENTRAL TRUST BANK,US,mastercard,credit
-539736,00-99,ABA CARD SOLUTIONS INC.,US,mastercard,debit
+539735,00-99,CENTRAL TRUST BANK THE,US,mastercard,credit
+539736,00-99,ABA CARD SOLUTIONS INC.,US,mastercard,prepaid
 539737,00-99,GULF INTERNATIONAL BANK BSC,SA,mastercard,credit
 539738,00-99,STRIDE BANK N.A.,US,mastercard,debit
 539739,00-99,METROPOLITAN COMMERCIAL BANK,US,mastercard,debit
 539740,00-99,U.S. BANK N.A.,US,mastercard,debit
-539741,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+539741,00-99,FIRSTAR BANK,US,mastercard,debit
 539742,00-99,FISERV SOLUTIONS LLC,US,mastercard,credit
 539743,00-99,THE BANCORP BANK NATIONAL ASSOCIATION,US,mastercard,debit
-539744,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539745,00-99,SHAZAM INC.,US,mastercard,debit
+539744,00,BANCO PLATA S.A. INSTITUCION DE BANCA MULTIPLE,MX,mastercard,debit
+539745,00-02,SHAZAM INC.,US,mastercard,debit
 539746,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
 539747,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539748,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539748,00,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539749,00-99,QUONTIC BANK,US,mastercard,debit
-539750,00-99,COMPUTER SERVICES INC.,US,mastercard,debit
+539750,00,COMPUTER SERVICES INC.,US,mastercard,debit
 539751,00-99,EVOLVE BANK & TRUST,US,mastercard,debit
 539752,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539753,00-99,PSCU INCORPORATED,US,mastercard,debit
-539754,00-99,FIFTH THIRD BANK,US,mastercard,debit
+539753,00,PSCU INCORPORATED,US,mastercard,debit
+539754,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
 539755,00-99,CU COOPERATIVE SYSTEMS LLC,US,mastercard,debit
 539756,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
-539757,00-99,WESTPAC NEW ZEALAND LTD.,NZ,mastercard,debit
+539757,00-99,WESTPAC NEW ZEALAND LIMITED,NZ,mastercard,debit
 539758,00-99,AMERICAN FIRST CREDIT UNION,US,mastercard,debit
-539759,00-99,FIFTH THIRD BANK,US,mastercard,debit
+539759,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
 539760,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
 539761,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539762,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 539763,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539764,00-99,BANK POCZTOWY SPOLKA AKCYJNA,PL,mastercard,debit
-539765,00-99,BARCLAYS BANK DELAWARE,US,mastercard,debit
+539764,00,BANK POCZTOWY SPOLKA AKCYJNA,PL,mastercard,debit
+539765,00-03,BARCLAYS BANK DELAWARE,US,mastercard,credit
 539766,00-99,FIFTH THIRD BANK,US,mastercard,debit
 539767,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
 539768,00-99,INTESA SANPAOLO SPA,IT,mastercard,debit
-539769,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539770,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539769,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
+539770,00,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539771,00-99,PREX PARAGUAY EAS UNIPERSONAL,PY,mastercard,debit
-539772,00-99,BARCLAYS BANK DELAWARE,US,mastercard,credit
+539772,00-06,BARCLAYS BANK DELAWARE,US,mastercard,credit
 539773,00-99,CORNERSTONE BANK,US,mastercard,debit
 539774,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539775,00-99,I & M BANK LTD.,TZ,mastercard,debit
 539776,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539777,00-99,WOORICARD CO. LTD,KR,mastercard,debit
 539778,00-99,ICBA BANCARD INC.,US,mastercard,debit
-539779,00-99,FIFTH THIRD BANK,US,mastercard,debit
+539779,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
 539780,00-99,CAIXABANK S.A.,ES,mastercard,debit
 539781,00-99,PT. BANK DANAMON INDONESIA,ID,mastercard,debit
 539782,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
 539783,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539784,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,debit
 539785,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
-539786,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+539786,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
 539787,00-99,PAYRNET LTD.,GB,mastercard,debit
 539788,00-99,EMERGE GROUP LTD.,NZ,mastercard,debit
 539789,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
-539790,00-99,BANCO SOL S.A.,AO,mastercard,debit
+539790,00-99,BANCO SOL S.A.,AO,mastercard,prepaid
 539791,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539792,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539793,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
@@ -9579,8 +9579,8 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539801,00-99,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 539802,00-99,DATA CENTER INCORPORATED,US,mastercard,debit
 539803,00-99,KUVEYT TURK KATILIM BANKASI  A.S.,TR,mastercard,credit
-539804,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
-539805,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539804,00-99,SOUTHPOINT BANK,US,mastercard,debit
+539805,00,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539806,00-99,BANK SIMPANAN NASIONAL,MY,mastercard,debit
 539807,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539808,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
@@ -9590,28 +9590,28 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539812,00-99,SUNRISE BANKS NATIONAL ASSOCIATION,US,mastercard,debit
 539813,00-99,BEREKE BANK JOINT STOCK COMPANY,KZ,mastercard,credit
 539814,00-99,BANCO POPULAR S.A.,CO,mastercard,credit
-539815,00-99,BANCO SOL S.A.,AO,mastercard,debit
-539816,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539815,00-99,BANCO SOL S.A.,AO,mastercard,prepaid
+539816,00-99,JACK HENRY & ASSOCIATES,US,mastercard,prepaid
 539817,00-99,DIAMOND TRUST BANK KENYA LTD.,KE,mastercard,debit
 539818,00-99,ACCESS BANK PLC,NG,mastercard,credit
-539819,00-99,NATIONAL BANK OF KUWAIT (S.A.K.),KW,mastercard,debit
+539819,00-01,NATIONAL BANK OF KUWAIT (S.A.K.),KW,mastercard,prepaid
 539820,00-99,CITIBANK N.A.,US,mastercard,credit
 539821,00-99,CITIBANK N.A.,US,mastercard,credit
 539822,00-99,CITIBANK N.A.,US,mastercard,credit
 539823,00-99,LIBRA INTERNET BANK SA,RO,mastercard,debit
 539824,00-99,PACIFIC WESTERN BANK,US,mastercard,debit
 539825,00-99,BANCORP BANK,US,mastercard,debit
-539826,00-99,MIDDLE EAST PAYMENT SERVICES LIMITED CO.,JO,mastercard,debit
+539826,00-99,MIDDLE EAST PAYMENT SERVICES LIMITED CO.,JO,mastercard,prepaid
 539827,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
 539828,00-99,BANCO AV VILLAS S.A.,CO,mastercard,credit
 539829,00-99,SOCIETE ARABE INTERNATIONALE DE BANQUE,EG,mastercard,credit
 539830,00-99,HSBC BANK MIDDLE EAST,AE,mastercard,credit
 539831,00-99,ACCARDA LTD.,CH,mastercard,credit
-539832,00-99,INTESA SANPAOLO,IT,mastercard,credit
+539832,00-99,INTESA SANPAOLO SPA,IT,mastercard,credit
 539833,00-99,PROCREDIT BANK S.A.,RO,mastercard,credit
-539834,00-99,ENTROPAY LTD.,MT,mastercard,debit
+539834,00-09,ENTROPAY LIMITED,MT,mastercard,prepaid
 539835,00-99,MBANK S.A.,CZ,mastercard,credit
-539836,00-99,BNP PARIBAS,FR,mastercard,credit
+539836,00-69,BNP PARIBAS,FR,mastercard,credit
 539837,00-99,BANK BGZ BNP PARIBAS SPOLKA AKCYJNA,PL,mastercard,credit
 539838,00-99,BANK SAINT PETERSBURG PUBLIC JOINT-STOCK COMPANY,RU,mastercard,debit
 539839,00-99,BANCO SOL S.A.,AO,mastercard,debit
@@ -9624,7 +9624,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539846,00-99,CITIBANK N.A.,US,mastercard,credit
 539847,00-99,ORABANK TOGO,TG,mastercard,debit
 539848,00-99,BNP PARIBAS FORTIS,BE,mastercard,credit
-539849,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
+539849,00,JACK HENRY & ASSOCIATES,US,mastercard,debit
 539850,00-99,VTB BANK (PUBLIC JOINT-STOCK COMPANY),RU,mastercard,credit
 539851,00-99,NETS DENMARK A S,NO,mastercard,credit
 539852,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,credit
@@ -9636,21 +9636,21 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539858,00-99,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,credit
 539859,00-99,RIYAD BANK,SA,mastercard,credit
 539860,00-99,CITIBANK N.A.,US,mastercard,credit
-539861,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,mastercard,credit
+539861,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED,CN,mastercard,credit
 539862,00-99,BANCO AV VILLAS S.A.,CO,mastercard,credit
 539863,00-99,CU COOPERATIVE SYSTEMS,US,mastercard,credit
 539864,00-99,COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.,EG,mastercard,debit
 539865,00-99,REV MEXICO S.A DE CV,MX,mastercard,credit
 539866,00-99,UNITED TRUST BANK,US,mastercard,debit
-539867,00-99,HUA XIA BANK CO. LTD.,CN,mastercard,credit
-539868,00-99,HUA XIA BANK CO. LTD.,CN,mastercard,credit
+539867,00-99,HUA XIA BANK CO. LIMITED,CN,mastercard,credit
+539868,00-99,HUA XIA BANK CO. LIMITED,CN,mastercard,credit
 539869,00-99,CREDIT UNION PAYMENT CENTER (LIMITED LIABILITY COMPANY),RU,mastercard,debit
 539870,00-99,CITIBANK N.A.,US,mastercard,credit
 539871,00-99,CITIBANK N.A.,US,mastercard,credit
-539872,00-99,EMIRATES NATIONAL BANK OF DUBAI S.A.E,EG,mastercard,debit
-539873,00-99,FAYSAL BANK LTD.,PK,mastercard,debit
-539874,00-99,SBM BANK (INDIA) LTD.,IN,mastercard,credit
-539875,00-99,ACG INSTITUICAO DE PAGAMENTO S.A,BR,mastercard,debit
+539872,00-99,EMIRATES NATIONAL BANK OF DUBAI S.A.E,EG,mastercard,prepaid
+539873,00,FAYSAL BANK LIMITED,PK,mastercard,prepaid
+539874,00-99,SBM BANK (INDIA) LIMITED,IN,mastercard,credit
+539875,00-99,ACG INSTITUIÇÃO DE PAGAMENTO S.A,BR,mastercard,prepaid
 539876,00-99,DBS BANK (TAIWAN) LTD.,TW,mastercard,debit
 539877,00-99,JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK,RU,mastercard,debit
 539878,00-99,INTERNATIONAL SMART CARD LLC,IQ,mastercard,credit
@@ -9663,13 +9663,13 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 539885,00-99,NATIONAL BANK OF BAHRAIN,BH,mastercard,credit
 539886,00-99,INDUSTRIAL CREDIT UNION OF WHATCOM COUNTY,US,mastercard,credit
 539887,00-99,COMMERCIAL BANK OF KUWAIT S.A.K.,KW,mastercard,credit
-539888,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LTD.,CN,mastercard,credit
+539888,00-99,INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED,CN,mastercard,credit
 539889,00-99,JOINT-STOCK COMMERCIAL BANK RYSGAL,TM,mastercard,debit
 539890,00-99,FIRST ABU DHABI BANK PJSC,EG,mastercard,credit
-539891,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+539891,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,credit
 539892,00-99,ALABAMA ONE CREDIT UNION,US,mastercard,credit
 539893,00-99,OPEN JOINT-STOCK COMPANY XALQ BANK,AZ,mastercard,credit
-539894,00-99,JOINT STOCK COMPANY NURBANK,KZ,mastercard,credit
+539894,00-99,JOINT STOCK COMPANY "NURBANK",KZ,mastercard,credit
 539895,00-99,ARAB AFRICAN INTERNATIONAL BANK,EG,mastercard,credit
 539896,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,debit
 539897,00-99,UNLIMINT EU LTD.,CY,mastercard,debit
