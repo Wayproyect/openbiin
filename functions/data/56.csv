@@ -1,96 +1,96 @@
 BIN6,Ranges,Issuer,Country,Brand,Type
-560000,00-99,,IT,maestro,debit
-560001,00-99,,EC,maestro,debit
+560000,00-99,UNKNOWN,IT,maestro,debit
+560001,00-99,UNKNOWN,EC,maestro,debit
 560008,00-99,BANCO REAL,BR,private label,debit
-560010,00-99,,CN,maestro,debit
+560010,00-99,UNKNOWN,CN,maestro,debit
 560014,00-99,BANCO DE LA PROVINCIE DE BUENOS AIRES,AR,maestro,debit
-560015,00-99,,IT,maestro,debit
-560016,00-99,,BR,maestro,debit
-560017,00-99,COMDATA CARD,US,maestro,debit
-560025,00-99,,GB,maestro,debit
-560030,00-99,,US,ebt,debit
-560031,00-99,,US,cirrus,debit
-560034,00-99,,US,cirrus,debit
-560037,00-99,,US,cirrus,debit
-560039,00-99,,US,ebt,debit
-560042,00-99,,RU,maestro,debit
+560015,00-99,UNKNOWN,IT,maestro,debit
+560016,00-99,UNKNOWN,BR,maestro,debit
+560017,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+560025,00-99,UNKNOWN,GB,maestro,debit
+560030,00-99,UNKNOWN,US,ebt,debit
+560031,00-99,NORTHERN TRUST COMPANY THE,US,mastercard,debit
+560034,00-99,UNKNOWN,US,cirrus,debit
+560037,00-99,ROCKLAND TRUST COMPANY,US,mastercard,debit
+560039,00-99,REGIONS BANK,US,prop,debit
+560042,00-99,UNKNOWN,RU,maestro,debit
 560045,00-99,EUROCARD AB,SE,maestro,debit
-560047,00-99,,US,cirrus,debit
-560048,00-99,,US,ebt,debit
-560049,00-99,,US,ebt,debit
-560054,00-99,HSBC BANK,US,maestro,debit
-560056,00-99,,US,cirrus,debit
-560058,00-99,,US,ebt,debit
-560061,00-99,,US,ebt,debit
-560062,00-99,,US,ebt,debit
-560063,00-99,,US,ebt,debit
-560064,00-99,,US,ebt,debit
+560047,00-99,TRUSTMARK BANK,US,mastercard,debit
+560048,00-99,UNKNOWN,US,ebt,debit
+560049,00-99,UNKNOWN,US,ebt,debit
+560054,00-99,HSBC BANK USA NATIONAL ASSOCIATION,US,mastercard,debit
+560056,00-99,UNKNOWN,US,cirrus,debit
+560058,00-99,HANCOCK BANK,US,mastercard,debit
+560061,00-99,THE CITIZENS NATIONAL BANK OF MERIDIAN,US,prop,debit
+560062,00-99,PATM,US,prop,debit
+560063,00-99,WELLS FARGO BANK NATIONAL ASSOCIATION,US,prop,debit
+560064,00-99,UNKNOWN,US,ebt,debit
 560065,00-99,TARJETA AGROPECUARIA,CO,maestro,debit
-560066,00-99,,US,ebt,debit
-560067,00-99,,US,ebt,debit
-560068,00-99,,US,ebt,debit
-560069,00-99,,US,ebt,debit
-560070,00-99,,US,cirrus,debit
-560072,00-99,,US,ebt,debit
-560073,00-99,,US,ebt,debit
-560076,00-99,,RO,maestro,debit
-560080,00-99,,US,ebt,debit
-560082,00-99,,US,ebt,debit
-560083,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-560084,00-99,,US,ebt,debit
-560085,00-99,,US,ebt,debit
-560092,00-99,,US,ebt,debit
-560093,00-99,,US,cirrus,debit
-560098,00-99,,US,cirrus,debit
+560066,00-99,PNC BANK NATIONAL ASSOCIATION,US,prop,debit
+560067,00-99,PATM,US,prop,debit
+560068,00-99,PNC BANK NATIONAL ASSOCIATION,US,prop,debit
+560069,00-99,WELLS FARGO BANK NATIONAL ASSOCIATION,US,prop,debit
+560070,00-24,TRUSTMARK BANK,US,mastercard,debit
+560072,00-99,PATM,US,prop,debit
+560073,00-99,UNKNOWN,US,ebt,debit
+560076,00-99,PATM,US,prop,debit
+560080,00-99,FIRST NATIONAL BANK OF PENNSYLVANIA,US,prop,debit
+560082,00-99,PNC BANK NATIONAL ASSOCIATION,US,prop,debit
+560083,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+560084,00-99,UNKNOWN,US,ebt,debit
+560085,00-99,UNKNOWN,US,ebt,debit
+560092,00-99,UNKNOWN,US,ebt,debit
+560093,00-99,DEMOTTE STATE BANK,US,mastercard,debit
+560098,00-99,UNKNOWN,US,cirrus,debit
 560100,00-99,CAPITAL ONE,US,cirrus,debit
-560101,00-99,,FR,maestro,debit
-560108,00-99,,US,cirrus,debit
-560114,00-99,,ES,maestro,debit
-560115,00-99,,US,ebt,debit
-560125,00-99,,US,ebt,debit
-560126,00-99,,US,ebt,debit
-560127,00-99,,GB,maestro,debit
-560128,00-99,,US,ebt,debit
-560129,00-99,,US,ebt,debit
-560130,00-99,,IN,maestro,debit
-560131,00-99,,US,ebt,debit
-560132,00-99,,US,ebt,debit
-560133,00-99,,US,ebt,debit
-560134,00-99,,US,ebt,debit
-560136,00-99,,US,ebt,debit
-560137,00-99,,US,ebt,debit
-560138,00-99,,US,ebt,debit
-560143,00-99,,US,ebt,debit
-560144,00-99,CITIZENS BANK N.A.,US,maestro,debit
-560145,00-99,,US,ebt,debit
-560146,00-99,,FR,maestro,debit
-560147,00-99,,US,ebt,debit
-560149,00-99,,FR,maestro,debit
-560152,00-99,,TW,maestro,debit
-560154,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-560155,00-99,,US,ebt,debit
-560160,00-99,,US,cirrus,debit
-560162,00-99,,BR,maestro,debit
-560165,00-99,,US,cirrus,debit
-560166,00-99,,CA,maestro,debit
-560167,00-99,,US,ebt,debit
-560170,00-99,CITIZENS BANK N.A.,US,maestro,debit
-560172,00-99,,US,ebt,debit
-560174,00-99,,US,cirrus,debit
-560182,00-99,,IT,maestro,debit
-560188,00-99,,US,ebt,debit
+560101,00-99,WELLS FARGO BANK NATIONAL ASSOCIATION,US,private label,debit
+560108,00-20,FIRST NATIONAL BANK OF OMAHA,US,prop,debit
+560114,00-99,WELLS FARGO BANK NATIONAL ASSOCIATION,US,private label,debit
+560115,00-99,WELLS FARGO BANK NATIONAL ASSOCIATION,US,private label,debit
+560125,00-99,UNKNOWN,US,ebt,debit
+560126,00-99,UNKNOWN,US,ebt,debit
+560127,00-99,UNKNOWN,GB,maestro,debit
+560128,00-99,UNKNOWN,US,ebt,debit
+560129,00-99,UNKNOWN,US,ebt,debit
+560130,00-99,UNKNOWN,IN,maestro,debit
+560131,00-99,UNKNOWN,US,ebt,debit
+560132,00-99,UNKNOWN,US,ebt,debit
+560133,00-99,UNKNOWN,US,ebt,debit
+560134,00-99,UNKNOWN,US,ebt,debit
+560136,00-99,UNKNOWN,US,ebt,debit
+560137,00-99,UNKNOWN,US,ebt,debit
+560138,00-99,UNKNOWN,US,ebt,debit
+560143,00-99,UNKNOWN,US,ebt,debit
+560144,00-99,CITIZENS BANK N.A.,US,mastercard,credit
+560145,00-99,UNKNOWN,US,ebt,debit
+560146,00-99,UNKNOWN,FR,maestro,debit
+560147,00-99,UNKNOWN,US,ebt,debit
+560149,00-99,UNKNOWN,FR,maestro,debit
+560152,00-99,UNKNOWN,TW,maestro,debit
+560154,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+560155,00-99,TRUIST BANK,US,prop,debit
+560160,00-99,SHAZAM INC.,US,mastercard,debit
+560162,00-99,UNKNOWN,BR,maestro,debit
+560165,00-99,NORTHERN TRUST COMPANY THE,US,mastercard,debit
+560166,00-99,UNKNOWN,CA,maestro,debit
+560167,00-99,UNKNOWN,US,ebt,debit
+560170,00-99,CITIZENS BANK N.A.,US,mastercard,credit
+560172,00-99,THE ADIRONDACK TRUST COMPANY,US,prop,debit
+560174,00-99,UNKNOWN,US,cirrus,debit
+560182,00-99,UNKNOWN,IT,maestro,debit
+560188,00-99,UNKNOWN,US,ebt,debit
 560192,00-99,WESTPAC BANKING CORPORATION,AU,maestro,debit
-560194,00-99,,US,ebt,debit
-560200,00-99,,US,cirrus,debit
-560201,00-99,,EG,maestro,debit
-560214,00-99,,US,cirrus,debit
-560215,00-99,,US,cirrus,debit
-560216,00-99,,US,cirrus,debit
-560217,00-99,,US,cirrus,debit
-560218,00-99,,US,cirrus,debit
-560220,00-99,,AU,maestro,debit
+560194,00-99,UNKNOWN,US,ebt,debit
+560200,00-99,AMERICAN BANK AND TRUST CO.,US,mastercard,debit
+560201,00-99,UNKNOWN,EG,maestro,debit
+560214,00-99,TRUSTMARK BANK,US,mastercard,debit
+560215,00-99,TRUSTMARK BANK,US,mastercard,debit
+560216,00-99,TRUSTMARK BANK,US,mastercard,debit
+560217,00-99,TRUSTMARK BANK,US,mastercard,debit
+560218,00-99,TRUSTMARK BANK,US,mastercard,debit
+560220,00-99,UNKNOWN,AU,maestro,debit
 560221,00-99,ANZ BANK NEW ZEALAND LTD.,NZ,maestro,debit
-560222,00-99,,AU,maestro,debit
+560222,00-99,UNKNOWN,AU,maestro,debit
 560223,00-99,WESTPAC NEW ZEALAND LTD.,NZ,maestro,credit
 560224,00-99,WESTPAC NEW ZEALAND LTD.,NZ,maestro,credit
 560225,00-99,,US,ebt,debit
