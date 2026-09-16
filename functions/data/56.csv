@@ -2724,787 +2724,787 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 567650,00-09,BNY MELLON NATIONAL ASSOCIATION,US,mastercard,debit
 567651,00-99,BANK OF AMERICA NATIONAL ASSOCIATION,US,mastercard,debit
 567653,00-99,UNKNOWN,LT,maestro,debit
-567654,00-99,,US,ebt,debit
-567655,00-99,,US,ebt,debit
-567656,00-99,,KE,maestro,debit
-567661,00-99,,US,cirrus,debit
-567662,00-99,,US,ebt,debit
-567663,00-99,,US,cirrus,debit
-567664,00-99,,US,cirrus,debit
-567665,00-99,,US,ebt,debit
-567666,00-99,,US,ebt,debit
-567667,00-99,,US,cirrus,debit
-567668,00-99,,US,ebt,debit
-567669,00-99,,US,cirrus,debit
-567670,00-99,,US,cirrus,debit
-567672,00-99,,US,ebt,debit
-567675,00-99,,US,ebt,debit
-567676,00-99,,US,cirrus,debit
-567677,00-99,,US,ebt,debit
-567678,00-99,,US,cirrus,debit
-567682,00-99,,US,cirrus,debit
-567683,00-99,,US,cirrus,debit
-567684,00-99,,US,cirrus,debit
-567685,00-99,,US,cirrus,debit
-567686,00-99,,US,cirrus,debit
-567687,00-99,,US,cirrus,debit
-567688,00-99,,US,ebt,debit
-567689,00-99,,US,cirrus,debit
-567690,00-99,,US,ebt,debit
-567692,00-99,,US,ebt,debit
-567693,00-99,,US,cirrus,debit
-567694,00-99,,US,cirrus,debit
-567698,00-99,,US,cirrus,debit
-567699,00-99,,US,ebt,debit
-567700,00-99,,US,cirrus,debit
-567701,00-99,,US,ebt,debit
-567702,00-99,,US,cirrus,debit
-567703,00-99,,US,cirrus,debit
-567705,00-99,,US,ebt,debit
-567708,00-99,,US,ebt,debit
-567709,00-99,,US,ebt,debit
-567711,00-99,,US,ebt,debit
-567713,00-99,,US,ebt,debit
-567715,00-99,,US,ebt,debit
-567717,00-99,,US,ebt,debit
-567718,00-99,,US,ebt,debit
-567719,00-99,,US,ebt,debit
-567721,00-99,,US,ebt,debit
-567723,00-99,,US,ebt,debit
-567728,00-99,,US,cirrus,debit
-567730,00-99,,US,maestro,debit
-567731,00-99,,US,maestro,debit
-567732,00-99,,US,ebt,debit
-567733,00-99,,US,maestro,debit
-567734,00-99,,US,maestro,debit
-567735,00-99,,US,ebt,debit
-567737,00-99,,US,ebt,debit
-567739,00-99,,US,ebt,debit
-567740,00-99,,US,ebt,debit
-567741,00-99,,US,ebt,debit
-567744,00-99,,US,cirrus,debit
-567745,00-99,,US,ebt,debit
-567746,00-99,,US,cirrus,debit
-567747,00-99,,US,cirrus,debit
-567748,00-99,,US,cirrus,debit
-567749,00-99,,US,maestro,debit
-567750,00-99,,US,cirrus,debit
-567753,00-99,,US,ebt,debit
-567758,00-99,,US,ebt,debit
-567760,00-99,,US,cirrus,debit
-567761,00-99,,US,ebt,debit
-567762,00-99,,US,ebt,debit
-567763,00-99,,US,ebt,debit
-567764,00-99,,US,cirrus,debit
-567765,00-99,,US,ebt,debit
-567766,00-99,,US,ebt,debit
-567768,00-99,,US,cirrus,debit
-567771,00-99,,US,ebt,debit
-567772,00-99,,US,ebt,debit
-567773,00-99,,US,ebt,debit
-567776,00-99,,US,ebt,debit
+567654,00-99,UNKNOWN,US,ebt,debit
+567655,00-99,UNKNOWN,US,ebt,debit
+567656,00-99,UNKNOWN,KE,maestro,debit
+567661,00-99,UNITY BANK,US,mastercard,debit
+567662,00-99,UNKNOWN,US,ebt,debit
+567663,00-99,COMMUNITY TRUST BANK N.A.,US,mastercard,debit
+567664,00-99,FIRST STATE BANK OF BURNET,US,mastercard,debit
+567665,00-99,UNKNOWN,US,ebt,debit
+567666,00-99,UNKNOWN,US,ebt,debit
+567667,00-99,FIRST NATIONAL COMMUNITY BANK,US,mastercard,debit
+567668,00-99,BANKPLUS,US,prop,debit
+567669,00-99,RSNB BANK,US,mastercard,debit
+567670,00-99,UNKNOWN,US,cirrus,debit
+567672,00-99,BMO BANK NATIONAL ASSOCIATION,US,prop,debit
+567675,00-99,FIRST HORIZON BANK,US,prop,debit
+567676,00,TRUCOMMUNITY BANK,US,mastercard,debit
+567677,00-99,UNKNOWN,US,ebt,debit
+567678,00-99,FIRST STATE BANK,US,mastercard,debit
+567682,00,MC BANK & TRUST CO.,US,mastercard,debit
+567683,00-99,COFFEE COUNTY BANK,US,mastercard,debit
+567684,00-99,ROLETTE STATE BANK,US,mastercard,debit
+567685,00-99,UNKNOWN,US,cirrus,debit
+567686,00-99,CITIZENS STATE BANK,US,mastercard,debit
+567687,00-99,LANDMARK NATIONAL BANK,US,mastercard,debit
+567688,00-99,UNKNOWN,US,ebt,debit
+567689,00-99,CITIZENS' BANK & TRUST COMPANY,US,mastercard,debit
+567690,00-99,UNKNOWN,US,ebt,debit
+567692,00-99,UNKNOWN,US,ebt,debit
+567693,00-99,FORCHT BANK NA,US,mastercard,debit
+567694,00-99,ATLANTIC CAPITAL BANK N.A.,US,mastercard,debit
+567698,00-99,FIRST SECURITY STATE BANK,US,mastercard,debit
+567699,00-99,UNKNOWN,US,ebt,debit
+567700,00-99,UNKNOWN,US,cirrus,debit
+567701,00-99,UNKNOWN,US,ebt,debit
+567702,00,UNITED PRAIRIE BANK,US,mastercard,debit
+567703,00-99,CBC BANK,US,mastercard,debit
+567705,00-99,STRYV BANK,US,prop,debit
+567708,00-99,UNKNOWN,US,ebt,debit
+567709,00-99,CITIZENS BANK OF KANSAS,US,prop,debit
+567711,00-99,UNKNOWN,US,ebt,debit
+567713,00-99,BAY BANK,US,prop,debit
+567715,00-99,UNKNOWN,US,ebt,debit
+567717,00-99,UNKNOWN,US,ebt,debit
+567718,00-99,UNKNOWN,US,ebt,debit
+567719,00-99,UNKNOWN,US,ebt,debit
+567721,00-99,UNKNOWN,US,ebt,debit
+567723,00-99,UNKNOWN,US,ebt,debit
+567728,00-99,UNKNOWN,US,cirrus,debit
+567730,00-99,TD BANK NA,US,mastercard,debit
+567731,00-99,TD BANK NA,US,mastercard,debit
+567732,00-99,UNKNOWN,US,ebt,debit
+567733,00-99,TD BANK NA,US,mastercard,debit
+567734,00-99,TD BANK NA,US,mastercard,debit
+567735,00-99,UNKNOWN,US,ebt,debit
+567737,00-99,UNKNOWN,US,ebt,debit
+567739,00-99,UNKNOWN,US,ebt,debit
+567740,00-99,UNKNOWN,US,ebt,debit
+567741,00-99,UNKNOWN,US,ebt,debit
+567744,00-99,FIRST BANK OF DALTON,US,mastercard,debit
+567745,00-99,BAY PORT STATE BANK,US,prop,debit
+567746,00-99,CENTRAL VALLEY COMMUNITY BANK,US,mastercard,debit
+567747,00-99,UNKNOWN,US,cirrus,debit
+567748,00-99,UNITY BANK,US,mastercard,debit
+567749,00-99,UNKNOWN,US,maestro,debit
+567750,00-99,PEOPLES BANK THE,US,mastercard,debit
+567753,00-99,UNKNOWN,US,ebt,debit
+567758,00-99,UNKNOWN,US,ebt,debit
+567760,00-99,HNB NATIONAL BANK,US,mastercard,debit
+567761,00-99,UNKNOWN,US,ebt,debit
+567762,00-99,COMMERCE BANK TEXAS,US,prop,debit
+567763,00-99,UNKNOWN,US,ebt,debit
+567764,00-99,WESTERN BANK,US,mastercard,debit
+567765,00-99,HERITAGE BANK,US,prop,debit
+567766,00-99,PIKE NATIONAL BANK,US,prop,debit
+567768,00-99,BANK OF THE OZARKS NWA,US,mastercard,debit
+567771,00-99,UNKNOWN,US,ebt,debit
+567772,00-99,UNKNOWN,US,ebt,debit
+567773,00-99,ADAMS STATE BANK,US,mastercard,debit
+567776,00-99,THE UNION BANK,US,prop,debit
 567777,00-99,NETWORK ONLY,US,ebt,debit
-567778,00-99,,US,ebt,debit
-567780,00-99,,US,cirrus,debit
-567783,00-99,,US,cirrus,debit
-567785,00-99,,US,ebt,debit
-567786,00-99,,US,cirrus,debit
-567787,00-99,,US,cirrus,debit
-567788,00-99,,NG,maestro,debit
-567789,00-99,,US,cirrus,debit
-567790,00-99,,US,ebt,debit
-567792,00-99,,US,ebt,debit
-567793,00-99,,BR,maestro,debit
-567795,00-99,,US,ebt,debit
-567796,00-99,,US,ebt,debit
-567798,00-99,,US,ebt,debit
-567799,00-99,,US,cirrus,debit
-567800,00-99,,UA,maestro,debit
-567802,00-99,,US,ebt,debit
-567803,00-99,,US,ebt,debit
-567805,00-99,,US,cirrus,debit
-567808,00-99,,US,cirrus,debit
-567809,00-99,,RU,maestro,debit
-567811,00-99,,US,maestro,debit
-567812,00-99,,US,ebt,debit
-567813,00-99,,US,ebt,debit
-567814,00-99,,US,cirrus,debit
-567815,00-99,,US,cirrus,debit
-567816,00-99,,US,ebt,debit
-567817,00-99,,US,ebt,debit
-567818,00-99,,US,ebt,debit
-567819,00-99,,US,cirrus,debit
-567820,00-99,,US,ebt,debit
-567821,00-99,,DE,maestro,debit
-567822,00-99,,US,ebt,debit
-567823,00-99,,US,cirrus,debit
-567824,00-99,,US,ebt,debit
-567825,00-99,,US,ebt,debit
-567826,00-99,,US,ebt,debit
-567827,00-99,,US,cirrus,debit
-567829,00-99,,US,ebt,debit
-567830,00-99,,US,cirrus,debit
-567831,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-567832,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-567833,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-567834,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-567835,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-567836,00-99,,US,ebt,debit
-567837,00-99,,US,ebt,debit
-567839,00-99,,JO,maestro,debit
-567841,00-99,,US,ebt,debit
-567842,00-99,,US,ebt,debit
-567843,00-99,,US,ebt,debit
-567845,00-99,,US,cirrus,debit
-567846,00-99,,US,ebt,debit
-567848,00-99,,US,ebt,debit
-567849,00-99,,US,cirrus,debit
-567850,00-99,,RO,maestro,debit
-567851,00-99,,US,ebt,debit
-567852,00-99,,CO,maestro,debit
-567853,00-99,,US,cirrus,debit
+567778,00-99,UNKNOWN,US,ebt,debit
+567780,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
+567783,00-99,TEXAS HERITAGE NATIONAL BANK,US,mastercard,debit
+567785,00-99,UNKNOWN,US,ebt,debit
+567786,00-99,SOLUTIONS NORTH BANK,US,mastercard,debit
+567787,00-99,UNKNOWN,US,cirrus,debit
+567788,00-99,UNKNOWN,NG,maestro,debit
+567789,00-99,VERMILION BANK & TRUST COMPANY,US,mastercard,debit
+567790,00-99,UNKNOWN,US,ebt,debit
+567792,00-99,UNKNOWN,US,ebt,debit
+567793,00-99,UNKNOWN,BR,maestro,debit
+567795,00-99,PINNACLE BANK - WYOMING,US,prop,debit
+567796,00-99,UNKNOWN,US,ebt,debit
+567798,00-99,UNKNOWN,US,ebt,debit
+567799,00-99,FIRST BANK,US,mastercard,debit
+567800,00-99,UNKNOWN,UA,maestro,debit
+567802,00-99,UNKNOWN,US,ebt,debit
+567803,00-99,UNKNOWN,US,ebt,debit
+567805,00-99,UNKNOWN,US,cirrus,debit
+567808,00-99,CITIZENS ALLIANCE BANK,US,prop,debit
+567809,00-99,UNKNOWN,RU,maestro,debit
+567811,00-99,TEXAS NATIONAL BANK,US,mastercard,debit
+567812,00-99,BANK OF STEINAUER,US,mastercard,debit
+567813,00-99,UNKNOWN,US,ebt,debit
+567814,00-99,HAMLIN NATIONAL BANK,US,mastercard,debit
+567815,00-99,UNKNOWN,US,cirrus,debit
+567816,00-99,THE STATE EXCHANGE BANK,US,prop,debit
+567817,00-99,UNKNOWN,US,ebt,debit
+567818,00-99,UPPER PENINSULA STATE BANK,US,prop,debit
+567819,00-99,BURKE & HERBERT BANK & TRUST COMPANY,US,prop,debit
+567820,00-99,UNKNOWN,US,ebt,debit
+567821,00-99,UNKNOWN,DE,maestro,debit
+567822,00-99,UNKNOWN,US,ebt,debit
+567823,00-99,UNKNOWN,US,cirrus,debit
+567824,00-99,UNKNOWN,US,ebt,debit
+567825,00-99,UNKNOWN,US,ebt,debit
+567826,00-99,UNKNOWN,US,ebt,debit
+567827,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
+567829,00-99,UNKNOWN,US,ebt,debit
+567830,00-99,UNKNOWN,US,cirrus,debit
+567831,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+567832,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+567833,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+567834,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+567835,00-99,WELLS FARGO BANK N.A.,US,mastercard,debit
+567836,00-99,COMMUNITY FIRST BANK,US,mastercard,debit
+567837,00-99,UNKNOWN,US,ebt,debit
+567839,00-99,UNKNOWN,JO,maestro,debit
+567841,00-99,UNKNOWN,US,ebt,debit
+567842,00-99,UNKNOWN,US,ebt,debit
+567843,00-99,CITIZENS BANK AND TRUST,US,prop,debit
+567845,00-99,FIRST COMMERCE CREDIT UNION,US,mastercard,debit
+567846,00-99,HERITAGE BANK,US,prop,debit
+567848,00-99,UNKNOWN,US,ebt,debit
+567849,00-99,UNKNOWN,US,cirrus,debit
+567850,00-99,UNKNOWN,RO,maestro,debit
+567851,00-99,COMMERCIAL BANK & TRUST COMPANY,US,prop,debit
+567852,00-99,UNKNOWN,CO,maestro,debit
+567853,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
 567856,00-99,CAPSTONE FEDERAL CREDIT UNION,US,ebt,debit
-567858,00-99,,US,cirrus,debit
-567860,00-99,,US,ebt,debit
-567861,00-99,,US,cirrus,debit
-567862,00-99,,US,cirrus,debit
-567863,00-99,,US,ebt,debit
-567864,00-99,,US,cirrus,debit
-567865,00-99,,US,cirrus,debit
-567866,00-99,,US,ebt,debit
-567868,00-99,,US,ebt,debit
-567869,00-99,,US,ebt,debit
-567870,00-99,,US,ebt,debit
-567872,00-99,,US,ebt,debit
-567873,00-99,,US,cirrus,debit
-567874,00-99,,US,ebt,debit
-567876,00-99,,US,cirrus,debit
-567878,00-99,,US,ebt,debit
-567880,00-99,,US,maestro,debit
-567881,00-99,,US,ebt,debit
-567883,00-99,,US,ebt,debit
-567884,00-99,,US,cirrus,debit
-567885,00-99,,US,cirrus,debit
-567887,00-99,,US,ebt,debit
-567888,00-99,,US,ebt,debit
-567889,00-99,,MT,maestro,debit
-567890,00-99,,US,ebt,debit
-567891,00-99,,US,ebt,debit
-567893,00-99,,US,ebt,debit
-567895,00-99,,US,ebt,debit
-567896,00-99,,US,cirrus,debit
-567898,00-99,,GB,maestro,debit
-567899,00-99,,US,ebt,debit
-567901,00-99,,US,cirrus,debit
-567902,00-99,,US,ebt,debit
-567905,00-99,,US,cirrus,debit
-567906,00-99,,US,ebt,debit
-567908,00-99,,US,cirrus,debit
-567909,00-99,,US,ebt,debit
-567911,00-99,,US,cirrus,debit
-567913,00-99,,US,ebt,debit
-567914,00-99,,BR,maestro,debit
-567915,00-99,,US,cirrus,debit
-567916,00-99,,US,ebt,debit
-567920,00-99,,US,ebt,debit
-567921,00-99,,US,cirrus,debit
-567924,00-99,,US,cirrus,debit
-567925,00-99,,US,cirrus,debit
-567926,00-99,,US,ebt,debit
-567928,00-99,,US,maestro,debit
-567930,00-99,,US,ebt,debit
-567935,00-99,,ES,maestro,debit
-567936,00-99,,US,cirrus,debit
-567937,00-99,,US,ebt,debit
-567939,00-99,,US,cirrus,debit
-567940,00-99,,US,cirrus,debit
-567944,00-99,,US,ebt,debit
-567945,00-99,,US,ebt,debit
-567946,00-99,,US,ebt,debit
-567947,00-99,,US,ebt,debit
-567950,00-99,,FR,maestro,debit
-567951,00-99,,US,cirrus,debit
-567952,00-99,,FR,maestro,debit
-567954,00-99,,US,cirrus,debit
-567955,00-99,,US,ebt,debit
-567956,00-99,,MA,maestro,debit
-567957,00-99,,US,ebt,debit
-567958,00-99,,US,cirrus,debit
-567959,00-99,,US,ebt,debit
-567960,00-99,,US,ebt,debit
-567961,00-99,,US,ebt,debit
-567962,00-99,,US,ebt,debit
-567965,00-99,,US,ebt,debit
-567966,00-99,,US,cirrus,debit
-567967,00-99,,US,cirrus,debit
-567968,00-99,,US,cirrus,debit
-567969,00-99,,US,ebt,debit
-567970,00-99,,US,maestro,debit
-567971,00-99,,US,ebt,debit
-567976,00-99,,US,ebt,debit
-567978,00-99,,US,ebt,debit
-567979,00-99,,US,cirrus,debit
-567980,00-99,,US,cirrus,debit
-567981,00-99,,US,ebt,debit
-567983,00-99,,US,ebt,debit
-567985,00-99,,US,cirrus,debit
-567986,00-99,,US,cirrus,debit
-567987,00-99,,US,ebt,debit
-567988,00-99,,US,cirrus,debit
-567990,00-99,,US,cirrus,debit
-567991,00-99,,US,ebt,debit
-567992,00-99,,US,cirrus,debit
-567993,00-99,,US,ebt,debit
-567994,00-99,,US,ebt,debit
-567995,00-99,,US,ebt,debit
-567998,00-99,,US,cirrus,debit
-567999,00-99,,US,ebt,debit
-568000,00-99,,US,ebt,debit
-568001,00-99,,US,ebt,debit
-568002,00-99,,US,ebt,debit
-568003,00-99,,US,ebt,debit
-568004,00-99,,US,ebt,debit
-568006,00-99,,US,cirrus,debit
-568007,00-99,,US,cirrus,debit
+567858,00-99,CITIZENS STATE BANK OF CHENEY,US,mastercard,debit
+567860,00-99,UNKNOWN,US,ebt,debit
+567861,00-99,UNKNOWN,US,cirrus,debit
+567862,00-99,CASTROVILLE STATE BANK,US,mastercard,debit
+567863,00-99,UNKNOWN,US,ebt,debit
+567864,00-99,UNKNOWN,US,cirrus,debit
+567865,00-99,UNKNOWN,US,cirrus,debit
+567866,00-99,UNKNOWN,US,ebt,debit
+567868,00-99,FIRST NATIONAL BANK OF WYNNE,US,mastercard,debit
+567869,00-99,UNKNOWN,US,ebt,debit
+567870,00-99,UNKNOWN,US,ebt,debit
+567872,00-99,COMMUNITY STATE BANK,US,prop,debit
+567873,00-99,CCB COMMUNITY BANK,US,mastercard,debit
+567874,00-99,UNKNOWN,US,ebt,debit
+567876,00-99,SOUTH LAFOURCHE BANK & TRUST,US,mastercard,debit
+567878,00-99,UNKNOWN,US,ebt,debit
+567880,00-99,UNKNOWN,US,maestro,debit
+567881,00-99,UNKNOWN,US,ebt,debit
+567883,00-99,UNKNOWN,US,ebt,debit
+567884,00-99,GREAT NORTH BANK,US,mastercard,debit
+567885,00-99,WAYNE BANK AND TRUST CO.,US,prop,debit
+567887,00-99,UNKNOWN,US,ebt,debit
+567888,00-99,UNKNOWN,US,ebt,debit
+567889,00-99,UNKNOWN,MT,maestro,debit
+567890,00-99,UNKNOWN,US,ebt,debit
+567891,00-99,UNKNOWN,US,ebt,debit
+567893,00-99,UNKNOWN,US,ebt,debit
+567895,00-99,UNKNOWN,US,ebt,debit
+567896,00-99,UNKNOWN,US,cirrus,debit
+567898,00-99,UNKNOWN,GB,maestro,debit
+567899,00-99,UNKNOWN,US,ebt,debit
+567901,00-99,BANK OF ANN ARBOR,US,mastercard,debit
+567902,00-99,UNKNOWN,US,ebt,debit
+567905,00-99,UNKNOWN,US,cirrus,debit
+567906,00-99,UNKNOWN,US,ebt,debit
+567908,00-99,UNKNOWN,US,cirrus,debit
+567909,00-99,UNKNOWN,US,ebt,debit
+567911,00-99,UNKNOWN,US,cirrus,debit
+567913,00-99,UNKNOWN,US,ebt,debit
+567914,00-99,UNKNOWN,BR,maestro,debit
+567915,00-99,NEBRASKA BANK,US,mastercard,debit
+567916,00-99,UNKNOWN,US,ebt,debit
+567920,00-99,UNKNOWN,US,ebt,debit
+567921,00-99,UNKNOWN,US,cirrus,debit
+567924,00-99,WAUKON STATE BANK,US,mastercard,debit
+567925,00-99,UNKNOWN,US,cirrus,debit
+567926,00-99,UNKNOWN,US,ebt,debit
+567928,00-99,COMMUNITY BANKING COMPANY OF FITZGERALD,US,mastercard,debit
+567930,00-99,UNKNOWN,US,ebt,debit
+567935,00-99,UNKNOWN,ES,maestro,debit
+567936,00-99,UNKNOWN,US,cirrus,debit
+567937,00-99,UNKNOWN,US,ebt,debit
+567939,00-99,UNKNOWN,US,cirrus,debit
+567940,00-99,UNKNOWN,US,cirrus,debit
+567944,00-99,UNKNOWN,US,ebt,debit
+567945,00-99,UNKNOWN,US,ebt,debit
+567946,00-99,BANK OF WESTON,US,prop,debit
+567947,00-99,UNKNOWN,US,ebt,debit
+567950,00-99,UNKNOWN,FR,maestro,debit
+567951,00-99,UNKNOWN,US,cirrus,debit
+567952,00-99,UNKNOWN,FR,maestro,debit
+567954,00-99,BEACON BANK AND TRUST,US,mastercard,debit
+567955,00-99,UNKNOWN,US,ebt,debit
+567956,00-99,UNKNOWN,MA,maestro,debit
+567957,00-99,UNKNOWN,US,ebt,debit
+567958,00-99,ANTWERP EXCHANGE BANK COMPANY THE,US,mastercard,debit
+567959,00-99,UNKNOWN,US,ebt,debit
+567960,00-99,FIRST FINANCIAL BANK,US,prop,debit
+567961,00-99,FIRST NATIONAL BANK & TRUST COMPANY,US,prop,debit
+567962,00-99,UNKNOWN,US,ebt,debit
+567965,00-99,TRI CITY NATIONAL BANK,US,mastercard,debit
+567966,00-99,SUNDANCE STATE BANK,US,mastercard,debit
+567967,00-99,UNKNOWN,US,cirrus,debit
+567968,00-99,UNKNOWN,US,cirrus,debit
+567969,00-99,UNKNOWN,US,ebt,debit
+567970,00-99,SABINE STATE BANK & TRUST COMPANY,US,mastercard,debit
+567971,00-99,UNKNOWN,US,ebt,debit
+567976,00-99,COMMUNITY BANK OF MISSISSIPPI,US,prop,debit
+567978,00-99,UNKNOWN,US,ebt,debit
+567979,00-99,BANK OF MONTICELLO,US,mastercard,debit
+567980,00-99,UNKNOWN,US,cirrus,debit
+567981,00-99,UNKNOWN,US,ebt,debit
+567983,00-99,UNKNOWN,US,ebt,debit
+567985,00-99,COMMERCIAL BANK,US,mastercard,debit
+567986,00-99,UNKNOWN,US,cirrus,debit
+567987,00-99,UNKNOWN,US,ebt,debit
+567988,00-99,FOCUS BANK,US,mastercard,debit
+567990,00-99,UNKNOWN,US,cirrus,debit
+567991,00-99,UNKNOWN,US,ebt,debit
+567992,00-99,UNKNOWN,US,cirrus,debit
+567993,00-99,UNKNOWN,US,ebt,debit
+567994,00-99,UNKNOWN,US,ebt,debit
+567995,00-99,UNKNOWN,US,ebt,debit
+567998,00-99,BONDUEL STATE BANK,US,mastercard,debit
+567999,00-99,SYNOVUS BANK,US,prop,debit
+568000,00-99,UNKNOWN,US,ebt,debit
+568001,00-99,UNKNOWN,US,ebt,debit
+568002,00-99,UNKNOWN,US,ebt,debit
+568003,00-99,TRUIST BANK,US,prop,debit
+568004,00-99,UNKNOWN,US,ebt,debit
+568006,00-99,PULSE NETWORK LLC,US,mastercard,debit
+568007,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
 568009,00-99,U.S. BANK N.A.,US,ebt,debit
-568010,00-99,,US,ebt,debit
-568013,00-99,,US,ebt,debit
-568015,00-99,,US,ebt,debit
-568016,00-99,,US,ebt,debit
-568017,00-99,,US,ebt,debit
-568018,00-99,,US,ebt,debit
-568020,00-99,,US,cirrus,debit
-568021,00-99,,US,ebt,debit
-568022,00-99,,US,ebt,debit
-568024,00-99,,US,ebt,debit
-568026,00-99,,US,ebt,debit
-568029,00-99,,US,ebt,debit
+568010,00-99,UNKNOWN,US,ebt,debit
+568013,00-99,UNKNOWN,US,ebt,debit
+568015,00-99,STERLING BANK & TRUST FSB,US,mastercard,debit
+568016,00-99,UNKNOWN,US,ebt,debit
+568017,00-99,FARMERS AND MERCHANTS BANK,US,prop,debit
+568018,00-99,UNKNOWN,US,ebt,debit
+568020,00-99,HONOR BANK,US,mastercard,debit
+568021,00-99,THE PEOPLES COMMUNITY BANK,US,prop,debit
+568022,00-99,UNKNOWN,US,ebt,debit
+568024,00-99,UNKNOWN,US,ebt,debit
+568026,00-99,FIRST NATIONAL BANK & TRUST CO,US,mastercard,debit
+568029,00-99,UNKNOWN,US,ebt,debit
 568030,00-99,JPMORGAN CHASE BANK N.A.,US,ebt,debit
-568031,00-99,,US,cirrus,debit
-568032,00-99,,US,ebt,debit
-568034,00-99,,US,ebt,debit
-568036,00-99,,US,ebt,debit
-568039,00-99,,US,cirrus,debit
-568040,00-99,,US,ebt,debit
-568041,00-99,,US,cirrus,debit
-568042,00-99,,US,ebt,debit
-568044,00-99,,US,ebt,debit
-568045,00-99,,US,cirrus,debit
-568047,00-99,,US,ebt,debit
-568048,00-99,,US,ebt,debit
-568049,00-99,,US,ebt,debit
-568050,00-99,,IN,maestro,debit
-568053,00-99,,RU,maestro,debit
-568055,00-99,,US,cirrus,debit
-568057,00-99,,US,ebt,debit
-568060,00-99,,US,ebt,debit
-568061,00-99,,US,ebt,debit
-568063,00-99,,US,ebt,debit
-568064,00-99,,US,ebt,debit
-568066,00-99,,US,cirrus,debit
-568068,00-99,,US,cirrus,debit
-568069,00-99,,US,cirrus,debit
-568070,00-99,,US,cirrus,debit
-568073,00-99,,US,ebt,debit
-568075,00-99,,US,ebt,debit
-568077,00-99,,US,cirrus,debit
-568080,00-99,,US,ebt,debit
-568083,00-99,,US,cirrus,debit
-568086,00-99,,US,ebt,debit
-568087,00-99,,US,cirrus,debit
-568088,00-99,,US,ebt,debit
-568089,00-99,,US,ebt,debit
-568091,00-99,,US,cirrus,debit
-568092,00-99,,US,ebt,debit
-568093,00-99,,US,cirrus,debit
+568031,00-99,NEBRASKA STATE BANK,US,mastercard,debit
+568032,00-99,UNKNOWN,US,ebt,debit
+568034,00-99,UNKNOWN,US,ebt,debit
+568036,00-99,UNKNOWN,US,ebt,debit
+568039,00-99,PEOPLES BANK OF LOUISIANA,US,mastercard,debit
+568040,00-99,UNKNOWN,US,ebt,debit
+568041,00-99,UNKNOWN,US,cirrus,debit
+568042,00-99,UNKNOWN,US,ebt,debit
+568044,00-99,UNKNOWN,US,ebt,debit
+568045,00-99,UNKNOWN,US,cirrus,debit
+568047,00-99,UNKNOWN,US,ebt,debit
+568048,00-99,PEOPLES EXCHANGE BANK,US,prop,debit
+568049,00-99,THE SECURITY STATE BANK,US,prop,debit
+568050,00-99,UNKNOWN,IN,maestro,debit
+568053,00-99,UNKNOWN,RU,maestro,debit
+568055,00-99,PLANTERS BANK,US,mastercard,debit
+568057,00-99,UNKNOWN,US,ebt,debit
+568060,00-99,UNKNOWN,US,ebt,debit
+568061,00-99,UNKNOWN,US,ebt,debit
+568063,00-99,UNKNOWN,US,ebt,debit
+568064,00-99,UNKNOWN,US,ebt,debit
+568066,00-99,FIRST MONTANA BANK INC.,US,mastercard,debit
+568068,00-99,UNKNOWN,US,cirrus,debit
+568069,00-99,FARMERS STATE BANK & TRUST CO.,US,mastercard,debit
+568070,00-99,FARMERS STATE BANK,US,mastercard,debit
+568073,00-99,UNKNOWN,US,ebt,debit
+568075,00-99,UNKNOWN,US,ebt,debit
+568077,00-99,SECURITY STATE BANK OF BASIN,US,mastercard,debit
+568080,00-99,UNKNOWN,US,ebt,debit
+568083,00-99,UNKNOWN,US,cirrus,debit
+568086,00-99,FARMERS STATE BANK,US,prop,debit
+568087,00-99,PLAQUEMINE BANK & TRUST COMPANY,US,mastercard,debit
+568088,00-99,UNKNOWN,US,ebt,debit
+568089,00-99,UNKNOWN,US,ebt,debit
+568091,00-99,FORCHT BANK NA,US,mastercard,debit
+568092,00-99,UNKNOWN,US,ebt,debit
+568093,00-99,UNKNOWN,US,cirrus,debit
 568094,00-99,NETWORK ONLY,US,ebt,debit
-568096,00-99,,US,maestro,debit
-568097,00-99,,US,cirrus,debit
-568099,00-99,,US,ebt,debit
-568101,00-99,,US,cirrus,debit
-568103,00-99,,US,ebt,debit
-568104,00-99,,US,ebt,debit
-568106,00-99,,US,ebt,debit
-568107,00-99,,US,cirrus,debit
-568108,00-99,,US,ebt,debit
-568109,00-99,,US,ebt,debit
-568112,00-99,,US,ebt,debit
-568113,00-99,,US,ebt,debit
-568114,00-99,,US,cirrus,debit
+568096,00-99,CITY NATIONAL BANK OF COLORADO CITY THE,US,mastercard,debit
+568097,00-99,INDEPENDENCE BANK,US,mastercard,debit
+568099,00-99,UNKNOWN,US,ebt,debit
+568101,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
+568103,00-99,UNKNOWN,US,ebt,debit
+568104,00-99,PLATTE VALLEY BANK,US,prop,debit
+568106,00-99,UNKNOWN,US,ebt,debit
+568107,00-99,UNKNOWN,US,cirrus,debit
+568108,00-99,UNKNOWN,US,ebt,debit
+568109,00-99,UNKNOWN,US,ebt,debit
+568112,00-99,UNKNOWN,US,ebt,debit
+568113,00-99,UNKNOWN,US,ebt,debit
+568114,00-99,CITIZENS FARMERS BANK OF COLE CAMP,US,mastercard,debit
 568115,00-99,NETWORK ONLY,US,ebt,debit
-568116,00-99,,US,cirrus,debit
-568121,00-99,,US,ebt,debit
-568126,00-99,,US,ebt,debit
-568127,00-99,,US,ebt,debit
-568128,00-99,,US,maestro,debit
-568129,00-99,,US,ebt,debit
-568130,00-99,,US,ebt,debit
-568131,00-99,,US,cirrus,debit
-568132,00-99,,US,ebt,debit
-568134,00-99,,US,ebt,debit
-568135,00-99,,US,cirrus,debit
-568136,00-99,,US,ebt,debit
-568137,00-99,,US,ebt,debit
-568142,00-99,,US,cirrus,debit
-568144,00-99,,US,ebt,debit
-568145,00-99,,CO,maestro,debit
-568147,00-99,,US,ebt,debit
-568149,00-99,,MA,maestro,debit
-568152,00-99,,US,cirrus,debit
-568153,00-99,,US,cirrus,debit
-568154,00-99,,US,cirrus,debit
-568155,00-99,,US,ebt,debit
-568156,00-99,,US,ebt,debit
-568159,00-99,,US,ebt,debit
-568160,00-99,,US,ebt,debit
-568163,00-99,,US,ebt,debit
-568165,00-99,,US,ebt,debit
-568166,00-99,,US,ebt,debit
-568169,00-99,,US,ebt,debit
-568170,00-99,,US,ebt,debit
+568116,00-99,UNKNOWN,US,cirrus,debit
+568121,00-99,UNKNOWN,US,ebt,debit
+568126,00-99,UNKNOWN,US,ebt,debit
+568127,00-99,NEW TRIPOLI BANK,US,prop,debit
+568128,00-09,CAPITAL ONE NATIONAL ASSOCIATION,US,mastercard,debit
+568129,00-99,UNKNOWN,US,ebt,debit
+568130,00-99,UNKNOWN,US,ebt,debit
+568131,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
+568132,00-99,ZIONS BANCORPORATION NATIONAL ASSOCIATION,US,prop,debit
+568134,00-99,CENTERA BANK,US,prop,debit
+568135,00-99,UNKNOWN,US,cirrus,debit
+568136,00-99,BOKF NATIONAL ASSOCIATION,US,prop,debit
+568137,00-99,UNKNOWN,US,ebt,debit
+568142,00-99,SHERWOOD STATE BANK,US,mastercard,debit
+568144,00-99,BANKFIRST FINANCIAL SERVICES,US,prop,debit
+568145,00-99,UNKNOWN,CO,maestro,debit
+568147,00-99,UNKNOWN,US,ebt,debit
+568149,00-99,UNKNOWN,MA,maestro,debit
+568152,00-99,SHAZAM INC.,US,mastercard,debit
+568153,00-99,UNKNOWN,US,cirrus,debit
+568154,00-99,ICBA BANCARD INC.,US,mastercard,debit
+568155,00-99,UNKNOWN,US,ebt,debit
+568156,00-99,UNKNOWN,US,ebt,debit
+568159,00-99,CHAMBERS STATE BANK,US,prop,debit
+568160,00-99,CHAMBERS STATE BANK,US,prop,debit
+568163,00-99,UNKNOWN,US,ebt,debit
+568165,00-99,UNKNOWN,US,ebt,debit
+568166,00-99,UNKNOWN,US,ebt,debit
+568169,00-99,UNKNOWN,US,ebt,debit
+568170,00-99,UNKNOWN,US,ebt,debit
 568172,00-99,VIRGIN ISLANDS COMMUNITY BANK,VI,maestro,debit
-568173,00-99,,US,ebt,debit
-568175,00-99,,US,cirrus,debit
-568176,00-99,,US,cirrus,debit
-568177,00-99,,US,ebt,debit
-568178,00-99,,US,cirrus,debit
-568179,00-99,,US,cirrus,debit
-568184,00-99,,US,ebt,debit
-568185,00-99,,US,ebt,debit
-568186,00-99,,US,cirrus,debit
-568189,00-99,,US,cirrus,debit
-568190,00-99,,US,cirrus,debit
-568192,00-99,,US,cirrus,debit
-568193,00-99,,US,cirrus,debit
-568196,00-99,,US,ebt,debit
-568198,00-99,,US,cirrus,debit
-568200,00-99,,US,cirrus,debit
-568203,00-99,,US,cirrus,debit
-568205,00-99,,US,cirrus,debit
-568206,00-99,,US,ebt,debit
-568207,00-99,,US,ebt,debit
-568208,00-99,,US,ebt,debit
-568210,00-99,,US,ebt,debit
-568212,00-99,,US,cirrus,debit
-568213,00-99,,US,cirrus,debit
-568214,00-99,,US,cirrus,debit
-568216,00-99,,US,cirrus,debit
-568217,00-99,,US,maestro,debit
-568218,00-99,,US,ebt,debit
-568219,00-99,,US,ebt,debit
-568220,00-99,,US,ebt,debit
-568221,00-99,,US,cirrus,debit
-568223,00-99,,US,ebt,debit
-568224,00-99,,US,ebt,debit
-568225,00-99,,US,ebt,debit
-568226,00-99,,US,cirrus,debit
-568227,00-99,,US,ebt,debit
-568228,00-99,,BO,maestro,debit
-568229,00-99,,US,ebt,debit
-568230,00-99,,US,cirrus,debit
-568231,00-99,,US,cirrus,debit
-568232,00-99,,US,ebt,debit
-568233,00-99,,US,cirrus,debit
-568234,00-99,,US,ebt,debit
-568236,00-99,,US,ebt,debit
-568237,00-99,,US,ebt,debit
-568238,00-99,,US,ebt,debit
-568239,00-99,,US,ebt,debit
-568242,00-99,,US,cirrus,debit
-568243,00-99,,US,cirrus,debit
-568245,00-99,,US,ebt,debit
-568246,00-99,,US,ebt,debit
-568247,00-99,,US,ebt,debit
-568249,00-99,,US,cirrus,debit
-568250,00-99,,US,cirrus,debit
-568251,00-99,,US,cirrus,debit
-568252,00-99,,US,ebt,debit
-568253,00-99,,US,ebt,debit
-568254,00-99,,US,ebt,debit
-568255,00-99,,US,ebt,debit
-568256,00-99,,US,cirrus,debit
-568257,00-99,,US,cirrus,debit
-568258,00-99,,US,ebt,debit
-568259,00-99,,US,cirrus,debit
-568260,00-99,,US,ebt,debit
-568264,00-99,,US,ebt,debit
-568265,00-99,,US,ebt,debit
-568266,00-99,,US,ebt,debit
-568267,00-99,,US,cirrus,debit
-568268,00-99,,US,ebt,debit
-568269,00-99,,US,ebt,debit
-568273,00-99,,US,ebt,debit
-568274,00-99,,US,ebt,debit
-568276,00-99,,US,ebt,debit
-568277,00-99,,US,ebt,debit
-568278,00-99,,US,cirrus,debit
-568280,00-99,,US,ebt,debit
-568282,00-99,,US,ebt,debit
-568283,00-99,,US,cirrus,debit
-568284,00-99,,US,cirrus,debit
-568285,00-99,,US,cirrus,debit
-568286,00-99,,US,ebt,debit
-568287,00-99,,US,ebt,debit
-568290,00-99,,US,ebt,debit
-568291,00-99,,US,ebt,debit
-568292,00-99,,US,cirrus,debit
-568293,00-99,,US,cirrus,debit
-568294,00-99,WELLS FARGO BANK N.A.,US,ebt,debit
-568295,00-99,,US,ebt,debit
-568297,00-99,,US,ebt,debit
-568298,00-99,,US,ebt,debit
-568299,00-99,,US,cirrus,debit
-568302,00-99,,US,ebt,debit
-568303,00-99,,US,ebt,debit
-568304,00-99,,US,ebt,debit
-568306,00-99,,US,ebt,debit
-568309,00-99,,RU,maestro,debit
-568310,00-99,,US,cirrus,debit
-568312,00-99,,US,ebt,debit
-568313,00-99,,US,cirrus,debit
-568318,00-99,,US,cirrus,debit
-568320,00-99,,US,ebt,debit
-568322,00-99,,US,cirrus,debit
-568323,00-99,,US,cirrus,debit
-568325,00-99,,US,cirrus,debit
-568326,00-99,,US,ebt,debit
-568327,00-99,,MA,maestro,debit
-568331,00-99,,US,ebt,debit
-568333,00-99,,US,cirrus,debit
+568173,00-99,UNKNOWN,US,ebt,debit
+568175,00-99,UNKNOWN,US,cirrus,debit
+568176,00-99,CITIZENS STATE BANK,US,mastercard,debit
+568177,00-99,UNKNOWN,US,ebt,debit
+568178,00-99,FIRST HERITAGE BANK,US,mastercard,debit
+568179,00-99,UNKNOWN,US,cirrus,debit
+568184,00-99,BENEFICIAL STATE BANK,US,prop,debit
+568185,00-99,TOWN & COUNTRY BANK,US,prop,debit
+568186,00-99,FIRST NATIONAL BANK GIDDINGS,US,mastercard,debit
+568189,00-99,UNKNOWN,US,cirrus,debit
+568190,00,FOUR COUNTY BANK THE,US,mastercard,debit
+568192,00-99,FIRST NATIONAL BANK THE,US,mastercard,debit
+568193,00-99,MERCHANTS & CITIZENS BANK THE,US,mastercard,debit
+568196,00-99,UNKNOWN,US,ebt,debit
+568198,00-99,UNITY BANK,US,mastercard,debit
+568200,00-99,SOUTHERN HERITAGE BANK,US,mastercard,debit
+568203,00-99,UNKNOWN,US,cirrus,debit
+568205,00-99,AMERICAN BANK N.A.,US,mastercard,debit
+568206,00-99,UNKNOWN,US,ebt,debit
+568207,00-99,UNKNOWN,US,ebt,debit
+568208,00-99,UNKNOWN,US,ebt,debit
+568210,00-99,UNKNOWN,US,ebt,debit
+568212,00-99,UNKNOWN,US,cirrus,debit
+568213,00-99,MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER,US,mastercard,debit
+568214,00-99,UNKNOWN,US,cirrus,debit
+568216,00-99,SOUTHWIND BANK,US,mastercard,debit
+568217,00-99,CITIZENS STATE BANK,US,mastercard,debit
+568218,00-99,UNKNOWN,US,ebt,debit
+568219,00-99,ARVEST BANK,US,prop,debit
+568220,00-99,LIBERTY STATE BANK,US,prop,debit
+568221,00,SOUTHERN BANK,US,mastercard,debit
+568223,00-99,UNKNOWN,US,ebt,debit
+568224,00-99,THE TWIN VALLEY BANK,US,prop,debit
+568225,00-99,UNKNOWN,US,ebt,debit
+568226,00-99,UNKNOWN,US,cirrus,debit
+568227,00-99,UNKNOWN,US,ebt,debit
+568228,00-99,BANK OF DESOTO NATIONAL ASSOCIATION,US,prop,debit
+568229,00-99,UNKNOWN,US,ebt,debit
+568230,00-99,EASTBANK,US,mastercard,debit
+568231,00-99,UNKNOWN,US,cirrus,debit
+568232,00-99,UNKNOWN,US,ebt,debit
+568233,00-99,UNKNOWN,US,cirrus,debit
+568234,00-99,UNKNOWN,US,ebt,debit
+568236,00-99,UNKNOWN,US,ebt,debit
+568237,00-99,ZIONS BANCORPORATION NATIONAL ASSOCIATION,US,prop,debit
+568238,00-99,ZIONS BANCORPORATION NATIONAL ASSOCIATION,US,prop,debit
+568239,00-99,UNKNOWN,US,ebt,debit
+568242,00-99,THE CITIZENS BANK OF GEORGIA,US,mastercard,debit
+568243,00-99,UNKNOWN,US,cirrus,debit
+568245,00-99,METZ BANKING COMPANY,US,mastercard,debit
+568246,00-99,UNKNOWN,US,ebt,debit
+568247,00-99,UNKNOWN,US,ebt,debit
+568249,00-99,RIVERSTONE BANK,US,prop,debit
+568250,00-99,FIRST BANK OF PIKE,US,mastercard,debit
+568251,00-99,WALTON STATE BANK THE,US,mastercard,debit
+568252,00-99,BOKF NATIONAL ASSOCIATION,US,prop,debit
+568253,00-99,UNKNOWN,US,ebt,debit
+568254,00-99,UNKNOWN,US,ebt,debit
+568255,00-99,UNKNOWN,US,ebt,debit
+568256,00-99,UNKNOWN,US,cirrus,debit
+568257,00-99,UNKNOWN,US,cirrus,debit
+568258,00-99,CORNERSTONE BANK,US,prop,debit
+568259,00-99,BARRINGTON BANK & TRUST COMPANY N.A.,US,mastercard,debit
+568260,00-99,UNKNOWN,US,ebt,debit
+568264,00-99,UNKNOWN,US,ebt,debit
+568265,00-99,UNKNOWN,US,ebt,debit
+568266,00-99,RNB STATE BANK,US,prop,debit
+568267,00-99,FIRST NATIONAL BANK IN FREDONIA,US,mastercard,debit
+568268,00-99,UNKNOWN,US,ebt,debit
+568269,00-99,UNKNOWN,US,ebt,debit
+568273,00-99,UNKNOWN,US,ebt,debit
+568274,00-99,UNKNOWN,US,ebt,debit
+568276,00-99,UNKNOWN,US,ebt,debit
+568277,00-99,UNKNOWN,US,ebt,debit
+568278,00-99,FRANKLIN STATE BANK,US,mastercard,debit
+568280,00-99,UNKNOWN,US,ebt,debit
+568282,00-99,UNKNOWN,US,ebt,debit
+568283,00-99,UNKNOWN,US,cirrus,debit
+568284,00-99,HOLMES COUNTY BANK & TRUST COMPANY,US,mastercard,debit
+568285,00-99,FRIEND BANK,US,mastercard,debit
+568286,00-99,UNKNOWN,US,ebt,debit
+568287,00-99,UNKNOWN,US,ebt,debit
+568290,00-99,UNKNOWN,US,ebt,debit
+568291,00-99,UNKNOWN,US,ebt,debit
+568292,00-99,UNKNOWN,US,cirrus,debit
+568293,00-99,UNKNOWN,US,cirrus,debit
+568294,00-39,WELLS FARGO BANK NATIONAL ASSOCIATION,US,prop,debit
+568295,00-99,UNKNOWN,US,ebt,debit
+568297,00-99,UNKNOWN,US,ebt,debit
+568298,00-99,UNKNOWN,US,ebt,debit
+568299,00-99,UNKNOWN,US,cirrus,debit
+568302,00-99,FIRST INTERSTATE BANK,US,prop,debit
+568303,00-99,UNKNOWN,US,ebt,debit
+568304,00-99,UNKNOWN,US,ebt,debit
+568306,00-99,UNKNOWN,US,ebt,debit
+568309,00-99,UNKNOWN,RU,maestro,debit
+568310,00-99,UNKNOWN,US,cirrus,debit
+568312,00-99,UNKNOWN,US,ebt,debit
+568313,00-99,THE BANK,US,mastercard,debit
+568318,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+568320,00-99,UNKNOWN,US,ebt,debit
+568322,00-99,UNKNOWN,US,cirrus,debit
+568323,00-99,FIRST BANK OF BOAZ,US,mastercard,debit
+568325,00-99,UNKNOWN,US,cirrus,debit
+568326,00-99,UNKNOWN,US,ebt,debit
+568327,00-99,UNKNOWN,MA,maestro,debit
+568331,00-99,UNKNOWN,US,ebt,debit
+568333,00-99,STAR NETWORKS INC.,US,mastercard,debit
 568335,00-99,NETWORK ONLY,US,ebt,debit
-568336,00-99,,US,ebt,debit
-568337,00-99,,US,ebt,debit
-568338,00-99,,US,cirrus,debit
-568341,00-99,,US,ebt,debit
-568342,00-99,,US,ebt,debit
-568344,00-99,,US,cirrus,debit
-568346,00-99,,US,ebt,debit
-568348,00-99,,US,ebt,debit
-568349,00-99,,US,cirrus,debit
-568350,00-99,,US,ebt,debit
-568351,00-99,,US,ebt,debit
-568352,00-99,,US,ebt,debit
-568353,00-99,,US,ebt,debit
-568354,00-99,,US,ebt,debit
+568336,00-99,UNITED COMMUNITY BANK,US,prop,debit
+568337,00-99,UNKNOWN,US,ebt,debit
+568338,00-99,UNKNOWN,US,cirrus,debit
+568341,00-99,PEOPLES BANK OF GRACEVILLE,US,prop,debit
+568342,00-99,UNKNOWN,US,ebt,debit
+568344,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+568346,00-99,UNKNOWN,US,ebt,debit
+568348,00-99,BANC OF CALIFORNIA NATIONAL ASSOCIATION,US,prop,debit
+568349,00-99,UNKNOWN,US,cirrus,debit
+568350,00-99,UNKNOWN,US,ebt,debit
+568351,00-99,CHAPPELL HILL BANK,US,prop,debit
+568352,00-99,COASTAL COMMUNITY BANK,US,prop,debit
+568353,00-99,UNKNOWN,US,ebt,debit
+568354,00-99,UNKNOWN,US,ebt,debit
 568355,00-99,NETWORK ONLY,US,ebt,debit
-568356,00-99,,US,ebt,debit
-568357,00-99,,US,maestro,debit
-568358,00-99,,US,ebt,debit
-568359,00-99,,US,cirrus,debit
-568364,00-99,,US,ebt,debit
-568365,00-99,,US,cirrus,debit
-568366,00-99,,US,cirrus,debit
-568368,00-99,,US,cirrus,debit
-568369,00-99,,US,ebt,debit
-568370,00-99,,US,ebt,debit
-568371,00-99,,US,ebt,debit
-568372,00-99,,US,ebt,debit
-568373,00-99,,US,cirrus,debit
-568375,00-99,,US,ebt,debit
-568376,00-99,,US,ebt,debit
-568377,00-99,,US,cirrus,debit
-568378,00-99,,US,ebt,debit
-568379,00-99,,US,ebt,debit
-568380,00-99,,US,cirrus,debit
-568381,00-99,,US,cirrus,debit
-568382,00-99,,US,cirrus,debit
-568383,00-99,,US,cirrus,debit
-568384,00-99,,US,ebt,debit
-568385,00-99,,US,ebt,debit
-568386,00-99,,US,ebt,debit
-568387,00-99,,US,ebt,debit
-568389,00-99,,US,cirrus,debit
-568390,00-99,,US,cirrus,debit
-568392,00-99,,US,cirrus,debit
-568394,00-99,,US,ebt,debit
-568396,00-99,,US,cirrus,debit
-568400,00-99,,US,cirrus,debit
-568401,00-99,,US,cirrus,debit
-568402,00-99,,US,cirrus,debit
-568404,00-99,,US,ebt,debit
-568405,00-99,,US,ebt,debit
-568406,00-99,,US,ebt,debit
-568407,00-99,,US,ebt,debit
-568408,00-99,,US,ebt,debit
-568409,00-99,,US,cirrus,debit
-568410,00-99,,US,ebt,debit
-568412,00-99,,US,cirrus,debit
-568415,00-99,,US,ebt,debit
-568416,00-99,,US,ebt,debit
-568418,00-99,,US,ebt,debit
-568422,00-99,,US,ebt,debit
-568423,00-99,,US,ebt,debit
-568424,00-99,,US,ebt,debit
-568425,00-99,,US,maestro,debit
-568426,00-99,,US,ebt,debit
-568429,00-99,,US,ebt,debit
-568430,00-99,,US,cirrus,debit
-568431,00-99,,US,ebt,debit
-568432,00-99,,US,cirrus,debit
-568433,00-99,,US,ebt,debit
-568434,00-99,,US,ebt,debit
-568436,00-99,,US,cirrus,debit
-568438,00-99,,US,ebt,debit
-568439,00-99,,US,cirrus,debit
-568443,00-99,,US,ebt,debit
-568449,00-99,,US,ebt,debit
-568450,00-99,,US,cirrus,debit
-568451,00-99,,US,ebt,debit
-568452,00-99,,US,ebt,debit
-568453,00-99,,US,cirrus,debit
-568454,00-99,,US,ebt,debit
-568455,00-99,,US,ebt,debit
-568456,00-99,,US,ebt,debit
-568457,00-99,,US,ebt,debit
-568458,00-99,,US,cirrus,debit
-568459,00-99,,US,maestro,debit
+568356,00-99,SHAZAM INC.,US,mastercard,debit
+568357,00-99,UNKNOWN,US,maestro,debit
+568358,00-99,UNKNOWN,US,ebt,debit
+568359,00-99,UNKNOWN,US,cirrus,debit
+568364,00-99,UNKNOWN,US,ebt,debit
+568365,00-99,QUALITY BANK,US,mastercard,debit
+568366,00-99,GENESEE REGIONAL BANK,US,mastercard,debit
+568368,00-99,GRANVILLE NATIONAL BANK THE,US,mastercard,debit
+568369,00-99,UNKNOWN,US,ebt,debit
+568370,00-99,UNKNOWN,US,ebt,debit
+568371,00-99,PREMIER BANK NATIONAL ASSOCIATION,US,prop,debit
+568372,00-99,UNKNOWN,US,ebt,debit
+568373,00-99,FISERV SOLUTIONS LLC,US,mastercard,debit
+568375,00-99,UNKNOWN,US,ebt,debit
+568376,00-99,BANK OZK,US,prop,debit
+568377,00-99,LANDMARK BANK,US,mastercard,debit
+568378,00-99,UNKNOWN,US,ebt,debit
+568379,00-99,UNKNOWN,US,ebt,debit
+568380,00-99,UNKNOWN,US,cirrus,debit
+568381,00-99,UNKNOWN,US,cirrus,debit
+568382,00-99,FIRST NATIONAL BANK OF WILLIAMSON,US,mastercard,debit
+568383,00-99,KEARNEY TRUST COMPANY,US,mastercard,debit
+568384,00-99,AMERICAN BANK,US,prop,debit
+568385,00-99,CUSTOMERS BANK,US,prop,debit
+568386,00-99,UNKNOWN,US,ebt,debit
+568387,00-99,UNKNOWN,US,ebt,debit
+568389,00-99,UNKNOWN,US,cirrus,debit
+568390,00-99,FISERV TRANSACTION SERVICES LLC,US,mastercard,debit
+568392,00-99,UNKNOWN,US,cirrus,debit
+568394,00-99,CATHAY BANK,US,prop,debit
+568396,00-99,COMMUNITY TRUST BANK N.A.,US,mastercard,debit
+568400,00-99,UNKNOWN,US,cirrus,debit
+568401,00-99,UNKNOWN,US,cirrus,debit
+568402,00-99,AMERIS BANK,US,mastercard,debit
+568404,00-99,UNKNOWN,US,ebt,debit
+568405,00-99,UNKNOWN,US,ebt,debit
+568406,00-99,BANK OF LOUISIANA,US,private label,debit
+568407,00-99,FIRST STATE BANK NEBRASKA,US,prop,debit
+568408,00-99,UNKNOWN,US,ebt,debit
+568409,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+568410,00-99,UNKNOWN,US,ebt,debit
+568412,00-99,FIRST BANK UPPER MICHIGAN,US,mastercard,debit
+568415,00-99,UNKNOWN,US,ebt,debit
+568416,00-99,UNKNOWN,US,ebt,debit
+568418,00-99,UNKNOWN,US,ebt,debit
+568422,00-99,UNKNOWN,US,ebt,debit
+568423,00-99,UNKNOWN,US,ebt,debit
+568424,00-99,UNKNOWN,US,ebt,debit
+568425,00-99,UNKNOWN,US,maestro,debit
+568426,00-99,UNKNOWN,US,ebt,debit
+568429,00-99,UNKNOWN,US,ebt,debit
+568430,00-99,FIFTH THIRD BANK THE,US,mastercard,debit
+568431,00-99,UNKNOWN,US,ebt,debit
+568432,00-99,UNKNOWN,US,cirrus,debit
+568433,00-99,UNKNOWN,US,ebt,debit
+568434,00-99,FIRST HORIZON BANK,US,prop,debit
+568436,00-99,UNKNOWN,US,cirrus,debit
+568438,00,WELLS FARGO BANK NATIONAL ASSOCIATION,US,prop,debit
+568439,00-99,BELT VALLEY BANK,US,mastercard,debit
+568443,00-99,UNKNOWN,US,ebt,debit
+568449,00-99,UNKNOWN,US,ebt,debit
+568450,00-99,RIVER CITIES BANK,US,mastercard,debit
+568451,00-99,UNKNOWN,US,ebt,debit
+568452,00-99,UBANK,US,prop,debit
+568453,00-99,UNKNOWN,US,cirrus,debit
+568454,00-99,ATLANTIC UNION BANK,US,prop,debit
+568455,00-99,UNKNOWN,US,ebt,debit
+568456,00-99,UNKNOWN,US,ebt,debit
+568457,00-99,UNKNOWN,US,ebt,debit
+568458,00-99,PEOPLES BANK THE,US,mastercard,debit
+568459,00-99,UNKNOWN,US,maestro,debit
 568460,00-99,NETWORK ONLY,US,ebt,debit
-568461,00-99,,US,ebt,debit
-568462,00-99,,RU,maestro,debit
-568464,00-99,,US,cirrus,debit
-568465,00-99,,US,cirrus,debit
-568466,00-99,,US,cirrus,debit
-568467,00-99,,US,ebt,debit
-568468,00-99,,US,ebt,debit
-568469,00-99,,US,ebt,debit
-568470,00-99,,US,ebt,debit
-568471,00-99,,US,ebt,debit
-568472,00-99,,US,ebt,debit
-568473,00-99,,US,ebt,debit
-568475,00-99,,US,ebt,debit
-568477,00-99,,US,cirrus,debit
-568478,00-99,,US,ebt,debit
-568479,00-99,,IT,maestro,debit
-568480,00-99,,US,cirrus,debit
-568484,00-99,,US,ebt,debit
-568485,00-99,,US,ebt,debit
-568487,00-99,,US,ebt,debit
-568488,00-99,,US,ebt,debit
-568489,00-99,,US,cirrus,debit
+568461,00-99,UNKNOWN,US,ebt,debit
+568462,00-99,UNKNOWN,RU,maestro,debit
+568464,00-99,SOUTHWEST MISSOURI BANK,US,mastercard,debit
+568465,00-99,UNKNOWN,US,cirrus,debit
+568466,00-99,GLACIER BANK,US,prop,debit
+568467,00-99,UNKNOWN,US,ebt,debit
+568468,00-99,UNKNOWN,US,ebt,debit
+568469,00-99,FIRST SECURITY BANK,US,prop,debit
+568470,00-99,UNKNOWN,US,ebt,debit
+568471,00-99,UNKNOWN,US,ebt,debit
+568472,00-99,UNKNOWN,US,ebt,debit
+568473,00-99,UNKNOWN,US,ebt,debit
+568475,00-99,UNKNOWN,US,ebt,debit
+568477,00-99,CAPON VALLEY BANK THE,US,mastercard,debit
+568478,00-99,FIRST ARKANSAS BANK AND TRUST,US,prop,debit
+568479,00-99,UNKNOWN,IT,maestro,debit
+568480,00-99,UNKNOWN,US,cirrus,debit
+568484,00-99,UNKNOWN,US,ebt,debit
+568485,00-99,UNKNOWN,US,ebt,debit
+568487,00-99,FIRST COMMUNITY BANK,US,prop,debit
+568488,00-99,UNKNOWN,US,ebt,debit
+568489,00-99,UNKNOWN,US,cirrus,debit
 568491,00-99,NETWORK ONLY,US,ebt,debit
-568493,00-99,,US,cirrus,debit
-568494,00-99,,US,ebt,debit
-568495,00-99,,US,ebt,debit
-568496,00-99,,US,ebt,debit
-568498,00-99,FISERV SOLUTIONS LLC,US,maestro,debit
-568499,00-99,,GB,maestro,debit
-568501,00-99,,US,ebt,debit
-568503,00-99,,US,cirrus,debit
-568506,00-99,,US,cirrus,debit
-568507,00-99,,US,ebt,debit
-568508,00-99,,US,ebt,debit
-568509,00-99,,US,ebt,debit
-568510,00-99,,US,cirrus,debit
-568511,00-99,,US,cirrus,debit
-568512,00-99,,US,ebt,debit
-568513,00-99,,US,cirrus,debit
-568514,00-99,,US,cirrus,debit
-568516,00-99,,US,ebt,debit
-568517,00-99,,US,ebt,debit
-568519,00-99,,US,ebt,debit
-568521,00-99,,US,cirrus,debit
-568522,00-99,,US,ebt,debit
-568524,00-99,,US,ebt,debit
-568525,00-99,,US,ebt,debit
-568526,00-99,,US,ebt,debit
-568527,00-99,,US,cirrus,debit
-568529,00-99,,US,ebt,debit
-568530,00-99,,US,ebt,debit
-568531,00-99,,US,ebt,debit
-568532,00-99,,US,maestro,debit
-568533,00-99,,US,cirrus,debit
-568534,00-99,,US,cirrus,debit
-568535,00-99,,BR,maestro,debit
-568536,00-99,,US,ebt,debit
-568538,00-99,,US,ebt,debit
-568542,00-99,,US,cirrus,debit
-568543,00-99,,US,cirrus,debit
-568544,00-99,,UG,maestro,debit
-568545,00-99,,US,ebt,debit
-568546,00-99,,US,ebt,debit
-568547,00-99,,US,cirrus,debit
-568548,00-99,,US,cirrus,debit
-568549,00-99,,US,ebt,debit
-568550,00-99,,US,ebt,debit
-568551,00-99,,US,ebt,debit
-568552,00-99,,US,cirrus,debit
-568553,00-99,,US,cirrus,debit
-568555,00-99,,US,ebt,debit
-568556,00-99,,US,ebt,debit
-568557,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
-568558,00-99,,US,cirrus,debit
-568559,00-99,,US,ebt,debit
-568560,00-99,,US,cirrus,debit
-568561,00-99,,US,ebt,debit
-568562,00-99,,US,cirrus,debit
-568563,00-99,,US,ebt,debit
-568564,00-99,,US,ebt,debit
-568565,00-99,,US,cirrus,debit
-568566,00-99,,MA,maestro,debit
-568569,00-99,,US,ebt,debit
-568573,00-99,,US,cirrus,debit
-568574,00-99,,US,cirrus,debit
-568575,00-99,,US,ebt,debit
-568576,00-99,,US,cirrus,debit
-568577,00-99,,US,ebt,debit
-568580,00-99,,US,cirrus,debit
-568581,00-99,,US,ebt,debit
-568583,00-99,,US,ebt,debit
-568585,00-99,,US,ebt,debit
-568586,00-99,,US,cirrus,debit
-568587,00-99,,US,ebt,debit
-568588,00-99,,US,ebt,debit
-568590,00-99,,US,cirrus,debit
-568591,00-99,,US,cirrus,debit
-568592,00-99,,US,ebt,debit
-568594,00-99,,US,cirrus,debit
-568595,00-99,,US,ebt,debit
-568596,00-99,,US,cirrus,debit
-568597,00-99,,US,ebt,debit
-568598,00-99,,US,ebt,debit
-568599,00-99,,US,ebt,debit
-568600,00-99,,US,ebt,debit
-568603,00-99,,US,ebt,debit
-568604,00-99,,US,ebt,debit
-568605,00-99,,US,ebt,debit
-568606,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
-568607,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
-568608,00-99,U.S. BANK NATIONAL ASSOCIATION,US,ebt,debit
-568609,00-99,,US,ebt,debit
-568610,00-99,,US,cirrus,debit
-568611,00-99,,US,cirrus,debit
-568612,00-99,,US,cirrus,debit
-568613,00-99,,US,ebt,debit
-568614,00-99,,US,ebt,debit
-568615,00-99,,US,cirrus,debit
-568616,00-99,,US,cirrus,debit
-568617,00-99,,US,ebt,debit
-568620,00-99,,US,ebt,debit
-568621,00-99,,US,ebt,debit
-568622,00-99,,US,cirrus,debit
-568625,00-99,,US,cirrus,debit
-568626,00-99,,US,ebt,debit
-568627,00-99,,US,cirrus,debit
-568629,00-99,,US,cirrus,debit
-568631,00-99,,US,cirrus,debit
-568632,00-99,,US,ebt,debit
-568633,00-99,,US,ebt,debit
-568634,00-99,,US,ebt,debit
-568635,00-99,,BG,maestro,debit
-568636,00-99,,US,ebt,debit
-568637,00-99,,US,ebt,debit
-568640,00-99,,US,ebt,debit
-568641,00-99,,US,cirrus,debit
-568642,00-99,,US,cirrus,debit
-568643,00-99,,US,ebt,debit
-568660,00-99,,FR,maestro,debit
-568666,00-99,,FR,maestro,debit
-568670,00-99,,PA,maestro,debit
-568683,00-99,,PE,maestro,debit
-568689,00-99,,GB,maestro,debit
-568691,00-99,,US,ebt,debit
-568699,00-99,,US,ebt,debit
-568700,00-99,,HK,maestro,debit
-568712,00-99,,MA,maestro,debit
-568724,00-99,,US,ebt,debit
-568741,00-99,,MA,maestro,debit
-568742,00-99,,BR,maestro,debit
-568745,00-99,,BR,maestro,debit
-568755,00-99,,BR,maestro,debit
-568756,00-99,,IL,maestro,debit
-568785,00-99,,BR,maestro,debit
-568799,00-99,,UA,maestro,debit
-568813,00-99,,US,ebt,debit
-568830,00-99,,UZ,maestro,debit
-568856,00-99,,BD,maestro,debit
-568862,00-99,,DE,maestro,debit
-568882,00-99,,GB,maestro,debit
-568887,00-99,,EG,maestro,debit
-568893,00-99,,US,ebt,debit
-568900,00-99,,BR,maestro,debit
-568903,00-99,,KZ,maestro,debit
-568911,00-99,,US,ebt,debit
-568912,00-99,,NL,maestro,debit
-568914,00-99,,MA,maestro,debit
-568925,00-99,,DZ,maestro,debit
-568932,00-99,,MX,maestro,debit
-568941,00-99,,BR,maestro,debit
-568948,00-99,,MX,maestro,debit
-568952,00-99,,MA,maestro,debit
-568953,00-99,,US,ebt,debit
-568954,00-99,,MX,maestro,debit
-568956,00-99,,BG,maestro,debit
-568958,00-99,,GB,maestro,debit
-568965,00-99,,PA,maestro,debit
-568967,00-99,,VN,maestro,debit
-568971,00-99,,MA,maestro,debit
-568974,00-99,,IT,maestro,debit
-568987,00-99,,FR,maestro,debit
-568999,00-99,,RU,maestro,debit
-569000,00-99,,JP,maestro,debit
+568493,00-99,LEGENDS BANK,US,mastercard,debit
+568494,00-99,UNKNOWN,US,ebt,debit
+568495,00-99,UNKNOWN,US,ebt,debit
+568496,00-99,UNKNOWN,US,ebt,debit
+568498,00-99,NEIGHBORHOOD NATIONAL BANK,US,prop,debit
+568499,00-99,UNKNOWN,GB,maestro,debit
+568501,00-99,UNKNOWN,US,ebt,debit
+568503,00-99,UNKNOWN,US,cirrus,debit
+568506,00-99,UNKNOWN,US,cirrus,debit
+568507,00-99,UNKNOWN,US,ebt,debit
+568508,00-99,UNKNOWN,US,ebt,debit
+568509,00-99,CITY NATIONAL BANK,US,prop,debit
+568510,00-99,UNION BANK AND TRUST COMPANY,US,prop,debit
+568511,00-99,CITIZENS NATIONAL BANK OF SOMERSET,US,mastercard,debit
+568512,00-99,UNKNOWN,US,ebt,debit
+568513,00-99,FARMERS STATE BANK,US,mastercard,debit
+568514,00-99,THUMB BANK & TRUST,US,mastercard,debit
+568516,00-99,UNKNOWN,US,ebt,debit
+568517,00-99,UNKNOWN,US,ebt,debit
+568519,00-99,UNKNOWN,US,ebt,debit
+568521,00-99,FIRST COMMUNITY BANK,US,mastercard,debit
+568522,00-99,STEARNS BANK NATIONAL ASSOCIATION,US,prop,debit
+568524,00-99,UNKNOWN,US,ebt,debit
+568525,00-99,UNKNOWN,US,ebt,debit
+568526,00-99,UNKNOWN,US,ebt,debit
+568527,00-99,UNKNOWN,US,cirrus,debit
+568529,00-99,UNKNOWN,US,ebt,debit
+568530,00-99,UNKNOWN,US,ebt,debit
+568531,00-99,UNKNOWN,US,ebt,debit
+568532,00-99,UNKNOWN,US,maestro,debit
+568533,00-99,ICBA BANCARD INC.,US,mastercard,debit
+568534,00-99,HIGH PLAINS BANK,US,mastercard,debit
+568535,00-99,UNKNOWN,BR,maestro,debit
+568536,00-99,UNKNOWN,US,ebt,debit
+568538,00-99,UNKNOWN,US,ebt,debit
+568542,00-99,UNKNOWN,US,cirrus,debit
+568543,00-99,STATE BANK,US,mastercard,debit
+568544,00-99,UNKNOWN,UG,maestro,debit
+568545,00-99,UNKNOWN,US,ebt,debit
+568546,00-99,THE CITIZENS BANK OF EDMOND,US,prop,debit
+568547,00-99,BANK OF BILLINGS,US,mastercard,debit
+568548,00-99,UNKNOWN,US,cirrus,debit
+568549,00-99,SOUTHWESTERN NATIONAL BANK,US,prop,debit
+568550,00-99,UNKNOWN,US,ebt,debit
+568551,00-99,BNY MELLON NATIONAL ASSOCIATION,US,mastercard,debit
+568552,00-99,UNKNOWN,US,cirrus,debit
+568553,00-99,FORCHT BANK NA,US,mastercard,debit
+568555,00-99,ESB FINANCIAL,US,prop,debit
+568556,00-99,UNKNOWN,US,ebt,debit
+568557,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,debit
+568558,00-99,MILLENNIAL BANK,US,mastercard,debit
+568559,00-99,BANCO DO BRASIL AMERICAS,US,prop,debit
+568560,00-99,UNKNOWN,US,cirrus,debit
+568561,00-99,FIRSTBANK,US,prop,debit
+568562,00-99,UNKNOWN,US,cirrus,debit
+568563,00-99,ZIONS BANCORPORATION NATIONAL ASSOCIATION,US,prop,debit
+568564,00-99,UNKNOWN,US,ebt,debit
+568565,00-99,PEOPLES BANK OF ALTENBURG,US,mastercard,debit
+568566,00-99,UNKNOWN,MA,maestro,debit
+568569,00-99,UNKNOWN,US,ebt,debit
+568573,00-99,UNKNOWN,US,cirrus,debit
+568574,00-99,BANK OF HAYS,US,mastercard,debit
+568575,00-99,UNKNOWN,US,ebt,debit
+568576,00-99,UNKNOWN,US,cirrus,debit
+568577,00-99,UNKNOWN,US,ebt,debit
+568580,00-99,TEXAS CAPITAL BANK,US,mastercard,debit
+568581,00-99,UNKNOWN,US,ebt,debit
+568583,00-99,SUNWEST BANK,US,prop,debit
+568585,00-99,UNKNOWN,US,ebt,debit
+568586,00-99,BANK OF CLARKS,US,mastercard,debit
+568587,00-99,CORNERSTONE BANK,US,prop,debit
+568588,00-99,HILLTOP NATIONAL BANK,US,prop,debit
+568590,00-99,MOUNTAIN COMMERCE BANK,US,mastercard,debit
+568591,00-99,RUBY VALLEY BANK,US,mastercard,debit
+568592,00-99,UNKNOWN,US,ebt,debit
+568594,00-99,UNKNOWN,US,cirrus,debit
+568595,00-99,UNKNOWN,US,ebt,debit
+568596,00-99,MINERS & MERCHANTS BANK,US,mastercard,debit
+568597,00-99,UNKNOWN,US,ebt,debit
+568598,00-99,BANK OF HAZLEHURST,US,prop,debit
+568599,00-99,UNKNOWN,US,ebt,debit
+568600,00-99,UNION STATE BANK,US,prop,debit
+568603,00-99,UNKNOWN,US,ebt,debit
+568604,00-99,AMERIS BANK,US,prop,debit
+568605,00-99,UNKNOWN,US,ebt,debit
+568606,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,debit
+568607,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,debit
+568608,00-99,U.S. BANK NATIONAL ASSOCIATION,US,mastercard,debit
+568609,00-99,BOKF NATIONAL ASSOCIATION,US,prop,debit
+568610,00-99,UNKNOWN,US,cirrus,debit
+568611,00-99,F & M BANK,US,mastercard,debit
+568612,00-99,SOUTH CENTRAL BANK OF BARREN COUNTY INC.,US,mastercard,debit
+568613,00-99,UNKNOWN,US,ebt,debit
+568614,00-99,UNKNOWN,US,ebt,debit
+568615,00-99,CITIZENS BANK OF THE MIDWEST,US,mastercard,debit
+568616,00-99,CENTRAL TRUST BANK THE,US,mastercard,debit
+568617,00-99,UNKNOWN,US,ebt,debit
+568620,00-99,UNKNOWN,US,ebt,debit
+568621,00-99,MERCANTILE BANK,US,prop,debit
+568622,00,EQUITY BANK,US,mastercard,debit
+568625,00-99,FIDELITY INFORMATION SERVICES INC.,US,mastercard,debit
+568626,00-99,UNKNOWN,US,ebt,debit
+568627,00-99,UNKNOWN,US,cirrus,debit
+568629,00-99,MACATAWA BANK,US,mastercard,debit
+568631,00-99,UNKNOWN,US,cirrus,debit
+568632,00-99,UNKNOWN,US,ebt,debit
+568633,00-99,UNKNOWN,US,ebt,debit
+568634,00-99,UNKNOWN,US,ebt,debit
+568635,00-99,UNKNOWN,BG,maestro,debit
+568636,00-99,UNKNOWN,US,ebt,debit
+568637,00-99,UNKNOWN,US,ebt,debit
+568640,00-99,UNKNOWN,US,ebt,debit
+568641,00-99,AMERICAN FIRST NATIONAL BANK,US,mastercard,debit
+568642,00-99,UNKNOWN,US,cirrus,debit
+568643,00-99,UNKNOWN,US,ebt,debit
+568660,00-99,UNKNOWN,FR,maestro,debit
+568666,00-99,UNKNOWN,FR,maestro,debit
+568670,00-99,UNKNOWN,PA,maestro,debit
+568683,00-99,UNKNOWN,PE,maestro,debit
+568689,00-99,UNKNOWN,GB,maestro,debit
+568691,00-99,UNKNOWN,US,ebt,debit
+568699,00-99,UNKNOWN,US,ebt,debit
+568700,00-99,UNKNOWN,HK,maestro,debit
+568712,00-99,UNKNOWN,MA,maestro,debit
+568724,00-99,UNKNOWN,US,ebt,debit
+568741,00-99,UNKNOWN,MA,maestro,debit
+568742,00-99,UNKNOWN,BR,maestro,debit
+568745,00-99,UNKNOWN,BR,maestro,debit
+568755,00-99,UNKNOWN,BR,maestro,debit
+568756,00-99,UNKNOWN,IL,maestro,debit
+568785,00-99,UNKNOWN,BR,maestro,debit
+568799,00-99,UNKNOWN,UA,maestro,debit
+568813,00-99,UNKNOWN,US,ebt,debit
+568830,00-99,UNKNOWN,UZ,maestro,debit
+568856,00-99,UNKNOWN,BD,maestro,debit
+568862,00-99,UNKNOWN,DE,maestro,debit
+568882,00-99,UNKNOWN,GB,maestro,debit
+568887,00-99,UNKNOWN,EG,maestro,debit
+568893,00-99,UNKNOWN,US,ebt,debit
+568900,00-99,UNKNOWN,BR,maestro,debit
+568903,00-99,UNKNOWN,KZ,maestro,debit
+568911,00-99,UNKNOWN,US,ebt,debit
+568912,00-99,UNKNOWN,NL,maestro,debit
+568914,00-99,UNKNOWN,MA,maestro,debit
+568925,00-99,UNKNOWN,DZ,maestro,debit
+568932,00-99,UNKNOWN,MX,maestro,debit
+568941,00-99,UNKNOWN,BR,maestro,debit
+568948,00-99,UNKNOWN,MX,maestro,debit
+568952,00-99,UNKNOWN,MA,maestro,debit
+568953,00-99,UNKNOWN,US,ebt,debit
+568954,00-99,UNKNOWN,MX,maestro,debit
+568956,00-99,UNKNOWN,BG,maestro,debit
+568958,00-99,UNKNOWN,GB,maestro,debit
+568965,00-99,UNKNOWN,PA,maestro,debit
+568967,00-99,UNKNOWN,VN,maestro,debit
+568971,00-99,UNKNOWN,MA,maestro,debit
+568974,00-99,UNKNOWN,IT,maestro,debit
+568987,00-99,UNKNOWN,FR,maestro,debit
+568999,00-99,UNKNOWN,RU,maestro,debit
+569000,00-99,UNKNOWN,JP,maestro,debit
 569004,00-99,AKBANK T.A.S.,TR,local brand,debit
-569029,00-99,,BR,maestro,debit
+569029,00-99,UNKNOWN,BR,maestro,debit
 569030,00-99,LHV PANK,EE,maestro,debit
-569035,00-99,,IS,maestro,debit
-569070,00-99,,AT,maestro,debit
-569110,00-99,,IL,maestro,debit
-569207,00-99,,RO,maestro,debit
-569232,00-99,,FR,maestro,debit
-569254,00-99,,BG,maestro,debit
-569256,00-99,,MA,maestro,debit
-569265,00-99,,SG,maestro,debit
-569297,00-99,,BR,maestro,debit
-569312,00-99,,CO,maestro,debit
-569319,00-99,,BR,maestro,debit
-569321,00-99,,BR,maestro,debit
-569352,00-99,,GB,maestro,debit
-569356,00-99,,GB,maestro,debit
-569365,00-99,,GB,maestro,debit
-569390,00-99,,US,ebt,debit
-569400,00-99,,US,ebt,debit
-569469,00-99,,IT,maestro,debit
-569478,00-99,,DE,maestro,debit
-569480,00-99,,US,ebt,debit
-569510,00-99,,GB,maestro,debit
+569035,00-99,UNKNOWN,IS,maestro,debit
+569070,00-99,UNKNOWN,AT,maestro,debit
+569110,00-99,UNKNOWN,IL,maestro,debit
+569207,00-99,UNKNOWN,RO,maestro,debit
+569232,00-99,UNKNOWN,FR,maestro,debit
+569254,00-99,UNKNOWN,BG,maestro,debit
+569256,00-99,UNKNOWN,MA,maestro,debit
+569265,00-99,UNKNOWN,SG,maestro,debit
+569297,00-99,UNKNOWN,BR,maestro,debit
+569312,00-99,UNKNOWN,CO,maestro,debit
+569319,00-99,UNKNOWN,BR,maestro,debit
+569321,00-99,UNKNOWN,BR,maestro,debit
+569352,00-99,UNKNOWN,GB,maestro,debit
+569356,00-99,UNKNOWN,GB,maestro,debit
+569365,00-99,UNKNOWN,GB,maestro,debit
+569390,00-99,UNKNOWN,US,ebt,debit
+569400,00-99,UNKNOWN,US,ebt,debit
+569469,00-99,UNKNOWN,IT,maestro,debit
+569478,00-99,UNKNOWN,DE,maestro,debit
+569480,00-99,UNKNOWN,US,ebt,debit
+569510,00-99,UNKNOWN,GB,maestro,debit
 569562,00-99,TARJETA NARANJA,AR,tarjeta naranja,debit
-569599,00-99,,BR,maestro,debit
-569600,00-99,,US,ebt,debit
-569606,00-99,,CO,maestro,debit
-569612,00-99,,CO,maestro,debit
-569614,00-99,,BR,maestro,debit
-569616,00-99,,GB,maestro,debit
-569645,00-99,,US,ebt,debit
-569647,00-99,,CO,maestro,debit
-569655,00-99,,EG,maestro,debit
-569710,00-99,,BR,maestro,debit
-569725,00-99,,MA,maestro,debit
-569745,00-99,,ID,maestro,debit
-569815,00-99,,MT,maestro,debit
-569818,00-99,,CI,maestro,debit
-569823,00-99,,RS,maestro,debit
-569825,00-99,,MX,maestro,debit
-569826,00-99,,US,ebt,debit
-569830,00-99,,IT,maestro,debit
-569832,00-99,,BR,maestro,debit
-569845,00-99,,GB,maestro,debit
-569847,00-99,,DZ,maestro,debit
-569852,00-99,,BR,maestro,debit
-569854,00-99,,IT,maestro,debit
-569855,00-99,,PL,maestro,debit
-569856,00-99,,EG,maestro,debit
-569872,00-99,,PS,maestro,debit
-569874,00-99,,CL,maestro,debit
-569875,00-99,,US,ebt,debit
-569878,00-99,,BR,maestro,debit
-569885,00-99,,UA,maestro,debit
-569889,00-99,,GB,maestro,debit
-569898,00-99,,US,ebt,debit
-569899,00-99,,BR,maestro,debit
-569916,00-99,,BR,maestro,debit
-569920,00-99,,ES,maestro,debit
-569928,00-99,,US,ebt,debit
-569933,00-99,,US,ebt,debit
-569934,00-99,,CA,maestro,debit
-569938,00-99,,DE,maestro,debit
-569990,00-99,,BG,maestro,debit
-569994,00-99,,BR,maestro,debit
+569599,00-99,UNKNOWN,BR,maestro,debit
+569600,00-99,UNKNOWN,US,ebt,debit
+569606,00-99,UNKNOWN,CO,maestro,debit
+569612,00-99,UNKNOWN,CO,maestro,debit
+569614,00-99,UNKNOWN,BR,maestro,debit
+569616,00-99,UNKNOWN,GB,maestro,debit
+569645,00-99,UNKNOWN,US,ebt,debit
+569647,00-99,UNKNOWN,CO,maestro,debit
+569655,00-99,UNKNOWN,EG,maestro,debit
+569710,00-99,UNKNOWN,BR,maestro,debit
+569725,00-99,UNKNOWN,MA,maestro,debit
+569745,00-99,UNKNOWN,ID,maestro,debit
+569815,00-99,UNKNOWN,MT,maestro,debit
+569818,00-99,UNKNOWN,CI,maestro,debit
+569823,00-99,UNKNOWN,RS,maestro,debit
+569825,00-99,UNKNOWN,MX,maestro,debit
+569826,00-99,UNKNOWN,US,ebt,debit
+569830,00-99,UNKNOWN,IT,maestro,debit
+569832,00-99,UNKNOWN,BR,maestro,debit
+569845,00-99,UNKNOWN,GB,maestro,debit
+569847,00-99,UNKNOWN,DZ,maestro,debit
+569852,00-99,UNKNOWN,BR,maestro,debit
+569854,00-99,UNKNOWN,IT,maestro,debit
+569855,00-99,UNKNOWN,PL,maestro,debit
+569856,00-99,UNKNOWN,EG,maestro,debit
+569872,00-99,UNKNOWN,PS,maestro,debit
+569874,00-99,UNKNOWN,CL,maestro,debit
+569875,00-99,UNKNOWN,US,ebt,debit
+569878,00-99,UNKNOWN,BR,maestro,debit
+569885,00-99,UNKNOWN,UA,maestro,debit
+569889,00-99,UNKNOWN,GB,maestro,debit
+569898,00-99,UNKNOWN,US,ebt,debit
+569899,00-99,UNKNOWN,BR,maestro,debit
+569916,00-99,UNKNOWN,BR,maestro,debit
+569920,00-99,UNKNOWN,ES,maestro,debit
+569928,00-99,UNKNOWN,US,ebt,debit
+569933,00-99,UNKNOWN,US,ebt,debit
+569934,00-99,UNKNOWN,CA,maestro,debit
+569938,00-99,UNKNOWN,DE,maestro,debit
+569990,00-99,UNKNOWN,BG,maestro,debit
+569994,00-99,UNKNOWN,BR,maestro,debit
