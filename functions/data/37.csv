@@ -2296,7 +2296,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 372294,00-99,AEBC INDIA - GSTAR CONS REVOLVE,IN,american express,credit
 372295,00-99,AEBC INDIA - GSTAR CONS REVOLVE,IN,american express,credit
 372296,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
-372297,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
+372297,00-99,AMERICAN EXPRESS US CONSUMER,US,amex,credit
 372298,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 372299,00-99,AMERICAN EXPRESS US CONSUMER,US,american express,credit
 372300,00-99,AXP PCMC,US,american express,debit
@@ -4410,7 +4410,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 374408,00-99,AEME REVOLVE,BH,american express,credit
 374409,00-99,AEME REVOLVE,BH,american express,credit
 374410,00-99,AEME REVOLVE,BH,american express,credit
-374411,00-99,AEME REVOLVE,BH,american express,credit
+374411,00-99,AEME REVOLVE,BH,amex,credit
 374412,00-99,,IN,american express,credit
 374413,00-99,,IN,american express,credit
 374414,00-99,,IN,american express,credit
@@ -6647,7 +6647,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 376645,00-99,SANTANDER,CL,american express,credit
 376646,00-99,,MX,american express,credit
 376647,00-99,,MX,american express,credit
-376648,00-99,SANTANDER MEXICO,MX,american express,credit
+376648,00-99,SANTANDER MEXICO,MX,amex,credit
 376649,00-99,,MX,american express,credit
 376650,00-99,BANCO DE GUAYAQUIL,EC,amex,credit
 376651,00-99,BANCO DE GUAYAQUIL,EC,american express,credit
@@ -6700,7 +6700,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 376698,00-99,AMEX MEXICO GLOBESTAR CORPORATE,MX,american express,credit
 376699,00-99,AMEX MEXICO GLOBESTAR CORPORATE,MX,american express,credit
 376700,00-99,AEC MEXICO SA DE CV - GSTAR CONS CHARGE,MX,american express,credit
-376701,00-99,AEC MEXICO SA DE CV - GSTAR CONS CHARGE,MX,american express,credit
+376701,00-99,AEC MEXICO SA DE CV - GSTAR CONS CHARGE,MX,amex,credit
 376702,00-99,AEC MEXICO SA DE CV - GSTAR CONS CHARGE,MX,american express,credit
 376703,00-99,AEC MEXICO SA DE CV - GSTAR CONS CHARGE,MX,american express,credit
 376704,00-99,AMEX MEXICO GLOBESTAR CORPORATE,MX,american express,credit
@@ -7390,7 +7390,7 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 377388,00-99,AMEX UK GLOBESTAR,GB,american express,credit
 377389,00-99,AMEX UK GLOBESTAR,GB,american express,credit
 377390,00-99,AMEX UK GLOBESTAR,GB,american express,credit
-377391,00-99,AMEX UK GLOBESTAR,GB,american express,credit
+377391,00-99,AMEX UK GLOBESTAR,GB,amex,credit
 377392,00-99,AEESA FINLAND GSTAR CONS REVOLVE,FI,american express,credit
 377393,00-99,AMEX UK GLOBESTAR,GB,american express,credit
 377394,00-99,AMEX FRANCE GLOBESTAR CHARGE,FR,american express,credit
