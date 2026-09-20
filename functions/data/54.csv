@@ -231,6 +231,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 540228,80,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
 540228,00-99,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
 540228,80,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
+540228,00-99,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
+540228,80,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
+540228,00-99,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
+540228,80,BANCO LAFISE BANCENTRO S.A.,NI,mastercard,credit
 540229,00-99,PJSC ROSBANK,RU,mastercard,credit
 540230,00-99,SOCIETE MONETIQUE-TUNISIE,TN,mastercard,prepaid
 540231,00-99,MASTERCAJAS S.A.,ES,mastercard,credit
@@ -2369,6 +2373,454 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 542399,00-99,EURO KARTENSYSTEME GMBH,DE,mastercard,credit
 542400,00-99,BANCO DEL PACIFICO S.A.,EC,mastercard,credit
 542401,00-99,JOINT STOCK COMMERCIAL ALOQABANK,UZ,mastercard,debit
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
+542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
+542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
+542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
+542402,37-39,REVOLUT LTD,NL,mastercard,prepaid
+542402,49-51,REVOLUT LTD,IT,mastercard,prepaid
+542402,64-66,REVOLUT LTD,MT,mastercard,prepaid
+542402,91-93,REVOLUT LTD,ES,mastercard,prepaid
+542402,97-99,REVOLUT SWITZERLAND PAYMENTS AG,CH,mastercard,prepaid
 542402,00-02,REVOLUT LTD,AT,mastercard,prepaid
 542402,27-30,REVOLUT LTD,FR,mastercard,prepaid
 542402,31-33,REVOLUT LTD,DE,mastercard,prepaid
@@ -5010,6 +5462,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 545046,35,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,debit
 545046,00,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
 545046,35,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,debit
+545046,00,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
+545046,35,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,debit
+545046,00,BOKF NATIONAL ASSOCIATION,US,mastercard,debit
+545046,35,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,debit
 545047,00-99,CAIXABANK,ES,mastercard,credit
 545048,00-99,BANCO SABADELL S.A.,ES,mastercard,credit
 545049,00-99,UNIBANCA BANCO UNIVERSAL C.A.,VE,mastercard,credit
@@ -6948,6 +7404,14 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 547003,02-06|00-99|00-99|00-99|00-99|00-99,BNP PARIBAS FORTIS,BE,mastercard,credit
 547003,00,BNP PARIBAS FORTIS,BE,mastercard,credit
 547003,01|02-06|00-99|00-99|00-99|00-99|00-99,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,credit
+547003,00,BNP PARIBAS FORTIS,BE,mastercard,credit
+547003,01,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,credit
+547003,02-06|00-99|00-99|00-99|00-99|00-99,BNP PARIBAS FORTIS,BE,mastercard,credit
+547003,00,BNP PARIBAS FORTIS,BE,mastercard,credit
+547003,01,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,credit
+547003,02-06|00-99|00-99|00-99|00-99|00-99,BNP PARIBAS FORTIS,BE,mastercard,credit
+547003,00,BNP PARIBAS FORTIS,BE,mastercard,credit
+547003,01|02-06|00-99|00-99|00-99|00-99|00-99,LUMYNET S A DE CV PROCESSUSNET,HN,mastercard,credit
 547004,00-40,BANK OF SOUTHSIDE VIRGINIA THE,US,mastercard,credit
 547005,00-99,JACK HENRY & ASSOCIATES,US,mastercard,debit
 547006,00-99,TRUIST BANK,US,mastercard,credit
@@ -8049,6 +8513,10 @@ BIN6,Ranges,Issuer,Country,Brand,Type
 548106,00-99,PUBLIC JOINT-STOCK COMPANY BANK OTKRITIE FINANCIAL CORPORATION,RU,mastercard,credit
 548107,00-99,NATIONAL CITY BANK KENTUCKY,US,mastercard,credit
 548108,00-99,EDENRED MEXICO S.A DE C.V,MX,mastercard,debit
+548108,71,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
+548108,00-99,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
+548108,71,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
+548108,00-99,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
 548108,71,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
 548108,00-99,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
 548108,71,COLUMN NATIONAL ASSOCIATION,US,mastercard,credit
